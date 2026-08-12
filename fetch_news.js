@@ -1,13 +1,13 @@
 //    const apiUrl = "https://api.spaceflightnewsapi.net/v4/articles/?limit=10";
-// fetch_news.js - Free Spaceflight News API Ingestion Engine
+// fetch_news.js - Paginated Spaceflight News API Ingestion Engine
 const fs = require('fs');
 
-async function fetchSpaceNews() {
+async function fetchPaginatedSpaceNews() {
   try {
     console.log("🌐 Connecting to Spaceflight News API v4...");
     
-    // Querying the official v4 articles endpoint limited to the top 10 rows
-    const apiUrl = "https://api.spaceflightnewsapi.net/v4/articles/?limit=10";
+    // 💡 THE CHANGE: Fetch the top 50 articles all at once to prepare multiple pages
+    const apiUrl = "https://api.spaceflightnewsapi.net/v4/articles/?limit=100";
     
     const response = await fetch(apiUrl, {
       headers: { "User-Agent": "OrbitLogiOSApp/1.0.3 (GitHub-Action-Agent)" }
@@ -16,7 +16,6 @@ async function fetchSpaceNews() {
     if (!response.ok) throw new Error(`HTTP network error: ${response.status}`);
     const data = await response.json();
 
-    // Map the v4 payload properties cleanly into a lightweight data structure for your iPhone
     const streamlinedNews = data.results.map(article => ({
       id: article.id,
       title: article.title.trim(),
@@ -27,15 +26,33 @@ async function fetchSpaceNews() {
       url: article.url
     }));
 
-    // Write the clean array out as a flat, static JSON text asset file
-    fs.writeFileSync('news.json', JSON.stringify(streamlinedNews, null, 2));
-    console.log(`💾 Success! news.json written cleanly with ${streamlinedNews.length} articles.`);
+    // 💡 THE SPLITTING ENGINE: Group articles into blocks of 10 items per page file
+    const pageSize = 10;
+    const totalPages = Math.ceil(streamlinedNews.length / pageSize);
+
+    for (let page = 1; page <= totalPages; page++) {
+      const startIndex = (page - 1) * pageSize;
+      const endIndex = startIndex + pageSize;
+      const pageSlice = streamlinedNews.slice(startIndex, endIndex);
+
+      // This creates news_page1.json, news_page2.json, etc. inside your repo
+      const fileName = `news_page${page}.json`;
+      fs.writeFileSync(fileName, JSON.stringify(pageSlice, null, 2));
+      console.log(`💾 Saved ${fileName} cleanly with ${pageSlice.length} articles.`);
+    }
+
+    // Keep the main news.json file identical to page 1 so old app builds don't break
+    if (totalPages > 0) {
+      const mainSlice = streamlinedNews.slice(0, pageSize);
+      fs.writeFileSync('news.json', JSON.stringify(mainSlice, null, 2));
+    }
+
+    console.log("🚀 Complete! All news data segments successfully formatted.");
 
   } catch (error) {
-    console.error("❌ News collection task failed: " + error.message);
+    console.error("❌ News pagination task failed: " + error.message);
     process.exit(1);
   }
 }
 
-fetchSpaceNews();
-
+fetchPaginatedSpaceNews();

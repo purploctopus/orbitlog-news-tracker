@@ -26,7 +26,8 @@ jobs:
         run: |
           git config --global user.name "orbitlog-news-bot"
           git config --global user.email "news-bot@orbitlog.internal"
-          git add news.json
-          git commit -m "🤖 Scheduled 2-Hour Space News Update [Automated]" || exit 0
+          git add news.json news_page*.json
+          git commit -m "🤖 Scheduled 2-Hour Space News Multi-Page Update [Automated]" || exit 0
           git push origin main --force
+
 
