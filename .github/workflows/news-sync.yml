@@ -1,0 +1,32 @@
+name: 📰 OrbitLog Live News Synchronization Task
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Wakes up automatically every 2 hours to pull fresh news
+  workflow_dispatch: # Adds a button on GitHub to let you force an update manually anytime
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants GitHub servers permission to push files into your repo
+    steps:
+      - name: 📥 Check out repository files structure
+        uses: actions/checkout@v4
+
+      - name: 🟢 Initialize Node.js environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📰 Run Spaceflight News Scraper Script
+        run: node fetch_news.js
+
+      - name: 🚀 Push Fresh news.json File straight to Git CDN Rails
+        run: |
+          git config --global user.name "orbitlog-news-bot"
+          git config --global user.email "news-bot@orbitlog.internal"
+          git add news.json
+          git commit -m "🤖 Scheduled 2-Hour Space News Update [Automated]" || exit 0
+          git push origin main --force
+
