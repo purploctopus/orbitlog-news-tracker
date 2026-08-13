@@ -1,5 +1,32 @@
 [
   {
+    "id": 39446,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "summary": "The Starlink 17-49 mission will be the 73rd mission flying SpaceX’s broadband internet satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7 p.m. PDT (10 p.m. EDT / 0200 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20241109_Starlink_G9_10_Vertical_Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-11T20:05:15Z",
+    "url": "https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/"
+  },
+  {
+    "id": 39447,
+    "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
+    "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T19:41:34Z",
+    "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/"
+  },
+  {
+    "id": 39445,
+    "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
+    "summary": "Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs\nThe post Golden Dome money starting to reach contractors, but long-term funding still unclear appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Layered_Missile_Defense_Release_HIGH_RES.png?fit=1024%2C612&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T18:00:00Z",
+    "url": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/"
+  },
+  {
     "id": 39444,
     "title": "Lion Nebula Roars in Webb’s Sights",
     "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-11T14:00:00Z",
     "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/"
-  },
-  {
-    "id": 39436,
-    "title": "Former Space Force general joins Lunar Outpost board",
-    "summary": "A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost.\nThe post Former Space Force general joins Lunar Outpost board appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/johnshaw.jpeg?fit=1024%2C708&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T13:00:00Z",
-    "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/"
-  },
-  {
-    "id": 39437,
-    "title": "BlackSky wins seven-figure, multiyear international contract",
-    "summary": "SAN FRANCISCO — BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and on-demand satellite tasking. Prior to the award, BlackSky conducted […]\nThe post BlackSky wins seven-figure, multiyear international contract appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_blacksky_gen-3_farnborough_international_airshow_20260720.png?fit=879%2C494&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T12:30:00Z",
-    "url": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/"
-  },
-  {
-    "id": 39435,
-    "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-    "summary": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern […]\nThe post Why Golden Dome Demands a Reimagined and Revitalized Industrial Base appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/golden-dome-1-1.jpg?fit=1024%2C794&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T12:02:48Z",
-    "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/"
   }
 ]
