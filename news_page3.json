@@ -1,5 +1,23 @@
 [
   {
+    "id": 39464,
+    "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+    "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T17:55:36Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
+  },
+  {
+    "id": 39463,
+    "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+    "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T16:03:05Z",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/"
+  },
+  {
     "id": 39462,
     "title": "Pursuing a Dream of Working for NASA",
     "summary": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface […]",
@@ -45,15 +63,6 @@
     "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/"
   },
   {
-    "id": 39457,
-    "title": "Musification of the 2026 total solar eclipse",
-    "summary": "[English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory, or visit esa.int/solareclipse for an overview of all ESA eclipse activities & resources.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/musification_of_the_2026_total_solar_eclipse/27413201-1-eng-GB/Musification_of_the_2026_total_solar_eclipse_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-12T12:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
-  },
-  {
     "id": 39456,
     "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
     "summary": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled “Laying the groundwork for the first human mission to […]\nThe post One species, one planet: The moon is our ethical dress rehearsal for Mars appeared first on SpaceNews.",
@@ -63,6 +72,15 @@
     "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/"
   },
   {
+    "id": 39457,
+    "title": "Musification of the 2026 total solar eclipse",
+    "summary": "[English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory, or visit esa.int/solareclipse for an overview of all ESA eclipse activities & resources.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/musification_of_the_2026_total_solar_eclipse/27413201-1-eng-GB/Musification_of_the_2026_total_solar_eclipse_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-12T12:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
+  },
+  {
     "id": 39455,
     "title": "Rocket Lab Establishes German Subsidiary",
     "summary": "Rocket Lab has established a new subsidiary in Germany to enable it to offer scaled domestic production of satellites and launch services on both its Electron and Neutron rockets. The company formally announced Rocket Lab Germany GmbH on 10 August, calling it a “milestone in the company’s international growth.” The actual establishment of the subsidiary, […]\nThe post Rocket Lab Establishes German Subsidiary appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-12T06:58:49Z",
     "url": "https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/"
-  },
-  {
-    "id": 39454,
-    "title": "Stops Along the Path of Totality",
-    "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/"
-  },
-  {
-    "id": 39453,
-    "title": "Firefly increases vehicle production even as launches lag",
-    "summary": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate.\nThe post Firefly increases vehicle production even as launches lag appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T02:06:13Z",
-    "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39393,
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-08T11:30:48Z",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+  },
+  {
+    "id": 39392,
+    "title": "IRIS2 Gets Green Light With More Money and More Satellites",
+    "summary": "The European Commission, ESA and the SpaceRISE consortium have completed a key review of Europe’s IRIS2 secure communications constellation, clearing the programme to move forward with full-scale implementation. The completion of the review was announced on 7 August following negotiations that began in January. The review was used to validate the programme’s costs, technical requirements […]\nThe post IRIS2 Gets Green Light With More Money and More Satellites appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/IRIS2-Service-Gets-Green-Light-With-More-Money-and-More-Satellites.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-08-08T06:00:24Z",
+    "url": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/"
+  },
+  {
     "id": 39391,
     "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
     "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-07T13:10:00Z",
     "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026"
-  },
-  {
-    "id": 39375,
-    "title": "U.S. Senate confirms Schiess to lead Space Force",
-    "summary": "New chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome\nThe post U.S. Senate confirms Schiess to lead Space Force  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-F-JJ904-1320.jpg?fit=1024%2C981&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-07T12:42:44Z",
-    "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/"
-  },
-  {
-    "id": 39373,
-    "title": "Europe increases size and cost of IRIS² constellation",
-    "summary": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/iris2.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-07T11:51:44Z",
-    "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/"
   }
 ]
