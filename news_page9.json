@@ -1,5 +1,14 @@
 [
   {
+    "id": 39391,
+    "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+    "summary": "APOD Science APOD APOD: 2026 August 8 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Messier […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-08T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
+  },
+  {
     "id": 39389,
     "title": "Relativity Space engine integration milestone for Terran-R first stage",
     "summary": "Relativity Space has marked another significant step forward in the development of its reusable Terran…\nThe post Relativity Space engine integration milestone for Terran-R first stage appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-07T11:51:44Z",
     "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/"
-  },
-  {
-    "id": 39374,
-    "title": "Danube’s waters fall to record lows",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/danube_s_waters_fall_to_record_lows/27408537-1-eng-GB/Danube_s_waters_fall_to_record_lows_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-07T11:40:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows"
   }
 ]

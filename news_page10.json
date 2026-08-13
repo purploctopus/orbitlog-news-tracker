@@ -1,5 +1,14 @@
 [
   {
+    "id": 39374,
+    "title": "Danube’s waters fall to record lows",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/danube_s_waters_fall_to_record_lows/27408537-1-eng-GB/Danube_s_waters_fall_to_record_lows_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-07T11:40:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows"
+  },
+  {
     "id": 39372,
     "title": "IRIS² reinforced and accelerated as implementation advances",
     "summary": "On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to full-scale deployment with the support of the European Space Agency (ESA).",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-06T19:33:32Z",
     "url": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/"
-  },
-  {
-    "id": 39368,
-    "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-    "summary": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-06T18:20:32Z",
-    "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/"
   }
 ]
