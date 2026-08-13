@@ -1,5 +1,23 @@
 [
   {
+    "id": 39404,
+    "title": "How ESA mimics and models the 2026 total solar eclipse",
+    "summary": "On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere – the solar corona – will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-10T11:59:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse"
+  },
+  {
+    "id": 39403,
+    "title": "Ground Control to Galileo Second Generation",
+    "summary": "On 3 July 2026, an invisible signal travelled across Europe. From Oberpfaffenhofen, Germany, to Rome, Italy, the signal connected the Galileo Ground Control Centre to a Galileo Second Generation satellite for the first time, marking a major step forward in the programme’s marathon of compatibility tests.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/galileo_and_thales_alenia_space/25189485-1-eng-GB/Galileo_and_Thales_Alenia_Space_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-10T11:05:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation"
+  },
+  {
     "id": 39402,
     "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
     "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-08T17:45:40Z",
     "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/"
-  },
-  {
-    "id": 39396,
-    "title": "Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled",
-    "summary": "Evidence indicates that Ariane 6 upgrades have been cancelled following the 2025 ESA Ministerial Council.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-1.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-08-08T15:52:30Z",
-    "url": "https://www.spacescout.info/2026/08/ariane-6-lightweight-upper-stage-future-upgrades-cancelled/"
-  },
-  {
-    "id": 39394,
-    "title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission",
-    "summary": "Liftoff of the Starlink 17-38 mission from Vandenberg Space Force Base in California is scheduled for 9:23 a.m. PDT (12:23 p.m. EDT / 1623 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-08T14:08:54Z",
-    "url": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/"
   }
 ]
