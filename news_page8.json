@@ -1,5 +1,14 @@
 [
   {
+    "id": 39407,
+    "title": "El Niño Alters Marine Life in the Pacific",
+    "summary": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o%C2%A0alters-marine-life-in-the-pacific/chlorophyll_pace_202506.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-10T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/"
+  },
+  {
     "id": 39401,
     "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
     "summary": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems.\nThe post Katalyst Space makes progress in restoring control of Swift servicing spacecraft appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-08-08T11:30:48Z",
     "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
-  },
-  {
-    "id": 39392,
-    "title": "IRIS2 Gets Green Light With More Money and More Satellites",
-    "summary": "The European Commission, ESA and the SpaceRISE consortium have completed a key review of Europe’s IRIS2 secure communications constellation, clearing the programme to move forward with full-scale implementation. The completion of the review was announced on 7 August following negotiations that began in January. The review was used to validate the programme’s costs, technical requirements […]\nThe post IRIS2 Gets Green Light With More Money and More Satellites appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/IRIS2-Service-Gets-Green-Light-With-More-Money-and-More-Satellites.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-08T06:00:24Z",
-    "url": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/"
   }
 ]

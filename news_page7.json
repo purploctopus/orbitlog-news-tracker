@@ -1,5 +1,14 @@
 [
   {
+    "id": 39413,
+    "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+    "summary": "The Starlink 10-19 mission is SpaceX’s 72nd flight of its broadband internet satellites this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 12:20 p.m. EDT (1620 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-10T13:40:12Z",
+    "url": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/"
+  },
+  {
     "id": 39411,
     "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
     "summary": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March […]\r\nThe post Chinese Long March 7A rocket explodes shortly after liftoff appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-10T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/"
-  },
-  {
-    "id": 39407,
-    "title": "El Niño Alters Marine Life in the Pacific",
-    "summary": "Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o%C2%A0alters-marine-life-in-the-pacific/chlorophyll_pace_202506.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-10T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/"
   }
 ]
