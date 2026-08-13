@@ -1,5 +1,14 @@
 [
   {
+    "id": 39397,
+    "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+    "summary": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics.\nThe post Northrop Grumman, Canadian Space Agency repurpose their Gateway projects appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-08T17:45:40Z",
+    "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/"
+  },
+  {
     "id": 39396,
     "title": "Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled",
     "summary": "Evidence indicates that Ariane 6 upgrades have been cancelled following the 2025 ESA Ministerial Council.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-07T17:54:30Z",
     "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/"
-  },
-  {
-    "id": 39380,
-    "title": "NASA’s IXPE Studies Magnetar",
-    "summary": "Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) conducted more than 140 hours of observations of the magnetar 1E 1547-5408, shown in this Aug. 5, 2026, artist’s concept, between March and April 2025. In doing so, they may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-07T14:27:35Z",
-    "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/"
   }
 ]

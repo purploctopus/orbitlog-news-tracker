@@ -1,5 +1,14 @@
 [
   {
+    "id": 39456,
+    "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+    "summary": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled “Laying the groundwork for the first human mission to […]\nThe post One species, one planet: The moon is our ethical dress rehearsal for Mars appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-12T12:00:00Z",
+    "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/"
+  },
+  {
     "id": 39457,
     "title": "Musification of the 2026 total solar eclipse",
     "summary": "[English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory, or visit esa.int/solareclipse for an overview of all ESA eclipse activities & resources.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T21:01:02Z",
     "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/"
-  },
-  {
-    "id": 39446,
-    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-    "summary": "The Starlink 17-49 mission will be the 73rd mission flying SpaceX’s broadband internet satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7 p.m. PDT (10 p.m. EDT / 0200 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20241109_Starlink_G9_10_Vertical_Sunset.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-11T20:05:15Z",
-    "url": "https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/"
   }
 ]

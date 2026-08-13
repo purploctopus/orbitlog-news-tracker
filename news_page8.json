@@ -1,5 +1,14 @@
 [
   {
+    "id": 39417,
+    "title": "One of China's workhorse rockets just exploded in flight",
+    "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-10T15:05:00Z",
+    "url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/"
+  },
+  {
     "id": 39415,
     "title": "Lion Nebula roars to life for Webb",
     "summary": "Observing across the starry “plains” of space, the NASA/ESA/CSA James Webb Space Telescope has taken images of NGC 2392, nicknamed the Lion Nebula.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-10T12:17:07Z",
     "url": "https://spacenews.com/tank-problem-delays-first-rfa-launch/"
-  },
-  {
-    "id": 39405,
-    "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-    "summary": "WARSAW, Poland — The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link between a reentry spacecraft […]\nThe post Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Photo-by-ATMOS-Space-Cargo.png?fit=1024%2C512&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-10T12:00:00Z",
-    "url": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/"
   }
 ]
