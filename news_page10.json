@@ -1,5 +1,23 @@
 [
   {
+    "id": 39372,
+    "title": "IRIS² reinforced and accelerated as implementation advances",
+    "summary": "On 7 August, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement, among other things, adds 66 satellites into low Earth orbit to the programme, bringing the main constellation to 348 satellites, and moving it from planning to full-scale deployment with the support of the European Space Agency (ESA).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/iris2/27408197-1-eng-GB/IRIS2_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-07T09:27:00Z",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances"
+  },
+  {
+    "id": 39371,
+    "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
+    "summary": "Sens. Cortez Masto and Britt propose expanded space wargaming and an unclassified assessment of China's commercial space sector\nThe post Bipartisan Senate bill would sharpen Space Force training for conflict with China appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-4.55.55-PM.png?fit=1024%2C536&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-07T09:00:00Z",
+    "url": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/"
+  },
+  {
     "id": 39370,
     "title": "ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner",
     "summary": "Three members of the Italian Space Agency’s board of directors have resigned, resulting in the board’s dissolution. This clears the way for the appointment of an extraordinary commissioner to lead the agency following the death of its president, Teodoro Valente, on 16 July. ASI announced on 5 August that acting vice president Elda Turco Bulgherini […]\nThe post ASI Board Resigns to Allow for the Appointment of an Extraordinary Commissioner appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-08-06T18:20:32Z",
     "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/"
-  },
-  {
-    "id": 39385,
-    "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-    "summary": "Description This artist’s concept depicts NASA’s three SkyFall Mars helicopters collecting data while flying over the surface of the Red Planet.  The green frequency waves emanating from the helicopters’ large antennas depict collection of subsurface radar data. The red beams depict collect near-infrared imagery data from regolith (crushed rock and dust) and other surface features. […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-06T18:06:07Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/"
-  },
-  {
-    "id": 39386,
-    "title": "Antenna Testing for NASA’s SkyFall Mission",
-    "summary": "Description SkyFall ground-penetrating radar engineer Maya Román connects a coaxial cable to a test antenna in the Environmental Test Lab’s electromagnetic interference testing chamber at NASA’s Jet Propulsion Laboratory in Southern California.  The antenna was pointed up during test to minimize reflections and interferences with the antenna pattern during the measurement. Equipped with four instruments each, the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26759/PIA26759.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-06T17:56:12Z",
-    "url": "https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39421,
+    "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+    "summary": "Named ‘GHOST’ the containerized infrastructure is designed to support orbital and suborbital launches \nThe post Rocket Lab builds deployable infrastructure for Electron launches appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-10T21:31:34Z",
+    "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/"
+  },
+  {
+    "id": 39420,
+    "title": "Kepler books Neutron for 2028 optical relay launch",
+    "summary": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-10T20:25:23Z",
+    "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/"
+  },
+  {
     "id": 39419,
     "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
     "summary": "Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of the more modern, active learning experience that could better serve students evolving learning strategies. Three project teams from the NASA […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-10T13:24:02Z",
     "url": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/"
-  },
-  {
-    "id": 39410,
-    "title": "National security doesn’t need more maps or imagery; it needs measurement",
-    "summary": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse — a satellite pass here, […]\nThe post National security doesn’t need more maps or imagery; it needs measurement appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EDC-california-scaled.png?fit=1024%2C562&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-10T13:00:00Z",
-    "url": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/"
-  },
-  {
-    "id": 39412,
-    "title": "Wildfires, drought and extreme heat, 2026",
-    "summary": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-10T13:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026"
   }
 ]
