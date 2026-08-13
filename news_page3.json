@@ -1,5 +1,14 @@
 [
   {
+    "id": 39454,
+    "title": "Stops Along the Path of Totality",
+    "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/"
+  },
+  {
     "id": 39453,
     "title": "Firefly increases vehicle production even as launches lag",
     "summary": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate.\nThe post Firefly increases vehicle production even as launches lag appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T18:00:00Z",
     "url": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/"
-  },
-  {
-    "id": 39444,
-    "title": "Lion Nebula Roars in Webb’s Sights",
-    "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-11T17:02:49Z",
-    "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/"
   }
 ]

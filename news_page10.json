@@ -1,5 +1,14 @@
 [
   {
+    "id": 39375,
+    "title": "U.S. Senate confirms Schiess to lead Space Force",
+    "summary": "New chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome\nThe post U.S. Senate confirms Schiess to lead Space Force  appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-F-JJ904-1320.jpg?fit=1024%2C981&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-07T12:42:44Z",
+    "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/"
+  },
+  {
     "id": 39373,
     "title": "Europe increases size and cost of IRIS² constellation",
     "summary": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-07T04:00:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/"
-  },
-  {
-    "id": 39369,
-    "title": "Blue Origin identifies engine issue behind New Glenn explosion",
-    "summary": "The Aug. 5 update from Blue Origin CEO Dave Limp offered the first explanation for what caused the company’s 98-meter-tall (320 ft.) to explode at the pad on May 28.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260529_NG-4_static_fire_explosion.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-06T22:35:52Z",
-    "url": "https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion/"
   }
 ]

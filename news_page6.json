@@ -1,5 +1,14 @@
 [
   {
+    "id": 39425,
+    "title": "Bountiful Roebuck Bay",
+    "summary": "Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/"
+  },
+  {
     "id": 39423,
     "title": "Chinese LM-7A Rocket Fails",
     "summary": "China experienced a launch failure today of their relatively new Long March 7A rocket.  Introduced in 2020, the first launch failed, but the track record since then has been perfect. […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-10T14:00:00Z",
     "url": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/"
-  },
-  {
-    "id": 39414,
-    "title": "Launch Into a New School Year With NASA",
-    "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/bts-2026-express-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-10T13:59:28Z",
-    "url": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/"
   }
 ]

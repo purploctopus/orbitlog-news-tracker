@@ -1,5 +1,14 @@
 [
   {
+    "id": 39393,
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/PIA26379-Sol-1295-Navcam-NLF_1295_0781909732_909RZS_N0603852NCAM02295_0A0195J01.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-08T11:30:48Z",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+  },
+  {
     "id": 39392,
     "title": "IRIS2 Gets Green Light With More Money and More Satellites",
     "summary": "The European Commission, ESA and the SpaceRISE consortium have completed a key review of Europe’s IRIS2 secure communications constellation, clearing the programme to move forward with full-scale implementation. The completion of the review was announced on 7 August following negotiations that began in January. The review was used to validate the programme’s costs, technical requirements […]\nThe post IRIS2 Gets Green Light With More Money and More Satellites appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-07T13:10:00Z",
     "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026"
-  },
-  {
-    "id": 39375,
-    "title": "U.S. Senate confirms Schiess to lead Space Force",
-    "summary": "New chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome\nThe post U.S. Senate confirms Schiess to lead Space Force  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-F-JJ904-1320.jpg?fit=1024%2C981&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-07T12:42:44Z",
-    "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/"
   }
 ]

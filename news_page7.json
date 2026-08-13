@@ -1,5 +1,14 @@
 [
   {
+    "id": 39414,
+    "title": "Launch Into a New School Year With NASA",
+    "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/bts-2026-express-2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-10T13:59:28Z",
+    "url": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/"
+  },
+  {
     "id": 39413,
     "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
     "summary": "The Starlink 10-19 mission is SpaceX’s 72nd flight of its broadband internet satellites this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 12:20 p.m. EDT (1620 UTC).",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-10T11:05:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/Ground_Control_to_Galileo_Second_Generation"
-  },
-  {
-    "id": 39402,
-    "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
-    "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-10T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/"
   }
 ]
