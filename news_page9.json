@@ -1,5 +1,23 @@
 [
   {
+    "id": 39412,
+    "title": "Wildfires, drought and extreme heat, 2026",
+    "summary": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-10T13:00:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026"
+  },
+  {
+    "id": 39409,
+    "title": "Launch Preview: Chinese failure opens busy international launch salvo",
+    "summary": "The week of Aug. 10 opened with an extraordinary Monday, four launches across three countries…\nThe post Launch Preview: Chinese failure opens busy international launch salvo appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/h3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-10T12:49:20Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081026/"
+  },
+  {
     "id": 39406,
     "title": "Tank problem delays first RFA launch",
     "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing.\nThe post Tank problem delays first RFA launch appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-08-09T19:41:43Z",
     "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-9-22-2026/"
-  },
-  {
-    "id": 39399,
-    "title": "Artemis progress building lunar return roadmap",
-    "summary": "NASA has released a series of updates on the Artemis program, spanning commercial robotic lunar…\nThe post Artemis progress building lunar return roadmap appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-09-15-21-11-686.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-09T14:44:50Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/artemis-progress-lunar-return-roadmap/"
-  },
-  {
-    "id": 39408,
-    "title": "APOD: 2026 August 9 – Contemplating the Sun",
-    "summary": "APOD Science APOD APOD: 2026 August 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Contemplating the Sun […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/sunsilhouettes_gilbert_1024.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-09T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/"
   }
 ]

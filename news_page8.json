@@ -1,5 +1,23 @@
 [
   {
+    "id": 39420,
+    "title": "Kepler books Neutron for 2028 optical relay launch",
+    "summary": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-10T20:25:23Z",
+    "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/"
+  },
+  {
+    "id": 39419,
+    "title": "Community College Instructors Bring Astronomy Textbook Into 21st Century",
+    "summary": "Teaching the beautiful and inspirational science of astronomy using only the conceptual framework offered by a traditional textbook – without incorporating the wealth of incredible resources, images and activities from NASA – falls short of the more modern, active learning experience that could better serve students evolving learning strategies. Three project teams from the NASA […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Community_College_Instructors_Bring_Astronomy_Textbook_Into_21st_Century.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-10T18:08:56Z",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/"
+  },
+  {
     "id": 39418,
     "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
     "summary": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-10T13:00:00Z",
     "url": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/"
-  },
-  {
-    "id": 39412,
-    "title": "Wildfires, drought and extreme heat, 2026",
-    "summary": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/drought_hits_rivers_in_southern_norway/27411534-1-eng-GB/Drought_hits_rivers_in_southern_Norway_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-10T13:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026"
-  },
-  {
-    "id": 39409,
-    "title": "Launch Preview: Chinese failure opens busy international launch salvo",
-    "summary": "The week of Aug. 10 opened with an extraordinary Monday, four launches across three countries…\nThe post Launch Preview: Chinese failure opens busy international launch salvo appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/h3.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-10T12:49:20Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081026/"
   }
 ]
