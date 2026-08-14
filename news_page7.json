@@ -1,5 +1,23 @@
 [
   {
+    "id": 39450,
+    "title": "Golden Dome faces 2027 funding cliff",
+    "summary": "Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed\nThe post Golden Dome faces 2027 funding cliff  appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T22:01:21Z",
+    "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/"
+  },
+  {
+    "id": 39448,
+    "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+    "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science that applies physics and mathematics to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T21:04:39Z",
+    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/"
+  },
+  {
     "id": 39449,
     "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
     "summary": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the mission’s reactor.\nThe post National lab visit boosts NASA’s confidence in space nuclear propulsion mission appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T14:53:22Z",
     "url": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/"
-  },
-  {
-    "id": 39440,
-    "title": "SpaceX increasing footprint in missile defense",
-    "summary": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business\nThe post SpaceX increasing footprint in missile defense appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T14:34:01Z",
-    "url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/"
-  },
-  {
-    "id": 39439,
-    "title": "Building the Moon Base: NASA Stories at the Ion",
-    "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields.  During NASA Stories at the Ion on July 30, Shatel Bhakta, principal systems engineer for NASA’s Moon Base Program, presented “Building the Moon Base: Challenges and Opportunities at the Lunar South Pole.” He discussed the work required to establish a sustained human […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-11T14:16:45Z",
-    "url": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/"
   }
 ]

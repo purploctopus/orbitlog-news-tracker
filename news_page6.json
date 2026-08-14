@@ -1,5 +1,23 @@
 [
   {
+    "id": 39460,
+    "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
+    "summary": "CSDA’s assessment reports help inform the user community about the quality of commercial Digital Elevation Models (DEMs).",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/08/side-by-side-graphic-polargeospatial.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T14:13:13Z",
+    "url": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/"
+  },
+  {
+    "id": 39459,
+    "title": "Golden Dome creates digital hub to expand commercial participation",
+    "summary": "The Golden Dome ‘ecosystem hub’ allows companies to request information and submit ideas\nThe post Golden Dome creates digital hub to expand commercial participation appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/9819415-scaled.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-12T14:00:00Z",
+    "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/"
+  },
+  {
     "id": 39458,
     "title": "China’s iSpace raises first batch of series E funding for reusable rocketry",
     "summary": "HELSINKI — Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the […]\nThe post China’s iSpace raises first batch of series E funding for reusable rocketry appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-08-11T23:41:43Z",
     "url": "https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/"
-  },
-  {
-    "id": 39450,
-    "title": "Golden Dome faces 2027 funding cliff",
-    "summary": "Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed\nThe post Golden Dome faces 2027 funding cliff  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T22:01:21Z",
-    "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/"
-  },
-  {
-    "id": 39448,
-    "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-    "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science that applies physics and mathematics to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-11T21:04:39Z",
-    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/"
   }
 ]
