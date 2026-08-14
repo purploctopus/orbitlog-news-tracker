@@ -1,5 +1,23 @@
 [
   {
+    "id": 39422,
+    "title": "Window for 2026 launch debut of Rocket Lab’s Neutron rocket ‘is narrowing’ as development continues",
+    "summary": "The announcement came in a filing to the U.S. Securities and Exchange Commission ahead of a quarterly investor earnings call on Aug. 10.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260507_Neutron_launch_simulation.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-10T22:40:07Z",
+    "url": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/"
+  },
+  {
+    "id": 39421,
+    "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+    "summary": "Named ‘GHOST’ the containerized infrastructure is designed to support orbital and suborbital launches \nThe post Rocket Lab builds deployable infrastructure for Electron launches appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-10T21:31:34Z",
+    "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/"
+  },
+  {
     "id": 39420,
     "title": "Kepler books Neutron for 2028 optical relay launch",
     "summary": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Kepler books Neutron for 2028 optical relay launch appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-08-10T13:40:12Z",
     "url": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16/"
-  },
-  {
-    "id": 39411,
-    "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
-    "summary": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March […]\r\nThe post Chinese Long March 7A rocket explodes shortly after liftoff appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shijian28-CZ7A-WSLSC-30nov2025-CASC.jpg?fit=1024%2C686&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-10T13:24:02Z",
-    "url": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/"
-  },
-  {
-    "id": 39410,
-    "title": "National security doesn’t need more maps or imagery; it needs measurement",
-    "summary": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse — a satellite pass here, […]\nThe post National security doesn’t need more maps or imagery; it needs measurement appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EDC-california-scaled.png?fit=1024%2C562&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-10T13:00:00Z",
-    "url": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/"
   }
 ]
