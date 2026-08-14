@@ -1,5 +1,14 @@
 [
   {
+    "id": 39418,
+    "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+    "summary": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-10T16:30:13Z",
+    "url": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/"
+  },
+  {
     "id": 39417,
     "title": "One of China's workhorse rockets just exploded in flight",
     "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-10T12:49:20Z",
     "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081026/"
-  },
-  {
-    "id": 39406,
-    "title": "Tank problem delays first RFA launch",
-    "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing.\nThe post Tank problem delays first RFA launch appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rfaone-saxavord.jpeg?fit=1024%2C682&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-10T12:17:07Z",
-    "url": "https://spacenews.com/tank-problem-delays-first-rfa-launch/"
   }
 ]
