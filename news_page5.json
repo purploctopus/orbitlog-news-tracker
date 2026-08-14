@@ -1,5 +1,23 @@
 [
   {
+    "id": 39464,
+    "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+    "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T17:55:36Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
+  },
+  {
+    "id": 39463,
+    "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+    "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T16:03:05Z",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/"
+  },
+  {
     "id": 39462,
     "title": "Pursuing a Dream of Working for NASA",
     "summary": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface […]",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-12T06:58:49Z",
     "url": "https://europeanspaceflight.com/rocket-lab-establishes-german-subsidiary/"
-  },
-  {
-    "id": 39454,
-    "title": "Stops Along the Path of Totality",
-    "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/iceland_oli2_20260725.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/"
-  },
-  {
-    "id": 39453,
-    "title": "Firefly increases vehicle production even as launches lag",
-    "summary": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate.\nThe post Firefly increases vehicle production even as launches lag appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T02:06:13Z",
-    "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/"
   }
 ]
