@@ -1,5 +1,14 @@
 [
   {
+    "id": 39493,
+    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+    "summary": "\"We’ve never seen launch capacity so constrained.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-14T11:00:49Z",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
+  },
+  {
     "id": 39496,
     "title": "A double eclipse for Proba-3",
     "summary": "From the ESA Blogs.",
@@ -18,15 +27,6 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
   },
   {
-    "id": 39492,
-    "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-    "summary": "Paris, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development […]\nThe post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T09:00:00Z",
-    "url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/"
-  },
-  {
     "id": 39491,
     "title": "Bulgaria advances project to launch new space, defense innovation hub",
     "summary": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub […]\nThe post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews.",
@@ -34,6 +34,15 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T09:00:00Z",
     "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/"
+  },
+  {
+    "id": 39492,
+    "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+    "summary": "Paris, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development […]\nThe post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-14T09:00:00Z",
+    "url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/"
   },
   {
     "id": 39489,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-13T19:41:23Z",
     "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/"
-  },
-  {
-    "id": 39485,
-    "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-    "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T19:03:19Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
   }
 ]
