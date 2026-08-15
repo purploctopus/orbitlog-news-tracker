@@ -1,5 +1,23 @@
 [
   {
+    "id": 39502,
+    "title": "Total Solar Eclipse in Sunflower Field",
+    "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T14:48:55Z",
+    "url": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/"
+  },
+  {
+    "id": 39501,
+    "title": "Avio Filings Shed Light on FD1 Rocket Demonstrator Test Flight",
+    "summary": "Environmental documents filed in Sardinia have revealed new details about Avio’s planned FD1 suborbital demonstrator flight test. The test will utilize a temporary launch facility being erected on the grounds of the Salto di Quirra Interforce Test Range. The 6.3-tonne single-stage demonstrator is being developed under a €181.6 million contract from the Italian government, funded […]\nThe post Avio Filings Shed Light on FD1 Rocket Demonstrator Test Flight appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Avio-Filings-Shed-Light-on-FD1-Rocket-Demonstrator-Test-Flight.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-08-14T14:37:54Z",
+    "url": "https://europeanspaceflight.com/avio-filings-shed-light-on-fd1-rocket-demonstrator-test-flight/"
+  },
+  {
     "id": 39500,
     "title": "Week in images: 10-14 August 2026",
     "summary": "Week in images: 10-14 August 2026",
@@ -54,15 +72,6 @@
     "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
   },
   {
-    "id": 39496,
-    "title": "A double eclipse for Proba-3",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_double_eclipse_for_proba-3/27417181-1-eng-GB/A_double_eclipse_for_Proba-3_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-14T10:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_double_eclipse_for_Proba-3"
-  },
-  {
     "id": 39494,
     "title": "A look back at the 2026 total solar eclipse",
     "summary": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
@@ -72,21 +81,12 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
   },
   {
-    "id": 39492,
-    "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-    "summary": "Paris, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development […]\nThe post In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T09:00:00Z",
-    "url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/"
-  },
-  {
-    "id": 39491,
-    "title": "Bulgaria advances project to launch new space, defense innovation hub",
-    "summary": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub […]\nThe post Bulgaria advances project to launch new space, defense innovation hub appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/EnduroSat-Doboslavtsi-Starbase-Europe-1920-1920x1080-1.jpg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T09:00:00Z",
-    "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/"
+    "id": 39496,
+    "title": "A double eclipse for Proba-3",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_double_eclipse_for_proba-3/27417181-1-eng-GB/A_double_eclipse_for_Proba-3_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-14T10:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_double_eclipse_for_Proba-3"
   }
 ]
