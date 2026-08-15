@@ -1,5 +1,14 @@
 [
   {
+    "id": 39486,
+    "title": "NASA’s 737 Reveals New Paint",
+    "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.  The aircraft will perform lunar-gravity parabolic flights to validate […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T19:41:23Z",
+    "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/"
+  },
+  {
     "id": 39485,
     "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
     "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-13T09:30:00Z",
     "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/"
-  },
-  {
-    "id": 39475,
-    "title": "Sophie Adenot prepares for her first spacewalk",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_prepares_for_her_first_spacewalk/27414837-1-eng-GB/Sophie_Adenot_prepares_for_her_first_spacewalk_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-13T09:20:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk"
   }
 ]

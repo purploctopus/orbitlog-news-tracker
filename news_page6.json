@@ -1,5 +1,14 @@
 [
   {
+    "id": 39466,
+    "title": "2026 Total Solar Eclipse in Spain",
+    "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T20:08:28Z",
+    "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
+  },
+  {
     "id": 39465,
     "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
     "summary": "China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,…\nThe post Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-12T12:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
-  },
-  {
-    "id": 39456,
-    "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
-    "summary": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled “Laying the groundwork for the first human mission to […]\nThe post One species, one planet: The moon is our ethical dress rehearsal for Mars appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T12:00:00Z",
-    "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/"
   }
 ]

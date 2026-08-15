@@ -1,5 +1,14 @@
 [
   {
+    "id": 39447,
+    "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
+    "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/lunar-science/GSFC_20260130_LEMSA3_001911%201.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T19:41:34Z",
+    "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/"
+  },
+  {
     "id": 39445,
     "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
     "summary": "Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs\nThe post Golden Dome money starting to reach contractors, but long-term funding still unclear appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T13:00:00Z",
     "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/"
-  },
-  {
-    "id": 39437,
-    "title": "BlackSky wins seven-figure, multiyear international contract",
-    "summary": "SAN FRANCISCO — BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and on-demand satellite tasking. Prior to the award, BlackSky conducted […]\nThe post BlackSky wins seven-figure, multiyear international contract appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_blacksky_gen-3_farnborough_international_airshow_20260720.png?fit=879%2C494&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T12:30:00Z",
-    "url": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/"
   }
 ]

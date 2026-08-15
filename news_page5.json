@@ -1,5 +1,14 @@
 [
   {
+    "id": 39475,
+    "title": "Sophie Adenot prepares for her first spacewalk",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_prepares_for_her_first_spacewalk/27414837-1-eng-GB/Sophie_Adenot_prepares_for_her_first_spacewalk_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-13T09:20:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk"
+  },
+  {
     "id": 39474,
     "title": "MTG-I1 captures eclipse path of totality over Europe",
     "summary": "Yesterday between 20:26 and 20:34 CEST, parts of the Iberian peninsula experienced a total solar eclipse. This animation, composed of images from the Meteosat Third Generation Imager satellite (MTG-I1), caught the Moon’s dark shadow as it passed over Earth’s surface – converging with the advancing twilight shadow as dusk fell over Europe.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-12T20:40:27Z",
     "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
-  },
-  {
-    "id": 39466,
-    "title": "2026 Total Solar Eclipse in Spain",
-    "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T20:08:28Z",
-    "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
   }
 ]

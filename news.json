@@ -1,5 +1,14 @@
 [
   {
+    "id": 39516,
+    "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+    "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-15T21:12:33Z",
+    "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/"
+  },
+  {
     "id": 39515,
     "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
     "summary": "\"Flamingo missiles were used. A good achievement.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-14T18:44:36Z",
     "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
-  },
-  {
-    "id": 39506,
-    "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-    "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T17:35:46Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
   }
 ]
