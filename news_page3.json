@@ -1,5 +1,14 @@
 [
   {
+    "id": 39500,
+    "title": "Week in images: 10-14 August 2026",
+    "summary": "Week in images: 10-14 August 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_miguel_claro/27418378-1-eng-GB/12_August_total_eclipse_imaged_by_Miguel_Claro_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-14T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026"
+  },
+  {
     "id": 39499,
     "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
     "summary": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass […]\nThe post Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T09:00:00Z",
     "url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/"
-  },
-  {
-    "id": 39489,
-    "title": "APOD: 2026 August 14 – Total Solar Eclipse from Greenland",
-    "summary": "APOD Science APOD APOD: 2026 August 14 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TSE2026DR_Madhaven.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/"
   }
 ]
