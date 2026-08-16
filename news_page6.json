@@ -1,5 +1,14 @@
 [
   {
+    "id": 39478,
+    "title": "Cascade Volcanoes Shrouded in Smoke",
+    "summary": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cascade-volcanoes-shrouded-in-smoke/ISS075-E-1705.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/"
+  },
+  {
     "id": 39472,
     "title": "Virgin Galactic delays resumption of commercial flights to 2027",
     "summary": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin Galactic delays resumption of commercial flights to 2027 appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-12T17:55:36Z",
     "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
-  },
-  {
-    "id": 39463,
-    "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
-    "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/fincke.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T16:03:05Z",
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/"
   }
 ]

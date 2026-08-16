@@ -1,5 +1,14 @@
 [
   {
+    "id": 39523,
+    "title": "What’s Happening in Space Policy August 16-30, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the weeks of August 16-30, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Sophie-Adenot-credit-ESA-292x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-16T21:36:31Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/"
+  },
+  {
     "id": 39522,
     "title": "Firefly promote next block of Alpha amid Eclipse progress",
     "summary": "Firefly Aerospace is advancing on two fronts this month, pushing development of its next-generation medium-lift…\nThe post Firefly promote next block of Alpha amid Eclipse progress appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-15T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/"
-  },
-  {
-    "id": 39513,
-    "title": "Rocket Lab advances via series of announcements",
-    "summary": "Rocket Lab has formally established a new subsidiary in Germany and introduced a containerized mobile…\nThe post Rocket Lab advances via series of announcements appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-15T03:42:01Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/"
   }
 ]
