@@ -1,5 +1,32 @@
 [
   {
+    "id": 39519,
+    "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
+    "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-15T23:51:27Z",
+    "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/"
+  },
+  {
+    "id": 39518,
+    "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+    "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-15T23:49:58Z",
+    "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/"
+  },
+  {
+    "id": 39517,
+    "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+    "summary": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released…\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-15T22:57:11Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/"
+  },
+  {
     "id": 39516,
     "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
     "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T22:02:28Z",
     "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
-  },
-  {
-    "id": 39509,
-    "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
-    "summary": "NASA Administrator Jared Isaacman said today he’s “extremely confident” Artemis III will launch next year to test rendezvous and docking operations between Orion and test versions of the two human […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-14T21:37:50Z",
-    "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/"
-  },
-  {
-    "id": 39508,
-    "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
-    "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T20:00:38Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
-  },
-  {
-    "id": 39507,
-    "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-    "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T18:44:36Z",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
   }
 ]

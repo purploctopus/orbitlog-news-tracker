@@ -1,5 +1,32 @@
 [
   {
+    "id": 39448,
+    "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+    "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science that applies physics and mathematics to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/nancy-grace-roman-space-telescope-visualization.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T21:04:39Z",
+    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/"
+  },
+  {
+    "id": 39449,
+    "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+    "summary": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the mission’s reactor.\nThe post National lab visit boosts NASA’s confidence in space nuclear propulsion mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/isaacman-inl.jpeg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T21:01:02Z",
+    "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/"
+  },
+  {
+    "id": 39446,
+    "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "summary": "The Starlink 17-49 mission will be the 73rd mission flying SpaceX’s broadband internet satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7 p.m. PDT (10 p.m. EDT / 0200 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20241109_Starlink_G9_10_Vertical_Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-11T20:05:15Z",
+    "url": "https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14/"
+  },
+  {
     "id": 39447,
     "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
     "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T14:34:01Z",
     "url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/"
-  },
-  {
-    "id": 39439,
-    "title": "Building the Moon Base: NASA Stories at the Ion",
-    "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields.  During NASA Stories at the Ion on July 30, Shatel Bhakta, principal systems engineer for NASA’s Moon Base Program, presented “Building the Moon Base: Challenges and Opportunities at the Lunar South Pole.” He discussed the work required to establish a sustained human […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc03215-e1786419412406.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-11T14:16:45Z",
-    "url": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/"
-  },
-  {
-    "id": 39438,
-    "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-    "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/iss074e0458251.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-11T14:00:00Z",
-    "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/"
-  },
-  {
-    "id": 39436,
-    "title": "Former Space Force general joins Lunar Outpost board",
-    "summary": "A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost.\nThe post Former Space Force general joins Lunar Outpost board appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/johnshaw.jpeg?fit=1024%2C708&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T13:00:00Z",
-    "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/"
   }
 ]
