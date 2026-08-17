@@ -1,5 +1,14 @@
 [
   {
+    "id": 39487,
+    "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+    "summary": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone\nThe post Space Force awards five companies $60 million for multi-vendor satellite network tests appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-13T22:00:00Z",
+    "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/"
+  },
+  {
     "id": 39486,
     "title": "NASA’s 737 Reveals New Paint",
     "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.  The aircraft will perform lunar-gravity parabolic flights to validate […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-13T09:46:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Cruise_control_the_team_guiding_Hera_to_its_asteroid"
-  },
-  {
-    "id": 39476,
-    "title": "Astranis unveils geostationary surveillance satellite",
-    "summary": "The spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillance satellite appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Perceptor.jpg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-13T09:30:00Z",
-    "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/"
   }
 ]

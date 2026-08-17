@@ -1,5 +1,14 @@
 [
   {
+    "id": 39467,
+    "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+    "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-12T20:40:27Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
+  },
+  {
     "id": 39466,
     "title": "2026 Total Solar Eclipse in Spain",
     "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-12T12:48:16Z",
     "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/"
-  },
-  {
-    "id": 39457,
-    "title": "Musification of the 2026 total solar eclipse",
-    "summary": "[English] Experience a musical simulation of the 12 August 2026 total solar eclipse as seen from the Observatorio Astrofísico de Javalambre (Spain). Click here for information about ESA’s live broadcast from this observatory, or visit esa.int/solareclipse for an overview of all ESA eclipse activities & resources.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/musification_of_the_2026_total_solar_eclipse/27413201-1-eng-GB/Musification_of_the_2026_total_solar_eclipse_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-12T12:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39476,
+    "title": "Astranis unveils geostationary surveillance satellite",
+    "summary": "The spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillance satellite appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Perceptor.jpg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-13T09:30:00Z",
+    "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/"
+  },
+  {
     "id": 39475,
     "title": "Sophie Adenot prepares for her first spacewalk",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-08-12T21:24:47Z",
     "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/"
-  },
-  {
-    "id": 39467,
-    "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-    "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/pia00132orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T20:40:27Z",
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/"
   }
 ]

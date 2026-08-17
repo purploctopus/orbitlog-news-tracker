@@ -1,5 +1,14 @@
 [
   {
+    "id": 39497,
+    "title": "Proba-3’s eclipse hours before totality in Europe",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_s_eclipse_hours_before_totality_in_europe/27416531-1-eng-GB/Proba-3_s_eclipse_hours_before_totality_in_Europe_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-14T12:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe"
+  },
+  {
     "id": 39495,
     "title": "Intuitive Machines wins contract for three GEO satellites",
     "summary": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.\nThe post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T02:24:02Z",
     "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/"
-  },
-  {
-    "id": 39487,
-    "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-    "summary": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone\nThe post Space Force awards five companies $60 million for multi-vendor satellite network tests appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-13T22:00:00Z",
-    "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/"
   }
 ]
