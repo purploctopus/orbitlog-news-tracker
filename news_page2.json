@@ -1,5 +1,23 @@
 [
   {
+    "id": 39516,
+    "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+    "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-15T21:12:33Z",
+    "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/"
+  },
+  {
+    "id": 39515,
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "summary": "\"Flamingo missiles were used. A good achievement.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-15T15:46:05Z",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
+  },
+  {
     "id": 39514,
     "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
     "summary": "APOD Science APOD APOD: 2026 August 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Bright Perseids from […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-14T18:44:36Z",
     "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
-  },
-  {
-    "id": 39506,
-    "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-    "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T17:35:46Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
-  },
-  {
-    "id": 39505,
-    "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
-    "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T17:00:23Z",
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
   }
 ]
