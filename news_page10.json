@@ -1,5 +1,41 @@
 [
   {
+    "id": 39443,
+    "title": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
+    "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/30dor_crop.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T15:19:15Z",
+    "url": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/"
+  },
+  {
+    "id": 39441,
+    "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
+    "summary": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: “MOSA Interoperability Standards for Space Systems” August 26, 2026 | 9:00 AM – 1:00 PM PDT / […]\nThe post Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026 appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/mosa-logo.png?fit=190%2C190&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T14:58:05Z",
+    "url": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/"
+  },
+  {
+    "id": 39442,
+    "title": "TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
+    "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list […]\nThe post TechnoMile’s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/technomile.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T14:53:22Z",
+    "url": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/"
+  },
+  {
+    "id": 39440,
+    "title": "SpaceX increasing footprint in missile defense",
+    "summary": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business\nThe post SpaceX increasing footprint in missile defense appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-11T14:34:01Z",
+    "url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/"
+  },
+  {
     "id": 39439,
     "title": "Building the Moon Base: NASA Stories at the Ion",
     "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields.  During NASA Stories at the Ion on July 30, Shatel Bhakta, principal systems engineer for NASA’s Moon Base Program, presented “Building the Moon Base: Challenges and Opportunities at the Lunar South Pole.” He discussed the work required to establish a sustained human […]",
@@ -52,41 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T11:13:24Z",
     "url": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/"
-  },
-  {
-    "id": 39432,
-    "title": "Starbase Production lining up future vehicles",
-    "summary": "At SpaceX’s Starbase production site, teams are progressing multiple Starship vehicles through the Production Site…\nThe post Starbase Production lining up future vehicles appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-11-01-29-42-063.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-11T10:12:00Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/"
-  },
-  {
-    "id": 39430,
-    "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-    "summary": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly “Kim” Crider has […]\nThe post Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/PROTEUS_Space-blk.png?fit=265%2C368&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T10:00:00Z",
-    "url": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/"
-  },
-  {
-    "id": 39431,
-    "title": "H3 launches navigation satellite",
-    "summary": "A Japanese H3 rocket successfully launched a navigation satellite Aug. 10, more than seven months after a similar launch ended in failure.\r\nThe post H3 launches navigation satellite appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/h3f9.jpeg?fit=1024%2C582&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T09:52:19Z",
-    "url": "https://spacenews.com/h3-launches-navigation-satellite/"
-  },
-  {
-    "id": 39433,
-    "title": "A total solar eclipse is coming to Europe",
-    "summary": "When the Moon passes between Earth and the Sun, it casts a shadow onto Earth's surface. For people in the darkest part of this shadow, the face of the Sun is totally blocked out, and its wispy atmosphere becomes visible.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/a_total_solar_eclipse_is_coming_to_europe/27412432-3-eng-GB/A_total_solar_eclipse_is_coming_to_Europe_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-11T09:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe"
   }
 ]
