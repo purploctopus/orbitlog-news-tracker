@@ -1,5 +1,23 @@
 [
   {
+    "id": 39516,
+    "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+    "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-15T21:12:33Z",
+    "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/"
+  },
+  {
+    "id": 39515,
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "summary": "\"Flamingo missiles were used. A good achievement.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-15T15:46:05Z",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
+  },
+  {
     "id": 39536,
     "title": "Summer Triangle Corner: Deneb",
     "summary": "Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-14T20:00:38Z",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
-  },
-  {
-    "id": 39507,
-    "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-    "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T18:44:36Z",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
-  },
-  {
-    "id": 39506,
-    "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
-    "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T17:35:46Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
   }
 ]
