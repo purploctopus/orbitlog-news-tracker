@@ -1,5 +1,41 @@
 [
   {
+    "id": 39507,
+    "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+    "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/26-nasa-event-maxpower-fm-16x9-blue.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T18:44:36Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/"
+  },
+  {
+    "id": 39506,
+    "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+    "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Noctilucent_Cloud_Detector_CitSci.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T17:35:46Z",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/"
+  },
+  {
+    "id": 39505,
+    "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+    "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T17:00:23Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
+  },
+  {
+    "id": 39504,
+    "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+    "summary": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. The NOAA […]\nThe post Spire and PlanetiQ win NOAA radio-occultation contracts appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1chatgpt_image-planetiq.png?fit=879%2C586&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-14T16:33:58Z",
+    "url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/"
+  },
+  {
     "id": 39503,
     "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
     "summary": "It turns out that the economics of rocket reuse are pretty, pretty good.",
@@ -52,41 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T12:08:33Z",
     "url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/"
-  },
-  {
-    "id": 39497,
-    "title": "Proba-3’s eclipse hours before totality in Europe",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_s_eclipse_hours_before_totality_in_europe/27416531-1-eng-GB/Proba-3_s_eclipse_hours_before_totality_in_Europe_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-14T12:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Proba-3_s_eclipse_hours_before_totality_in_Europe"
-  },
-  {
-    "id": 39495,
-    "title": "Intuitive Machines wins contract for three GEO satellites",
-    "summary": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.\nThe post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/im1300.jpeg?fit=1024%2C725&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T11:29:03Z",
-    "url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/"
-  },
-  {
-    "id": 39493,
-    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-    "summary": "\"We’ve never seen launch capacity so constrained.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-14T11:00:49Z",
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
-  },
-  {
-    "id": 39494,
-    "title": "A look back at the 2026 total solar eclipse",
-    "summary": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-14T10:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
   }
 ]
