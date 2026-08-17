@@ -1,5 +1,14 @@
 [
   {
+    "id": 39444,
+    "title": "Lion Nebula Roars in Webb’s Sights",
+    "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-11T17:02:49Z",
+    "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/"
+  },
+  {
     "id": 39443,
     "title": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
     "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-11T12:02:48Z",
     "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/"
-  },
-  {
-    "id": 39434,
-    "title": "First Neutron launch may slip to 2027",
-    "summary": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are “narrowing” despite progress on the vehicle’s development.\nThe post First Neutron launch may slip to 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/53195468613_56d31cd71c_k.jpg?fit=1024%2C659&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-11T11:13:24Z",
-    "url": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/"
   }
 ]

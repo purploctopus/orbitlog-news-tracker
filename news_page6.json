@@ -1,5 +1,14 @@
 [
   {
+    "id": 39473,
+    "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+    "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
+  },
+  {
     "id": 39478,
     "title": "Cascade Volcanoes Shrouded in Smoke",
     "summary": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-12T19:33:41Z",
     "url": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/"
-  },
-  {
-    "id": 39464,
-    "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-    "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T17:55:36Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
   }
 ]
