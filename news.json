@@ -1,5 +1,32 @@
 [
   {
+    "id": 39558,
+    "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+    "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T14:00:00Z",
+    "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/"
+  },
+  {
+    "id": 39557,
+    "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
+    "summary": "The Starlink 17-50 mission will add another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:45 p.m. PDT (11:45 p.m. EDT / 0345 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-18T13:13:09Z",
+    "url": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/"
+  },
+  {
+    "id": 39556,
+    "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
+    "summary": "SpaceX has successfully guided Starship Ship 40 to a location just off the coast of…\nThe post Ship 40 arrives at Christmas Island, Plans Return to Starbase appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-18-13-53-12-564.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-18T12:59:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/"
+  },
+  {
     "id": 39555,
     "title": "New report takes closer look at the Space Force spending surge",
     "summary": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control\nThe post New report takes closer look at the Space Force spending surge appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-17T23:10:41Z",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/"
-  },
-  {
-    "id": 39548,
-    "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
-    "summary": "After last week’s Chang Zheng 7A launch failure, China returns to action with the high-profile…\nThe post Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/Launch-first-timers-watch-the-Kuiper-KF-03-mission-from-SLC-40-last-week-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-17T22:19:52Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/"
-  },
-  {
-    "id": 39547,
-    "title": "HEO to use Planet satellites for non-Earth imaging",
-    "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T22:00:00Z",
-    "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
-  },
-  {
-    "id": 39546,
-    "title": "New EU sanctions target leaders of Russia’s space industry",
-    "summary": "JOHANNESBURG — The European Union has sanctioned the head of a Roscosmos subsidiary developing a synthetic aperture radar satellite system for the Russian military. The sanctions are part of what […]\nThe post New EU sanctions target leaders of Russia’s space industry appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/moscow.jpg?fit=1024%2C640&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T21:05:13Z",
-    "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/"
   }
 ]
