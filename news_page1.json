@@ -1,5 +1,14 @@
 [
   {
+    "id": 39559,
+    "title": "NASA’s B777 Gets New Coat of Paint",
+    "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T15:10:36Z",
+    "url": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/"
+  },
+  {
     "id": 39558,
     "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
     "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-18T08:01:49Z",
     "url": "https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/"
-  },
-  {
-    "id": 39549,
-    "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
-    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T23:10:41Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/"
   }
 ]
