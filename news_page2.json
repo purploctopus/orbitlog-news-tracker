@@ -1,5 +1,23 @@
 [
   {
+    "id": 39540,
+    "title": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
+    "summary": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/08/STScI-01KZ4N4D8G9AK26CF28HD5NT5N.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T15:00:11Z",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/"
+  },
+  {
+    "id": 39538,
+    "title": "Hubble & Gaia solve our galaxy's merger mystery",
+    "summary": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T15:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
+  },
+  {
     "id": 39537,
     "title": "Total solar eclipse 2026 (Official ESA broadcast)",
     "summary": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026.",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-17T06:46:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities"
-  },
-  {
-    "id": 39527,
-    "title": "Watch Sophie Adenot’s spacewalk live",
-    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 8 August.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T06:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live"
-  },
-  {
-    "id": 39526,
-    "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
-    "summary": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.\nThe post Lynk and Omnispace form Elveo Mobile to advance D2D services appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T04:30:00Z",
-    "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/"
   }
 ]

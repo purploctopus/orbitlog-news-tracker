@@ -1,5 +1,23 @@
 [
   {
+    "id": 39509,
+    "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
+    "summary": "NASA Administrator Jared Isaacman said today he’s “extremely confident” Artemis III will launch next year to test rendezvous and docking operations between Orion and test versions of the two human […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-14T21:37:50Z",
+    "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/"
+  },
+  {
+    "id": 39508,
+    "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+    "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T20:00:38Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
+  },
+  {
     "id": 39507,
     "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
     "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-14T13:10:00Z",
     "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026"
-  },
-  {
-    "id": 39499,
-    "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
-    "summary": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass […]\nThe post Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in. appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T13:00:00Z",
-    "url": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/"
-  },
-  {
-    "id": 39498,
-    "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-    "summary": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn.\nThe post Blue Origin outlines plans for second Cape Canaveral launch pad appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lc36ab.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T12:08:33Z",
-    "url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/"
   }
 ]

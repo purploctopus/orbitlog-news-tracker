@@ -1,5 +1,23 @@
 [
   {
+    "id": 39469,
+    "title": "Space Command identifies capabilities it needs for the next space war",
+    "summary": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations\nThe post Space Command identifies capabilities it needs for the next space war appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-3.23.57-PM.png?fit=1024%2C500&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-12T22:00:00Z",
+    "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/"
+  },
+  {
+    "id": 39468,
+    "title": "Mike Fincke, a 30-year astronaut with experience across four spacecraft, retires from NASA",
+    "summary": "Mike Fincke trained on the Boeing CST-100 Starliner side of the Commercial Crew Program from January 2019 until his reassignment to the SpaceX Crew-11 mission. His fourth and final mission to the International Space Station launched on Aug. 1, 2025.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260812_Mike_Fincke-1-678x381.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-12T21:24:47Z",
+    "url": "https://spaceflightnow.com/2026/08/12/mike-fincke-a-30-year-astronaut-with-experience-across-four-human-rated-spacecraft-retires-from-nasa/"
+  },
+  {
     "id": 39467,
     "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
     "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-12T14:13:13Z",
     "url": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/"
-  },
-  {
-    "id": 39459,
-    "title": "Golden Dome creates digital hub to expand commercial participation",
-    "summary": "The Golden Dome ‘ecosystem hub’ allows companies to request information and submit ideas\nThe post Golden Dome creates digital hub to expand commercial participation appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/9819415-scaled.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T14:00:00Z",
-    "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/"
-  },
-  {
-    "id": 39458,
-    "title": "China’s iSpace raises first batch of series E funding for reusable rocketry",
-    "summary": "HELSINKI — Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the […]\nThe post China’s iSpace raises first batch of series E funding for reusable rocketry appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Interstellar-Return-recovery-drone-feb2026-ispace-rotated.jpg?fit=867%2C542&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T12:48:16Z",
-    "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/"
   }
 ]

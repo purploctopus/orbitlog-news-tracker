@@ -1,5 +1,23 @@
 [
   {
+    "id": 39518,
+    "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+    "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-15T23:49:58Z",
+    "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/"
+  },
+  {
+    "id": 39517,
+    "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+    "summary": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released…\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-15T22:57:11Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/"
+  },
+  {
     "id": 39516,
     "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
     "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T22:02:28Z",
     "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
-  },
-  {
-    "id": 39509,
-    "title": "Isaacman “Extremely Confident” Artemis III Will Launch in 2027",
-    "summary": "NASA Administrator Jared Isaacman said today he’s “extremely confident” Artemis III will launch next year to test rendezvous and docking operations between Orion and test versions of the two human […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/06/Artemis-3-crew-Robt-Markowitz.webp-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-14T21:37:50Z",
-    "url": "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/"
-  },
-  {
-    "id": 39508,
-    "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
-    "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.  The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/05/liveenable-im3-sustainabilitylogistics-withastros-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T20:00:38Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/"
   }
 ]
