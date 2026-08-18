@@ -1,5 +1,23 @@
 [
   {
+    "id": 39474,
+    "title": "MTG-I1 captures eclipse path of totality over Europe",
+    "summary": "Yesterday between 20:26 and 20:34 CEST, parts of the Iberian peninsula experienced a total solar eclipse. This animation, composed of images from the Meteosat Third Generation Imager satellite (MTG-I1), caught the Moon’s dark shadow as it passed over Earth’s surface – converging with the advancing twilight shadow as dusk fell over Europe.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/mtg-i1_captures_eclipse_path_of_totality_over_europe/27414384-1-eng-GB/MTG-I1_captures_eclipse_path_of_totality_over_Europe_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-13T08:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe"
+  },
+  {
+    "id": 39473,
+    "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+    "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
+  },
+  {
     "id": 39478,
     "title": "Cascade Volcanoes Shrouded in Smoke",
     "summary": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-12T20:08:28Z",
     "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/"
-  },
-  {
-    "id": 39465,
-    "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
-    "summary": "China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,…\nThe post Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/The-fifteeenth-Lijian-1-Kinetica-1-ascends-from-Site-130-at-the-Jiuquan-Satellite-Launch-Center-on-July-24-CAS-Space-scaled.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-12T19:33:41Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/"
-  },
-  {
-    "id": 39464,
-    "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
-    "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0039-003.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-12T17:55:36Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/"
   }
 ]
