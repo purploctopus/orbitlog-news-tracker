@@ -1,5 +1,14 @@
 [
   {
+    "id": 39519,
+    "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
+    "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-15T23:51:27Z",
+    "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/"
+  },
+  {
     "id": 39518,
     "title": "Lunar orbiter among upcoming NASA CLPS task orders",
     "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T22:26:27Z",
     "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/"
-  },
-  {
-    "id": 39510,
-    "title": "Wallops gears up for an increase in launches",
-    "summary": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.\nThe post Wallops gears up for an increase in launches appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-14T22:02:28Z",
-    "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/"
   }
 ]
