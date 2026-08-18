@@ -1,5 +1,23 @@
 [
   {
+    "id": 39493,
+    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+    "summary": "\"We’ve never seen launch capacity so constrained.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-14T11:00:49Z",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
+  },
+  {
+    "id": 39494,
+    "title": "A look back at the 2026 total solar eclipse",
+    "summary": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer atmosphere. Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-14T10:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse"
+  },
+  {
     "id": 39496,
     "title": "A double eclipse for Proba-3",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-13T19:41:23Z",
     "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/"
-  },
-  {
-    "id": 39485,
-    "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-    "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T19:03:19Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
-  },
-  {
-    "id": 39484,
-    "title": "Space Command expands Alabama footprint as headquarters relocation advances",
-    "summary": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin \nThe post Space Command expands Alabama footprint as headquarters relocation advances appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-13T16:27:05Z",
-    "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/"
   }
 ]

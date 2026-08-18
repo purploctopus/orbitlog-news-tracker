@@ -1,5 +1,23 @@
 [
   {
+    "id": 39485,
+    "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
+    "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T19:03:19Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
+  },
+  {
+    "id": 39484,
+    "title": "Space Command expands Alabama footprint as headquarters relocation advances",
+    "summary": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin \nThe post Space Command expands Alabama footprint as headquarters relocation advances appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/IMG_0400-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-13T16:27:05Z",
+    "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/"
+  },
+  {
     "id": 39483,
     "title": "Perseids Meteor Shower",
     "summary": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-13T09:20:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Sophie_Adenot_prepares_for_her_first_spacewalk"
-  },
-  {
-    "id": 39474,
-    "title": "MTG-I1 captures eclipse path of totality over Europe",
-    "summary": "Yesterday between 20:26 and 20:34 CEST, parts of the Iberian peninsula experienced a total solar eclipse. This animation, composed of images from the Meteosat Third Generation Imager satellite (MTG-I1), caught the Moon’s dark shadow as it passed over Earth’s surface – converging with the advancing twilight shadow as dusk fell over Europe.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/mtg-i1_captures_eclipse_path_of_totality_over_europe/27414384-1-eng-GB/MTG-I1_captures_eclipse_path_of_totality_over_Europe_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-13T08:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe"
-  },
-  {
-    "id": 39473,
-    "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
-    "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Total Solar […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
   }
 ]
