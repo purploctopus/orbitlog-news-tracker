@@ -1,5 +1,23 @@
 [
   {
+    "id": 39513,
+    "title": "Rocket Lab advances via series of announcements",
+    "summary": "Rocket Lab has formally established a new subsidiary in Germany and introduced a containerized mobile…\nThe post Rocket Lab advances via series of announcements appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-04-32-28-725.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-15T03:42:01Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/"
+  },
+  {
+    "id": 39512,
+    "title": "NASA Administrator ‘extremely confident’ in Artemis 3 mission in 2027",
+    "summary": "The statement of support came in the midst of announcing a NASA-supported, privately run air and space show happening in early November.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260814_max_power_jared_SFN_AB-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-14T23:51:47Z",
+    "url": "https://spaceflightnow.com/2026/08/14/nasa-administrator-extremely-confident-in-artemis-3-launch-in-2027/"
+  },
+  {
     "id": 39511,
     "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
     "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites\nThe post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T16:33:58Z",
     "url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/"
-  },
-  {
-    "id": 39503,
-    "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-    "summary": "It turns out that the economics of rocket reuse are pretty, pretty good.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-14T16:29:21Z",
-    "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/"
-  },
-  {
-    "id": 39502,
-    "title": "Total Solar Eclipse in Sunflower Field",
-    "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-14T14:48:55Z",
-    "url": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/"
   }
 ]

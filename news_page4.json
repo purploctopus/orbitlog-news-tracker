@@ -1,5 +1,23 @@
 [
   {
+    "id": 39531,
+    "title": "There's a huge launch crunch right now, and it will probably get worse",
+    "summary": "What happens if the Falcon rockets stop flying?",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-17T11:00:26Z",
+    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
+  },
+  {
+    "id": 39530,
+    "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+    "summary": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been […]\nThe post A rocket crashed into the moon. It was harmless, but the next one might not be. appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/moon-base1-scaled.jpg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T11:00:00Z",
+    "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/"
+  },
+  {
     "id": 39529,
     "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
     "summary": "HELSINKI — China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of […]\nThe post Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-08-16T21:36:31Z",
     "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/"
-  },
-  {
-    "id": 39522,
-    "title": "Firefly promote next block of Alpha amid Eclipse progress",
-    "summary": "Firefly Aerospace is advancing on two fronts this month, pushing development of its next-generation medium-lift…\nThe post Firefly promote next block of Alpha amid Eclipse progress appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-16-17-19-57-271.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-16T16:31:26Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/"
-  },
-  {
-    "id": 39521,
-    "title": "U.S. defense agencies tap three companies for satellite disposal study",
-    "summary": "Firefly, D-Orbit and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft\nThe post U.S. defense agencies tap three companies for satellite disposal study appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-16T10:50:00Z",
-    "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/"
   }
 ]
