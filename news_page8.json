@@ -1,5 +1,32 @@
 [
   {
+    "id": 39483,
+    "title": "Perseids Meteor Shower",
+    "summary": "The constellation Orion is framed by two Perseid meteors in this photo from Aug. 12, 2018, in Cedar Breaks National Monument, Utah. The Perseids – one of the year’s brightest and most popular meteor showers – has been ramping up since early July and will sparkle in the skies through the end of August. The […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-13T15:08:34Z",
+    "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2/"
+  },
+  {
+    "id": 39482,
+    "title": "An optical link ‘internet’ to connect networks in space",
+    "summary": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would […]\nThe post An optical link ‘internet’ to connect networks in space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-mbryonics-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-13T14:39:26Z",
+    "url": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/"
+  },
+  {
+    "id": 39481,
+    "title": "Suborbital Rocket Builder Gravitilab Enters Liquidation",
+    "summary": "UK-based Gravitilab Aerospace Services has entered liquidation, with the company announcing in a brief 5 August LinkedIn post that it had “ceased trading.” Documents filed with Companies House on 5 August, but not made available to download and review until 12 August, show that Gravitilab’s shareholders approved a voluntary winding-up at a general meeting held […]\nThe post Suborbital Rocket Builder Gravitilab Enters Liquidation appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/Suborbital-Rocket-Builder-Gravitilab-Enters-Liquidation.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-08-13T14:37:14Z",
+    "url": "https://europeanspaceflight.com/suborbital-rocket-builder-gravitilab-enters-liquidation/"
+  },
+  {
     "id": 39480,
     "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
     "summary": "Paris, France | July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly […]\nThe post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-13T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/"
-  },
-  {
-    "id": 39478,
-    "title": "Cascade Volcanoes Shrouded in Smoke",
-    "summary": "From the International Space Station, astronauts photographed Mount Hood and Mount Rainier as wildfire smoke spread across the Pacific Northwest in summer 2026.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cascade-volcanoes-shrouded-in-smoke/ISS075-E-1705.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/cascade-volcanoes-shrouded-in-smoke/"
-  },
-  {
-    "id": 39472,
-    "title": "Virgin Galactic delays resumption of commercial flights to 2027",
-    "summary": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin Galactic delays resumption of commercial flights to 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/vg-spaceship-aug26.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-13T01:46:10Z",
-    "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/"
-  },
-  {
-    "id": 39471,
-    "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-    "summary": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-12T23:30:00Z",
-    "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/"
   }
 ]
