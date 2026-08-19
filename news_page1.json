@@ -1,5 +1,14 @@
 [
   {
+    "id": 39572,
+    "title": "Fly around Schiaparelli Crater with Mars Express",
+    "summary": "ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-19T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
+  },
+  {
     "id": 39571,
     "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
     "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.  From astronaut training and engineering tests to mission control operations and milestone celebrations, their images preserve the history of exploration while capturing the people and teams behind the missions shaping the next era.   Meet the photographers behind the lens and explore the […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-18T18:03:44Z",
     "url": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/"
-  },
-  {
-    "id": 39562,
-    "title": "The United States is about to wake up to the threat from China's space program",
-    "summary": "One big question, will China assert territorial rights where its rover explores?",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-1776290971.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-18T16:30:07Z",
-    "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"
   }
 ]
