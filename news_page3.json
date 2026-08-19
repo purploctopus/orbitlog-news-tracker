@@ -1,5 +1,50 @@
 [
   {
+    "id": 39559,
+    "title": "NASA’s B777 Gets New Coat of Paint",
+    "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T15:10:36Z",
+    "url": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/"
+  },
+  {
+    "id": 39558,
+    "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+    "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T14:00:00Z",
+    "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/"
+  },
+  {
+    "id": 39557,
+    "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
+    "summary": "The Starlink 17-50 mission will add another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:45 p.m. PDT (11:45 p.m. EDT / 0345 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-18T13:13:09Z",
+    "url": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california/"
+  },
+  {
+    "id": 39556,
+    "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
+    "summary": "SpaceX has successfully guided Starship Ship 40 to a location just off the coast of…\nThe post Ship 40 arrives at Christmas Island, Plans Return to Starbase appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-18-13-53-12-564.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-18T12:59:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/"
+  },
+  {
+    "id": 39555,
+    "title": "New report takes closer look at the Space Force spending surge",
+    "summary": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control\nThe post New report takes closer look at the Space Force spending surge appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/MissileWarningCenter-scaled.jpg?fit=1024%2C664&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-18T12:00:00Z",
+    "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/"
+  },
+  {
     "id": 39554,
     "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
     "summary": "Rochester, NY – August 18, 2026 – Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strategic […]\nThe post Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027 appeared first on SpaceNews.",
@@ -43,50 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-18T08:01:49Z",
     "url": "https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/"
-  },
-  {
-    "id": 39560,
-    "title": "APOD: 2026 August 18 – Perseids from Perseus",
-    "summary": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/"
-  },
-  {
-    "id": 39561,
-    "title": "Lala Batters Hawaii",
-    "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/"
-  },
-  {
-    "id": 39549,
-    "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
-    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T23:10:41Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/"
-  },
-  {
-    "id": 39548,
-    "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
-    "summary": "After last week’s Chang Zheng 7A launch failure, China returns to action with the high-profile…\nThe post Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/Launch-first-timers-watch-the-Kuiper-KF-03-mission-from-SLC-40-last-week-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-17T22:19:52Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/"
-  },
-  {
-    "id": 39547,
-    "title": "HEO to use Planet satellites for non-Earth imaging",
-    "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T22:00:00Z",
-    "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
   }
 ]

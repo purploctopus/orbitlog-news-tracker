@@ -1,5 +1,50 @@
 [
   {
+    "id": 39541,
+    "title": "Colorful Collage of Tarantula Nebula",
+    "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T16:00:09Z",
+    "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
+  },
+  {
+    "id": 39539,
+    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
+    "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T15:09:05Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/"
+  },
+  {
+    "id": 39540,
+    "title": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
+    "summary": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/08/STScI-01KZ4N4D8G9AK26CF28HD5NT5N.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T15:00:11Z",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/"
+  },
+  {
+    "id": 39538,
+    "title": "Hubble & Gaia solve our galaxy's merger mystery",
+    "summary": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T15:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
+  },
+  {
+    "id": 39537,
+    "title": "Total solar eclipse 2026 (Official ESA broadcast)",
+    "summary": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
+  },
+  {
     "id": 39534,
     "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
     "summary": "Christopher Kubasik exits after board investigation into unspecified conduct\nThe post L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down appeared first on SpaceNews.",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-17T11:00:00Z",
     "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/"
-  },
-  {
-    "id": 39529,
-    "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
-    "summary": "HELSINKI — China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of […]\nThe post Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Guowang-group24-CZ12-HCSLC-16aug2026-CASC.jpg?fit=1024%2C679&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T09:56:15Z",
-    "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/"
-  },
-  {
-    "id": 39528,
-    "title": "How digital twins can strengthen the resilience of position, navigation and timing capabilities",
-    "summary": "Earlier this year, the UK National PNT Digital Twin Environment (UPDATE) project, funded under the European Space Agency’s NAVISP programme, reached a key milestone in helping the United Kingdom understand and manage its dependence on positioning, navigation and timing (PNT) across critical national systems.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/06/united_kingdom/16024081-1-eng-GB/United_Kingdom_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T06:46:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities"
-  },
-  {
-    "id": 39527,
-    "title": "Watch Sophie Adenot’s spacewalk live",
-    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 8 August.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T06:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live"
-  },
-  {
-    "id": 39526,
-    "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
-    "summary": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.\nThe post Lynk and Omnispace form Elveo Mobile to advance D2D services appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T04:30:00Z",
-    "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/"
-  },
-  {
-    "id": 39525,
-    "title": "APOD: 2026 August 17 – A Golden Corona Eclipse",
-    "summary": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/GoldCorona_Santos_960.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/"
   }
 ]

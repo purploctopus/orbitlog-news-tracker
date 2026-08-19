@@ -1,5 +1,50 @@
 [
   {
+    "id": 39560,
+    "title": "APOD: 2026 August 18 – Perseids from Perseus",
+    "summary": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/"
+  },
+  {
+    "id": 39561,
+    "title": "Lala Batters Hawaii",
+    "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/"
+  },
+  {
+    "id": 39549,
+    "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
+    "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04976_opgs_edr_fcam_FLB_839253016EDR_F1240348FHAZ00337M_.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T23:10:41Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/"
+  },
+  {
+    "id": 39548,
+    "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
+    "summary": "After last week’s Chang Zheng 7A launch failure, China returns to action with the high-profile…\nThe post Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/10/Launch-first-timers-watch-the-Kuiper-KF-03-mission-from-SLC-40-last-week-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-17T22:19:52Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/"
+  },
+  {
+    "id": 39547,
+    "title": "HEO to use Planet satellites for non-Earth imaging",
+    "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T22:00:00Z",
+    "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
+  },
+  {
     "id": 39546,
     "title": "New EU sanctions target leaders of Russia’s space industry",
     "summary": "JOHANNESBURG — The European Union has sanctioned the head of a Roscosmos subsidiary developing a synthetic aperture radar satellite system for the Russian military. The sanctions are part of what […]\nThe post New EU sanctions target leaders of Russia’s space industry appeared first on SpaceNews.",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-17T16:43:51Z",
     "url": "https://spacenews.com/ula-names-peller-as-new-ceo/"
-  },
-  {
-    "id": 39541,
-    "title": "Colorful Collage of Tarantula Nebula",
-    "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T16:00:09Z",
-    "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
-  },
-  {
-    "id": 39539,
-    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-    "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T15:09:05Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/"
-  },
-  {
-    "id": 39540,
-    "title": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
-    "summary": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/08/STScI-01KZ4N4D8G9AK26CF28HD5NT5N.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T15:00:11Z",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/"
-  },
-  {
-    "id": 39538,
-    "title": "Hubble & Gaia solve our galaxy's merger mystery",
-    "summary": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T15:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
-  },
-  {
-    "id": 39537,
-    "title": "Total solar eclipse 2026 (Official ESA broadcast)",
-    "summary": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
   }
 ]
