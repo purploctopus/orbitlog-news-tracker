@@ -1,5 +1,23 @@
 [
   {
+    "id": 39495,
+    "title": "Intuitive Machines wins contract for three GEO satellites",
+    "summary": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.\nThe post Intuitive Machines wins contract for three GEO satellites appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/im1300.jpeg?fit=1024%2C725&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-14T11:29:03Z",
+    "url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/"
+  },
+  {
+    "id": 39493,
+    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+    "summary": "\"We’ve never seen launch capacity so constrained.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-14T11:00:49Z",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
+  },
+  {
     "id": 39496,
     "title": "A double eclipse for Proba-3",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-13T22:00:00Z",
     "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/"
-  },
-  {
-    "id": 39486,
-    "title": "NASA’s 737 Reveals New Paint",
-    "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June.  The aircraft will perform lunar-gravity parabolic flights to validate […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T19:41:23Z",
-    "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/"
-  },
-  {
-    "id": 39485,
-    "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-    "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dsc-0453-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-13T19:03:19Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39535,
+    "title": "Chasing Fire Clouds in Utah",
+    "summary": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/"
+  },
+  {
+    "id": 39524,
+    "title": "Satellite operators emphasize launch deals in a constrained market",
+    "summary": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.\nThe post Satellite operators emphasize launch deals in a constrained market appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-16T23:05:35Z",
+    "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/"
+  },
+  {
     "id": 39523,
     "title": "What’s Happening in Space Policy August 16-30, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the weeks of August 16-30, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-08-15T21:12:33Z",
     "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/"
-  },
-  {
-    "id": 39515,
-    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-    "summary": "\"Flamingo missiles were used. A good achievement.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-15T15:46:05Z",
-    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
-  },
-  {
-    "id": 39536,
-    "title": "Summer Triangle Corner: Deneb",
-    "summary": "Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/10/cygnusintriangleweb-896-e1698417309133.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-15T10:00:00Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/"
   }
 ]
