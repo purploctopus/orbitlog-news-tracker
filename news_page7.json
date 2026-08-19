@@ -1,5 +1,23 @@
 [
   {
+    "id": 39528,
+    "title": "How digital twins can strengthen the resilience of position, navigation and timing capabilities",
+    "summary": "Earlier this year, the UK National PNT Digital Twin Environment (UPDATE) project, funded under the European Space Agency’s NAVISP programme, reached a key milestone in helping the United Kingdom understand and manage its dependence on positioning, navigation and timing (PNT) across critical national systems.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/06/united_kingdom/16024081-1-eng-GB/United_Kingdom_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T06:46:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities"
+  },
+  {
+    "id": 39527,
+    "title": "Watch Sophie Adenot’s spacewalk live",
+    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 8 August.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T06:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live"
+  },
+  {
     "id": 39526,
     "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
     "summary": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.\nThe post Lynk and Omnispace form Elveo Mobile to advance D2D services appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-16T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/"
-  },
-  {
-    "id": 39519,
-    "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
-    "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-15T23:51:27Z",
-    "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/"
-  },
-  {
-    "id": 39518,
-    "title": "Lunar orbiter among upcoming NASA CLPS task orders",
-    "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-15T23:49:58Z",
-    "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/"
   }
 ]

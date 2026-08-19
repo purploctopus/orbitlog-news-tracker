@@ -1,5 +1,23 @@
 [
   {
+    "id": 39590,
+    "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+    "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/AE14D6E5-F897-4488-A5CC-150A3985FC1C.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-19T20:52:07Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/"
+  },
+  {
+    "id": 39589,
+    "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
+    "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_LandSpace_booster_landing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-19T20:35:51Z",
+    "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/"
+  },
+  {
     "id": 39588,
     "title": "No-Go for Katalyst’s Reboost of NASA’s Swift Observatory",
     "summary": "Katalyst Space and NASA concluded today that reboosting the Swift Observatory with Katalyst’s LINK spacecraft will not be possible due to attitude control problems.  They still plan to conduct some […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-19T16:18:48Z",
     "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
-  },
-  {
-    "id": 39580,
-    "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
-    "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T15:55:10Z",
-    "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/"
-  },
-  {
-    "id": 39579,
-    "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, […]\nThe post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T15:11:52Z",
-    "url": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/"
   }
 ]
