@@ -1,5 +1,14 @@
 [
   {
+    "id": 39582,
+    "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+    "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T18:08:25Z",
+    "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
+  },
+  {
     "id": 39581,
     "title": "Ancient Milky Way Merger",
     "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T12:00:00Z",
     "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/"
-  },
-  {
-    "id": 39572,
-    "title": "Fly around Schiaparelli Crater with Mars Express",
-    "summary": "ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-19T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
   }
 ]
