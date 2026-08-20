@@ -1,5 +1,14 @@
 [
   {
+    "id": 39505,
+    "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+    "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever.  Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/space-weather/20260630_205556_4096_0131.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-14T17:00:23Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/"
+  },
+  {
     "id": 39504,
     "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
     "summary": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. The NOAA […]\nThe post Spire and PlanetiQ win NOAA radio-occultation contracts appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-14T11:29:03Z",
     "url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/"
-  },
-  {
-    "id": 39493,
-    "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-    "summary": "\"We’ve never seen launch capacity so constrained.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-14T11:00:49Z",
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/"
   }
 ]
