@@ -1,5 +1,14 @@
 [
   {
+    "id": 39552,
+    "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+    "summary": "NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters\nThe post NRO to expand use of HawkEye 360’s satellite intelligence appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HPDYEsnWcAAM16m-scaled-e1787001268860.jpeg?fit=1024%2C596&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-18T09:00:00Z",
+    "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/"
+  },
+  {
     "id": 39551,
     "title": "Phoenix 3: concept study for a reusable European spacecraft",
     "summary": "Engineers from the European Space Agency (ESA) and industry partners have completed an intensive concept study for Phoenix 3, a reusable spacecraft designed to fly experiments in microgravity and return them safely to Earth.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-17T20:17:20Z",
     "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/"
-  },
-  {
-    "id": 39544,
-    "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-    "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T19:24:34Z",
-    "url": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/"
   }
 ]

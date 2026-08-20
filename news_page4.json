@@ -1,5 +1,14 @@
 [
   {
+    "id": 39564,
+    "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+    "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T18:49:50Z",
+    "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/"
+  },
+  {
     "id": 39563,
     "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
     "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-18T09:16:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon"
-  },
-  {
-    "id": 39552,
-    "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
-    "summary": "NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters\nThe post NRO to expand use of HawkEye 360’s satellite intelligence appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HPDYEsnWcAAM16m-scaled-e1787001268860.jpeg?fit=1024%2C596&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-18T09:00:00Z",
-    "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39544,
+    "title": "NASA Mission Studies Air Pollution Over Ethiopia",
+    "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in Ethiopia’s capital, Addis Ababa. The detailed measurements show how pollution changes by time of day and season, including increases associated with […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T19:24:34Z",
+    "url": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/"
+  },
+  {
     "id": 39543,
     "title": "Next Generation of Planetary Scientists Learn Public Engagement Skills",
     "summary": "FORCE is a world-class laboratory that uses high-pressure experimental equipment to recreate the extreme conditions found deep within Earth and other planetary bodies, enabling researchers to better understand how planets form, evolve, and behave under immense pressures.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-17T12:23:27Z",
     "url": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/"
-  },
-  {
-    "id": 39532,
-    "title": "SEOPS adds second Waymaker rideshare mission",
-    "summary": "Launch services provider SEOPS has added a second dedicated rideshare mission after seeing high demand for one announced less than three months ago.\nThe post SEOPS adds second Waymaker rideshare mission appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-t17.jpeg?fit=1024%2C575&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T12:00:00Z",
-    "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/"
   }
 ]
