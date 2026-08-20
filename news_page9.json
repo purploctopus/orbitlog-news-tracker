@@ -1,5 +1,50 @@
 [
   {
+    "id": 39527,
+    "title": "Watch Sophie Adenot’s spacewalk live",
+    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 8 August.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T06:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live"
+  },
+  {
+    "id": 39526,
+    "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+    "summary": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.\nThe post Lynk and Omnispace form Elveo Mobile to advance D2D services appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Elveo_image_handset-scaled.png?fit=1024%2C552&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T04:30:00Z",
+    "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/"
+  },
+  {
+    "id": 39525,
+    "title": "APOD: 2026 August 17 – A Golden Corona Eclipse",
+    "summary": "APOD Science APOD APOD: 2026 August 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Golden […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/GoldCorona_Santos_960.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/"
+  },
+  {
+    "id": 39535,
+    "title": "Chasing Fire Clouds in Utah",
+    "summary": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky—towering, smoke-infused pyrocumulonimbus.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/"
+  },
+  {
+    "id": 39524,
+    "title": "Satellite operators emphasize launch deals in a constrained market",
+    "summary": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.\nThe post Satellite operators emphasize launch deals in a constrained market appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-16T23:05:35Z",
+    "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/"
+  },
+  {
     "id": 39523,
     "title": "What’s Happening in Space Policy August 16-30, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the weeks of August 16-30, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
@@ -43,50 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-08-15T23:51:27Z",
     "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/"
-  },
-  {
-    "id": 39518,
-    "title": "Lunar orbiter among upcoming NASA CLPS task orders",
-    "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-15T23:49:58Z",
-    "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/"
-  },
-  {
-    "id": 39517,
-    "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
-    "summary": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released…\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-15T22:57:11Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/"
-  },
-  {
-    "id": 39516,
-    "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
-    "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia’s Progress production facility in Samara. He cited the Progress Center’s role in producing electronics, but Soyuz rockets also […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-15T21:12:33Z",
-    "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/"
-  },
-  {
-    "id": 39515,
-    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-    "summary": "\"Flamingo missiles were used. A good achievement.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-15T15:46:05Z",
-    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/"
-  },
-  {
-    "id": 39536,
-    "title": "Summer Triangle Corner: Deneb",
-    "summary": "Bird constellations abound in the night sky, including Cygnus, the majestic swan. Easy to find with its dazzling stars, it is one of the few constellations that look like its namesake, and it is full of treasures. Visible in the Northern Hemisphere all summer long, there’s so much to see and even some things that […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/10/cygnusintriangleweb-896-e1698417309133.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-15T10:00:00Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/"
   }
 ]
