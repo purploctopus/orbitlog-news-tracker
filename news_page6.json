@@ -1,5 +1,32 @@
 [
   {
+    "id": 39562,
+    "title": "The United States is about to wake up to the threat from China's space program",
+    "summary": "One big question, will China assert territorial rights where its rover explores?",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-1776290971.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-18T16:30:07Z",
+    "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"
+  },
+  {
+    "id": 39559,
+    "title": "NASA’s B777 Gets New Coat of Paint",
+    "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T15:10:36Z",
+    "url": "https://www.nasa.gov/image-article/nasas-b777-gets-new-coat-of-paint/"
+  },
+  {
+    "id": 39558,
+    "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+    "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing critical data […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/grc-1956-c-43327-feature-image.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T14:00:00Z",
+    "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/"
+  },
+  {
     "id": 39557,
     "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
     "summary": "The Starlink 17-50 mission will add another 24 broadband satellites to the company’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 8:45 p.m. PDT (11:45 p.m. EDT / 0345 UTC).",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-18T08:55:00Z",
     "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft"
-  },
-  {
-    "id": 39550,
-    "title": "SpaceX Reverses Starlink Roaming Decision for Polish Customers",
-    "summary": "SpaceX has agreed to keep Poland within Starlink’s European roaming region after the country’s foreign minister threatened to reconsider roughly $50 million in annual payments to the company. The dispute began on 12 Aug. when Polish Deputy Prime Minister and Digital Affairs Minister Krzysztof Gawkowski said Poland had been excluded from a new European region […]\nThe post SpaceX Reverses Starlink Roaming Decision for Polish Customers appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SpaceX-Reverses-Starlink-Roaming-Decision-for-Polish-Customers.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-18T08:01:49Z",
-    "url": "https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/"
-  },
-  {
-    "id": 39560,
-    "title": "APOD: 2026 August 18 – Perseids from Perseus",
-    "summary": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/"
-  },
-  {
-    "id": 39561,
-    "title": "Lala Batters Hawaii",
-    "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/"
   }
 ]
