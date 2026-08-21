@@ -1,5 +1,50 @@
 [
   {
+    "id": 39593,
+    "title": "Hypersonic missile startup Castelion raises $1 billion",
+    "summary": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/081926-Castelion-Blackbeard.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T23:12:41Z",
+    "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/"
+  },
+  {
+    "id": 39592,
+    "title": "Eartheye Space forges strategic partnership with IN2",
+    "summary": "SAN FRANCISCO – Risk-management firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. IN2 will include Eartheye satellite […]\nThe post Eartheye Space forges strategic partnership with IN2 appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T23:07:16Z",
+    "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/"
+  },
+  {
+    "id": 39591,
+    "title": "Space Force Funding Could Be Record High, If Congress Agrees",
+    "summary": "The Administration is requesting $71 billion for the U.S. Space Force in FY2027, more than twice what it has now. An analysis by the Aerospace Corporation concludes it is the […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-19T22:52:06Z",
+    "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/"
+  },
+  {
+    "id": 39590,
+    "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+    "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/AE14D6E5-F897-4488-A5CC-150A3985FC1C.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-19T20:52:07Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/"
+  },
+  {
+    "id": 39589,
+    "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
+    "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_LandSpace_booster_landing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-19T20:35:51Z",
+    "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/"
+  },
+  {
     "id": 39588,
     "title": "No-Go for Katalyst’s Reboost of NASA’s Swift Observatory",
     "summary": "Katalyst Space and NASA concluded today that reboosting the Swift Observatory with Katalyst’s LINK spacecraft will not be possible due to attitude control problems.  They still plan to conduct some […]",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T19:23:06Z",
     "url": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/"
-  },
-  {
-    "id": 39582,
-    "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-    "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T18:08:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
-  },
-  {
-    "id": 39583,
-    "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-    "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T18:02:40Z",
-    "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/"
-  },
-  {
-    "id": 39581,
-    "title": "Ancient Milky Way Merger",
-    "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T16:18:48Z",
-    "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
-  },
-  {
-    "id": 39580,
-    "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
-    "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T15:55:10Z",
-    "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/"
-  },
-  {
-    "id": 39579,
-    "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, […]\nThe post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T15:11:52Z",
-    "url": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/"
   }
 ]
