@@ -1,5 +1,23 @@
 [
   {
+    "id": 39532,
+    "title": "SEOPS adds second Waymaker rideshare mission",
+    "summary": "Launch services provider SEOPS has added a second dedicated rideshare mission after seeing high demand for one announced less than three months ago.\nThe post SEOPS adds second Waymaker rideshare mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/f9-t17.jpeg?fit=1024%2C575&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T12:00:00Z",
+    "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/"
+  },
+  {
+    "id": 39531,
+    "title": "There's a huge launch crunch right now, and it will probably get worse",
+    "summary": "What happens if the Falcon rockets stop flying?",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-17T11:00:26Z",
+    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
+  },
+  {
     "id": 39530,
     "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
     "summary": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been […]\nThe post A rocket crashed into the moon. It was harmless, but the next one might not be. appeared first on SpaceNews.",
@@ -27,15 +45,6 @@
     "url": "https://www.esa.int/Applications/Satellite_navigation/How_digital_twins_can_strengthen_the_resilience_of_position_navigation_and_timing_capabilities"
   },
   {
-    "id": 39622,
-    "title": "Watch Sophie Adenot’s first spacewalk live",
-    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T06:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_first_spacewalk_live"
-  },
-  {
     "id": 39527,
     "title": "Watch Sophie Adenot’s spacewalk live",
     "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 8 August.",
@@ -43,6 +52,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-17T06:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live"
+  },
+  {
+    "id": 39622,
+    "title": "Watch Sophie Adenot’s first spacewalk live",
+    "summary": "Watch ESA astronaut Sophie Adenot venture into the vacuum of space for her first-ever spacewalk on Tuesday, 18 August.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sophie_adenot_checks_spacesuit/27415335-1-eng-GB/Sophie_Adenot_checks_spacesuit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-17T06:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_first_spacewalk_live"
   },
   {
     "id": 39526,
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-17T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/"
-  },
-  {
-    "id": 39524,
-    "title": "Satellite operators emphasize launch deals in a constrained market",
-    "summary": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.\nThe post Satellite operators emphasize launch deals in a constrained market appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-16T23:05:35Z",
-    "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/"
-  },
-  {
-    "id": 39523,
-    "title": "What’s Happening in Space Policy August 16-30, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the weeks of August 16-30, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Sophie-Adenot-credit-ESA-292x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-16T21:36:31Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-16-30-2026/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39626,
+    "title": "Week in images: 17-21 August 2026",
+    "summary": "Week in images: 17-21 August 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/cassiopee_epsilon_floating_in_the_cupola2/27426038-2-eng-GB/Cassiopee_epsilon_floating_in_the_Cupola_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-21T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026"
+  },
+  {
+    "id": 39625,
+    "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+    "summary": "Policy documents from both the White House and the Office of Space Commerce this summer acknowledge that space is a complex system, as to which forms of adaptive governance should […]\nThe post The COSMOSIS framework can ensure that Washington governs space with its complexity in mind. appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/artemis2-earth.jpeg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-21T13:00:00Z",
+    "url": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind/"
+  },
+  {
     "id": 39623,
     "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
     "summary": "HELSINKI — Chinese commercial launch firm Landspace is targeting a reflight of its Zhuque-3 first stage in months, following its historic successful vertical landing Aug. 18. A company representative told […]\nThe post Landspace aims to refly recovered Zhuque-3 booster within six months appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T21:44:35Z",
     "url": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/"
-  },
-  {
-    "id": 39615,
-    "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-    "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-20T21:40:52Z",
-    "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
-  },
-  {
-    "id": 39614,
-    "title": "SmallSat 2026",
-    "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-20T20:05:41Z",
-    "url": "https://science.nasa.gov/earth/smallsat-2026/"
   }
 ]

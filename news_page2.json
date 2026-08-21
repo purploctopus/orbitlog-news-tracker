@@ -1,5 +1,23 @@
 [
   {
+    "id": 39615,
+    "title": "Europe cancels planned upgrades for Ariane 6 rocket",
+    "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-20T21:40:52Z",
+    "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/"
+  },
+  {
+    "id": 39614,
+    "title": "SmallSat 2026",
+    "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-20T20:05:41Z",
+    "url": "https://science.nasa.gov/earth/smallsat-2026/"
+  },
+  {
     "id": 39613,
     "title": "What’s next for ISR in space",
     "summary": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May […]\nThe post What’s next for ISR in space appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-20T14:12:09Z",
     "url": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/"
-  },
-  {
-    "id": 39603,
-    "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-    "summary": "Portal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads.\nThe post Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T13:00:00Z",
-    "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/"
-  },
-  {
-    "id": 39604,
-    "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-    "summary": "San Diego, CA – Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion™ product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. […]\nThe post Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/RWC-square.jpg?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T13:00:00Z",
-    "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/"
   }
 ]
