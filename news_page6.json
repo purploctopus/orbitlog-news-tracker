@@ -1,5 +1,14 @@
 [
   {
+    "id": 39575,
+    "title": "The space industry’s next challenge: supply chain resilience",
+    "summary": "America’s space economy is scaling faster than its industrial base can support. Commercial constellations are proliferating, national security architectures are becoming more distributed and resilient and civil missions are growing […]\nThe post The space industry’s next challenge: supply chain resilience appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T13:00:00Z",
+    "url": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/"
+  },
+  {
     "id": 39574,
     "title": "Vantor names new head of U.S. government business",
     "summary": "Will Cocos succeeds Susanne Hake as executive vice president and general manager of the the Earth intelligence company’s government business\nThe post Vantor names new head of U.S. government business appeared first on SpaceNews.",
@@ -16,6 +25,15 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T12:00:00Z",
     "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/"
+  },
+  {
+    "id": 39627,
+    "title": "ESA astronaut Sophie Adenot during EVA-97",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-975/27426490-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-97_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-19T09:29:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/ESA_astronaut_Sophie_Adenot_during_EVA-975"
   },
   {
     "id": 39572,
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T01:05:21Z",
     "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/"
-  },
-  {
-    "id": 39566,
-    "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
-    "summary": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX\nThe post Rocket Lab to test Space Force data network connection in orbit in 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-18T22:52:36Z",
-    "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/"
-  },
-  {
-    "id": 39565,
-    "title": "Astronauts remove failed antenna; run out of time to install a spare",
-    "summary": "It was the 282nd EVA devoted to station assembly and maintenance, the fifth so far this year, the second for Menon and the first for Adenot, now the first French woman to walk in space. Total ISS EVA time now stands at 74 days 10 hours and 44 minutes since station assembly began in 1998.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260818_antanna_stowed.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-18T20:13:57Z",
-    "url": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/"
   }
 ]
