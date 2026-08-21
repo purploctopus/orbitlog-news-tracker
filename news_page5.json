@@ -1,5 +1,14 @@
 [
   {
+    "id": 39580,
+    "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+    "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T15:55:10Z",
+    "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/"
+  },
+  {
     "id": 39579,
     "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
     "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, […]\nThe post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-19T05:02:06Z",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/"
-  },
-  {
-    "id": 39570,
-    "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
-    "summary": "APOD Science APOD APOD: 2026 August 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/"
   }
 ]

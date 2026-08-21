@@ -1,5 +1,14 @@
 [
   {
+    "id": 39561,
+    "title": "Lala Batters Hawaii",
+    "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/"
+  },
+  {
     "id": 39549,
     "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
     "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-17T16:00:09Z",
     "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
-  },
-  {
-    "id": 39539,
-    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-    "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T15:09:05Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/"
   }
 ]
