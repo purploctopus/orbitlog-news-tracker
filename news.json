@@ -1,5 +1,32 @@
 [
   {
+    "id": 39631,
+    "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+    "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:41:00Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
+  },
+  {
+    "id": 39630,
+    "title": "Webb Opens Treasure Chest",
+    "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:35:11Z",
+    "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
+  },
+  {
+    "id": 39629,
+    "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+    "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:06:36Z",
+    "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/"
+  },
+  {
     "id": 39628,
     "title": "Watch Sophie Adenot’s second spacewalk live",
     "summary": "After a successful EVA-97 on Tuesday 18 August, watch ESA astronaut Sophie Adenot venture into the vacuum of space for the second time on Tuesday 25 August, during EVA-98.",
@@ -61,32 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-08-21T03:12:05Z",
     "url": "https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/"
-  },
-  {
-    "id": 39619,
-    "title": "New space transportation policy focuses on increased launch rates",
-    "summary": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries.\nThe post New space transportation policy focuses on increased launch rates appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HNZKBrTWYAAvWKc-scaled.jpeg?fit=1024%2C653&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T23:30:13Z",
-    "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/"
-  },
-  {
-    "id": 39618,
-    "title": "Golden Dome chief touts progress as funding questions loom",
-    "summary": "Guetlein joins North Dakota senators in making the case for the missile defense program \nThe post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-4.31.16-PM-scaled.png?fit=1024%2C516&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T23:02:34Z",
-    "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
-  },
-  {
-    "id": 39617,
-    "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-    "summary": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn’t just […]\nThe post Elve qualifies millimeter-wave amplifiers for spaceflight appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/rsz_elve.jpg?fit=879%2C532&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T22:51:53Z",
-    "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/"
   }
 ]
