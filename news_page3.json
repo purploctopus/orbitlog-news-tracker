@@ -1,5 +1,23 @@
 [
   {
+    "id": 39602,
+    "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
+    "summary": "HELSINKI — China will launch a complex, multi-spacecraft mission late Sunday to study and land near the lunar south pole, including a search for evidence of water-ice. A Long March […]\nThe post China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/shackleton-crater-mosaic-LRO-ShadowCam-NASA-KARI-ASU.jpg?fit=862%2C500&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-20T12:48:21Z",
+    "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/"
+  },
+  {
+    "id": 39601,
+    "title": "Map of Europe's Spaceport",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/map_of_europe_s_spaceport/27424823-1-eng-GB/Map_of_Europe_s_Spaceport_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-20T11:28:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Map_of_Europe_s_Spaceport"
+  },
+  {
     "id": 39600,
     "title": "Muon Space raises $250 million to ramp up satellite production",
     "summary": "Muon Space has raised $250 million to fuel the small satellite specialist’s push into larger, more powerful spacecraft and constellations.\nThe post Muon Space raises $250 million to ramp up satellite production appeared first on SpaceNews.",
@@ -9,15 +27,6 @@
     "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/"
   },
   {
-    "id": 39599,
-    "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-    "summary": "LOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, […]\nThe post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Draper750px.png?fit=750%2C750&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T10:00:00Z",
-    "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/"
-  },
-  {
     "id": 39598,
     "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
     "summary": "SAN FRANCISCO / PERTH, 20 AUGUST 2026: LatConnect 60 (LC60) has signed a commercial contract with Transcelestial for an optical communications terminal on its SWIRSAT-1 mission, plus access to Transcelestial’s […]\nThe post LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation appeared first on SpaceNews.",
@@ -25,6 +34,15 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T10:00:00Z",
     "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/"
+  },
+  {
+    "id": 39599,
+    "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+    "summary": "LOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, […]\nThe post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Draper750px.png?fit=750%2C750&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-20T10:00:00Z",
+    "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/"
   },
   {
     "id": 39597,
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T23:12:41Z",
     "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/"
-  },
-  {
-    "id": 39592,
-    "title": "Eartheye Space forges strategic partnership with IN2",
-    "summary": "SAN FRANCISCO – Risk-management firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. IN2 will include Eartheye satellite […]\nThe post Eartheye Space forges strategic partnership with IN2 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T23:07:16Z",
-    "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/"
-  },
-  {
-    "id": 39591,
-    "title": "Space Force Funding Could Be Record High, If Congress Agrees",
-    "summary": "The Administration is requesting $71 billion for the U.S. Space Force in FY2027, more than twice what it has now. An analysis by the Aerospace Corporation concludes it is the […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-19T22:52:06Z",
-    "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/"
   }
 ]

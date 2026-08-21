@@ -1,5 +1,23 @@
 [
   {
+    "id": 39542,
+    "title": "ULA names Peller as new CEO",
+    "summary": "United Launch Alliance has named Mark Peller, a longtime manager and executive at the company, as its new chief executive.\nThe post ULA names Peller as new CEO appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T16:43:51Z",
+    "url": "https://spacenews.com/ula-names-peller-as-new-ceo/"
+  },
+  {
+    "id": 39541,
+    "title": "Colorful Collage of Tarantula Nebula",
+    "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-17T16:00:09Z",
+    "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
+  },
+  {
     "id": 39539,
     "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
     "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-08-17T11:00:26Z",
     "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
-  },
-  {
-    "id": 39530,
-    "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-    "summary": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been […]\nThe post A rocket crashed into the moon. It was harmless, but the next one might not be. appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/moon-base1-scaled.jpg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T11:00:00Z",
-    "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/"
-  },
-  {
-    "id": 39529,
-    "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
-    "summary": "HELSINKI — China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of […]\nThe post Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Guowang-group24-CZ12-HCSLC-16aug2026-CASC.jpg?fit=1024%2C679&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T09:56:15Z",
-    "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/"
   }
 ]
