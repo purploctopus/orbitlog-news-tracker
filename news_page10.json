@@ -1,5 +1,23 @@
 [
   {
+    "id": 39560,
+    "title": "APOD: 2026 August 18 – Perseids from Perseus",
+    "summary": "APODScienceAPODAPOD: 2026 August 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Perseids from Perseus Explanation: This was a good year for the Perseids meteor shower. A key reason was the Moon was […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Perseids_karuk_3000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-18-perseids-from-perseus/"
+  },
+  {
+    "id": 39561,
+    "title": "Lala Batters Hawaii",
+    "summary": "The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category 1 hurricane.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-18T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/lala-batters-hawaii/"
+  },
+  {
     "id": 39549,
     "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
     "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Aug. 7, 2026 This week was very special for the Curiosity team here on Earth as we celebrated the 14th landing anniversary. I still remember watching the buildup to the entry phase on “Eyes on the Solar System” […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-17T16:43:51Z",
     "url": "https://spacenews.com/ula-names-peller-as-new-ceo/"
-  },
-  {
-    "id": 39541,
-    "title": "Colorful Collage of Tarantula Nebula",
-    "summary": "Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T16:00:09Z",
-    "url": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
-  },
-  {
-    "id": 39539,
-    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-    "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface.  To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.  Five teams from 128 submissions and 49 countries advanced to the final phase of the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T15:09:05Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/"
   }
 ]
