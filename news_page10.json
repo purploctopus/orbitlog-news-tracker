@@ -1,5 +1,14 @@
 [
   {
+    "id": 39547,
+    "title": "HEO to use Planet satellites for non-Earth imaging",
+    "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-17T22:00:00Z",
+    "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
+  },
+  {
     "id": 39546,
     "title": "New EU sanctions target leaders of Russia’s space industry",
     "summary": "JOHANNESBURG — The European Union has sanctioned the head of a Roscosmos subsidiary developing a synthetic aperture radar satellite system for the Russian military. The sanctions are part of what […]\nThe post New EU sanctions target leaders of Russia’s space industry appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-17T15:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery"
-  },
-  {
-    "id": 39537,
-    "title": "Total solar eclipse 2026 (Official ESA broadcast)",
-    "summary": "We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-17T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast"
   }
 ]
