@@ -1,5 +1,14 @@
 [
   {
+    "id": 39587,
+    "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+    "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/techleap-logo-crop.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T19:57:48Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/"
+  },
+  {
     "id": 39585,
     "title": "Parse.ly Test",
     "summary": "NASA commercial cargo provider SpaceX is targeting 11:39 a.m. EST Saturday, Dec. 5, for the launch of its 21st commercial resupply services (CRS-21) mission to the International Space Station from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. CRS-21 will deliver science investigations, supplies, and equipment for NASA and is the first […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-19T15:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Replay_MTG-I2_pre-launch_media_briefing"
-  },
-  {
-    "id": 39577,
-    "title": "LandSpace Scores First Booster Landing",
-    "summary": "The commercial company LandSpace safely landed the first stage booster of their Zhuque-3 rocket on August 19th.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/landed-booster.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-08-19T14:23:41Z",
-    "url": "https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/"
   }
 ]

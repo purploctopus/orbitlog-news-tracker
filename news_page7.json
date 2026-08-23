@@ -1,5 +1,14 @@
 [
   {
+    "id": 39577,
+    "title": "LandSpace Scores First Booster Landing",
+    "summary": "The commercial company LandSpace safely landed the first stage booster of their Zhuque-3 rocket on August 19th.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/landed-booster.png",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-19T14:23:41Z",
+    "url": "https://www.spacescout.info/2026/08/landspace-scores-first-booster-landing/"
+  },
+  {
     "id": 39576,
     "title": "Career Spotlight: Mechanic (Ages 14-18)",
     "summary": "What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-19T03:23:54Z",
     "url": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/"
-  },
-  {
-    "id": 39568,
-    "title": "Space nuclear programs face near- and long-term challenges",
-    "summary": "While space nuclear programs are “having a moment,” industry officials say they face near-term challenges as well as longer-term concerns.\nThe post Space nuclear programs face near- and long-term challenges appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sr-1-freedom.jpeg?fit=1024%2C552&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T02:36:51Z",
-    "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/"
   }
 ]

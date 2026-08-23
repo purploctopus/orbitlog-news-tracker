@@ -1,5 +1,14 @@
 [
   {
+    "id": 39630,
+    "title": "Webb Opens Treasure Chest",
+    "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:35:11Z",
+    "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
+  },
+  {
     "id": 39629,
     "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
     "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T23:30:13Z",
     "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/"
-  },
-  {
-    "id": 39618,
-    "title": "Golden Dome chief touts progress as funding questions loom",
-    "summary": "Guetlein joins North Dakota senators in making the case for the missile defense program \nThe post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-4.31.16-PM-scaled.png?fit=1024%2C516&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T23:02:34Z",
-    "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
   }
 ]
