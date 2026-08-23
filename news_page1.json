@@ -1,5 +1,14 @@
 [
   {
+    "id": 39641,
+    "title": "LandSpace’s Zhuque-3 topples following milestone landing",
+    "summary": "LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage…\nThe post LandSpace’s Zhuque-3 topples following milestone landing appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-23T18:57:05Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/"
+  },
+  {
     "id": 39640,
     "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
     "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-21T18:43:40Z",
     "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
-  },
-  {
-    "id": 39631,
-    "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-    "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-21T17:41:00Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
   }
 ]
