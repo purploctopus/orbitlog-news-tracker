@@ -1,5 +1,41 @@
 [
   {
+    "id": 39575,
+    "title": "The space industry’s next challenge: supply chain resilience",
+    "summary": "America’s space economy is scaling faster than its industrial base can support. Commercial constellations are proliferating, national security architectures are becoming more distributed and resilient and civil missions are growing […]\nThe post The space industry’s next challenge: supply chain resilience appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260716-X-X0813-1001-scaled.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T13:00:00Z",
+    "url": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/"
+  },
+  {
+    "id": 39574,
+    "title": "Vantor names new head of U.S. government business",
+    "summary": "Will Cocos succeeds Susanne Hake as executive vice president and general manager of the the Earth intelligence company’s government business\nThe post Vantor names new head of U.S. government business appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_1worldview_3d_rapid_dalian_china_before__after.png?fit=879%2C651&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T12:18:15Z",
+    "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/"
+  },
+  {
+    "id": 39573,
+    "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
+    "summary": "Firefly Aerospace will fly a payload from Zeno Power on an upcoming lunar lander mission to test a radioisotope heat source to enable future missions to survive the lunar night.\nThe post Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/fireflyzeno.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T12:00:00Z",
+    "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission/"
+  },
+  {
+    "id": 39627,
+    "title": "ESA astronaut Sophie Adenot during EVA-97",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-975/27426490-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-97_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-19T09:29:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/ESA_astronaut_Sophie_Adenot_during_EVA-975"
+  },
+  {
     "id": 39572,
     "title": "Fly around Schiaparelli Crater with Mars Express",
     "summary": "ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars.",
@@ -52,41 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T01:05:21Z",
     "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/"
-  },
-  {
-    "id": 39566,
-    "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
-    "summary": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX\nThe post Rocket Lab to test Space Force data network connection in orbit in 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-18T22:52:36Z",
-    "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/"
-  },
-  {
-    "id": 39565,
-    "title": "Astronauts remove failed antenna; run out of time to install a spare",
-    "summary": "It was the 282nd EVA devoted to station assembly and maintenance, the fifth so far this year, the second for Menon and the first for Adenot, now the first French woman to walk in space. Total ISS EVA time now stands at 74 days 10 hours and 44 minutes since station assembly began in 1998.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260818_antanna_stowed.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-18T20:13:57Z",
-    "url": "https://spaceflightnow.com/2026/08/18/astronauts-remove-failed-antenna-run-out-of-time-to-install-a-spare/"
-  },
-  {
-    "id": 39564,
-    "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-    "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/missions/lro/NASA_LRO_Falcon9impact_2026_GIF.gif",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T18:49:50Z",
-    "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/"
-  },
-  {
-    "id": 39563,
-    "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
-    "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-18T18:03:44Z",
-    "url": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/"
   }
 ]
