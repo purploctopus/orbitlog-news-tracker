@@ -1,5 +1,23 @@
 [
   {
+    "id": 39555,
+    "title": "New report takes closer look at the Space Force spending surge",
+    "summary": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control\nThe post New report takes closer look at the Space Force spending surge appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/MissileWarningCenter-scaled.jpg?fit=1024%2C664&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-18T12:00:00Z",
+    "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/"
+  },
+  {
+    "id": 39553,
+    "title": "Hera's Mars flyby guided impact study of Deimos moon",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/simulation_of_deimos_impact/27417261-2-eng-GB/Simulation_of_Deimos_impact_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-18T09:16:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon"
+  },
+  {
     "id": 39552,
     "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
     "summary": "NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters\nThe post NRO to expand use of HawkEye 360’s satellite intelligence appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-17T22:00:00Z",
     "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/"
-  },
-  {
-    "id": 39546,
-    "title": "New EU sanctions target leaders of Russia’s space industry",
-    "summary": "JOHANNESBURG — The European Union has sanctioned the head of a Roscosmos subsidiary developing a synthetic aperture radar satellite system for the Russian military. The sanctions are part of what […]\nThe post New EU sanctions target leaders of Russia’s space industry appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/moscow.jpg?fit=1024%2C640&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-17T21:05:13Z",
-    "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/"
-  },
-  {
-    "id": 39545,
-    "title": "NASA Selects Companies to Provide Payload Processing Services",
-    "summary": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-17T20:17:20Z",
-    "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/"
   }
 ]
