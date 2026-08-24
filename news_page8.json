@@ -1,5 +1,14 @@
 [
   {
+    "id": 39576,
+    "title": "Career Spotlight: Mechanic (Ages 14-18)",
+    "summary": "What does a mechanic do? Machines and engines are all around us. They power everything from cars and boats to airplanes and even rockets. Mechanics are experts who know how machinery works, especially engines, and how to fix them. When you think of a mechanic, you might picture someone working on cars. But mechanics can […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20190326-PH_KLS01_0047/KSC-20190326-PH_KLS01_0047~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T13:48:20Z",
+    "url": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/"
+  },
+  {
     "id": 39575,
     "title": "The space industry’s next challenge: supply chain resilience",
     "summary": "America’s space economy is scaling faster than its industrial base can support. Commercial constellations are proliferating, national security architectures are becoming more distributed and resilient and civil missions are growing […]\nThe post The space industry’s next challenge: supply chain resilience appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T02:36:51Z",
     "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/"
-  },
-  {
-    "id": 39567,
-    "title": "China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
-    "summary": "HELSINKI — Landspace successfully landed the first stage of its Zhuque-3 rocket Tuesday following the second launch of the rocket from the Gobi Desert. The second Zhuque-3 rocket lifted off […]\nThe post China’s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Zhuque-3-Y2-liftoff-18aug2026-Landspace.jpg?fit=1024%2C573&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T01:05:21Z",
-    "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/"
   }
 ]

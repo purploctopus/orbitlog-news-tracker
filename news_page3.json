@@ -1,5 +1,14 @@
 [
   {
+    "id": 39629,
+    "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+    "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/artemis-ii-crew-at-wh-aug-19.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:06:36Z",
+    "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/"
+  },
+  {
     "id": 39628,
     "title": "Watch Sophie Adenot’s second spacewalk live",
     "summary": "After a successful EVA-97 on Tuesday 18 August, watch ESA astronaut Sophie Adenot venture into the vacuum of space for the second time on Tuesday 25 August, during EVA-98.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T23:02:34Z",
     "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
-  },
-  {
-    "id": 39617,
-    "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-    "summary": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn’t just […]\nThe post Elve qualifies millimeter-wave amplifiers for spaceflight appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/rsz_elve.jpg?fit=879%2C532&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T22:51:53Z",
-    "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/"
   }
 ]
