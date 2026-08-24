@@ -1,5 +1,14 @@
 [
   {
+    "id": 39644,
+    "title": "What Lake Bonneville Left Behind",
+    "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
+  },
+  {
     "id": 39643,
     "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
     "summary": "With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…\nThe post NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-21T19:48:14Z",
     "url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/"
-  },
-  {
-    "id": 39633,
-    "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
-    "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-21T18:53:18Z",
-    "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/"
   }
 ]

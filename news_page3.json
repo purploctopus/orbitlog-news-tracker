@@ -1,5 +1,14 @@
 [
   {
+    "id": 39624,
+    "title": "Sentinel-1 captures major ice loss from Greenland glacier",
+    "summary": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_glacier_calves_huge_iceberg/27425701-1-eng-GB/Petermann_Glacier_calves_huge_iceberg_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-21T08:22:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier"
+  },
+  {
     "id": 39621,
     "title": "Europe’s Scorching Summer",
     "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T17:21:33Z",
     "url": "https://spacenews.com/whats-next-for-isr-in-space/"
-  },
-  {
-    "id": 39611,
-    "title": "Rocket Lab launches 9th satellite for iQPS",
-    "summary": "Rocket Lab launched another satellite for Japanese radar-imaging company iQPS on Aug. 20.\nThe post Rocket Lab launches 9th satellite for iQPS appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/electron93.jpeg?fit=1024%2C755&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T16:38:31Z",
-    "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/"
   }
 ]

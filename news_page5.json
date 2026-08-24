@@ -1,5 +1,14 @@
 [
   {
+    "id": 39601,
+    "title": "Map of Europe's Spaceport",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/map_of_europe_s_spaceport/27424823-1-eng-GB/Map_of_Europe_s_Spaceport_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-20T11:28:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Map_of_Europe_s_Spaceport"
+  },
+  {
     "id": 39600,
     "title": "Muon Space raises $250 million to ramp up satellite production",
     "summary": "Muon Space has raised $250 million to fuel the small satellite specialist’s push into larger, more powerful spacecraft and constellations.\nThe post Muon Space raises $250 million to ramp up satellite production appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-19T23:07:16Z",
     "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/"
-  },
-  {
-    "id": 39591,
-    "title": "Space Force Funding Could Be Record High, If Congress Agrees",
-    "summary": "The Administration is requesting $71 billion for the U.S. Space Force in FY2027, more than twice what it has now. An analysis by the Aerospace Corporation concludes it is the […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-19T22:52:06Z",
-    "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/"
   }
 ]

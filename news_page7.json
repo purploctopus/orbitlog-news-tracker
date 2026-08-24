@@ -1,5 +1,14 @@
 [
   {
+    "id": 39581,
+    "title": "Ancient Milky Way Merger",
+    "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T16:18:48Z",
+    "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
+  },
+  {
     "id": 39580,
     "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
     "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-19T09:29:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/ESA_astronaut_Sophie_Adenot_during_EVA-975"
-  },
-  {
-    "id": 39572,
-    "title": "Fly around Schiaparelli Crater with Mars Express",
-    "summary": "ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-19T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
   }
 ]

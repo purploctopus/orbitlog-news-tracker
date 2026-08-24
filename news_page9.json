@@ -1,5 +1,14 @@
 [
   {
+    "id": 39562,
+    "title": "The United States is about to wake up to the threat from China's space program",
+    "summary": "One big question, will China assert territorial rights where its rover explores?",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/shadowcam_shackleton_crater_mosaic_072823-1776290971.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-18T16:30:07Z",
+    "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/"
+  },
+  {
     "id": 39559,
     "title": "NASA’s B777 Gets New Coat of Paint",
     "summary": "NASA’s Boeing 777 shows off a new paint job in this Aug. 11, 2026, photo. The B777 was acquired to replace and extend the capabilities of the NASA DC-8, which was retired in 2024. The B777, set to begin operations from NASA’s Langley Research Center in Hampton, Virginia in 2027, will be a unique flying […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-18T08:55:00Z",
     "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Phoenix_3_concept_study_for_a_reusable_European_spacecraft"
-  },
-  {
-    "id": 39550,
-    "title": "SpaceX Reverses Starlink Roaming Decision for Polish Customers",
-    "summary": "SpaceX has agreed to keep Poland within Starlink’s European roaming region after the country’s foreign minister threatened to reconsider roughly $50 million in annual payments to the company. The dispute began on 12 Aug. when Polish Deputy Prime Minister and Digital Affairs Minister Krzysztof Gawkowski said Poland had been excluded from a new European region […]\nThe post SpaceX Reverses Starlink Roaming Decision for Polish Customers appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SpaceX-Reverses-Starlink-Roaming-Decision-for-Polish-Customers.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-18T08:01:49Z",
-    "url": "https://europeanspaceflight.com/spacex-reverses-starlink-roaming-decision-for-polish-customers/"
   }
 ]

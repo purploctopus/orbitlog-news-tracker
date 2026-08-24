@@ -1,5 +1,14 @@
 [
   {
+    "id": 39633,
+    "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+    "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-21T18:53:18Z",
+    "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/"
+  },
+  {
     "id": 39632,
     "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
     "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…\nThe post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-21T08:54:11Z",
     "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/"
-  },
-  {
-    "id": 39624,
-    "title": "Sentinel-1 captures major ice loss from Greenland glacier",
-    "summary": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_glacier_calves_huge_iceberg/27425701-1-eng-GB/Petermann_Glacier_calves_huge_iceberg_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-21T08:22:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier"
   }
 ]

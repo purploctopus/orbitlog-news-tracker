@@ -1,5 +1,14 @@
 [
   {
+    "id": 39591,
+    "title": "Space Force Funding Could Be Record High, If Congress Agrees",
+    "summary": "The Administration is requesting $71 billion for the U.S. Space Force in FY2027, more than twice what it has now. An analysis by the Aerospace Corporation concludes it is the […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-19T22:52:06Z",
+    "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/"
+  },
+  {
     "id": 39590,
     "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
     "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-19T18:02:40Z",
     "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/"
-  },
-  {
-    "id": 39581,
-    "title": "Ancient Milky Way Merger",
-    "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T16:18:48Z",
-    "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
   }
 ]
