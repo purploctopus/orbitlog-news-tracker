@@ -1,5 +1,50 @@
 [
   {
+    "id": 39633,
+    "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+    "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-21T18:53:18Z",
+    "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/"
+  },
+  {
+    "id": 39632,
+    "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
+    "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…\nThe post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-21T18:45:52Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/"
+  },
+  {
+    "id": 39634,
+    "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+    "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T18:43:40Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
+  },
+  {
+    "id": 39631,
+    "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+    "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:41:00Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/"
+  },
+  {
+    "id": 39630,
+    "title": "Webb Opens Treasure Chest",
+    "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T17:35:11Z",
+    "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/"
+  },
+  {
     "id": 39629,
     "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
     "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-21T08:54:11Z",
     "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/"
-  },
-  {
-    "id": 39624,
-    "title": "Sentinel-1 captures major ice loss from Greenland glacier",
-    "summary": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_glacier_calves_huge_iceberg/27425701-1-eng-GB/Petermann_Glacier_calves_huge_iceberg_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-21T08:22:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier"
-  },
-  {
-    "id": 39621,
-    "title": "Europe’s Scorching Summer",
-    "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-21T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
-  },
-  {
-    "id": 39620,
-    "title": "White House Releases New Space Transportation Policy",
-    "summary": "The White House released a new space transportation policy today, the first since 2013. The new policy has a strong emphasis on government support for the commercial space industry and […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/policy-300x82.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-21T03:12:05Z",
-    "url": "https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/"
-  },
-  {
-    "id": 39619,
-    "title": "New space transportation policy focuses on increased launch rates",
-    "summary": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries.\nThe post New space transportation policy focuses on increased launch rates appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HNZKBrTWYAAvWKc-scaled.jpeg?fit=1024%2C653&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T23:30:13Z",
-    "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/"
-  },
-  {
-    "id": 39618,
-    "title": "Golden Dome chief touts progress as funding questions loom",
-    "summary": "Guetlein joins North Dakota senators in making the case for the missile defense program \nThe post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-4.31.16-PM-scaled.png?fit=1024%2C516&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T23:02:34Z",
-    "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": 39652,
+    "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+    "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:34:09Z",
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
+  },
+  {
+    "id": 39651,
+    "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
+    "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […]\nThe post Aerospace demonstrates DiskSats in low-Earth orbit appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-24T17:30:00Z",
+    "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/"
+  },
+  {
+    "id": 39653,
+    "title": "MAIA Air Sensor at Work in Addis Ababa",
+    "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26698/PIA26698.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:27:01Z",
+    "url": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
+  },
+  {
+    "id": 39654,
+    "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+    "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:21:28Z",
+    "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
+  },
+  {
+    "id": 39650,
+    "title": "Europe’s Next Weather Satellite Ready To Fly",
+    "summary": "In only a few days, Europe will complete their next-generation weather observation system, Meteosat Third Generation.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-3.png",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-24T17:13:38Z",
+    "url": "https://www.spacescout.info/2026/08/europes-next-weather-satellite-ready-to-fly/"
+  },
+  {
     "id": 39649,
     "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
     "summary": "PHOENIX, AZ — August 24, 2026 — Spirit Electronics, a value‑added distributor of high‑reliability electronics focused on performance‑driven program requirements, announced that space‑grade and high‑reliability components from Texas Instruments and […]\nThe post Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026 appeared first on SpaceNews.",
@@ -43,50 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-24T08:14:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff"
-  },
-  {
-    "id": 39644,
-    "title": "What Lake Bonneville Left Behind",
-    "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
-  },
-  {
-    "id": 39643,
-    "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
-    "summary": "With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…\nThe post NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-23T21:45:07Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/"
-  },
-  {
-    "id": 39642,
-    "title": "What’s Happening in Space Policy August 23-30, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of August 23-30, 2026 and any insight we can offer about them. The House and Senate […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-full-stack-KSC-Aug-7-2026-221x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-23T21:24:16Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-23-30-2026/"
-  },
-  {
-    "id": 39641,
-    "title": "LandSpace’s Zhuque-3 topples following milestone landing",
-    "summary": "LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage…\nThe post LandSpace’s Zhuque-3 topples following milestone landing appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-23T18:57:05Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/"
-  },
-  {
-    "id": 39640,
-    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-23T14:30:16Z",
-    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/"
   }
 ]
