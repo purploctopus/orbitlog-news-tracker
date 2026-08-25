@@ -1,5 +1,23 @@
 [
   {
+    "id": 39659,
+    "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+    "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T20:44:58Z",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
+  },
+  {
+    "id": 39657,
+    "title": "Live coverage: SpaceX to launch Starlink mission on a Falcon booster’s record-breaking 37th flight",
+    "summary": "The Starlink 10-49 mission is set to be the 100th launch of a Falcon 9 rocket in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 5:33 a.m. EDT (0933 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-24T19:19:59Z",
+    "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/"
+  },
+  {
     "id": 39655,
     "title": "Perseverance Captures Another Phobos Transit",
     "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-24T15:00:00Z",
     "url": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/"
-  },
-  {
-    "id": 39648,
-    "title": "ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions",
-    "summary": "The European Space Agency expects to make specific safety adaptations to the Ariane 6 rocket for future launches of its Argonaut lunar landers that will carry a Radioisotope Power System. The modifications will not, however, be required for the spacecraft’s first mission. Argonaut is ESA’s planned heavy lunar lander that is designed to deliver up […]\nThe post ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/ESA-to-Adapt-Ariane-6-for-Nuclear-Powered-Argonaut-Missions.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-24T14:31:56Z",
-    "url": "https://europeanspaceflight.com/esa-to-adapt-ariane-6-for-nuclear-powered-argonaut-missions/"
-  },
-  {
-    "id": 39647,
-    "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-    "summary": "After NASA astronauts landed on the moon in 1969, their achievement bore decades’ worth of fruit, including scientific discoveries and a strategic national security advantage. Now — with plans to […]\nThe post The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent. appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/BAE_shaping-the-future.png?fit=1024%2C793&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-24T14:00:00Z",
-    "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/"
   }
 ]
