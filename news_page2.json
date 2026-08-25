@@ -1,5 +1,41 @@
 [
   {
+    "id": 39655,
+    "title": "Perseverance Captures Another Phobos Transit",
+    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:56:49Z",
+    "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+  },
+  {
+    "id": 39656,
+    "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
+    "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604_th.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:53:57Z",
+    "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
+  },
+  {
+    "id": 39652,
+    "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
+    "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:34:09Z",
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
+  },
+  {
+    "id": 39651,
+    "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
+    "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […]\nThe post Aerospace demonstrates DiskSats in low-Earth orbit appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-24T17:30:00Z",
+    "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/"
+  },
+  {
     "id": 39653,
     "title": "MAIA Air Sensor at Work in Addis Ababa",
     "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
@@ -52,41 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-24T14:00:00Z",
     "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/"
-  },
-  {
-    "id": 39646,
-    "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
-    "summary": "Houston — World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027.   “Tory Bruno […]\nThe post Tory Bruno Named Honorary Chair Of World Space Week 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-24T12:00:00Z",
-    "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/"
-  },
-  {
-    "id": 39645,
-    "title": "Watch live: MTG-I2 set for liftoff",
-    "summary": "The next Meteosat Third Generation Imager satellite (MTG-I2) is set for liftoff on flight VA270 on an Ariane 6, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, which will deliver data for weather forecasting over Europe and northern Africa in unprecedented detail. The launch will be broadcast on Thursday, 27 August, on ESA WebTV.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_fairing_jettison/27422286-1-eng-GB/MTG-I2_fairing_jettison_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-24T08:14:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff"
-  },
-  {
-    "id": 39658,
-    "title": "APOD: 2026 August 24 – Comet 220P in Outburst",
-    "summary": "APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Comet220P_SA_4104.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/"
-  },
-  {
-    "id": 39644,
-    "title": "What Lake Bonneville Left Behind",
-    "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
   }
 ]

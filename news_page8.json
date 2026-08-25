@@ -1,5 +1,41 @@
 [
   {
+    "id": 39612,
+    "title": "An Uncommon Drifter in the Denmark Strait",
+    "summary": "A large iceberg, observed in summer 2026, had drifted more than 1,000 kilometers south from the northeastern Greenland bay where it likely originated.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandberg_oli2_20260612.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-20T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-uncommon-drifter-in-the-denmark-strait/"
+  },
+  {
+    "id": 39593,
+    "title": "Hypersonic missile startup Castelion raises $1 billion",
+    "summary": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/081926-Castelion-Blackbeard.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T23:12:41Z",
+    "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/"
+  },
+  {
+    "id": 39592,
+    "title": "Eartheye Space forges strategic partnership with IN2",
+    "summary": "SAN FRANCISCO – Risk-management firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. IN2 will include Eartheye satellite […]\nThe post Eartheye Space forges strategic partnership with IN2 appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-19T23:07:16Z",
+    "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/"
+  },
+  {
+    "id": 39591,
+    "title": "Space Force Funding Could Be Record High, If Congress Agrees",
+    "summary": "The Administration is requesting $71 billion for the U.S. Space Force in FY2027, more than twice what it has now. An analysis by the Aerospace Corporation concludes it is the […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/sam-wilson-1-300x220.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-19T22:52:06Z",
+    "url": "https://spacepolicyonline.com/news/space-force-funding-could-be-record-high-if-congress-agrees/"
+  },
+  {
     "id": 39590,
     "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
     "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026…\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
@@ -52,41 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-19T19:32:14Z",
     "url": "https://europeanspaceflight.com/atmos-moves-forward-with-phoenix-3-as-phoenix-2-launch-slips/"
-  },
-  {
-    "id": 39584,
-    "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-    "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft.\nThe post Katalyst Space and NASA abandon plans for Swift reboost appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T19:23:06Z",
-    "url": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/"
-  },
-  {
-    "id": 39582,
-    "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-    "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T18:08:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/"
-  },
-  {
-    "id": 39583,
-    "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
-    "summary": "Lee esta historia en español aquí. Some of Earth’s microbes likely to hitch a ride to space with human explorers could survive in the shaded nooks and crannies of the Moon’s South Pole region, NASA scientists say.  Published on Aug. 19, 2026, in Science Advances, these findings highlight a need to better understand microbial persistence […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T18:02:40Z",
-    "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/"
-  },
-  {
-    "id": 39581,
-    "title": "Ancient Milky Way Merger",
-    "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, shows definitive evidence of a dwarf galaxy merging with the young […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T16:18:48Z",
-    "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/"
   }
 ]
