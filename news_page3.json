@@ -1,5 +1,14 @@
 [
   {
+    "id": 39655,
+    "title": "Perseverance Captures Another Phobos Transit",
+    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:56:49Z",
+    "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
+  },
+  {
     "id": 39656,
     "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
     "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-24T14:00:00Z",
     "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/"
-  },
-  {
-    "id": 39646,
-    "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
-    "summary": "Houston — World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027.   “Tory Bruno […]\nThe post Tory Bruno Named Honorary Chair Of World Space Week 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-24T12:00:00Z",
-    "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/"
   }
 ]
