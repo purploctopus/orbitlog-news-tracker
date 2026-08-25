@@ -1,5 +1,32 @@
 [
   {
+    "id": 39620,
+    "title": "White House Releases New Space Transportation Policy",
+    "summary": "The White House released a new space transportation policy today, the first since 2013. The new policy has a strong emphasis on government support for the commercial space industry and […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/policy-300x82.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-21T03:12:05Z",
+    "url": "https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/"
+  },
+  {
+    "id": 39619,
+    "title": "New space transportation policy focuses on increased launch rates",
+    "summary": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries.\nThe post New space transportation policy focuses on increased launch rates appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HNZKBrTWYAAvWKc-scaled.jpeg?fit=1024%2C653&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-20T23:30:13Z",
+    "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/"
+  },
+  {
+    "id": 39618,
+    "title": "Golden Dome chief touts progress as funding questions loom",
+    "summary": "Guetlein joins North Dakota senators in making the case for the missile defense program \nThe post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-4.31.16-PM-scaled.png?fit=1024%2C516&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-20T23:02:34Z",
+    "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/"
+  },
+  {
     "id": 39617,
     "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
     "summary": "SAN FRANCISCO – California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research funding, Elve “didn’t just […]\nThe post Elve qualifies millimeter-wave amplifiers for spaceflight appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T16:00:00Z",
     "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/"
-  },
-  {
-    "id": 39609,
-    "title": "Artemis Mission Patches",
-    "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission. NASA’s Exploration Ground […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-20T15:13:51Z",
-    "url": "https://www.nasa.gov/image-article/artemis-mission-patches/"
-  },
-  {
-    "id": 39608,
-    "title": "ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved",
-    "summary": "The European Space Agency has confirmed to European Spaceflight that it is no longer considering the Ariane 6 Block 3 evolution, saying there is “no programme need or justification” for the evolution at this time. Questions regarding the scrapping of the Block 3 upgrades arose earlier this month after SpaceScout reported that an ESA study […]\nThe post ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/ESA-Confirms-Ariane-6-Block-3-Upgrades-Have-Been-Shelved.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-20T14:58:48Z",
-    "url": "https://europeanspaceflight.com/esa-confirms-ariane-6-block-3-upgrades-have-been-shelved/"
-  },
-  {
-    "id": 39607,
-    "title": "NASA Selects University Teams to Help Advance Aviation Research",
-    "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made awards through its University Leadership Initiative, which offers  student teams the opportunity to contribute to real-world flight research that advances NASA’s goals in aeronautics. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/uli-round-9-awards.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-20T14:57:01Z",
-    "url": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/"
   }
 ]
