@@ -1,5 +1,14 @@
 [
   {
+    "id": 39580,
+    "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+    "summary": "NASA has awarded approximately $10.5 million to seven institutions to help strengthen and streamline state-based pathways for students into skilled technical jobs in the aerospace industry. The awards were made through the new NASA Aerospace Skilled Technical Workforce Hubs initiative, or NASA State Hubs. This investment in state ecosystems is designed to accelerate the development […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nasa-state-hubs-announcement-aug-19.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-19T15:55:10Z",
+    "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/"
+  },
+  {
     "id": 39579,
     "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
     "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, […]\nThe post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-19T09:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express"
-  },
-  {
-    "id": 39571,
-    "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
-    "summary": "Photographers at NASA’s Johnson Space Center in Houston have documented some of the most defining moments in human spaceflight.  From astronaut training and engineering tests to mission control operations and milestone celebrations, their images preserve the history of exploration while capturing the people and teams behind the missions shaping the next era.   Meet the photographers behind the lens and explore the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e408024-alt.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-19T05:02:06Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/"
   }
 ]

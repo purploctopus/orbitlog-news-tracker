@@ -1,5 +1,14 @@
 [
   {
+    "id": 39653,
+    "title": "MAIA Air Sensor at Work in Addis Ababa",
+    "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26698/PIA26698.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:27:01Z",
+    "url": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
+  },
+  {
     "id": 39654,
     "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
     "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-24T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
-  },
-  {
-    "id": 39643,
-    "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
-    "summary": "With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…\nThe post NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-23T21:45:07Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/"
   }
 ]
