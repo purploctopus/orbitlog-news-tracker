@@ -1,5 +1,14 @@
 [
   {
+    "id": 39661,
+    "title": "Robotics and the future of on-orbit labor",
+    "summary": "In this episode, SpaceNews’ Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have […]\nThe post Robotics and the future of on-orbit labor appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-icarus-robotics-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-24T22:26:02Z",
+    "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/"
+  },
+  {
     "id": 39660,
     "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
     "summary": "This week will see five orbital launches from China, the United States, and French Guiana.…\nThe post Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-24T17:21:28Z",
     "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
-  },
-  {
-    "id": 39650,
-    "title": "Europe’s Next Weather Satellite Ready To Fly",
-    "summary": "In only a few days, Europe will complete their next-generation weather observation system, Meteosat Third Generation.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-3.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-08-24T17:13:38Z",
-    "url": "https://www.spacescout.info/2026/08/europes-next-weather-satellite-ready-to-fly/"
   }
 ]
