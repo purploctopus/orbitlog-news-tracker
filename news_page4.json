@@ -1,5 +1,14 @@
 [
   {
+    "id": 39664,
+    "title": "Cutting-edge infrared space telescope Roman set to launch",
+    "summary": "The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07:26 EDT / 12:26 BST / 13:26 CEST from NASA’s Kennedy Space Center in Florida, USA.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/02/the_roman_spacecraft/24727076-1-eng-GB/The_Roman_spacecraft_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-25T13:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch"
+  },
+  {
     "id": 39669,
     "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
     "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
@@ -7,6 +16,15 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-25T13:00:00Z",
     "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+  },
+  {
+    "id": 39665,
+    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-25T13:00:00Z",
+    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
   },
   {
     "id": 39663,
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-24T17:56:49Z",
     "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
-  },
-  {
-    "id": 39656,
-    "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-    "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T17:53:57Z",
-    "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
-  },
-  {
-    "id": 39652,
-    "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-    "summary": "NASA astronaut and Artemis II commander Reid Wiseman is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Image credit: NASA/Joel Kowsky",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T17:34:09Z",
-    "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-at-freedom-250-grand-prix/"
   }
 ]

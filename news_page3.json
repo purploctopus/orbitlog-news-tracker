@@ -1,5 +1,23 @@
 [
   {
+    "id": 39676,
+    "title": "Propulsion is having a moment",
+    "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […]\nThe post Propulsion is having a moment appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-25T19:59:37Z",
+    "url": "https://spacenews.com/propulsion-is-having-a-moment/"
+  },
+  {
+    "id": 39675,
+    "title": "NASA Ames’ Contributions to Roman’s Mission",
+    "summary": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar system, and the formation and growth of galaxies over cosmic time. Key contributions to Roman’s mission […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/roman-beautypass2026-med.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-25T19:44:55Z",
+    "url": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/"
+  },
+  {
     "id": 39673,
     "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
     "summary": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-25T14:00:00Z",
     "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
-  },
-  {
-    "id": 39665,
-    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
-  },
-  {
-    "id": 39664,
-    "title": "Cutting-edge infrared space telescope Roman set to launch",
-    "summary": "The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07:26 EDT / 12:26 BST / 13:26 CEST from NASA’s Kennedy Space Center in Florida, USA.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/02/the_roman_spacecraft/24727076-1-eng-GB/The_Roman_spacecraft_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch"
   }
 ]
