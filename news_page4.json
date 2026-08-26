@@ -1,5 +1,14 @@
 [
   {
+    "id": 39654,
+    "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+    "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26694/PIA26694.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T17:21:28Z",
+    "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
+  },
+  {
     "id": 39650,
     "title": "Europe’s Next Weather Satellite Ready To Fly",
     "summary": "In only a few days, Europe will complete their next-generation weather observation system, Meteosat Third Generation.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-23T21:45:07Z",
     "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/"
-  },
-  {
-    "id": 39642,
-    "title": "What’s Happening in Space Policy August 23-30, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of August 23-30, 2026 and any insight we can offer about them. The House and Senate […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-full-stack-KSC-Aug-7-2026-221x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-23T21:24:16Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-23-30-2026/"
   }
 ]

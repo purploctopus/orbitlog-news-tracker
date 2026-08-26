@@ -1,5 +1,14 @@
 [
   {
+    "id": 39609,
+    "title": "Artemis Mission Patches",
+    "summary": "A jacket decorated with Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission. NASA’s Exploration Ground […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-20T15:13:51Z",
+    "url": "https://www.nasa.gov/image-article/artemis-mission-patches/"
+  },
+  {
     "id": 39608,
     "title": "ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved",
     "summary": "The European Space Agency has confirmed to European Spaceflight that it is no longer considering the Ariane 6 Block 3 evolution, saying there is “no programme need or justification” for the evolution at this time. Questions regarding the scrapping of the Block 3 upgrades arose earlier this month after SpaceScout reported that an ESA study […]\nThe post ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T11:00:00Z",
     "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/"
-  },
-  {
-    "id": 39598,
-    "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-    "summary": "SAN FRANCISCO / PERTH, 20 AUGUST 2026: LatConnect 60 (LC60) has signed a commercial contract with Transcelestial for an optical communications terminal on its SWIRSAT-1 mission, plus access to Transcelestial’s […]\nThe post LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/latconnect60-logo.png?fit=388%2C388&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T10:00:00Z",
-    "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39682,
+    "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
+    "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
+  },
+  {
     "id": 39681,
     "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
     "summary": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-25T17:55:02Z",
     "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/"
-  },
-  {
-    "id": 39672,
-    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-    "summary": "\"This will be a project like no other.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-25T17:26:15Z",
-    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/"
   }
 ]

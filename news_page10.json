@@ -1,5 +1,14 @@
 [
   {
+    "id": 39589,
+    "title": "LandSpace becomes first commercial Chinese company to land an orbital-class booster",
+    "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260819_LandSpace_booster_landing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-08-19T20:35:51Z",
+    "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/"
+  },
+  {
     "id": 39588,
     "title": "No-Go for Katalyst’s Reboost of NASA’s Swift Observatory",
     "summary": "Katalyst Space and NASA concluded today that reboosting the Swift Observatory with Katalyst’s LINK spacecraft will not be possible due to attitude control problems.  They still plan to conduct some […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-19T15:55:10Z",
     "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce/"
-  },
-  {
-    "id": 39579,
-    "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announces a new, […]\nThe post Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-19T15:11:52Z",
-    "url": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/"
   }
 ]

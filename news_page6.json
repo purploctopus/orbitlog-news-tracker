@@ -1,5 +1,14 @@
 [
   {
+    "id": 39634,
+    "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+    "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/NHQ202608120208.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T18:43:40Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
+  },
+  {
     "id": 39631,
     "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
     "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-21T04:01:00Z",
     "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
-  },
-  {
-    "id": 39620,
-    "title": "White House Releases New Space Transportation Policy",
-    "summary": "The White House released a new space transportation policy today, the first since 2013. The new policy has a strong emphasis on government support for the commercial space industry and […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/policy-300x82.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-21T03:12:05Z",
-    "url": "https://spacepolicyonline.com/news/white-house-releases-new-space-transportation-policy/"
   }
 ]
