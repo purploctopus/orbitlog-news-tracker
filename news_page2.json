@@ -1,5 +1,14 @@
 [
   {
+    "id": 39671,
+    "title": "Ukraine Strikes Soyuz Assembly Line, Raising Questions for Russian Spaceflight",
+    "summary": "On August 15, 2026, the Ukrainian military attacked the factory used for manufacturing Russia’s Soyuz-2 launch vehicle, causing significant damage to the facility and raising doubts over the vehicle’s future.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-7.png",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-25T17:02:43Z",
+    "url": "https://www.spacescout.info/2026/08/ukraine-strikes-soyuz-assembly/"
+  },
+  {
     "id": 39670,
     "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
     "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A new gallery released today from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety. Astronomers put galaxies into three main categories: spirals like our own Milky Way with arms emanating […]",
@@ -36,6 +45,15 @@
     "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
   },
   {
+    "id": 39669,
+    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-25T13:00:00Z",
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+  },
+  {
     "id": 39665,
     "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
     "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
@@ -54,15 +72,6 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch"
   },
   {
-    "id": 39669,
-    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
-  },
-  {
     "id": 39663,
     "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
     "summary": "The European Space Agency has announced that its Draco mission has passed its Critical Design Review, clearing it to enter full-scale manufacturing, integration and testing ahead of its planned launch in 2027. ESA announced the milestone on 17 August, saying the review had validated the design of all of Draco’s systems. With the CDR complete, […]\nThe post ESA’s Draco Reentry Mission Clears Its Critical Design Review appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-25T07:00:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/No_signal_left_behind_new_ways_to_detect_jamming_and_spoofing"
-  },
-  {
-    "id": 39661,
-    "title": "Robotics and the future of on-orbit labor",
-    "summary": "In this episode, SpaceNews’ Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have […]\nThe post Robotics and the future of on-orbit labor appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-icarus-robotics-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-24T22:26:02Z",
-    "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/"
   }
 ]
