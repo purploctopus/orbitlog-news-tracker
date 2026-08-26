@@ -1,5 +1,14 @@
 [
   {
+    "id": 39683,
+    "title": "Second spacewalk completed for Sophie Adenot",
+    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon successfully completed US EVA-98 at 20:57 CEST on Tuesday 25 August. It was Sophie’s second spacewalk, and the 32nd conducted by a European astronaut.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-98/27434014-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-26T08:40:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot"
+  },
+  {
     "id": 39682,
     "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
     "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-25T18:47:01Z",
     "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-  },
-  {
-    "id": 39674,
-    "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
-    "summary": "Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/pandora/news/2026/Pandora_ArtistsConcept.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T17:55:02Z",
-    "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/"
   }
 ]

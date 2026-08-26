@@ -1,5 +1,14 @@
 [
   {
+    "id": 39621,
+    "title": "Europe’s Scorching Summer",
+    "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-21T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/europes-scorching-summer/"
+  },
+  {
     "id": 39620,
     "title": "White House Releases New Space Transportation Policy",
     "summary": "The White House released a new space transportation policy today, the first since 2013. The new policy has a strong emphasis on government support for the commercial space industry and […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-20T16:38:31Z",
     "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/"
-  },
-  {
-    "id": 39610,
-    "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-    "summary": "Huntsville, AL — Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is […]\nThe post Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon-1.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-20T16:00:00Z",
-    "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/"
   }
 ]
