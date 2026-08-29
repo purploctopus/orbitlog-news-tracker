@@ -1,5 +1,23 @@
 [
   {
+    "id": 39686,
+    "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
+    "summary": "EDITOR’S NOTE: This story, originally published in December, was revised Aug. 26, 2026 with an update on a new phase of testing, including video from a recent test run and new images. To help NASA and commercial partners better understand the science of lunar landings, specifically the hazards that may occur when a lander’s engine […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/featuretoppergif.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T13:58:04Z",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests/"
+  },
+  {
+    "id": 39685,
+    "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+    "summary": "At 17, Jeret Howard raised his right hand to serve his country as a United States Army combat medic in Iraq. This past summer, he raised his right hand again at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Hired as a civil servant under the agency’s workforce directive to restore core competencies by […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/s26-010-jeret-howard.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T13:32:28Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
+  },
+  {
     "id": 39684,
     "title": "MTG-I2 ready for launch",
     "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, is ready for launch on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Lift off is scheduled for 27 August 2026 at 22:10 CEST (17:10 local time).",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-08-25T22:22:00Z",
     "url": "https://spacepolicyonline.com/news/spacex-introduces-new-louisiana-starbase/"
-  },
-  {
-    "id": 39677,
-    "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
-    "summary": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T20:20:58Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/"
-  },
-  {
-    "id": 39676,
-    "title": "Propulsion is having a moment",
-    "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […]\nThe post Propulsion is having a moment appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-25T19:59:37Z",
-    "url": "https://spacenews.com/propulsion-is-having-a-moment/"
   }
 ]

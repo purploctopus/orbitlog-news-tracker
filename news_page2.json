@@ -1,5 +1,23 @@
 [
   {
+    "id": 39716,
+    "title": "Week in images: 24-28 August 2026",
+    "summary": "Week in images: 24-28 August 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026"
+  },
+  {
+    "id": 39717,
+    "title": "Ariane 6 launch with MTG-I2 – highlights",
+    "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, has been launched on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Liftoff was on 27 August 2026 at 22:11 CEST (17:10 local time).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/ariane_6_launch_with_mtg-i2_highlights/27439862-1-eng-GB/Ariane_6_launch_with_MTG-I2_highlights_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T12:20:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights"
+  },
+  {
     "id": 39713,
     "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
     "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-27T18:02:54Z",
     "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/"
-  },
-  {
-    "id": 39708,
-    "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/08/encap.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T17:47:11Z",
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/"
-  },
-  {
-    "id": 39706,
-    "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
-    "summary": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing a combined €543.6 million to Isar Aerospace, Rocket Factory Augsburg, and PLD Space. MaiaSpace was notably not among the awardees, with the agency stating that the contract award process with the company is “expected to resume in the coming weeks.” […]\nThe post ESA Awards €544 Million in European Launcher Challenge Contracts appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/ESA-Awards-544-Million-Euros-in-European-Launcher-Challenge-Contracts.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-27T15:26:18Z",
-    "url": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/"
   }
 ]
