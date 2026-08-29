@@ -1,5 +1,32 @@
 [
   {
+    "id": 39705,
+    "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+    "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/jsc2024e067210_alt/jsc2024e067210_alt~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-27T15:10:24Z",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
+  },
+  {
+    "id": 39704,
+    "title": "The electronics ‘under the hood’ of space networking",
+    "summary": "In this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, CEO and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored […]\nThe post The electronics ‘under the hood’ of space networking appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-innoflight-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-27T14:50:34Z",
+    "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/"
+  },
+  {
+    "id": 39701,
+    "title": "First contracts kick off European Launcher Challenge",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/european_launcher_challenge_visual/26128354-4-eng-GB/European_Launcher_Challenge_visual_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-27T07:17:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge"
+  },
+  {
     "id": 39700,
     "title": "MTG-I2 ready for launch on Ariane 6",
     "summary": "The Meteosat Third Generation Imager2 satellite (MTG-I2) has been encapsulated inside the Ariane 6 fairing and is in place on its launch pad. It is scheduled to lift off on Thursday evening, 27 August, from Europe’s Spaceport in French Guiana.",
@@ -61,32 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-26T20:12:39Z",
     "url": "https://europeanspaceflight.com/polish-institute-reports-continued-gnss-disruption-along-countrys-north-coast/"
-  },
-  {
-    "id": 39694,
-    "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
-    "summary": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/jacobson-lindsey.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T19:14:15Z",
-    "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/"
-  },
-  {
-    "id": 39693,
-    "title": "Roman Space Telescope Travels to SpaceX Hangar",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260825-ph-ser01-0001orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T18:40:19Z",
-    "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/"
-  },
-  {
-    "id": 39692,
-    "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
-    "summary": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at exactly the right time.  Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406812.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T17:33:05Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 39658,
+    "title": "APOD: 2026 August 24 – Comet 220P in Outburst",
+    "summary": "APOD Science APOD APOD: 2026 August 24 – Comet… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet 220P […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Comet220P_SA_4104.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/"
+  },
+  {
+    "id": 39644,
+    "title": "What Lake Bonneville Left Behind",
+    "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-24T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/"
+  },
+  {
+    "id": 39643,
+    "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
+    "summary": "With a scheduled launch date of Aug. 30, NASA’s Nancy Grace Roman Space Telescope is…\nThe post NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-23T21:45:07Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/"
+  },
+  {
     "id": 39642,
     "title": "What’s Happening in Space Policy August 23-30, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of August 23-30, 2026 and any insight we can offer about them. The House and Senate […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-21T20:08:59Z",
     "url": "https://spacenews.com/chinese-radio-frequency-intelligence-startup-starrf-closes-new-funding-round/"
-  },
-  {
-    "id": 39635,
-    "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-    "summary": "Paris, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, […]\nThe post New Novaspace forecast: 6,500+ EO satellites to launch by 2035 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-21T19:48:14Z",
-    "url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/"
-  },
-  {
-    "id": 39633,
-    "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
-    "summary": "The Starlink 15-20 mission represents the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East is scheduled for 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-21T18:53:18Z",
-    "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/"
-  },
-  {
-    "id": 39632,
-    "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
-    "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship…\nThe post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Ship-41-Six-Engine-Static-Fire-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-21T18:45:52Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/"
   }
 ]

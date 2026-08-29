@@ -1,5 +1,32 @@
 [
   {
+    "id": 39694,
+    "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
+    "summary": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/jacobson-lindsey.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T19:14:15Z",
+    "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/"
+  },
+  {
+    "id": 39693,
+    "title": "Roman Space Telescope Travels to SpaceX Hangar",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260825-ph-ser01-0001orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T18:40:19Z",
+    "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/"
+  },
+  {
+    "id": 39692,
+    "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
+    "summary": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at exactly the right time.  Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406812.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T17:33:05Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/"
+  },
+  {
     "id": 39691,
     "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
     "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the […]\nThe post RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-26T13:32:28Z",
     "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
-  },
-  {
-    "id": 39684,
-    "title": "MTG-I2 ready for launch",
-    "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, is ready for launch on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Lift off is scheduled for 27 August 2026 at 22:10 CEST (17:10 local time).",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/mtg-i2_ready_for_launch/27433458-1-eng-GB/MTG-I2_ready_for_launch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-26T11:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch"
-  },
-  {
-    "id": 39683,
-    "title": "Second spacewalk completed for Sophie Adenot",
-    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon successfully completed US EVA-98 at 20:57 CEST on Tuesday 25 August. It was Sophie’s second spacewalk, and the 32nd conducted by a European astronaut.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-98/27434014-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-26T08:40:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot"
-  },
-  {
-    "id": 39682,
-    "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
-    "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
   }
 ]
