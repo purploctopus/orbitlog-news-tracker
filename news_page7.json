@@ -1,5 +1,23 @@
 [
   {
+    "id": 39668,
+    "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+    "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-25T14:57:26Z",
+    "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/"
+  },
+  {
+    "id": 39667,
+    "title": "Starbase’s future production capacity ramping up",
+    "summary": "A flurry of activity has been underway at the Starbase production site over the past…\nThe post Starbase’s future production capacity ramping up appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-25-14-50-07-576.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-25T14:14:12Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/starbases-future-production-capacity/"
+  },
+  {
     "id": 39666,
     "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
     "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson. […]\nThe post Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-24T20:45:23Z",
     "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/"
-  },
-  {
-    "id": 39659,
-    "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-    "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T20:44:58Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
-  },
-  {
-    "id": 39657,
-    "title": "Live coverage: SpaceX to launch Starlink mission on a Falcon booster’s record-breaking 37th flight",
-    "summary": "The Starlink 10-49 mission is set to be the 100th launch of a Falcon 9 rocket in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 5:33 a.m. EDT (0933 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-24T19:19:59Z",
-    "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/"
   }
 ]

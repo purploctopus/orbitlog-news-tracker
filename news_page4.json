@@ -1,5 +1,23 @@
 [
   {
+    "id": 39702,
+    "title": "Rare, Widespread Snow in the Atacama Desert",
+    "summary": "Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli_20260806.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-27T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/"
+  },
+  {
+    "id": 39697,
+    "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+    "summary": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sources often […]\nThe post LatConnect 60 and Phi Earth Partner to Connect Space and Soil appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-27T01:54:19Z",
+    "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/"
+  },
+  {
     "id": 39696,
     "title": "Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae",
     "summary": "Following the departure of the Soyuz MS-28 crewed spacecraft from the International Space Station on…\nThe post Soyuz MS-28 departs the ISS, three spacewalks install upgrades to solar arrays and antennae appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-26T14:29:40Z",
     "url": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/"
-  },
-  {
-    "id": 39688,
-    "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
-    "summary": "NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss074e0432716/iss074e0432716~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T14:16:29Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned/"
-  },
-  {
-    "id": 39687,
-    "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-    "summary": "\"We're living in this world of scarcity with the Moon.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-26T14:14:52Z",
-    "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/"
   }
 ]
