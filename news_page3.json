@@ -1,5 +1,41 @@
 [
   {
+    "id": 39714,
+    "title": "Observing Samba and Tango’s reentries",
+    "summary": "The final two of ESA's pioneering Cluster spacecraft, Samba and Tango, will end their journeys as they burn up in our atmosphere on 31 August and 1 September respectively. Their targeted reentries mark the end of a mission that has transformed our understanding of Earth's magnetic environment. The final moments also offer a rare scientific opportunity for reentry observations from a plane.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/08/cluster_satellite_reentering_earth_s_atmosphere/26283034-1-eng-GB/Cluster_satellite_reentering_Earth_s_atmosphere_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T09:03:00Z",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries"
+  },
+  {
+    "id": 39715,
+    "title": "A navigation odyssey",
+    "summary": "Homer’s The Odyssey chronicles Odysseus’s journey home to Ithaca after the Trojan War. A distance of approximately 530 km as the crow flies, yet it takes Odysseus ten years and countless adventures to arrive—without his crew or his boat. What could Odysseus’s journey have looked like if he had modern-day satellite navigation systems, such as Galileo, at his disposal?",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/07/galileo_satellite_in_orbit/14632177-1-eng-GB/Galileo_satellite_in_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T08:58:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/A_navigation_odyssey"
+  },
+  {
+    "id": 39711,
+    "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
+    "summary": "APOD Science APOD APOD: 2026 August 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Sky […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/TheSkyTurnsAboveParanal.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/"
+  },
+  {
+    "id": 39712,
+    "title": "The Forested Floodplains of Congaree National Park",
+    "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/congareenp_oli2_20250818.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/"
+  },
+  {
     "id": 39710,
     "title": "MTG-I2 completes Europe’s latest weather trio",
     "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-27T15:10:24Z",
     "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
-  },
-  {
-    "id": 39704,
-    "title": "The electronics ‘under the hood’ of space networking",
-    "summary": "In this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, CEO and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored […]\nThe post The electronics ‘under the hood’ of space networking appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-innoflight-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-27T14:50:34Z",
-    "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/"
-  },
-  {
-    "id": 39701,
-    "title": "First contracts kick off European Launcher Challenge",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/european_launcher_challenge_visual/26128354-4-eng-GB/European_Launcher_Challenge_visual_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-27T07:17:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge"
-  },
-  {
-    "id": 39700,
-    "title": "MTG-I2 ready for launch on Ariane 6",
-    "summary": "The Meteosat Third Generation Imager2 satellite (MTG-I2) has been encapsulated inside the Ariane 6 fairing and is in place on its launch pad. It is scheduled to lift off on Thursday evening, 27 August, from Europe’s Spaceport in French Guiana.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_encapsulated/27433682-1-eng-GB/MTG-I2_encapsulated_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-27T07:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6"
-  },
-  {
-    "id": 39699,
-    "title": "Watch live: BepiColombo begins its arrival at Mercury",
-    "summary": "After eight years, the ESA/JAXA BepiColombo mission is about to enter its Mercury Arrival Phase. On 3 September 2026, ESA’s Mercury Transfer Module (MTM) will separate from BepiColombo’s two science orbiters – the first major step in one of the most operationally challenging planetary arrival sequences ever attempted by ESA.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-27T05:17:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury"
   }
 ]
