@@ -1,5 +1,23 @@
 [
   {
+    "id": 39736,
+    "title": "What’s Happening in Space Policy August 30-September 5, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 30-September 5, 2026 and any insight we can offer about them. The House is in session this […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-30T22:08:52Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/"
+  },
+  {
+    "id": 39735,
+    "title": "Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off this morning on a mission to find more planets around other stars in the universe and solve the mysteries of dark energy […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-08-30T18:59:50Z",
+    "url": "https://spacepolicyonline.com/news/nancy-grace-roman-space-telescope-lifts-off-to-open-new-insights-into-the-universe/"
+  },
+  {
     "id": 39734,
     "title": "Why it matters that President Trump just dialed into a NASA news conference",
     "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
@@ -70,23 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-08-29T14:25:58Z",
     "url": "https://www.spacescout.info/2026/08/nasas-roman-space-telescope-go-for-launch/"
-  },
-  {
-    "id": 39726,
-    "title": "ESA awards first European Launcher Challenge contracts",
-    "summary": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing…\r\nThe post ESA awards first European Launcher Challenge contracts appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-29T11:09:51Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/"
-  },
-  {
-    "id": 39725,
-    "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
-    "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-28T22:21:31Z",
-    "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/"
   }
 ]
