@@ -1,5 +1,14 @@
 [
   {
+    "id": 39670,
+    "title": "Galactic Gems Glisten in New Gallery From NASA’s Chandra",
+    "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A new gallery released today from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety. Astronomers put galaxies into three main categories: spirals like our own Milky Way with arms emanating […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/galaxies_ngc4631.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-25T16:13:49Z",
+    "url": "https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/"
+  },
+  {
     "id": 39668,
     "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
     "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed […]",
@@ -27,13 +36,13 @@
     "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
   },
   {
-    "id": 39665,
-    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
-    "newsSite": "SpaceNews",
+    "id": 39669,
+    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
+    "newsSite": "NASA",
     "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
   },
   {
     "id": 39664,
@@ -45,13 +54,13 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch"
   },
   {
-    "id": 39669,
-    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
-    "newsSite": "NASA",
+    "id": 39665,
+    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
+    "newsSite": "SpaceNews",
     "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
   },
   {
     "id": 39663,
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-08-24T22:26:02Z",
     "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/"
-  },
-  {
-    "id": 39660,
-    "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
-    "summary": "This week will see five orbital launches from China, the United States, and French Guiana.…\nThe post Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-24T20:45:23Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/"
   }
 ]

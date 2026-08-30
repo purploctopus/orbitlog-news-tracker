@@ -1,5 +1,14 @@
 [
   {
+    "id": 39689,
+    "title": "The threat environment and processing at the edge",
+    "summary": "In this episode, SpaceNews’ Mike Gruss interviews FrontGrade CTO Lorne Graves. They discuss how processing power on spacecraft is adapting to the rise of megaconstellations, what benefits satellite processing power […]\nThe post The threat environment and processing at the edge appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-frontgrade-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-26T14:29:40Z",
+    "url": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/"
+  },
+  {
     "id": 39688,
     "title": "NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned",
     "summary": "NASA will provide coverage as two astronauts step outside the International Space Station on Tuesday, Sept. 1, to replace a spacecraft navigational aid and complete several maintenance tasks in support of space station operations. Watch live coverage beginning at 7 a.m. EDT. The spacewalk is expected to start at approximately 8:30 a.m. and last about […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-26T03:56:21Z",
     "url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/"
-  },
-  {
-    "id": 39678,
-    "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-    "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/1-pia26777-d2026-0824-rl0031661-pano-med.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T22:28:34Z",
-    "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/"
   }
 ]
