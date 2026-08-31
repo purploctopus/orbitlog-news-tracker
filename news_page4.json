@@ -1,5 +1,23 @@
 [
   {
+    "id": 39721,
+    "title": "Trump calls for creation of a \"space academy\" to train future NASA leaders",
+    "summary": "\"It's called the US Space Academy. That's a big deal.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-28T17:36:30Z",
+    "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/"
+  },
+  {
+    "id": 39720,
+    "title": "President Trump Signs Executive Order to Create US Space Academy",
+    "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T17:21:04Z",
+    "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
+  },
+  {
     "id": 39718,
     "title": "Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency",
     "summary": "Scotland’s Highlands and Islands Enterprise (HIE) has acquired the assets of Sutherland Spaceport Ltd, an Orbex subsidiary that was established to develop a vertical launch site on the north coast of Scotland. In a 25 August announcement, HIE said it had acquired the assets from the company’s joint liquidators and would now review how the […]\nThe post Orbex’s Sutherland Spaceport Assets Sold to Scottish Development Agency appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-28T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/"
-  },
-  {
-    "id": 39712,
-    "title": "The Forested Floodplains of Congaree National Park",
-    "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/congareenp_oli2_20250818.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-28T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/"
-  },
-  {
-    "id": 39710,
-    "title": "MTG-I2 completes Europe’s latest weather trio",
-    "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_begins_its_journey/27430195-5-eng-GB/MTG-I2_begins_its_journey_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-27T20:48:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio"
   }
 ]

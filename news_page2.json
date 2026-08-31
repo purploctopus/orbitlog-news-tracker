@@ -1,5 +1,23 @@
 [
   {
+    "id": 39743,
+    "title": "Nepal flash flood imaged by satellites",
+    "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-31T11:57:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites"
+  },
+  {
+    "id": 39741,
+    "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
+    "summary": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, describing it as the first major industrial order awarded since […]\nThe post SES Awards OHB €1 billion for IRIS2 MEO Satellites appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SES-Awards-OHB-1-billion-Euros-for-IRIS2-MEO-Satellites.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-08-31T11:09:59Z",
+    "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/"
+  },
+  {
     "id": 39739,
     "title": "Roman lifts off on a mission to survey the infrared sky",
     "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-30T14:53:08Z",
     "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
-  },
-  {
-    "id": 39733,
-    "title": "Panorama Showcasing the 34-Meter Antennas of the DSN’s Goldstone Complex",
-    "summary": "Description Five antennas soak in the summer sun at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. The recently completed Deep Space Station 23, a 34-meter (114-foot) beam-waveguide antenna, can be seen to the right of the frame in the foreground. The other three 34-meter antennas are, from left, DSS-26, DSS-25, and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26777/PIA26777.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-30T14:47:12Z",
-    "url": "https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/"
-  },
-  {
-    "id": 39730,
-    "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/NHQ20260830_admin_0002/NHQ20260830_admin_0002~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-30T13:18:06Z",
-    "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
   }
 ]
