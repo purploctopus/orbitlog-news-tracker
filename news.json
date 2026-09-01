@@ -1,5 +1,41 @@
 [
   {
+    "id": 39797,
+    "title": "House Clears FY2027 CR, Now to the President",
+    "summary": "A full month before FY2027 begins, the House today joined the Senate in passing a Continuing Resolution (CR) to avoid a government shutdown on October 1. Both parties are eager […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/House-CR-300x174.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-01T21:26:43Z",
+    "url": "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
+  },
+  {
+    "id": 39796,
+    "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+    "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T21:08:37Z",
+    "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
+  },
+  {
+    "id": 39795,
+    "title": "SpaceX to launch Starlink mission from West Coast",
+    "summary": "Liftoff from Vandenberg Space Force Base in California is currently scheduled for 1:18 a.m. PDT (4:18 a.m. EDT / 0818 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-01T20:56:22Z",
+    "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/"
+  },
+  {
+    "id": 39794,
+    "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+    "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T19:15:25Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
+  },
+  {
     "id": 39793,
     "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
     "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
@@ -52,41 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-01T09:05:00Z",
     "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
-  },
-  {
-    "id": 39786,
-    "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-    "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/"
-  },
-  {
-    "id": 39785,
-    "title": "Ice Island Survives Run-In With Joe Island",
-    "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
-  },
-  {
-    "id": 39784,
-    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
-    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T21:14:12Z",
-    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 39783,
-    "title": "Launch Preview: Array of international launches planned this week",
-    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-31T20:55:13Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"
   }
 ]

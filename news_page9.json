@@ -1,5 +1,41 @@
 [
   {
+    "id": 39683,
+    "title": "Second spacewalk completed for Sophie Adenot",
+    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon successfully completed US EVA-98 at 20:57 CEST on Tuesday 25 August. It was Sophie’s second spacewalk, and the 32nd conducted by a European astronaut.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-98/27434014-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-26T08:40:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot"
+  },
+  {
+    "id": 39682,
+    "title": "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
+    "summary": "APOD Science APOD APOD: 2026 August 26 – JWST… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. JWST Images […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/08/STScI-01KX6D0XBHSYP7Q1EM5QTC43RP.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/"
+  },
+  {
+    "id": 39703,
+    "title": "A Changing World for Emperor Penguins",
+    "summary": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/"
+  },
+  {
+    "id": 39681,
+    "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
+    "summary": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the…\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-26-04-42-39-997.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-26T03:56:21Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/"
+  },
+  {
     "id": 39678,
     "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
     "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-25T19:44:55Z",
     "url": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/"
-  },
-  {
-    "id": 39673,
-    "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
-    "summary": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T18:47:01Z",
-    "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-  },
-  {
-    "id": 39674,
-    "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
-    "summary": "Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/pandora/news/2026/Pandora_ArtistsConcept.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-25T17:55:02Z",
-    "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/"
-  },
-  {
-    "id": 39672,
-    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
-    "summary": "\"This will be a project like no other.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-25T17:26:15Z",
-    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/"
-  },
-  {
-    "id": 39671,
-    "title": "Ukraine Strikes Soyuz Assembly Line, Raising Questions for Russian Spaceflight",
-    "summary": "On August 15, 2026, the Ukrainian military attacked the factory used for manufacturing Russia’s Soyuz-2 launch vehicle, causing significant damage to the facility and raising doubts over the vehicle’s future.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/image-7.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-08-25T17:02:43Z",
-    "url": "https://www.spacescout.info/2026/08/ukraine-strikes-soyuz-assembly/"
   }
 ]
