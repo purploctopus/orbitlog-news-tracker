@@ -1,12 +1,21 @@
 [
   {
-    "id": 39665,
-    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
+    "id": 39666,
+    "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+    "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson. […]\nThe post Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-angel-scaled.png?fit=1024%2C1024&ssl=1",
     "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-25T14:00:00Z",
+    "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/"
+  },
+  {
+    "id": 39740,
+    "title": "Roman in a nutshell",
+    "summary": "Roman will scan a large patch of the sky in visible to near-infrared light, with its wide field of view and advanced optical design. The mission will provide key insights that will help reveal the nature of dark energy and dark matter and find new exoplanets.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_in_a_nutshell/27431809-5-eng-GB/Roman_in_a_nutshell_card_full.jpg",
+    "newsSite": "ESA",
     "publishedAt": "2026-08-25T13:00:00Z",
-    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_in_a_nutshell"
   },
   {
     "id": 39664,
@@ -16,6 +25,24 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-25T13:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch"
+  },
+  {
+    "id": 39669,
+    "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/HelioSwarm.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-25T13:00:00Z",
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+  },
+  {
+    "id": 39665,
+    "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+    "summary": "SALT LAKE CITY – Aug. 25, 2026 – Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveiled Monday, Aug. […]\nThe post Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Tendeg-Logo-Social-Media-200x200-1.png?fit=200%2C200&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-25T13:00:00Z",
+    "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/"
   },
   {
     "id": 39663,
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-24T20:44:58Z",
     "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/"
-  },
-  {
-    "id": 39657,
-    "title": "Live coverage: SpaceX to launch Starlink mission on a Falcon booster’s record-breaking 37th flight",
-    "summary": "The Starlink 10-49 mission is set to be the 100th launch of a Falcon 9 rocket in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 5:33 a.m. EDT (0933 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-08-24T19:19:59Z",
-    "url": "https://spaceflightnow.com/2026/08/24/live-coverage-spacex-to-launch-starlink-mission-on-a-falcon-boosters-record-breaking-37th-flight/"
-  },
-  {
-    "id": 39655,
-    "title": "Perseverance Captures Another Phobos Transit",
-    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission.  The animation has been tinted to simulate what a human would see if […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26811/PIA26811.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T17:56:49Z",
-    "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/"
-  },
-  {
-    "id": 39656,
-    "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-    "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts.   In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-24T17:53:57Z",
-    "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/"
   }
 ]

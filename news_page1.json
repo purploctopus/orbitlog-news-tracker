@@ -1,5 +1,32 @@
 [
   {
+    "id": 39790,
+    "title": "PLD Space Adds €108 million to Series C Funding Round",
+    "summary": "Spanish launch services provider PLD Space has secured an additional €108 million in funding, extending the Series C round to €288 million. The company is preparing for the inaugural flight of the Miura 5 rocket later this year. PLD Space announced that it had closed a €180 million Series C funding round in early March. […]\nThe post PLD Space Adds €108 million to Series C Funding Round appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/PLD-Space-Adds-E108-million-to-Series-C-Funding-Round-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-01T11:03:12Z",
+    "url": "https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/"
+  },
+  {
+    "id": 39788,
+    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+    "summary": "\"We could really be facing the great filter.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2_FermiExplorer_HeroShot_01.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-01T10:00:33Z",
+    "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
+  },
+  {
+    "id": 39789,
+    "title": "Samba’s fiery farewell recorded",
+    "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites. Samba had been lined up for a special 'targeted reentry' safely over the South Pacific Ocean, the precision so high that a plane could fly out from Tonga and successfully record its demise for reentry science.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-01T09:05:00Z",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
+  },
+  {
     "id": 39786,
     "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
     "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane […]",
@@ -29,7 +56,7 @@
   {
     "id": 39783,
     "title": "Launch Preview: Array of international launches planned this week",
-    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
+    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-31T20:55:13Z",
@@ -61,32 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-08-31T14:54:27Z",
     "url": "https://www.spacescout.info/2026/08/roman-space-telescope-headed-to-deep-space/"
-  },
-  {
-    "id": 39745,
-    "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T14:10:31Z",
-    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
-  },
-  {
-    "id": 39749,
-    "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-    "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-2-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury"
-  },
-  {
-    "id": 39744,
-    "title": "Speed to Field Starts Below the Prime",
-    "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose […]\nThe post Speed to Field Starts Below the Prime appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Astronaut001-headerImage-1200x930-1.webp?fit=1024%2C519&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-31T13:30:43Z",
-    "url": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
   }
 ]
