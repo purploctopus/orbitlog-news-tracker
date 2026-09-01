@@ -1,5 +1,32 @@
 [
   {
+    "id": 39782,
+    "title": "September 2026 Satellite Puzzler",
+    "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T19:37:57Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
+  },
+  {
+    "id": 39747,
+    "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+    "summary": "August 31, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite platforms and adaptable […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Associate Members appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-31T15:00:00Z",
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/"
+  },
+  {
+    "id": 39746,
+    "title": "Roman Space Telescope Headed to Deep Space",
+    "summary": "The observatory will shed new light on the mystery of dark energy, observe distant exoplanets, and explore the structure of the universe.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/cameron-liftoff-header-scaled.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-31T14:54:27Z",
+    "url": "https://www.spacescout.info/2026/08/roman-space-telescope-headed-to-deep-space/"
+  },
+  {
     "id": 39745,
     "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
     "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
@@ -61,32 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-31T11:09:59Z",
     "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/"
-  },
-  {
-    "id": 39739,
-    "title": "Roman lifts off on a mission to survey the infrared sky",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_lifts_off_on_a_mission_to_survey_the_infrared_sky/27439669-7-eng-GB/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky"
-  },
-  {
-    "id": 39738,
-    "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-    "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
-  },
-  {
-    "id": 39737,
-    "title": "SLS picks up the pace, four vehicles in production",
-    "summary": "The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…\r\nThe post SLS picks up the pace, four vehicles in production appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-31T00:11:01Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"
   }
 ]
