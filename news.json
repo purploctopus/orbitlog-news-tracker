@@ -1,5 +1,14 @@
 [
   {
+    "id": 39798,
+    "title": "ESA’s first lunar rover rolls forward",
+    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T07:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward"
+  },
+  {
     "id": 39797,
     "title": "House Clears FY2027 CR, Now to the President",
     "summary": "A full month before FY2027 begins, the House today joined the Senate in passing a Continuing Resolution (CR) to avoid a government shutdown on October 1. Both parties are eager […]",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-01T10:00:33Z",
     "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
-  },
-  {
-    "id": 39789,
-    "title": "Samba’s fiery farewell recorded",
-    "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites. Samba had been lined up for a special 'targeted reentry' safely over the South Pacific Ocean, the precision so high that a plane could fly out from Tonga and successfully record its demise for reentry science.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-01T09:05:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
   }
 ]

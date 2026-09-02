@@ -1,5 +1,14 @@
 [
   {
+    "id": 39705,
+    "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+    "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/jsc2024e067210_alt/jsc2024e067210_alt~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-27T15:10:24Z",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
+  },
+  {
     "id": 39704,
     "title": "The electronics ‘under the hood’ of space networking",
     "summary": "In this episode, SpaceNews’ Mike Gruss interviews Jeff Janicik, CEO and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored […]\nThe post The electronics ‘under the hood’ of space networking appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-26T20:12:39Z",
     "url": "https://europeanspaceflight.com/polish-institute-reports-continued-gnss-disruption-along-countrys-north-coast/"
-  },
-  {
-    "id": 39694,
-    "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
-    "summary": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/jacobson-lindsey.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T19:14:15Z",
-    "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/"
   }
 ]

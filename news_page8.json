@@ -1,5 +1,14 @@
 [
   {
+    "id": 39694,
+    "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
+    "summary": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet — aerosols, sea levels, land cover, cloud cover — over years and decades. Sustaining that record for the scientific and operational communities who depend on it requires more than engineering talent. It requires planning for an uncertain future: anticipating where a mission delay […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/jacobson-lindsey.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-26T19:14:15Z",
+    "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson/"
+  },
+  {
     "id": 39693,
     "title": "Roman Space Telescope Travels to SpaceX Hangar",
     "summary": "NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocket. Roman’s science instruments are designed to help researchers understand dark […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-26T13:32:28Z",
     "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
-  },
-  {
-    "id": 39684,
-    "title": "MTG-I2 ready for launch",
-    "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, is ready for launch on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Lift off is scheduled for 27 August 2026 at 22:10 CEST (17:10 local time).",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/mtg-i2_ready_for_launch/27433458-1-eng-GB/MTG-I2_ready_for_launch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-26T11:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch"
   }
 ]

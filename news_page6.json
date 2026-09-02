@@ -1,5 +1,14 @@
 [
   {
+    "id": 39713,
+    "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+    "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-08-28T11:00:39Z",
+    "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/"
+  },
+  {
     "id": 39714,
     "title": "Observing Samba and Tango’s reentries",
     "summary": "The final two of ESA's pioneering Cluster spacecraft, Samba and Tango, will end their journeys as they burn up in our atmosphere on 31 August and 1 September respectively. Their targeted reentries mark the end of a mission that has transformed our understanding of Earth's magnetic environment. The final moments also offer a rare scientific opportunity for reentry observations from a plane.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-27T15:26:18Z",
     "url": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/"
-  },
-  {
-    "id": 39705,
-    "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-    "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2024e067210_alt/jsc2024e067210_alt~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T15:10:24Z",
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/"
   }
 ]

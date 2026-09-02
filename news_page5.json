@@ -1,5 +1,14 @@
 [
   {
+    "id": 39724,
+    "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+    "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals.  The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards.   The technology grinds mixed trash into a fine powder, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T20:30:52Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/"
+  },
+  {
     "id": 39723,
     "title": "Trump Honors Artemis II Crew, Signs Executive Order to Establish a U.S. Space Academy",
     "summary": "President Trump signed an Executive Order today during a ceremony honoring the Artemis II crew that will create a NASA-led U.S. Space Academy to “encourage and guide” students to pursue […]",
@@ -45,15 +54,6 @@
     "url": "https://europeanspaceflight.com/orbexs-sutherland-spaceport-assets-sold-to-scottish-development-agency/"
   },
   {
-    "id": 39719,
-    "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
-    "summary": "ESA astronaut Sophie Adenot will take part in her third spacewalk during U.S. Spacewalk 99 on Tuesday 1 September. NASA live coverage will begin at 13:00 CEST, with the spacewalk expected to start at approximately 14:30 CEST and last around six and a half hours.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-28T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99"
-  },
-  {
     "id": 39787,
     "title": "Watch Sophie Adenot’s third spacewalk live",
     "summary": "After two successful spacewalks on 18 August (EVA-97) and 25 August (EVA-98), watch ESA astronaut Sophie Adenot venture into the vacuum of space for the third time on Tuesday 1 September, during EVA-99.",
@@ -61,6 +61,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-28T14:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_s_third_spacewalk_live"
+  },
+  {
+    "id": 39719,
+    "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
+    "summary": "ESA astronaut Sophie Adenot will take part in her third spacewalk during U.S. Spacewalk 99 on Tuesday 1 September. NASA live coverage will begin at 13:00 CEST, with the spacewalk expected to start at approximately 14:30 CEST and last around six and a half hours.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99"
   },
   {
     "id": 39716,
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-28T12:20:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights"
-  },
-  {
-    "id": 39713,
-    "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-    "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars.png",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-28T11:00:39Z",
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/"
   }
 ]
