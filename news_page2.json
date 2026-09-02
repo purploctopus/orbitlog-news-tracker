@@ -1,5 +1,32 @@
 [
   {
+    "id": 39800,
+    "title": "Cluster’s encore for reentry science a success",
+    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T10:20:00Z",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
+  },
+  {
+    "id": 39798,
+    "title": "ESA’s first lunar rover rolls forward",
+    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T07:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward"
+  },
+  {
+    "id": 39806,
+    "title": "APOD: 2026 September 2 – Solar Eclipses and Culture",
+    "summary": "APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Escalera_XT30-Eclipse-total-sol_v2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/"
+  },
+  {
     "id": 39797,
     "title": "House Clears FY2027 CR, Now to the President",
     "summary": "A full month before FY2027 begins, the House today joined the Senate in passing a Continuing Resolution (CR) to avoid a government shutdown on October 1. Both parties are eager […]",
@@ -61,32 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-01T14:46:28Z",
     "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
-  },
-  {
-    "id": 39790,
-    "title": "PLD Space Adds €108 million to Series C Funding Round",
-    "summary": "Spanish launch services provider PLD Space has secured an additional €108 million in funding, extending the Series C round to €288 million. The company is preparing for the inaugural flight of the Miura 5 rocket later this year. PLD Space announced that it had closed a €180 million Series C funding round in early March. […]\nThe post PLD Space Adds €108 million to Series C Funding Round appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/PLD-Space-Adds-E108-million-to-Series-C-Funding-Round-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-01T11:03:12Z",
-    "url": "https://europeanspaceflight.com/pld-space-adds-e108-million-to-series-c-funding-round/"
-  },
-  {
-    "id": 39788,
-    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
-    "summary": "\"We could really be facing the great filter.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2_FermiExplorer_HeroShot_01.png",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-01T10:00:33Z",
-    "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
-  },
-  {
-    "id": 39789,
-    "title": "Samba’s fiery farewell recorded",
-    "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites. Samba had been lined up for a special 'targeted reentry' safely over the South Pacific Ocean, the precision so high that a plane could fly out from Tonga and successfully record its demise for reentry science.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-01T09:05:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
   }
 ]
