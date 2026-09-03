@@ -1,5 +1,41 @@
 [
   {
+    "id": 39712,
+    "title": "The Forested Floodplains of Congaree National Park",
+    "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/congareenp_oli2_20250818.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/"
+  },
+  {
+    "id": 39710,
+    "title": "MTG-I2 completes Europe’s latest weather trio",
+    "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_begins_its_journey/27430195-5-eng-GB/MTG-I2_begins_its_journey_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-27T20:48:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio"
+  },
+  {
+    "id": 39709,
+    "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
+    "summary": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory. NASA Administrator Jared Isaacman will host Turkish Minister of Industry and Technology Mehmet Fatih Kacır for the ceremony, together with U.S. Department of State officials. This event is in person only. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-27T18:42:38Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+  },
+  {
+    "id": 39707,
+    "title": "Civil Servants Sworn in at NASA Ames",
+    "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA’s Ames Research Center in California’s Silicon Valley since […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-27T18:02:54Z",
+    "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/"
+  },
+  {
     "id": 39708,
     "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
     "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940",
@@ -52,41 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-27T07:00:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6"
-  },
-  {
-    "id": 39699,
-    "title": "Watch live: BepiColombo begins its arrival at Mercury",
-    "summary": "After eight years, the ESA/JAXA BepiColombo mission is about to enter its Mercury Arrival Phase. On 3 September 2026, ESA’s Mercury Transfer Module (MTM) will separate from BepiColombo’s two science orbiters – the first major step in one of the most operationally challenging planetary arrival sequences ever attempted by ESA.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-27T05:17:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury"
-  },
-  {
-    "id": 39698,
-    "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
-    "summary": "APOD Science APOD APOD: 2026 August 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colorful Aurora over […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Aurora_over_Fall.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall/"
-  },
-  {
-    "id": 39702,
-    "title": "Rare, Widespread Snow in the Atacama Desert",
-    "summary": "Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli_20260806.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/"
-  },
-  {
-    "id": 39697,
-    "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
-    "summary": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sources often […]\nThe post LatConnect 60 and Phi Earth Partner to Connect Space and Soil appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-27T01:54:19Z",
-    "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/"
   }
 ]
