@@ -1,5 +1,32 @@
 [
   {
+    "id": 39812,
+    "title": "Peatland Fires Darken Skies in Indonesia",
+    "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/peatland-fires-darken-skies-in-indonesia/indonesiafires_amo_20260901.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T04:01:00Z",
+    "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/"
+  },
+  {
+    "id": 39810,
+    "title": "Rocket Lab’s Hungry Hippo completes testing",
+    "summary": "With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…\r\nThe post Rocket Lab’s Hungry Hippo completes testing appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-02T21:06:05Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"
+  },
+  {
+    "id": 39808,
+    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-02T19:37:08Z",
+    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
+  },
+  {
     "id": 39807,
     "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
     "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-02T12:00:00Z",
     "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
-  },
-  {
-    "id": 39801,
-    "title": "Third spacewalk completed for Sophie Adenot",
-    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T11:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot"
-  },
-  {
-    "id": 39799,
-    "title": "HyImpulse Extends Series A Funding Round by €50 Million",
-    "summary": "German launch services provider HyImpulse announced on 2 September that it had extended its Series A funding round by more than €50 million, bringing its total funding to date to €125 million. The company is currently preparing for the second flight of its suborbital SR75 rocket and the inaugural launch attempt of its larger SL1 […]\nThe post HyImpulse Extends Series A Funding Round by €50 Million appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/HyImpulse-Extends-Series-A-Funding-Round-by-50-Million-Euros.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-02T10:28:42Z",
-    "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/"
-  },
-  {
-    "id": 39800,
-    "title": "Cluster’s encore for reentry science a success",
-    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T10:20:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
   }
 ]
