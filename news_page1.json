@@ -1,5 +1,41 @@
 [
   {
+    "id": 39820,
+    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
+    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-03T13:50:06Z",
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/"
+  },
+  {
+    "id": 39818,
+    "title": "NASA’s Hubble Spies Superbubble Scene",
+    "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_N44_potm2608a_lg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T13:16:02Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
+  },
+  {
+    "id": 39817,
+    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+    "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-03T13:00:00Z",
+    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
+  },
+  {
+    "id": 39816,
+    "title": "Latest updates: BepiColombo's arrival at Mercury",
+    "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-03T10:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+  },
+  {
     "id": 39814,
     "title": "Hubble's superbubble scene",
     "summary": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.",
@@ -11,7 +47,7 @@
   {
     "id": 39813,
     "title": "ArcSpace to Demo On-Orbit Welding Tech in 2027",
-    "summary": "With its announcement that it had secured €2 million in new funding, French startup ArcSpace announced plans to test an automated welding system in orbit in 2027. Founded in 2022, ArcSpace is developing compact electron-beam tools designed to weld, join and cut metallic structures in orbit for applications including spacecraft servicing and assembly. On 25 […]\nThe post ArcSpace to Demo On-Orbit Welding Tech in 2027 appeared first on European Spaceflight.",
+    "summary": "With its announcement that it had secured €2 million in new funding, French startup ArcSpace announced plans to test an automated welding system in orbit in 2027. Founded in 2022, ArcSpace is developing compact electron-beam tools designed to weld, join and cut metallic structures in orbit for applications including spacecraft servicing and assembly. On 25 […]\r\nThe post ArcSpace to Demo On-Orbit Welding Tech in 2027 appeared first on European Spaceflight.",
     "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ArcSpace-to-Demo-On-Orbit-Welding-Tech-in-2027-.webp",
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-03T06:13:32Z",
@@ -38,7 +74,7 @@
   {
     "id": 39810,
     "title": "Rocket Lab’s Hungry Hippo completes testing",
-    "summary": "With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…\nThe post Rocket Lab’s Hungry Hippo completes testing appeared first on NASASpaceFlight.com.",
+    "summary": "With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…\r\nThe post Rocket Lab’s Hungry Hippo completes testing appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/16D158EF-E0FF-4622-ABD4-DA387D02F975.jpeg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-02T21:06:05Z",
@@ -52,41 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-02T19:37:08Z",
     "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
-  },
-  {
-    "id": 39807,
-    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-    "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T19:01:05Z",
-    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
-  },
-  {
-    "id": 39805,
-    "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T18:00:37Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/"
-  },
-  {
-    "id": 39809,
-    "title": "Hubble tracks new decagon encircling Saturn’s south pole",
-    "summary": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T18:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
-  },
-  {
-    "id": 39803,
-    "title": "Rising Over Louisiana",
-    "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/MAF_20260827_LunarEclipse_01/MAF_20260827_LunarEclipse_01~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T15:38:50Z",
-    "url": "https://www.nasa.gov/image-article/rising-over-louisiana/"
   }
 ]

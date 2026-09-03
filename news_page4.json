@@ -1,5 +1,50 @@
 [
   {
+    "id": 39788,
+    "title": "Private group wants to launch \"cheapest possible\" mission to Alpha Centauri",
+    "summary": "\"We could really be facing the great filter.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2_FermiExplorer_HeroShot_01.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-01T10:00:33Z",
+    "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
+  },
+  {
+    "id": 39789,
+    "title": "Samba’s fiery farewell recorded",
+    "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites. Samba had been lined up for a special 'targeted reentry' safely over the South Pacific Ocean, the precision so high that a plane could fly out from Tonga and successfully record its demise for reentry science.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-01T09:05:00Z",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
+  },
+  {
+    "id": 39786,
+    "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
+    "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/"
+  },
+  {
+    "id": 39785,
+    "title": "Ice Island Survives Run-In With Joe Island",
+    "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
+  },
+  {
+    "id": 39784,
+    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T21:14:12Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
+  },
+  {
     "id": 39783,
     "title": "Launch Preview: Array of international launches planned this week",
     "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
@@ -43,50 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-31T14:10:31Z",
     "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
-  },
-  {
-    "id": 39749,
-    "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-    "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-2-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury"
-  },
-  {
-    "id": 39744,
-    "title": "Speed to Field Starts Below the Prime",
-    "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose […]\nThe post Speed to Field Starts Below the Prime appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Astronaut001-headerImage-1200x930-1.webp?fit=1024%2C519&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-08-31T13:30:43Z",
-    "url": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
-  },
-  {
-    "id": 39748,
-    "title": "What happened this month at the European Space Agency? (August 2026)",
-    "summary": "August was a busy month for ESA, between spectacular views, historic milestones and exciting new discoveries.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/what_happened_this_month_at_the_european_space_agency_august_2026/27442711-4-eng-GB/What_happened_this_month_at_the_European_Space_Agency_August_2026_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T13:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/What_happened_this_month_at_the_European_Space_Agency_August_2026"
-  },
-  {
-    "id": 39742,
-    "title": "Roman Commissioning",
-    "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T12:16:53Z",
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
-  },
-  {
-    "id": 39743,
-    "title": "Nepal flash flood imaged by satellites",
-    "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T11:57:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites"
   }
 ]
