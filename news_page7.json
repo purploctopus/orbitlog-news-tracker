@@ -1,5 +1,23 @@
 [
   {
+    "id": 39730,
+    "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/NHQ20260830_admin_0002/NHQ20260830_admin_0002~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-30T13:18:06Z",
+    "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+  },
+  {
+    "id": 39819,
+    "title": "EVA-98: suiting up!",
+    "summary": "This timelapse was published by ESA astronaut Sophie Adenot on social media with the following caption:",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/eva-98_suiting_up/27448575-1-eng-GB/EVA-98_suiting_up_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-30T12:05:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/EVA-98_suiting_up"
+  },
+  {
     "id": 39729,
     "title": "Roman Space Telescope, NASA’s next ‘great observatory,’ poised for Sunday launch",
     "summary": "Using a donated Hubble-class mirror originally built for a spy satellite, NASA's Roman Space Telescope is poised for launch Sunday on a $4.3 billion mission to open a new window on the universe. Liftoff from the Kennedy Space Center atop a SpaceX Falcon Heavy is scheduled for 7:26 a.m. EDT (1126 UTC).",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-28T17:37:01Z",
     "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
-  },
-  {
-    "id": 39721,
-    "title": "Trump calls for creation of a \"space academy\" to train future NASA leaders",
-    "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-28T17:36:30Z",
-    "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/"
-  },
-  {
-    "id": 39720,
-    "title": "President Trump Signs Executive Order to Create US Space Academy",
-    "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-28T17:21:04Z",
-    "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/"
   }
 ]

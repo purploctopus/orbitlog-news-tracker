@@ -1,5 +1,23 @@
 [
   {
+    "id": 39794,
+    "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+    "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T19:15:25Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
+  },
+  {
+    "id": 39793,
+    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
+    "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-01T18:15:54Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"
+  },
+  {
     "id": 39792,
     "title": "Historic Engines Take Their Place on Artemis III",
     "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-31T21:14:12Z",
     "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 39783,
-    "title": "Launch Preview: Array of international launches planned this week",
-    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-31T20:55:13Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"
-  },
-  {
-    "id": 39782,
-    "title": "September 2026 Satellite Puzzler",
-    "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T19:37:57Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39804,
+    "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+    "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/hpd/itm/SporadicElayers.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T14:53:54Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/"
+  },
+  {
+    "id": 39802,
+    "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
+    "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by […]\nThe post Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-02T12:00:00Z",
+    "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
+  },
+  {
     "id": 39801,
     "title": "Third spacewalk completed for Sophie Adenot",
     "summary": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-01T20:56:22Z",
     "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/"
-  },
-  {
-    "id": 39794,
-    "title": "What’s Up: September 2026 Skywatching Tips from NASA",
-    "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T19:15:25Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
-  },
-  {
-    "id": 39793,
-    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-    "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-01T18:15:54Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"
   }
 ]
