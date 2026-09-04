@@ -1,5 +1,23 @@
 [
   {
+    "id": 39828,
+    "title": "How Sentinel-3 tracks climate change",
+    "summary": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-04T08:00:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change"
+  },
+  {
+    "id": 39833,
+    "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+    "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/noirlab2621a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
+  },
+  {
     "id": 39826,
     "title": "A Trio of Tropical Cyclones in the Pacific",
     "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-03T13:50:06Z",
     "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/"
-  },
-  {
-    "id": 39818,
-    "title": "NASA’s Hubble Spies Superbubble Scene",
-    "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_N44_potm2608a_lg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-03T13:16:02Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
-  },
-  {
-    "id": 39817,
-    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-    "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-03T13:00:00Z",
-    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
   }
 ]

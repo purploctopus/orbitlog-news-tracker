@@ -1,5 +1,23 @@
 [
   {
+    "id": 39806,
+    "title": "APOD: 2026 September 2 – Solar Eclipses and Culture",
+    "summary": "APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Escalera_XT30-Eclipse-total-sol_v2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/"
+  },
+  {
+    "id": 39797,
+    "title": "House Clears FY2027 CR, Now to the President",
+    "summary": "A full month before FY2027 begins, the House today joined the Senate in passing a Continuing Resolution (CR) to avoid a government shutdown on October 1. Both parties are eager […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/House-CR-300x174.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-01T21:26:43Z",
+    "url": "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
+  },
+  {
     "id": 39796,
     "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
     "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-01T10:00:33Z",
     "url": "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
-  },
-  {
-    "id": 39789,
-    "title": "Samba’s fiery farewell recorded",
-    "summary": "Yesterday, on 31 August 2026, Samba reentered Earth’s atmosphere at 21:39:38 UTC / 23:39:38 CEST as the third of the four Cluster satellites. Samba had been lined up for a special 'targeted reentry' safely over the South Pacific Ocean, the precision so high that a plane could fly out from Tonga and successfully record its demise for reentry science.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/samba_s_reentry_recorded/27443967-1-eng-GB/Samba_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-01T09:05:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded"
-  },
-  {
-    "id": 39786,
-    "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-    "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Plane […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/"
   }
 ]

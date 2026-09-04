@@ -1,5 +1,23 @@
 [
   {
+    "id": 39818,
+    "title": "NASA’s Hubble Spies Superbubble Scene",
+    "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_N44_potm2608a_lg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T13:16:02Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
+  },
+  {
+    "id": 39817,
+    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+    "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-03T13:00:00Z",
+    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
+  },
+  {
     "id": 39816,
     "title": "Latest updates: BepiColombo's arrival at Mercury",
     "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-02T19:01:05Z",
     "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
-  },
-  {
-    "id": 39805,
-    "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T18:00:37Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/"
-  },
-  {
-    "id": 39809,
-    "title": "Hubble tracks new decagon encircling Saturn’s south pole",
-    "summary": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T18:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
   }
 ]
