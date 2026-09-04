@@ -1,5 +1,50 @@
 [
   {
+    "id": 39821,
+    "title": "Igniting Roman’s Journey",
+    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T14:24:23Z",
+    "url": "https://www.nasa.gov/image-article/igniting-romans-journey/"
+  },
+  {
+    "id": 39820,
+    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
+    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\r\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-03T13:50:06Z",
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/"
+  },
+  {
+    "id": 39818,
+    "title": "NASA’s Hubble Spies Superbubble Scene",
+    "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_N44_potm2608a_lg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T13:16:02Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
+  },
+  {
+    "id": 39817,
+    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+    "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-03T13:00:00Z",
+    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
+  },
+  {
+    "id": 39816,
+    "title": "Latest updates: BepiColombo's arrival at Mercury",
+    "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-03T10:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+  },
+  {
     "id": 39814,
     "title": "Hubble's superbubble scene",
     "summary": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.",
@@ -43,50 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-02T21:06:05Z",
     "url": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"
-  },
-  {
-    "id": 39808,
-    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-02T19:37:08Z",
-    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
-  },
-  {
-    "id": 39807,
-    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-    "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T19:01:05Z",
-    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
-  },
-  {
-    "id": 39805,
-    "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T18:00:37Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/"
-  },
-  {
-    "id": 39809,
-    "title": "Hubble tracks new decagon encircling Saturn’s south pole",
-    "summary": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T18:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
-  },
-  {
-    "id": 39815,
-    "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
-    "summary": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T16:08:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
   }
 ]

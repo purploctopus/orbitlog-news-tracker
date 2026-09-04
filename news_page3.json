@@ -1,5 +1,50 @@
 [
   {
+    "id": 39808,
+    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-02T19:37:08Z",
+    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
+  },
+  {
+    "id": 39807,
+    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+    "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T19:01:05Z",
+    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
+  },
+  {
+    "id": 39805,
+    "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+    "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T18:00:37Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/"
+  },
+  {
+    "id": 39809,
+    "title": "Hubble tracks new decagon encircling Saturn’s south pole",
+    "summary": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric phenomenon develop on the iconic gas giant.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T18:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole"
+  },
+  {
+    "id": 39815,
+    "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
+    "summary": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T16:08:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
+  },
+  {
     "id": 39803,
     "title": "Rising Over Louisiana",
     "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
@@ -43,50 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-02T10:28:42Z",
     "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/"
-  },
-  {
-    "id": 39800,
-    "title": "Cluster’s encore for reentry science a success",
-    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T10:20:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
-  },
-  {
-    "id": 39798,
-    "title": "ESA’s first lunar rover rolls forward",
-    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T07:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward"
-  },
-  {
-    "id": 39806,
-    "title": "APOD: 2026 September 2 – Solar Eclipses and Culture",
-    "summary": "APOD Science APOD APOD: 2026 September 2 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Solar Eclipses and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/Escalera_XT30-Eclipse-total-sol_v2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-2-solar-eclipses-and-culture/"
-  },
-  {
-    "id": 39797,
-    "title": "House Clears FY2027 CR, Now to the President",
-    "summary": "A full month before FY2027 begins, the House today joined the Senate in passing a Continuing Resolution (CR) to avoid a government shutdown on October 1. Both parties are eager […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/House-CR-300x174.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-01T21:26:43Z",
-    "url": "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
-  },
-  {
-    "id": 39796,
-    "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-    "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T21:08:37Z",
-    "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
   }
 ]

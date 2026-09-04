@@ -1,5 +1,50 @@
 [
   {
+    "id": 39745,
+    "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T14:10:31Z",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
+  },
+  {
+    "id": 39749,
+    "title": "Media briefing: BepiColombo's next milestone towards Mercury",
+    "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-2-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-31T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury"
+  },
+  {
+    "id": 39744,
+    "title": "Speed to Field Starts Below the Prime",
+    "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose […]\nThe post Speed to Field Starts Below the Prime appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/Astronaut001-headerImage-1200x930-1.webp?fit=1024%2C519&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-31T13:30:43Z",
+    "url": "https://spacenews.com/speed-to-field-starts-below-the-prime/"
+  },
+  {
+    "id": 39748,
+    "title": "What happened this month at the European Space Agency? (August 2026)",
+    "summary": "August was a busy month for ESA, between spectacular views, historic milestones and exciting new discoveries.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/what_happened_this_month_at_the_european_space_agency_august_2026/27442711-4-eng-GB/What_happened_this_month_at_the_European_Space_Agency_August_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-31T13:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/What_happened_this_month_at_the_European_Space_Agency_August_2026"
+  },
+  {
+    "id": 39742,
+    "title": "Roman Commissioning",
+    "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T12:16:53Z",
+    "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
+  },
+  {
     "id": 39743,
     "title": "Nepal flash flood imaged by satellites",
     "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
@@ -43,50 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-31T00:11:01Z",
     "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"
-  },
-  {
-    "id": 39736,
-    "title": "What’s Happening in Space Policy August 30-September 5, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 30-September 5, 2026 and any insight we can offer about them. The House is in session this […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-30T22:08:52Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/"
-  },
-  {
-    "id": 39735,
-    "title": "Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off this morning on a mission to find more planets around other stars in the universe and solve the mysteries of dark energy […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-30T18:59:50Z",
-    "url": "https://spacepolicyonline.com/news/nancy-grace-roman-space-telescope-lifts-off-to-open-new-insights-into-the-universe/"
-  },
-  {
-    "id": 39734,
-    "title": "Why it matters that President Trump just dialed into a NASA news conference",
-    "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-08-30T17:40:30Z",
-    "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/"
-  },
-  {
-    "id": 39731,
-    "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-    "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026.  From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26779/PIA26779.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-30T14:57:59Z",
-    "url": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/"
-  },
-  {
-    "id": 39732,
-    "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-    "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26778/PIA26778.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-30T14:53:08Z",
-    "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
   }
 ]
