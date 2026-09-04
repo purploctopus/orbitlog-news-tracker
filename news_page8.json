@@ -1,5 +1,14 @@
 [
   {
+    "id": 39722,
+    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+    "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/congressional-space-medal-of-honor-ceremony-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-28T17:37:01Z",
+    "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/"
+  },
+  {
     "id": 39721,
     "title": "Trump calls for creation of a \"space academy\" to train future NASA leaders",
     "summary": "\"It's called the US Space Academy. That's a big deal.\"",
@@ -27,15 +36,6 @@
     "url": "https://europeanspaceflight.com/orbexs-sutherland-spaceport-assets-sold-to-scottish-development-agency/"
   },
   {
-    "id": 39719,
-    "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
-    "summary": "ESA astronaut Sophie Adenot will take part in her third spacewalk during U.S. Spacewalk 99 on Tuesday 1 September. NASA live coverage will begin at 13:00 CEST, with the spacewalk expected to start at approximately 14:30 CEST and last around six and a half hours.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-28T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99"
-  },
-  {
     "id": 39787,
     "title": "Watch Sophie Adenot’s third spacewalk live",
     "summary": "After two successful spacewalks on 18 August (EVA-97) and 25 August (EVA-98), watch ESA astronaut Sophie Adenot venture into the vacuum of space for the third time on Tuesday 1 September, during EVA-99.",
@@ -43,6 +43,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-28T14:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_s_third_spacewalk_live"
+  },
+  {
+    "id": 39719,
+    "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
+    "summary": "ESA astronaut Sophie Adenot will take part in her third spacewalk during U.S. Spacewalk 99 on Tuesday 1 September. NASA live coverage will begin at 13:00 CEST, with the spacewalk expected to start at approximately 14:30 CEST and last around six and a half hours.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99"
   },
   {
     "id": 39716,
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-28T09:03:00Z",
     "url": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries"
-  },
-  {
-    "id": 39715,
-    "title": "A navigation odyssey",
-    "summary": "Homer’s The Odyssey chronicles Odysseus’s journey home to Ithaca after the Trojan War. A distance of approximately 530 km as the crow flies, yet it takes Odysseus ten years and countless adventures to arrive—without his crew or his boat. What could Odysseus’s journey have looked like if he had modern-day satellite navigation systems, such as Galileo, at his disposal?",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/07/galileo_satellite_in_orbit/14632177-1-eng-GB/Galileo_satellite_in_orbit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-28T08:58:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/A_navigation_odyssey"
   }
 ]

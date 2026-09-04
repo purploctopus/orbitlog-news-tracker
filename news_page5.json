@@ -1,5 +1,14 @@
 [
   {
+    "id": 39784,
+    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T21:14:12Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
+  },
+  {
     "id": 39783,
     "title": "Launch Preview: Array of international launches planned this week",
     "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-31T12:16:53Z",
     "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
-  },
-  {
-    "id": 39743,
-    "title": "Nepal flash flood imaged by satellites",
-    "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T11:57:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites"
   }
 ]

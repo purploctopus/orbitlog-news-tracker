@@ -1,5 +1,14 @@
 [
   {
+    "id": 39826,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+  },
+  {
     "id": 39825,
     "title": "Schiess Takes Charge of U.S. Space Force",
     "summary": "Gen. Douglas Schiess took charge of the U.S. Space Force today at a Change of Responsibility ceremony outside Washington, D.C. Outgoing Chief of Space Operations Gen. Chance Saltzman praised his successor […]",
@@ -47,7 +56,7 @@
   {
     "id": 39820,
     "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
-    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
+    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\r\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
     "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-03T13:50:06Z",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-03T10:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
-  },
-  {
-    "id": 39814,
-    "title": "Hubble's superbubble scene",
-    "summary": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hubble_s_superbubble_scene/27445597-2-eng-GB/Hubble_s_superbubble_scene_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-03T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39701,
+    "title": "First contracts kick off European Launcher Challenge",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/european_launcher_challenge_visual/26128354-4-eng-GB/European_Launcher_Challenge_visual_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-27T07:17:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge"
+  },
+  {
     "id": 39700,
     "title": "MTG-I2 ready for launch on Ariane 6",
     "summary": "The Meteosat Third Generation Imager2 satellite (MTG-I2) has been encapsulated inside the Ariane 6 fairing and is in place on its launch pad. It is scheduled to lift off on Thursday evening, 27 August, from Europe’s Spaceport in French Guiana.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-26T18:40:19Z",
     "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/"
-  },
-  {
-    "id": 39692,
-    "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
-    "summary": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at exactly the right time.  Pilots from NASA’s Johnson Space Center flew the WB-57F high altitude research aircraft from Ellington Field in Houston to Iceland, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406812.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-26T17:33:05Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/"
   }
 ]
