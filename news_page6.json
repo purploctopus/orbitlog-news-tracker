@@ -1,5 +1,59 @@
 [
   {
+    "id": 39785,
+    "title": "Ice Island Survives Run-In With Joe Island",
+    "summary": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-01T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
+  },
+  {
+    "id": 39784,
+    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T21:14:12Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
+  },
+  {
+    "id": 39783,
+    "title": "Launch Preview: Array of international launches planned this week",
+    "summary": "Six missions are scheduled to launch from launch sites across the globe this week. After…\r\nThe post Launch Preview: Array of international launches planned this week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-08-31T20:55:13Z",
+    "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-083126/"
+  },
+  {
+    "id": 39782,
+    "title": "September 2026 Satellite Puzzler",
+    "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T19:37:57Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
+  },
+  {
+    "id": 39747,
+    "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+    "summary": "August 31, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite platforms and adaptable […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Associate Members appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-08-31T15:00:00Z",
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/"
+  },
+  {
+    "id": 39746,
+    "title": "Roman Space Telescope Headed to Deep Space",
+    "summary": "The observatory will shed new light on the mystery of dark energy, observe distant exoplanets, and explore the structure of the universe.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/cameron-liftoff-header-scaled.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-31T14:54:27Z",
+    "url": "https://www.spacescout.info/2026/08/roman-space-telescope-headed-to-deep-space/"
+  },
+  {
     "id": 39745,
     "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
     "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
@@ -34,59 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-08-31T13:30:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/What_happened_this_month_at_the_European_Space_Agency_August_2026"
-  },
-  {
-    "id": 39742,
-    "title": "Roman Commissioning",
-    "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T12:16:53Z",
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
-  },
-  {
-    "id": 39743,
-    "title": "Nepal flash flood imaged by satellites",
-    "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T11:57:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites"
-  },
-  {
-    "id": 39741,
-    "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
-    "summary": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, describing it as the first major industrial order awarded since […]\nThe post SES Awards OHB €1 billion for IRIS2 MEO Satellites appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/08/SES-Awards-OHB-1-billion-Euros-for-IRIS2-MEO-Satellites.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-08-31T11:09:59Z",
-    "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/"
-  },
-  {
-    "id": 39739,
-    "title": "Roman lifts off on a mission to survey the infrared sky",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_lifts_off_on_a_mission_to_survey_the_infrared_sky/27439669-7-eng-GB/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky"
-  },
-  {
-    "id": 39738,
-    "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-    "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
-  },
-  {
-    "id": 39737,
-    "title": "SLS picks up the pace, four vehicles in production",
-    "summary": "The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…\r\nThe post SLS picks up the pace, four vehicles in production appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-31T00:11:01Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"
   }
 ]
