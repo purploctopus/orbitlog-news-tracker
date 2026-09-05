@@ -1,5 +1,23 @@
 [
   {
+    "id": 39821,
+    "title": "Igniting Roman’s Journey",
+    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T14:24:23Z",
+    "url": "https://www.nasa.gov/image-article/igniting-romans-journey/"
+  },
+  {
+    "id": 39820,
+    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
+    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\r\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-03T13:50:06Z",
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/"
+  },
+  {
     "id": 39818,
     "title": "NASA’s Hubble Spies Superbubble Scene",
     "summary": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-02T21:06:05Z",
     "url": "https://www.nasaspaceflight.com/2026/09/rocket-lab-update/"
-  },
-  {
-    "id": 39808,
-    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-02T19:37:08Z",
-    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
-  },
-  {
-    "id": 39807,
-    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-    "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T19:01:05Z",
-    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
   }
 ]

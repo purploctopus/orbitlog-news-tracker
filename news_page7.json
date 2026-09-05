@@ -1,5 +1,23 @@
 [
   {
+    "id": 39745,
+    "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T14:10:31Z",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
+  },
+  {
+    "id": 39749,
+    "title": "Media briefing: BepiColombo's next milestone towards Mercury",
+    "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-2-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-31T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury"
+  },
+  {
     "id": 39744,
     "title": "Speed to Field Starts Below the Prime",
     "summary": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose […]\nThe post Speed to Field Starts Below the Prime appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-08-31T00:11:01Z",
     "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"
-  },
-  {
-    "id": 39736,
-    "title": "What’s Happening in Space Policy August 30-September 5, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 30-September 5, 2026 and any insight we can offer about them. The House is in session this […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-30T22:08:52Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/"
-  },
-  {
-    "id": 39735,
-    "title": "Nancy Grace Roman Space Telescope Lifts Off to Open New Insights Into the Universe",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off this morning on a mission to find more planets around other stars in the universe and solve the mysteries of dark energy […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-30T18:59:50Z",
-    "url": "https://spacepolicyonline.com/news/nancy-grace-roman-space-telescope-lifts-off-to-open-new-insights-into-the-universe/"
   }
 ]

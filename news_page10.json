@@ -1,5 +1,23 @@
 [
   {
+    "id": 39719,
+    "title": "Sophie Adenot's third spacewalk (U.S. Spacewalk 99)",
+    "summary": "ESA astronaut Sophie Adenot will take part in her third spacewalk during U.S. Spacewalk 99 on Tuesday 1 September. NASA live coverage will begin at 13:00 CEST, with the spacewalk expected to start at approximately 14:30 CEST and last around six and a half hours.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/sophie_adenot_s_third_spacewalk_u.s._spacewalk_99/27440071-1-eng-GB/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_third_spacewalk_U.S._Spacewalk_99"
+  },
+  {
+    "id": 39716,
+    "title": "Week in images: 24-28 August 2026",
+    "summary": "Week in images: 24-28 August 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-987/27435962-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-08-28T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026"
+  },
+  {
     "id": 39717,
     "title": "Ariane 6 launch with MTG-I2 – highlights",
     "summary": "The Meteosat Third Generation-Imager2 (MTG-I2) satellite, has been launched on board an Ariane 6 launcher from Europe’s Spaceport in French Guiana. Liftoff was on 27 August 2026 at 22:11 CEST (17:10 local time).",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-27T18:42:38Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-  },
-  {
-    "id": 39707,
-    "title": "Civil Servants Sworn in at NASA Ames",
-    "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA’s Ames Research Center in California’s Silicon Valley since […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T18:02:54Z",
-    "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/"
-  },
-  {
-    "id": 39708,
-    "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/08/encap.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-27T17:47:11Z",
-    "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/"
   }
 ]

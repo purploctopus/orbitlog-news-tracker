@@ -1,5 +1,23 @@
 [
   {
+    "id": 39808,
+    "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+    "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-02T19:37:08Z",
+    "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/"
+  },
+  {
+    "id": 39807,
+    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+    "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T19:01:05Z",
+    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
+  },
+  {
     "id": 39805,
     "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
     "summary": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-02T10:28:42Z",
     "url": "https://europeanspaceflight.com/hyimpulse-extends-series-a-funding-round-by-e50-million/"
-  },
-  {
-    "id": 39800,
-    "title": "Cluster’s encore for reentry science a success",
-    "summary": "The Cluster mission danced its final dance as Tango reentered the atmosphere on 1 September, at 23:30:31 CEST. The end of the Cluster mission in 2024 turned into the start of the reentry data collection campaign. After four ‘targeted’ reentries, this is now a proven method of safe end-of-life disposal. It also enabled the repeated observation of the reentries by a plane full of scientists, creating a unique reentry data set that will improve our understanding of the destructive process and can inform the design of safer and more sustainable satellites in the future.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/tango_s_reentry_recorded/27446747-1-eng-GB/Tango_s_reentry_recorded_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T10:20:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success"
-  },
-  {
-    "id": 39798,
-    "title": "ESA’s first lunar rover rolls forward",
-    "summary": "Yesterday evening, during a signing ceremony at the Space for Inspiration event in Copenhagen, Denmark, the European Space Agency (ESA) and ispace-Europe celebrated the implementation of MAGPIE, set to be the first European rover on the Moon.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/magpie_on_the_moon/27444725-1-eng-GB/MAGPIE_on_the_Moon_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T07:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward"
   }
 ]

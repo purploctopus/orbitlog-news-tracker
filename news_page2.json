@@ -1,5 +1,23 @@
 [
   {
+    "id": 39830,
+    "title": "Week in images: 31 Aug - 04 Sep 2026",
+    "summary": "Week in images: 31 Aug - 04 Sep 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space3/27449213-2-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-04T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026"
+  },
+  {
+    "id": 39829,
+    "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
+    "summary": "Munich-based space situational awareness startup Project-S has emerged from stealth with what it describes as “multi-million-euro backing.” The company is currently preparing for the first in-orbit demonstration of its active radar, with a spokesperson telling European Spaceflight that it is scheduled to be launched aboard a SpaceX Transporter rideshare mission next month. On 2 September, […]\nThe post German Space Situation Awareness Startup Project-S Emerges from Stealth appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/German-Space-Situation-Awareness-Startup-Project-S-Emerges-from-Stealth-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-04T10:31:17Z",
+    "url": "https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/"
+  },
+  {
     "id": 39828,
     "title": "How Sentinel-3 tracks climate change",
     "summary": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-03T15:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay"
-  },
-  {
-    "id": 39821,
-    "title": "Igniting Roman’s Journey",
-    "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-03T14:24:23Z",
-    "url": "https://www.nasa.gov/image-article/igniting-romans-journey/"
-  },
-  {
-    "id": 39820,
-    "title": "Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September",
-    "summary": "Maritime safety notices indicate that a week-long launch window for Isar Aerospace’s second Spectrum flight will open on 4 September. On 1 September, the Norwegian Coastal Administration issued a warning outlining that rocket launch operations were expected to be conducted daily between 16:00 and 21:35 UTC from 4 to 10 September. The warning establishes two […]\r\nThe post Isar Aerospace Could Attempt Second Spectrum Flight as Early as 4 September appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Could-Attempt-Second-Spectrum-Flight-as-Early-as-4-September.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-03T13:50:06Z",
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-attempt-second-spectrum-flight-as-early-as-4-september/"
   }
 ]
