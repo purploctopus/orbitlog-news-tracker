@@ -1,5 +1,14 @@
 [
   {
+    "id": 39803,
+    "title": "Rising Over Louisiana",
+    "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/MAF_20260827_LunarEclipse_01/MAF_20260827_LunarEclipse_01~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-02T15:38:50Z",
+    "url": "https://www.nasa.gov/image-article/rising-over-louisiana/"
+  },
+  {
     "id": 39804,
     "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
     "summary": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-01T21:08:37Z",
     "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
-  },
-  {
-    "id": 39795,
-    "title": "SpaceX to launch Starlink mission from West Coast",
-    "summary": "Liftoff from Vandenberg Space Force Base in California is currently scheduled for 1:18 a.m. PDT (4:18 a.m. EDT / 0818 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-01T20:56:22Z",
-    "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39814,
+    "title": "Hubble's superbubble scene",
+    "summary": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hubble_s_superbubble_scene/27445597-2-eng-GB/Hubble_s_superbubble_scene_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-03T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene"
+  },
+  {
     "id": 39813,
     "title": "ArcSpace to Demo On-Orbit Welding Tech in 2027",
     "summary": "With its announcement that it had secured €2 million in new funding, French startup ArcSpace announced plans to test an automated welding system in orbit in 2027. Founded in 2022, ArcSpace is developing compact electron-beam tools designed to weld, join and cut metallic structures in orbit for applications including spacecraft servicing and assembly. On 25 […]\r\nThe post ArcSpace to Demo On-Orbit Welding Tech in 2027 appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-02T16:08:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
-  },
-  {
-    "id": 39803,
-    "title": "Rising Over Louisiana",
-    "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/MAF_20260827_LunarEclipse_01/MAF_20260827_LunarEclipse_01~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-02T15:38:50Z",
-    "url": "https://www.nasa.gov/image-article/rising-over-louisiana/"
   }
 ]

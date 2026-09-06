@@ -1,5 +1,14 @@
 [
   {
+    "id": 39795,
+    "title": "SpaceX to launch Starlink mission from West Coast",
+    "summary": "Liftoff from Vandenberg Space Force Base in California is currently scheduled for 1:18 a.m. PDT (4:18 a.m. EDT / 0818 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-01T20:56:22Z",
+    "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast/"
+  },
+  {
     "id": 39794,
     "title": "What’s Up: September 2026 Skywatching Tips from NASA",
     "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-01T04:00:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/"
-  },
-  {
-    "id": 39784,
-    "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
-    "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of like-minded nations dedicated to peaceful, transparent space exploration. “It is my privilege to welcome the Republic of Türkiye as the 71st signatory of the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-31T21:14:12Z",
-    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/"
   }
 ]
