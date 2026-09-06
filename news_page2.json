@@ -1,5 +1,14 @@
 [
   {
+    "id": 39832,
+    "title": "Lunar Occultation of Venus",
+    "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T14:14:57Z",
+    "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
+  },
+  {
     "id": 39836,
     "title": "Media briefing ahead of FLEX and Sentinel-3C launch",
     "summary": "On 4 September 2026, media representatives joined an online briefing ahead of the launch of ESA’s FLEX and the Copernicus Sentinel-3C satellites.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-03T21:03:23Z",
     "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/"
-  },
-  {
-    "id": 39823,
-    "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
-    "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss074e0395792/iss074e0395792~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-03T17:06:00Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
   }
 ]

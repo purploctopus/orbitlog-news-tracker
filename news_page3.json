@@ -1,5 +1,14 @@
 [
   {
+    "id": 39823,
+    "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+    "summary": "NASA will provide live coverage of the launch and docking of a Roscosmos cargo spacecraft carrying about three tons of food, fuel, and supplies for the crew aboard the International Space Station. The unpiloted Progress 96 resupply spacecraft is scheduled to launch at 12:15 p.m. EDT (9:15 p.m. Baikonur time), Wednesday, Sept. 9, on a […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss074e0395792/iss074e0395792~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T17:06:00Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking/"
+  },
+  {
     "id": 39822,
     "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
     "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-03T06:13:32Z",
     "url": "https://europeanspaceflight.com/arcspace-to-demo-on-orbit-welding-tech-in-2027/"
-  },
-  {
-    "id": 39811,
-    "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-    "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-03T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
   }
 ]

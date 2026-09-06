@@ -1,5 +1,14 @@
 [
   {
+    "id": 39782,
+    "title": "September 2026 Satellite Puzzler",
+    "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T19:37:57Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/"
+  },
+  {
     "id": 39747,
     "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
     "summary": "August 31, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite platforms and adaptable […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Associate Members appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-08-31T11:09:59Z",
     "url": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/"
-  },
-  {
-    "id": 39739,
-    "title": "Roman lifts off on a mission to survey the infrared sky",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to near-infrared light to help reveal the nature of dark energy and dark matter. The telescope will also investigate the true diversity of exoplanets in our galaxy.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_lifts_off_on_a_mission_to_survey_the_infrared_sky/27439669-7-eng-GB/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-08-31T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky"
   }
 ]
