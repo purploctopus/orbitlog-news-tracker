@@ -1,5 +1,14 @@
 [
   {
+    "id": 39742,
+    "title": "Roman Commissioning",
+    "summary": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T12:16:53Z",
+    "url": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
+  },
+  {
     "id": 39743,
     "title": "Nepal flash flood imaged by satellites",
     "summary": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and devastation across the affected region.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-30T14:57:59Z",
     "url": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/"
-  },
-  {
-    "id": 39732,
-    "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-    "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26778/PIA26778.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-08-30T14:53:08Z",
-    "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
   }
 ]

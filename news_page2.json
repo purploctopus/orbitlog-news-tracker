@@ -1,5 +1,14 @@
 [
   {
+    "id": 39837,
+    "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+    "summary": "NASA will host a virtual webinar at 2 p.m. on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and include […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T16:48:59Z",
+    "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
+  },
+  {
     "id": 39835,
     "title": "Blue Origin Nets NASA Mars Orbiter Contract",
     "summary": "Blue Origin will design and launch the Mars Telecommunications Orbiter by the end of 2028.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-04T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
-  },
-  {
-    "id": 39826,
-    "title": "A Trio of Tropical Cyclones in the Pacific",
-    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-04T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
   }
 ]

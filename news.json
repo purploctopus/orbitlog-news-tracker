@@ -1,5 +1,14 @@
 [
   {
+    "id": 39847,
+    "title": "What’s Happening in Space Policy September 6-12, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 6-12, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/06/NASA-Moon-Base-infographic-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-06T20:54:50Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/"
+  },
+  {
     "id": 39846,
     "title": "Starbase Infrastructure Advances Toward Flight 14",
     "summary": "SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14…\nThe post Starbase Infrastructure Advances Toward Flight 14 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-04T19:51:56Z",
     "url": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/"
-  },
-  {
-    "id": 39837,
-    "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-    "summary": "NASA will host a virtual webinar at 2 p.m. on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the public, however it is tailored specifically for a blind and low-vision audience. The webinar will last about two hours and include […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-04T16:48:59Z",
-    "url": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39815,
+    "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
+    "summary": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T16:08:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing"
+  },
+  {
     "id": 39803,
     "title": "Rising Over Louisiana",
     "summary": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-01T21:26:43Z",
     "url": "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
-  },
-  {
-    "id": 39796,
-    "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-    "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T21:08:37Z",
-    "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
   }
 ]

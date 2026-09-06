@@ -1,5 +1,14 @@
 [
   {
+    "id": 39826,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+  },
+  {
     "id": 39825,
     "title": "Schiess Takes Charge of U.S. Space Force",
     "summary": "Gen. Douglas Schiess took charge of the U.S. Space Force today at a Change of Responsibility ceremony outside Washington, D.C. Outgoing Chief of Space Operations Gen. Chance Saltzman praised his successor […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-03T13:00:00Z",
     "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
-  },
-  {
-    "id": 39816,
-    "title": "Latest updates: BepiColombo's arrival at Mercury",
-    "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-03T10:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
   }
 ]
