@@ -1,5 +1,14 @@
 [
   {
+    "id": 39834,
+    "title": "Why did US space companies pull out of a French space meeting? It’s complicated.",
+    "summary": "\"Let me be clear: America is not only welcome—we want you there.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-04T15:46:33Z",
+    "url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"
+  },
+  {
     "id": 39832,
     "title": "Lunar Occultation of Venus",
     "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight. This time, the Moon slipped in front of Venus […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-03T21:59:19Z",
     "url": "https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/"
-  },
-  {
-    "id": 39824,
-    "title": "Schiess takes command of Space Force as the service prepares for expansion",
-    "summary": "Gen. Douglas Schiess succeeds Gen. Chance Saltzman as the third chief of space operations of the U.S. Space Force\nThe post Schiess takes command of Space Force as the service prepares for expansion appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/9911318-scaled.jpg?fit=1024%2C667&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-03T21:03:23Z",
-    "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/"
   }
 ]
