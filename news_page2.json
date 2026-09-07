@@ -1,5 +1,23 @@
 [
   {
+    "id": 39842,
+    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-05T20:24:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe"
+  },
+  {
+    "id": 39841,
+    "title": "Isar Aerospace attempts launch of Spectrum rocket after months of delays",
+    "summary": "The European private space launch provider Isar Aerospace, headquartered in Ottobrunn, Germany, is set to…\r\nThe post Isar Aerospace attempts launch of Spectrum rocket after months of delays appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/IMG_6221-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-05T09:41:57Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/isar-onward-and-upward/"
+  },
+  {
     "id": 39840,
     "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
     "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chasing the Moon’s […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-04T14:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch"
-  },
-  {
-    "id": 39831,
-    "title": "Isar Aerospace Calls Off 4 September Spectrum Launch Attempt",
-    "summary": "German launch services provider Isar Aerospace appears to have scrubbed a planned 4 September attempt to conduct the second flight of its Spectrum rocket. The company called off the attempt several hours after launch-related road closures came into effect. At 10:39 CEST on 4 September, Nordland Police announced that land and maritime traffic restrictions around […]\r\nThe post Isar Aerospace Calls Off 4 September Spectrum Launch Attempt appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Isar-Aerospace-Calls-Off-4-September-Spectrum-Launch-Attempt.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-04T13:45:06Z",
-    "url": "https://europeanspaceflight.com/isar-aerospace-calls-off-4-september-spectrum-launch-attempt/"
-  },
-  {
-    "id": 39830,
-    "title": "Week in images: 31 Aug - 04 Sep 2026",
-    "summary": "Week in images: 31 Aug - 04 Sep 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space3/27449213-2-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-04T13:10:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026"
   }
 ]

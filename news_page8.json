@@ -1,5 +1,23 @@
 [
   {
+    "id": 39746,
+    "title": "Roman Space Telescope Headed to Deep Space",
+    "summary": "The observatory will shed new light on the mystery of dark energy, observe distant exoplanets, and explore the structure of the universe.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/08/cameron-liftoff-header-scaled.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-08-31T14:54:27Z",
+    "url": "https://www.spacescout.info/2026/08/roman-space-telescope-headed-to-deep-space/"
+  },
+  {
+    "id": 39745,
+    "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
+    "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-08-31T14:10:31Z",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/"
+  },
+  {
     "id": 39749,
     "title": "Media briefing: BepiColombo's next milestone towards Mercury",
     "summary": "Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-08-31T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/"
-  },
-  {
-    "id": 39737,
-    "title": "SLS picks up the pace, four vehicles in production",
-    "summary": "The NASA and contractor workforce continues to make progress ahead of next year’s Artemis III…\r\nThe post SLS picks up the pace, four vehicles in production appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-31-01-01-10-310.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-08-31T00:11:01Z",
-    "url": "https://www.nasaspaceflight.com/2026/08/sls-pace-four-vehicles-production/"
-  },
-  {
-    "id": 39736,
-    "title": "What’s Happening in Space Policy August 30-September 5, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of August 30-September 5, 2026 and any insight we can offer about them. The House is in session this […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-liftoff-Kraus-300x198.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-08-30T22:08:52Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-30-september-5-2026/"
   }
 ]
