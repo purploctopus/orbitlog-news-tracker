@@ -1,5 +1,23 @@
 [
   {
+    "id": 39802,
+    "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
+    "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by […]\nThe post Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-02T12:00:00Z",
+    "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
+  },
+  {
+    "id": 39801,
+    "title": "Third spacewalk completed for Sophie Adenot",
+    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-02T11:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot"
+  },
+  {
     "id": 39799,
     "title": "HyImpulse Extends Series A Funding Round by €50 Million",
     "summary": "German launch services provider HyImpulse announced on 2 September that it had extended its Series A funding round by more than €50 million, bringing its total funding to date to €125 million. The company is currently preparing for the second flight of its suborbital SR75 rocket and the inaugural launch attempt of its larger SL1 […]\nThe post HyImpulse Extends Series A Funding Round by €50 Million appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-01T19:15:25Z",
     "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
-  },
-  {
-    "id": 39793,
-    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-    "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida…\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/Roberts-Road-and-the-VAB-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-01T18:15:54Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/"
-  },
-  {
-    "id": 39792,
-    "title": "Historic Engines Take Their Place on Artemis III",
-    "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-01T17:30:35Z",
-    "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/"
   }
 ]

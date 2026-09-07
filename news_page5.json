@@ -1,5 +1,23 @@
 [
   {
+    "id": 39811,
+    "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+    "summary": "APOD Science APOD APOD: 2026 September 3 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Eclipse […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/eclipse_stork.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork/"
+  },
+  {
+    "id": 39812,
+    "title": "Peatland Fires Darken Skies in Indonesia",
+    "summary": "With Indonesia gripped by drought, fires are smoldering on the surface and underground.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/peatland-fires-darken-skies-in-indonesia/indonesiafires_amo_20260901.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-03T04:01:00Z",
+    "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/"
+  },
+  {
     "id": 39810,
     "title": "Rocket Lab’s Hungry Hippo completes testing",
     "summary": "With Rocket Lab targeting to launch its Neutron vehicle by the end of this year,…\r\nThe post Rocket Lab’s Hungry Hippo completes testing appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-02T14:53:54Z",
     "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/"
-  },
-  {
-    "id": 39802,
-    "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-    "summary": "DURANGO, Colo. — Sept. 2, 2026 — Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by […]\nThe post Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-02T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/"
-  },
-  {
-    "id": 39801,
-    "title": "Third spacewalk completed for Sophie Adenot",
-    "summary": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21:29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-02T11:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot"
   }
 ]
