@@ -1,5 +1,32 @@
 [
   {
+    "id": 39833,
+    "title": "APOD: 2026 September 4 – Na Uhane Mahoe Huki Pu i ke Ola",
+    "summary": "APOD Science APOD APOD: 2026 September 4 – Na… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Nā ʻUhane […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/noirlab2621a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-4-na-uhane-mahoe-huki-pu-i-ke-ola/"
+  },
+  {
+    "id": 39826,
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "summary": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-04T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/"
+  },
+  {
+    "id": 39825,
+    "title": "Schiess Takes Charge of U.S. Space Force",
+    "summary": "Gen. Douglas Schiess took charge of the U.S. Space Force today at a Change of Responsibility ceremony outside Washington, D.C. Outgoing Chief of Space Operations Gen. Chance Saltzman praised his successor […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/scheiss-1-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-03T21:59:19Z",
+    "url": "https://spacepolicyonline.com/news/schiess-takes-charge-of-u-s-space-force/"
+  },
+  {
     "id": 39824,
     "title": "Schiess takes command of Space Force as the service prepares for expansion",
     "summary": "Gen. Douglas Schiess succeeds Gen. Chance Saltzman as the third chief of space operations of the U.S. Space Force\nThe post Schiess takes command of Space Force as the service prepares for expansion appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-03T13:16:02Z",
     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene/"
-  },
-  {
-    "id": 39817,
-    "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-    "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]\nThe post Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-03T13:00:00Z",
-    "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/"
-  },
-  {
-    "id": 39816,
-    "title": "Latest updates: BepiColombo's arrival at Mercury",
-    "summary": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-03T10:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
-  },
-  {
-    "id": 39814,
-    "title": "Hubble's superbubble scene",
-    "summary": "This sprawling cosmic vista and subject of today’s ESA/Hubble Picture of the Month comes from the Large Magellanic Cloud (LMC). The LMC is the largest of the small galaxies that orbit our Milky Way galaxy. At just 160 000 light-years away, the LMC offers a close look at highly active stellar birthsites like the nebula shown here. This nebula is named LHA 120-N44, or N44 for short, and it’s located in the constellation Dorado.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hubble_s_superbubble_scene/27445597-2-eng-GB/Hubble_s_superbubble_scene_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-03T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene"
   }
 ]

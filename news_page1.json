@@ -1,5 +1,32 @@
 [
   {
+    "id": 39879,
+    "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+    "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T18:11:24Z",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+  },
+  {
+    "id": 39878,
+    "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+    "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T16:00:00Z",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/"
+  },
+  {
+    "id": 39877,
+    "title": "Artemis II Crew at NASA Marshall",
+    "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T15:31:44Z",
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/"
+  },
+  {
     "id": 39876,
     "title": "UK to Leave Launch to “Germany and Other Allies”",
     "summary": "The UK government published its long-awaited Space Strategy, clarifying what it means by “assured access to space,” nearly a year after the phrase began replacing references to a sovereign British launch capability. The strategy does not, however, answer what the government intends to do with the bulk of its still-unallocated European Launcher Challenge funding, including […]\nThe post UK to Leave Launch to “Germany and Other Allies” appeared first on European Spaceflight.",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-09T06:20:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit"
-  },
-  {
-    "id": 39868,
-    "title": "Anak Krakatau Rumbles Again",
-    "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/"
-  },
-  {
-    "id": 39867,
-    "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
-    "summary": "Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/02/caradine-jaden.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-08T20:29:59Z",
-    "url": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/"
-  },
-  {
-    "id": 39866,
-    "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
-    "summary": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/lunar-enabling-infrastructure-06292026-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-08T20:16:16Z",
-    "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/"
   }
 ]
