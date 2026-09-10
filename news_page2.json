@@ -1,5 +1,41 @@
 [
   {
+    "id": 39881,
+    "title": "As Europe flounders in space, a rising French star may show the way",
+    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-09T20:27:40Z",
+    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
+  },
+  {
+    "id": 39882,
+    "title": "Flight 15 pairing undergo testing at Massey’s",
+    "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…\nThe post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-09T20:22:02Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"
+  },
+  {
+    "id": 39880,
+    "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+    "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T20:11:58Z",
+    "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/"
+  },
+  {
+    "id": 39879,
+    "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+    "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T18:11:24Z",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+  },
+  {
     "id": 39878,
     "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
     "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El […]",
@@ -45,15 +81,6 @@
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey"
   },
   {
-    "id": 39872,
-    "title": "Vega-C flight VV30 with FLEX and Sentinel-3C",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T10:13:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
-  },
-  {
     "id": 39886,
     "title": "pVega-C flight VV30 with FLEX and Sentinel-3C",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-09T10:13:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
-  },
-  {
-    "id": 39874,
-    "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
-    "summary": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting at 02:50 CEST.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T09:56:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C"
-  },
-  {
-    "id": 39869,
-    "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
-    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04998_opgs_edr_ncam_NRB_841193197EDR_F1241978NCAM00296M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T06:20:49Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/"
-  },
-  {
-    "id": 39871,
-    "title": "MTG-I2 reaches its final orbit",
-    "summary": "Europe’s Meteosat Third Generation Imager 2 (MTG-I2) satellite has reached its designated orbit at 36 000 km from Earth and is ready to begin its commissioning phase, preparing it to provide years of service to improve weather forecasting over Europe and North Africa.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/partners_support_mtg-i2_through_leop/27458664-1-eng-GB/Partners_support_MTG-I2_through_LEOP_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T06:20:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit"
   }
 ]

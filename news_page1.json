@@ -1,5 +1,41 @@
 [
   {
+    "id": 39894,
+    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T17:28:13Z",
+    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
+  },
+  {
+    "id": 39893,
+    "title": "Dust and Water in Sagittarius A*",
+    "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T16:14:03Z",
+    "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/"
+  },
+  {
+    "id": 39892,
+    "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
+    "summary": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while they didn't have a space agency, people do! Now we’re asking you to supply our dino with a name, to win a place at November’s Hera arrival celebration.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_s_dino_mascot/27457094-1-eng-GB/Hera_s_dino_mascot_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-10T14:00:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot"
+  },
+  {
+    "id": 39891,
+    "title": "ESA Awards The Exploration Company a €760M Space Station Cargo Contract",
+    "summary": "The European Space Agency has awarded The Exploration Company a €760 million contract under the second phase of its European cargo return programme, covering an initial demonstration of its Nyx spacecraft and options for two additional flights. ESA announced that it had awarded The Exploration Company (TEC) the Phase 2 contract on 10 September during […]\nThe post ESA Awards The Exploration Company a €760M Space Station Cargo Contract appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-The-Exploration-Company-a-760M-Euros-Space-Station-Cargo-Contract.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-10T13:51:07Z",
+    "url": "https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/"
+  },
+  {
     "id": 39890,
     "title": "Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts",
     "summary": "Aerospacelab and Thales Alenia Space have secured IRIS2 contracts expected to total more than €5.4 billion, covering satellite platforms and communications payloads for the European Union’s secure communications constellation. While the company didn’t disclose the contract value, Airbus has been selected to build and integrate the first 66 satellites in the constellation’s low Earth orbit […]\nThe post Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts appeared first on European Spaceflight.",
@@ -52,41 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-09T22:32:04Z",
     "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
-  },
-  {
-    "id": 39881,
-    "title": "As Europe flounders in space, a rising French star may show the way",
-    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-09T20:27:40Z",
-    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
-  },
-  {
-    "id": 39882,
-    "title": "Flight 15 pairing undergo testing at Massey’s",
-    "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…\nThe post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-09T20:22:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"
-  },
-  {
-    "id": 39880,
-    "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
-    "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T20:11:58Z",
-    "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/"
-  },
-  {
-    "id": 39879,
-    "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-    "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T18:11:24Z",
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
   }
 ]
