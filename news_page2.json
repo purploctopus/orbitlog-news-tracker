@@ -1,5 +1,32 @@
 [
   {
+    "id": 39884,
+    "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+    "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
+  },
+  {
+    "id": 39885,
+    "title": "Dust Storm Sweeps Over Mali",
+    "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/"
+  },
+  {
+    "id": 39883,
+    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+    "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a three-hour window that opens at 8:37 a.m. PDT (1137 a.m. EDT / 1537 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-09T22:32:04Z",
+    "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
+  },
+  {
     "id": 39881,
     "title": "As Europe flounders in space, a rising French star may show the way",
     "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
@@ -61,32 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-09T13:28:16Z",
     "url": "https://europeanspaceflight.com/uk-to-leave-launch-to-germany-and-other-allies/"
-  },
-  {
-    "id": 39875,
-    "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
-    "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in Houston. In an emeritus role, individuals with a high degree of technical and professional knowledge can continue to support the agency by donating their […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/glover-and-wiseman-announcement-sept-9.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T13:24:37Z",
-    "url": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/"
-  },
-  {
-    "id": 39873,
-    "title": "MTM's selfie footage of BepiColombo's eight-year journey",
-    "summary": "Witness how over the last eight years, the ESA/JAXA BepiColombo mission has been travelling through the inner Solar System and aligning itself with Mercury's orbit. So far, it has travelled 9.9 billion km and completed nine 'planetary flybys' to help steer its way. In the video, you can see the spacecraft fly past Earth once, Venus twice, and Mercury six times.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/mtm_s_selfie_footage_of_bepicolombo_s_eight-year_journey/27459166-1-eng-GB/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T12:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey"
-  },
-  {
-    "id": 39886,
-    "title": "pVega-C flight VV30 with FLEX and Sentinel-3C",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pvega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T10:13:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
   }
 ]
