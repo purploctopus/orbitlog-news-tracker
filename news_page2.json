@@ -1,5 +1,14 @@
 [
   {
+    "id": 39872,
+    "title": "Vega-C flight VV30 with FLEX and Sentinel-3C",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-09T10:13:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
+  },
+  {
     "id": 39874,
     "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
     "summary": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting at 02:50 CEST.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-08T15:15:56Z",
     "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/"
-  },
-  {
-    "id": 39861,
-    "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
-    "summary": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2026/AR_sandbox.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-08T14:06:52Z",
-    "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/"
   }
 ]

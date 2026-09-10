@@ -1,5 +1,14 @@
 [
   {
+    "id": 39851,
+    "title": "BepiColombo begins Mercury arrival with MTM separation success",
+    "summary": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-07T08:25:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success"
+  },
+  {
     "id": 39850,
     "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
     "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-05T22:06:47Z",
     "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/"
-  },
-  {
-    "id": 39842,
-    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-05T20:24:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe"
   }
 ]

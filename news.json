@@ -1,5 +1,14 @@
 [
   {
+    "id": 39883,
+    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+    "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a three-hour window that opens at 8:37 a.m. PDT (1137 a.m. EDT / 1537 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-09T22:32:04Z",
+    "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
+  },
+  {
     "id": 39881,
     "title": "As Europe flounders in space, a rising French star may show the way",
     "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-09T12:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey"
-  },
-  {
-    "id": 39872,
-    "title": "Vega-C flight VV30 with FLEX and Sentinel-3C",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T10:13:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
   }
 ]
