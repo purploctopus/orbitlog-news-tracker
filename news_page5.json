@@ -1,5 +1,50 @@
 [
   {
+    "id": 39861,
+    "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
+    "summary": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2026/AR_sandbox.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-08T14:06:52Z",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/"
+  },
+  {
+    "id": 39862,
+    "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+    "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-08T14:00:28Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+  },
+  {
+    "id": 39860,
+    "title": "Stoke Space sets debut launch target, reveals plans for larger rocket",
+    "summary": "The space economy will grow exactly as fast as we can launch rockets.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Stage2.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-08T12:29:18Z",
+    "url": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
+  },
+  {
+    "id": 39859,
+    "title": "HyImpulse Could Attempt Second SR75 Flight as Early as 5 October",
+    "summary": "Maritime and aviation notices indicate that HyImpulse could attempt the second flight of its SR75 suborbital rocket from SaxaVord Spaceport in Scotland as early as 5 October. On 2 September, Norwegian air navigation service provider Avinor published a notice outlining temporary danger areas for a HyImpulse rocket launch from SaxaVord Spaceport between 5 and 18 […]\nThe post HyImpulse Could Attempt Second SR75 Flight as Early as 5 October appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/HyImpulse-Could-Attempt-Second-SR75-Flight-as-Early-as-5-October.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-08T10:48:27Z",
+    "url": "https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/"
+  },
+  {
+    "id": 39858,
+    "title": "Anak Krakatau eruption by Sentinel-3",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-08T08:45:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3"
+  },
+  {
     "id": 39856,
     "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
     "summary": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble: Decagon Around […]",
@@ -43,50 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-09-07T16:39:11Z",
     "url": "https://www.spacescout.info/2026/09/isar-aerospace-soars-to-orbit-on-historic-second-launch/"
-  },
-  {
-    "id": 39851,
-    "title": "BepiColombo begins Mercury arrival with MTM separation success",
-    "summary": "On 3 September 2026 at 15:49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for – BepiColombo’s Mercury Transfer Module (MTM) successfully separated from the spacecraft stack. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo's long-awaited arrival at Mercury.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-07T08:25:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success"
-  },
-  {
-    "id": 39887,
-    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-    "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe2/27461458-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-07T08:01:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe2"
-  },
-  {
-    "id": 39850,
-    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-    "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe/27452918-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-07T07:26:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe"
-  },
-  {
-    "id": 39852,
-    "title": "Europe's space future in focus at the International Space Summit",
-    "summary": "The International Space Summit, taking place in Paris, France, on 9 and 10 September, will bring together world leaders, ministers, industry representatives and astronauts at a pivotal moment for the future of space. ESA Director General Josef Aschbacher will invite European leaders to reflect on the role Europe wishes to play in the next era of space exploration and on the level of ambition needed to help shape it.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-975/27426490-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-97_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-07T06:10:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit"
-  },
-  {
-    "id": 39848,
-    "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-    "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-07T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
   }
 ]
