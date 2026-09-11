@@ -1,5 +1,14 @@
 [
   {
+    "id": 39913,
+    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-11T19:48:09Z",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
+  },
+  {
     "id": 39912,
     "title": "NASA’s Chandra Spots Galactic Gem",
     "summary": "Two galaxies merge at a furious rate in this Aug. 25, 2026, image of the II Zw 096 system. This and several other images of both visually and scientifically interesting galaxies were released by NASA’s Chandra X-ray Observatory and other telescopes. Chandra X-ray data (magenta) pinpoint powerful black hole activity and hot gas, while optical […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-11T05:32:49Z",
     "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
-  },
-  {
-    "id": 39900,
-    "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-    "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-11T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
   }
 ]

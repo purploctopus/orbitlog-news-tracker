@@ -1,5 +1,14 @@
 [
   {
+    "id": 39874,
+    "title": "Watch: FLEX and Sentinel-3C launch on Vega-C",
+    "summary": "The European Space Agency’s FLEX satellite and the Copernicus Sentinel-3C satellite are scheduled to launch together aboard a Vega-C rocket on 15 September at 03:21 CEST (14 September at 22:21 local time). Watch the VV30 launch live from Europe’s Spaceport in French Guiana, with coverage starting at 02:50 CEST.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_fairing_opens_to_reveal_sentinel-3c_and_flex/27460042-1-eng-GB/Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-09T09:56:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C"
+  },
+  {
     "id": 39869,
     "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
     "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-08T14:06:52Z",
     "url": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/"
-  },
-  {
-    "id": 39862,
-    "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-    "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers unexpectedly found fewer small TNOs than they expected, and that […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-08T14:00:28Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
   }
 ]

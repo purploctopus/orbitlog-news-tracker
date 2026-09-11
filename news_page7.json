@@ -1,5 +1,14 @@
 [
   {
+    "id": 39887,
+    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+    "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe2/27461458-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-07T08:01:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe2"
+  },
+  {
     "id": 39850,
     "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
     "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from Andøya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-05T22:06:47Z",
     "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/"
-  },
-  {
-    "id": 39842,
-    "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/spectrum_launches_to_orbit/27452129-2-eng-GB/Spectrum_launches_to_orbit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-05T20:24:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe"
   }
 ]

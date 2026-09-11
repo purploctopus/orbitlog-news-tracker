@@ -1,5 +1,14 @@
 [
   {
+    "id": 39900,
+    "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+    "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M83_Final2_1x.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-11T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
+  },
+  {
     "id": 39907,
     "title": "Monterrey Amid Mountains",
     "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-10T14:00:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot"
-  },
-  {
-    "id": 39891,
-    "title": "ESA Awards The Exploration Company a €760M Space Station Cargo Contract",
-    "summary": "The European Space Agency has awarded The Exploration Company a €760 million contract under the second phase of its European cargo return programme, covering an initial demonstration of its Nyx spacecraft and options for two additional flights. ESA announced that it had awarded The Exploration Company (TEC) the Phase 2 contract on 10 September during […]\nThe post ESA Awards The Exploration Company a €760M Space Station Cargo Contract appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-The-Exploration-Company-a-760M-Euros-Space-Station-Cargo-Contract.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-10T13:51:07Z",
-    "url": "https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/"
   }
 ]
