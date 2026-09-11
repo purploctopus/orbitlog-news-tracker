@@ -1,5 +1,32 @@
 [
   {
+    "id": 39896,
+    "title": "NASA Answers President’s Call to Establish United States Space Academy",
+    "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T20:26:52Z",
+    "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
+  },
+  {
+    "id": 39895,
+    "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+    "summary": "Search and rescue technology developed in part by NASA saved five lives",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T20:12:39Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
+  },
+  {
+    "id": 39894,
+    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T17:28:13Z",
+    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
+  },
+  {
     "id": 39893,
     "title": "Dust and Water in Sagittarius A*",
     "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
@@ -36,6 +63,15 @@
     "url": "https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/"
   },
   {
+    "id": 39908,
+    "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+    "summary": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ai-for-science/mons-rumker-lro.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T12:00:00Z",
+    "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+  },
+  {
     "id": 39889,
     "title": "CubeSat for safer seas and cleaner orbits ready to launch",
     "summary": "From the ESA Blogs.",
@@ -52,41 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-10T10:55:55Z",
     "url": "https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/"
-  },
-  {
-    "id": 39884,
-    "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
-    "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
-  },
-  {
-    "id": 39885,
-    "title": "Dust Storm Sweeps Over Mali",
-    "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/"
-  },
-  {
-    "id": 39883,
-    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-    "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a three-hour window that opens at 8:37 a.m. PDT (1137 a.m. EDT / 1537 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-09T22:32:04Z",
-    "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
-  },
-  {
-    "id": 39881,
-    "title": "As Europe flounders in space, a rising French star may show the way",
-    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-09T20:27:40Z",
-    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
   }
 ]
