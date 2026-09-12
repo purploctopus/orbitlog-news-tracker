@@ -1,5 +1,14 @@
 [
   {
+    "id": 39893,
+    "title": "Dust and Water in Sagittarius A*",
+    "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T16:14:03Z",
+    "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/"
+  },
+  {
     "id": 39892,
     "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
     "summary": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while they didn't have a space agency, people do! Now we’re asking you to supply our dino with a name, to win a place at November’s Hera arrival celebration.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-09T22:32:04Z",
     "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
-  },
-  {
-    "id": 39881,
-    "title": "As Europe flounders in space, a rising French star may show the way",
-    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-09T20:27:40Z",
-    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
   }
 ]

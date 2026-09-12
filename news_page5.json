@@ -1,5 +1,14 @@
 [
   {
+    "id": 39872,
+    "title": "Vega-C flight VV30 with FLEX and Sentinel-3C",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-09T10:13:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
+  },
+  {
     "id": 39886,
     "title": "pVega-C flight VV30 with FLEX and Sentinel-3C",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-08T15:21:42Z",
     "url": "https://europeanspaceflight.com/the-exploration-company-raises-450-million-in-series-c-funding/"
-  },
-  {
-    "id": 39863,
-    "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
-    "summary": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/08/dstretch-4b.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-08T15:15:56Z",
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/"
   }
 ]
