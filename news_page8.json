@@ -1,5 +1,14 @@
 [
   {
+    "id": 39843,
+    "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+    "summary": "SpaceX decided to shift all Starlink missions flying on Falcon 9 rockets to the West Coast as it pushes towards the debut of its Starship-Super Heavy in Florida. Liftoff of the Starlink 15-24 mission from Vandenberg Space Force Base is scheduled during a window that opens at 3:59 a.m. PDT (6:59 a.m. EDT / 1059 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-05T22:06:47Z",
+    "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026/"
+  },
+  {
     "id": 39842,
     "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-04T14:14:57Z",
     "url": "https://www.nasa.gov/image-article/lunar-occultation-of-venus/"
-  },
-  {
-    "id": 39836,
-    "title": "Media briefing ahead of FLEX and Sentinel-3C launch",
-    "summary": "On 4 September 2026, media representatives joined an online briefing ahead of the launch of ESA’s FLEX and the Copernicus Sentinel-3C satellites.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/media_briefing_ahead_of_flex_and_sentinel-3c_launch/27445744-3-eng-GB/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-04T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Media_briefing_ahead_of_FLEX_and_Sentinel-3C_launch"
   }
 ]

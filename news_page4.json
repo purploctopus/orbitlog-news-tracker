@@ -1,5 +1,14 @@
 [
   {
+    "id": 39882,
+    "title": "Flight 15 pairing undergo testing at Massey’s",
+    "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for…\nThe post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-09T20:22:02Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/"
+  },
+  {
     "id": 39880,
     "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
     "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-09T10:13:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Vega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
-  },
-  {
-    "id": 39886,
-    "title": "pVega-C flight VV30 with FLEX and Sentinel-3C",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pvega-c_flight_vv30_with_flex_and_sentinel-3c/27459948-1-eng-GB/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T10:13:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/pVega-C_flight_VV30_with_FLEX_and_Sentinel-3C"
   }
 ]
