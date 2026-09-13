@@ -1,5 +1,14 @@
 [
   {
+    "id": 39918,
+    "title": "Live coverage: SpaceX to launch final 3 O3b mPOWER satellites for SES",
+    "summary": "The launch marks the 400th orbital flight from Space Launch Complex 40 at Cape Canaveral Space Force Station. Liftoff is scheduled during an 87-minute window that opens at 2:49 p.m. EDT (1849 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260913_O3b_mPOWER-F_delivery.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-13T16:45:33Z",
+    "url": "https://spaceflightnow.com/2026/09/13/live-coverage-spacex-to-launch-final-3-o3b-mpower-satellites-for-ses/"
+  },
+  {
     "id": 39917,
     "title": "Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time",
     "summary": "French launch startup Sirius Space Services has successfully test-fired a complete prototype of its STAR-1 rocket engine for the first time. The company announced the milestone on 12 September, stating that it had conducted the first hot-fire tests of the complete STAR-1 engine at Airborne Engineering’s propulsion test facility in southern England. While the company […]\nThe post Sirius Space Fires Complete STAR-1 Rocket Engine for the First Time appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-11T14:56:25Z",
     "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/"
-  },
-  {
-    "id": 39905,
-    "title": "Week in images: 07-11 Sep 2026",
-    "summary": "Week in images: 07-11 Sep 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-11T13:00:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026"
   }
 ]

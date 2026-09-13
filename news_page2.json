@@ -1,5 +1,14 @@
 [
   {
+    "id": 39905,
+    "title": "Week in images: 07-11 Sep 2026",
+    "summary": "Week in images: 07-11 Sep 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-11T13:00:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026"
+  },
+  {
     "id": 39906,
     "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
     "summary": "\"We felt like now is the time to pour gas on that fire.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-10T21:11:32Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/"
-  },
-  {
-    "id": 39896,
-    "title": "NASA Answers President’s Call to Establish United States Space Academy",
-    "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T20:26:52Z",
-    "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
   }
 ]
