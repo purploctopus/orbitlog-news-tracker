@@ -1,5 +1,23 @@
 [
   {
+    "id": 39895,
+    "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+    "summary": "Search and rescue technology developed in part by NASA saved five lives",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T20:12:39Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
+  },
+  {
+    "id": 39894,
+    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T17:28:13Z",
+    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
+  },
+  {
     "id": 39893,
     "title": "Dust and Water in Sagittarius A*",
     "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-10T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/"
-  },
-  {
-    "id": 39885,
-    "title": "Dust Storm Sweeps Over Mali",
-    "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/"
-  },
-  {
-    "id": 39883,
-    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-    "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a three-hour window that opens at 8:37 a.m. PDT (1137 a.m. EDT / 1537 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-09T22:32:04Z",
-    "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/"
   }
 ]
