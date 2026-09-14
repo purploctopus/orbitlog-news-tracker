@@ -1,5 +1,14 @@
 [
   {
+    "id": 39839,
+    "title": "Blue Origin expands test and launch sites across the Cape",
+    "summary": "Blue Origin is expanding its Kennedy Space Center and Cape Canaveral footprint on multiple fronts,…\nThe post Blue Origin expands test and launch sites across the Cape appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-04-20-18-03-569.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-04T20:37:43Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/"
+  },
+  {
     "id": 39838,
     "title": "NASA Ames Fire Department Aircraft Firefighting Training",
     "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-04T10:31:17Z",
     "url": "https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/"
-  },
-  {
-    "id": 39828,
-    "title": "How Sentinel-3 tracks climate change",
-    "summary": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade. The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-04T08:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change"
   }
 ]

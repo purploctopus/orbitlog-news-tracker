@@ -1,5 +1,14 @@
 [
   {
+    "id": 39868,
+    "title": "Anak Krakatau Rumbles Again",
+    "summary": "A powerful eruption from the Indonesian volcano lofted ash into the atmosphere, disrupting thousands of flights and degrading air quality.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/anak-krakatau-rumbles-again/krakatau_oli_20260905.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/"
+  },
+  {
     "id": 39867,
     "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
     "summary": "Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become his focus, and before he landed a Pathways internship at NASA’s Langley Research Center in Hampton, Virginia, Caradine […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-08T10:48:27Z",
     "url": "https://europeanspaceflight.com/hyimpulse-could-attempt-second-sr75-flight-as-early-as-5-october/"
-  },
-  {
-    "id": 39858,
-    "title": "Anak Krakatau eruption by Sentinel-3",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-08T08:45:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 39889,
+    "title": "CubeSat for safer seas and cleaner orbits ready to launch",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/cubesat_for_safer_seas_and_cleaner_orbits_ready_to_launch/27459109-3-eng-GB/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-10T11:40:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch"
+  },
+  {
     "id": 39888,
     "title": "The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission",
     "summary": "The Exploration Company has signed a contract with Arianespace to launch an initial demonstration mission of its Nyx cargo spacecraft to the International Space Station aboard an Ariane 6 rocket. While neither company has publicly announced the contract, the French Presidency published an official list of agreements alongside the International Space Summit being held in […]\nThe post The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-09T16:00:00Z",
     "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/"
-  },
-  {
-    "id": 39877,
-    "title": "Artemis II Crew at NASA Marshall",
-    "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T15:31:44Z",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/"
   }
 ]

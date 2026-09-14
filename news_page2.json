@@ -1,5 +1,14 @@
 [
   {
+    "id": 39910,
+    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+    "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-11T15:05:20Z",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/"
+  },
+  {
     "id": 39909,
     "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
     "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-10T23:30:48Z",
     "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/"
-  },
-  {
-    "id": 39898,
-    "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…\r\nThe post Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/RST_Unloading_Shot_4k_60_ProRes.00493_print.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-10T22:24:00Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/"
   }
 ]
