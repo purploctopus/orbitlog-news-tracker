@@ -1,5 +1,41 @@
 [
   {
+    "id": 39906,
+    "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
+    "summary": "\"We felt like now is the time to pour gas on that fire.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-11T11:00:30Z",
+    "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/"
+  },
+  {
+    "id": 39904,
+    "title": "Avio Completes Integration of FD1 Rocket Demonstrator",
+    "summary": "Italian rocket builder Avio has completed integration of its FD1 flight demonstrator, marking a major milestone in preparations for the vehicle’s launch from an Italian Ministry of Defence test range in Sardinia. Avio announced the milestone on 10 September as part of its first-half 2026 financial results. The company said its liquid oxygen and methane […]\nThe post Avio Completes Integration of FD1 Rocket Demonstrator appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Completes-Integration-of-FD1-Rocket-Demonstrator-hero.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-11T08:18:43Z",
+    "url": "https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/"
+  },
+  {
+    "id": 39903,
+    "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+    "summary": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s oceans, land, ice and atmosphere.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/teams_at_esoc_during_esa_s_flex_and_copernicus_sentinel-3c_launch_and_early_orbit_leop_simulations/27464737-3-eng-GB/Teams_at_ESOC_during_ESA_s_FLEX_and_Copernicus_Sentinel-3C_launch_and_early_orbit_LEOP_simulations_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-11T08:00:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control"
+  },
+  {
+    "id": 39901,
+    "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+    "summary": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite […]\nThe post LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/latconnect-60-logo-square-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-11T05:32:49Z",
+    "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/"
+  },
+  {
     "id": 39900,
     "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
     "summary": "APOD Science APOD APOD: 2026 September 11 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M83: The Southern […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-10T20:26:52Z",
     "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
-  },
-  {
-    "id": 39895,
-    "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-    "summary": "Search and rescue technology developed in part by NASA saved five lives",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T20:12:39Z",
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
-  },
-  {
-    "id": 39894,
-    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T17:28:13Z",
-    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
-  },
-  {
-    "id": 39893,
-    "title": "Dust and Water in Sagittarius A*",
-    "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T16:14:03Z",
-    "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/"
-  },
-  {
-    "id": 39892,
-    "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
-    "summary": "The European Space Agency’s Hera asteroid mission for planetary defence has a cartoon dinosaur for its mascot – because dinos were made extinct after an asteroid impact, but while they didn't have a space agency, people do! Now we’re asking you to supply our dino with a name, to win a place at November’s Hera arrival celebration.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_s_dino_mascot/27457094-1-eng-GB/Hera_s_dino_mascot_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-10T14:00:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot"
   }
 ]
