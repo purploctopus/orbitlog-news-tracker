@@ -1,5 +1,23 @@
 [
   {
+    "id": 39907,
+    "title": "Monterrey Amid Mountains",
+    "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/monterrey-amid-mountains/ISS075-E-70481.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-11T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
+  },
+  {
+    "id": 39899,
+    "title": "NASA Invites Governors to Compete to be Home to the New U.S. Space Academy",
+    "summary": "NASA issued a Request for Information today inviting governors to indicate interest in hosting and sponsoring the new U.S. Space Academy proposed in President Trump’s recent Executive Order. Responses are […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Trump-Space-Academy-EO-Aug-28-26-300x169.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-10T23:30:48Z",
+    "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/"
+  },
+  {
     "id": 39898,
     "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
     "summary": "NASA’s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX…\r\nThe post Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-10T13:51:07Z",
     "url": "https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/"
-  },
-  {
-    "id": 39890,
-    "title": "Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts",
-    "summary": "Aerospacelab and Thales Alenia Space have secured IRIS2 contracts expected to total more than €5.4 billion, covering satellite platforms and communications payloads for the European Union’s secure communications constellation. While the company didn’t disclose the contract value, Airbus has been selected to build and integrate the first 66 satellites in the constellation’s low Earth orbit […]\nThe post Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Aerospacelab-Thales-Alenia-Space-Secure-5.4-Billion-Euros-in-IRIS2-Contracts.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-10T13:05:42Z",
-    "url": "https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/"
-  },
-  {
-    "id": 39908,
-    "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
-    "summary": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ai-for-science/mons-rumker-lro.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T12:00:00Z",
-    "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
   }
 ]

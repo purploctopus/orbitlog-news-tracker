@@ -1,5 +1,23 @@
 [
   {
+    "id": 39879,
+    "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+    "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T18:11:24Z",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+  },
+  {
+    "id": 39878,
+    "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+    "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-09T16:00:00Z",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/"
+  },
+  {
     "id": 39877,
     "title": "Artemis II Crew at NASA Marshall",
     "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-09T09:56:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Watch_FLEX_and_Sentinel-3C_launch_on_Vega-C"
-  },
-  {
-    "id": 39869,
-    "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
-    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04998_opgs_edr_ncam_NRB_841193197EDR_F1241978NCAM00296M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T06:20:49Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/"
-  },
-  {
-    "id": 39871,
-    "title": "MTG-I2 reaches its final orbit",
-    "summary": "Europe’s Meteosat Third Generation Imager 2 (MTG-I2) satellite has reached its designated orbit at 36 000 km from Earth and is ready to begin its commissioning phase, preparing it to provide years of service to improve weather forecasting over Europe and North Africa.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/partners_support_mtg-i2_through_leop/27458664-1-eng-GB/Partners_support_MTG-I2_through_LEOP_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-09T06:20:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit"
   }
 ]

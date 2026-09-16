@@ -1,5 +1,23 @@
 [
   {
+    "id": 39921,
+    "title": "An Early Look at Fall Color in Canada",
+    "summary": "Reds, yellows, and oranges are already sweeping across tundra landscapes in Nunavut.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-early-look-at-fall-color-in-canada/northerncanada_oli2_20260727.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-14T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada/"
+  },
+  {
+    "id": 39920,
+    "title": "Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou",
+    "summary": "Avio S.p.A., the Italian prime contractor, launch service provider, and launch operator for the Vega…\r\nThe post Vega C set to launch the ESA Sentinel-3C and FLEX missions from Kourou appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/AB9BC3AB-D87F-4E6B-96AE-9902C9A9F085-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-13T22:45:53Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/"
+  },
+  {
     "id": 39919,
     "title": "What’s Happening in Space Policy September 13-19, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 13-19, 2026 and any insight we can offer about them. The House and Senate are in session […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-11T17:19:47Z",
     "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/"
-  },
-  {
-    "id": 39911,
-    "title": "NASA moving at warp speed to set up US Space Academy",
-    "summary": "NASA asks US states to show them the money.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1789141845.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-11T16:20:43Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
-  },
-  {
-    "id": 39925,
-    "title": "ESA Space Environment Report 2026",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/number_of_objects_will_skyrocket_-_2026_space_environment_report/27465798-1-eng-GB/Number_of_objects_will_skyrocket_-_2026_Space_environment_report_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-11T15:52:00Z",
-    "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026"
   }
 ]

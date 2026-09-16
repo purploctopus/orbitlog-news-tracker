@@ -1,5 +1,23 @@
 [
   {
+    "id": 39890,
+    "title": "Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts",
+    "summary": "Aerospacelab and Thales Alenia Space have secured IRIS2 contracts expected to total more than €5.4 billion, covering satellite platforms and communications payloads for the European Union’s secure communications constellation. While the company didn’t disclose the contract value, Airbus has been selected to build and integrate the first 66 satellites in the constellation’s low Earth orbit […]\nThe post Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Aerospacelab-Thales-Alenia-Space-Secure-5.4-Billion-Euros-in-IRIS2-Contracts.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-10T13:05:42Z",
+    "url": "https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/"
+  },
+  {
+    "id": 39908,
+    "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+    "summary": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ai-for-science/mons-rumker-lro.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-10T12:00:00Z",
+    "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+  },
+  {
     "id": 39889,
     "title": "CubeSat for safer seas and cleaner orbits ready to launch",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-09T20:11:58Z",
     "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/"
-  },
-  {
-    "id": 39879,
-    "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-    "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T18:11:24Z",
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
-  },
-  {
-    "id": 39878,
-    "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-    "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T16:00:00Z",
-    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/"
   }
 ]

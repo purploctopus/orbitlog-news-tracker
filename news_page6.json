@@ -1,5 +1,23 @@
 [
   {
+    "id": 39911,
+    "title": "NASA moving at warp speed to set up US Space Academy",
+    "summary": "NASA asks US states to show them the money.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1789141845.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-11T16:20:43Z",
+    "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
+  },
+  {
+    "id": 39925,
+    "title": "ESA Space Environment Report 2026",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/number_of_objects_will_skyrocket_-_2026_space_environment_report/27465798-1-eng-GB/Number_of_objects_will_skyrocket_-_2026_Space_environment_report_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-11T15:52:00Z",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026"
+  },
+  {
     "id": 39910,
     "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
     "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-11T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/"
-  },
-  {
-    "id": 39907,
-    "title": "Monterrey Amid Mountains",
-    "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/monterrey-amid-mountains/ISS075-E-70481.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-11T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/"
-  },
-  {
-    "id": 39899,
-    "title": "NASA Invites Governors to Compete to be Home to the New U.S. Space Academy",
-    "summary": "NASA issued a Request for Information today inviting governors to indicate interest in hosting and sponsoring the new U.S. Space Academy proposed in President Trump’s recent Executive Order. Responses are […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Trump-Space-Academy-EO-Aug-28-26-300x169.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-10T23:30:48Z",
-    "url": "https://spacepolicyonline.com/news/nasa-invites-governors-to-compete-to-be-home-to-the-new-u-s-space-academy/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 39942,
+    "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+    "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
+  },
+  {
+    "id": 39941,
+    "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana happened at 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-15T03:51:39Z",
+    "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/"
+  },
+  {
     "id": 39940,
     "title": "FLEX and Sentinel-3C launched",
     "summary": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-14T17:25:17Z",
     "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"
-  },
-  {
-    "id": 39932,
-    "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
-    "summary": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post Sept. 21: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/on-orbit-servicing-virtual-event-spacenews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-14T17:09:21Z",
-    "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/"
-  },
-  {
-    "id": 39931,
-    "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
-    "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq202609140011medium.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-14T16:46:07Z",
-    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/"
   }
 ]
