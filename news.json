@@ -1,5 +1,23 @@
 [
   {
+    "id": 39961,
+    "title": "Progress MS-35 poised to launch cargo to ISS from Kazakhstan",
+    "summary": "Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on…\nThe post Progress MS-35 poised to launch cargo to ISS from Kazakhstan appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-16T02:05:15Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/"
+  },
+  {
+    "id": 39960,
+    "title": "Starship to Attempt First Orbital Flight Next Week",
+    "summary": "SpaceX will attempt to put Starship into orbit for the first time next week pending regulatory approval. If all goes according to plan, Integrated Flight Test-14 or IFT-14 will orbit […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-16T01:09:54Z",
+    "url": "https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/"
+  },
+  {
     "id": 39959,
     "title": "NASA Ames Stars of the Month: September 2026",
     "summary": "NASA Ames Science Stars of the Month: September 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-15T16:14:24Z",
     "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
-  },
-  {
-    "id": 39951,
-    "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
-    "summary": "Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefield, putting a premium on making sense of the data appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/8829871-scaled.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-15T15:49:31Z",
-    "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
-  },
-  {
-    "id": 39949,
-    "title": "Webb reveals stunning panorama of star formation",
-    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/star-forming_region_ic_348_nircam_image/27515180-1-eng-GB/Star-forming_region_IC_348_NIRCam_image_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-15T14:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
   }
 ]

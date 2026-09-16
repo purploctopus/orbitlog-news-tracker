@@ -1,5 +1,23 @@
 [
   {
+    "id": 39889,
+    "title": "CubeSat for safer seas and cleaner orbits ready to launch",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/cubesat_for_safer_seas_and_cleaner_orbits_ready_to_launch/27459109-3-eng-GB/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-10T11:40:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch"
+  },
+  {
+    "id": 39888,
+    "title": "The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission",
+    "summary": "The Exploration Company has signed a contract with Arianespace to launch an initial demonstration mission of its Nyx cargo spacecraft to the International Space Station aboard an Ariane 6 rocket. While neither company has publicly announced the contract, the French Presidency published an official list of agreements alongside the International Space Summit being held in […]\nThe post The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/The-Exploration-Company-Books-Ariane-6-Flight-for-Nyx-Demo-Mission.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-10T10:55:55Z",
+    "url": "https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/"
+  },
+  {
     "id": 39884,
     "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
     "summary": "APOD Science APOD APOD: 2026 September 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-09T16:00:00Z",
     "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/"
-  },
-  {
-    "id": 39877,
-    "title": "Artemis II Crew at NASA Marshall",
-    "summary": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-09T15:31:44Z",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/"
-  },
-  {
-    "id": 39876,
-    "title": "UK to Leave Launch to “Germany and Other Allies”",
-    "summary": "The UK government published its long-awaited Space Strategy, clarifying what it means by “assured access to space,” nearly a year after the phrase began replacing references to a sovereign British launch capability. The strategy does not, however, answer what the government intends to do with the bulk of its still-unallocated European Launcher Challenge funding, including […]\nThe post UK to Leave Launch to “Germany and Other Allies” appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-to-Leave-Launch-to-Germany-and-Other-Allies.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-09T13:28:16Z",
-    "url": "https://europeanspaceflight.com/uk-to-leave-launch-to-germany-and-other-allies/"
   }
 ]
