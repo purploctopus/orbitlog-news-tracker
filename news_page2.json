@@ -1,5 +1,23 @@
 [
   {
+    "id": 39966,
+    "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
+    "summary": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (14 years on Mars; 5,000 sols on Mars; 1 kilometer of elevation gain since landing) over the past several weeks, and the team has duly celebrated these remarkable achievements. These celebrations punctuate the rover’s […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05003_opgs_edr_ncam_NRB_841646474EDR_F1241978NCAM00200M_.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T14:26:25Z",
+    "url": "https://science.nasa.gov/blog/1345718/"
+  },
+  {
+    "id": 39964,
+    "title": "Avio CEO Reports Influx of Customers Turned Away by SpaceX",
+    "summary": "Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, according to CEO Giulio Ranzo. “I can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, oh my God, can you fly us?” Ranzo […]\nThe post Avio CEO Reports Influx of Customers Turned Away by SpaceX appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-CEO-Reports-Influx-of-Customers-Turned-Away-by-SpaceX.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-16T12:41:21Z",
+    "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/"
+  },
+  {
     "id": 39967,
     "title": "Faster-flowing glaciers fuel decades of polar ice loss",
     "summary": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-15T20:20:00Z",
     "url": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/"
-  },
-  {
-    "id": 39956,
-    "title": "NASA Invites Media to International Observe the Moon Night",
-    "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-15T18:55:33Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-  },
-  {
-    "id": 39955,
-    "title": "SpaceX sets launch date for first Starship orbital flight",
-    "summary": "Reaching orbit would mark a significant milestone.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-15T18:48:08Z",
-    "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
   }
 ]

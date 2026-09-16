@@ -1,5 +1,23 @@
 [
   {
+    "id": 39956,
+    "title": "NASA Invites Media to International Observe the Moon Night",
+    "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T18:55:33Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
+  },
+  {
+    "id": 39955,
+    "title": "SpaceX sets launch date for first Starship orbital flight",
+    "summary": "Reaching orbit would mark a significant milestone.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-15T18:48:08Z",
+    "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
+  },
+  {
     "id": 39954,
     "title": "Launch Preview: Nine orbital launches scheduled from sites around the world",
     "summary": "Nine orbital launches are scheduled worldwide this week. Two Falcon 9s are expected to deliver…\r\nThe post Launch Preview: Nine orbital launches scheduled from sites around the world appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-15T08:30:01Z",
     "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/"
-  },
-  {
-    "id": 39945,
-    "title": "FLEX and Sentinel-3C launch highlights",
-    "summary": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/flex_and_sentinel-3c_launch_highlights/27518045-5-eng-GB/FLEX_and_Sentinel-3C_launch_highlights_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-15T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights"
-  },
-  {
-    "id": 39943,
-    "title": "Iceye’s global presence expands to address sovereign demand",
-    "summary": "Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […]\nThe post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-15T06:00:00Z",
-    "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/"
   }
 ]
