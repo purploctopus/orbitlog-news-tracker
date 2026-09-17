@@ -1,5 +1,23 @@
 [
   {
+    "id": 39981,
+    "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
+    "summary": "Bulgarian satellite manufacturer EnduroSat has secured $205 million (€178 million) in new funding, pushing the total raised by European NewSpace companies in September above €1 billion. Announced on 16 September, EnduroSat’s new funding round was co-led by US investment firms Riot Ventures and Atreides Management, with participation from the European Innovation Council, among others. It […]\nThe post EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/EnduroSat-Raise-Pushes-European-NewSpace-Funding-Above-1-Billion-Euros-for-September.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-17T08:32:10Z",
+    "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/"
+  },
+  {
+    "id": 39992,
+    "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
+    "summary": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connectivity services. The contracts also cover associated mission concepts and aim to shape the future of the EU's secure connectivity constellation – IRIS² – which will provide Europeans with resilient communications, when and where it matters most.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/group_picture_beginning_of_the_consolidation_phase_of_esa_low-leo_pre-operational_and_de-risk_activities/27528216-1-eng-GB/Group_Picture_beginning_of_the_Consolidation_Phase_of_ESA_Low-LEO_Pre-Operational_and_De-Risk_Activities_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T08:07:00Z",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
+  },
+  {
     "id": 39980,
     "title": "Three space companies win ESA awards for excellence and innovation",
     "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
@@ -9,15 +27,6 @@
     "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
   },
   {
-    "id": 39984,
-    "title": "Galileo's first civil authenticated position fix under spoofing conditions",
-    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-17T06:20:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
-  },
-  {
     "id": 39983,
     "title": "Galileo's first civil authenticated position fix in spoofing conditions",
     "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
@@ -25,6 +34,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-17T06:20:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
+  },
+  {
+    "id": 39984,
+    "title": "Galileo's first civil authenticated position fix under spoofing conditions",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T06:20:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
   },
   {
     "id": 39979,
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-16T16:12:01Z",
     "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/"
-  },
-  {
-    "id": 39974,
-    "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-    "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T16:08:00Z",
-    "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/"
-  },
-  {
-    "id": 39971,
-    "title": "Indonesia’s Anak Krakatau",
-    "summary": "Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:23:51Z",
-    "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/"
   }
 ]

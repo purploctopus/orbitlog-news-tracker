@@ -1,5 +1,23 @@
 [
   {
+    "id": 39974,
+    "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+    "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-earth-illustration-cropped.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T16:08:00Z",
+    "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/"
+  },
+  {
+    "id": 39971,
+    "title": "Indonesia’s Anak Krakatau",
+    "summary": "Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T15:23:51Z",
+    "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/"
+  },
+  {
     "id": 39972,
     "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
     "summary": "Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-16T12:41:21Z",
     "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/"
-  },
-  {
-    "id": 39967,
-    "title": "Faster-flowing glaciers fuel decades of polar ice loss",
-    "summary": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-16T09:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss"
-  },
-  {
-    "id": 39963,
-    "title": "Purple swirls on the Red Planet",
-    "summary": "This image shows a prominent ice cliff near Mars’s south pole. With striking swirls of purple, pink and red, it’s a far cry from the colour palette we usually associate with the Red Planet.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/raspberry_ripples_near_mars_s_south_pole/27522585-1-eng-GB/Raspberry_ripples_near_Mars_s_south_pole_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-16T09:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet"
   }
 ]
