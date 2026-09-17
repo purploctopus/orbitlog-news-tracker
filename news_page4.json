@@ -1,5 +1,14 @@
 [
   {
+    "id": 39947,
+    "title": "Avio Launches Second Successful Vega C Flight of 2026",
+    "summary": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-3 Earth observation satellite and ESA’s FLEX mission. The Vega-C rocket lifted off from the Guiana Space Centre at 01:21 UTC on 15 September. Following two burns of the rocket’s AVUM+ upper stage, Sentinel-3C was deployed […]\r\nThe post Avio Launches Second Successful Vega C Flight of 2026 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Launches-Second-Successful-Vega-C-Flight-of-2026-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-15T08:30:01Z",
+    "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/"
+  },
+  {
     "id": 39945,
     "title": "FLEX and Sentinel-3C launch highlights",
     "summary": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-14T21:32:22Z",
     "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
-  },
-  {
-    "id": 39935,
-    "title": "Meink: U.S. Has Orbiting Space Control Weapons",
-    "summary": "Air Force Secretary Troy Meink revealed today that the United States has orbiting space control weapons. Speaking at the AFA’s Air, Space & Cyber Conference in National Harbor, MD this […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Meink-AFA-Sept-14-26-Credit-AFA-300x200.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-14T21:17:54Z",
-    "url": "https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/"
   }
 ]

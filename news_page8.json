@@ -1,5 +1,14 @@
 [
   {
+    "id": 39904,
+    "title": "Avio Completes Integration of FD1 Rocket Demonstrator",
+    "summary": "Italian rocket builder Avio has completed integration of its FD1 flight demonstrator, marking a major milestone in preparations for the vehicle’s launch from an Italian Ministry of Defence test range in Sardinia. Avio announced the milestone on 10 September as part of its first-half 2026 financial results. The company said its liquid oxygen and methane […]\nThe post Avio Completes Integration of FD1 Rocket Demonstrator appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Completes-Integration-of-FD1-Rocket-Demonstrator-hero.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-11T08:18:43Z",
+    "url": "https://europeanspaceflight.com/avio-completes-integration-of-fd1-rocket-demonstrator/"
+  },
+  {
     "id": 39903,
     "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
     "summary": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s oceans, land, ice and atmosphere.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-10T20:12:39Z",
     "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/"
-  },
-  {
-    "id": 39894,
-    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-    "summary": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-10T17:28:13Z",
-    "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/"
   }
 ]

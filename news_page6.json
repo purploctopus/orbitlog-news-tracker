@@ -1,5 +1,14 @@
 [
   {
+    "id": 39926,
+    "title": "Questions? Ask our Hera Space Companion!",
+    "summary": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_space_companion_front_page/27518928-2-eng-GB/Hera_Space_Companion_front_page_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-14T14:00:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion"
+  },
+  {
     "id": 39924,
     "title": "ESA’s FLEX mission reveals the secret glow of plants",
     "summary": "Plants may look still and silent, but every leaf is constantly responding to its environment.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-13T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
-  },
-  {
-    "id": 39915,
-    "title": "Europe’s commercial launch sector picking up the pace",
-    "summary": "The European space sector is enjoying a run of advances in September, highlighted by Isar…\nThe post Europe’s commercial launch sector picking up the pace appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-12-23-46-42-740.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-12T22:54:08Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/europes-commercial-launch-sector-pace/"
   }
 ]
