@@ -1,5 +1,41 @@
 [
   {
+    "id": 39951,
+    "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
+    "summary": "Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefield, putting a premium on making sense of the data appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/8829871-scaled.jpg?fit=1024%2C683&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-15T15:49:31Z",
+    "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
+  },
+  {
+    "id": 39949,
+    "title": "Webb reveals stunning panorama of star formation",
+    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/star-forming_region_ic_348_nircam_image/27515180-1-eng-GB/Star-forming_region_IC_348_NIRCam_image_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-15T14:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
+  },
+  {
+    "id": 39950,
+    "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
+    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T14:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
+  },
+  {
+    "id": 39948,
+    "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
+    "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-15T12:36:11Z",
+    "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
+  },
+  {
     "id": 39947,
     "title": "Avio Launches Second Successful Vega C Flight of 2026",
     "summary": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-3 Earth observation satellite and ESA’s FLEX mission. The Vega-C rocket lifted off from the Guiana Space Centre at 01:21 UTC on 15 September. Following two burns of the rocket’s AVUM+ upper stage, Sentinel-3C was deployed […]\r\nThe post Avio Launches Second Successful Vega C Flight of 2026 appeared first on European Spaceflight.",
@@ -52,41 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-15T03:51:39Z",
     "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/"
-  },
-  {
-    "id": 39940,
-    "title": "FLEX and Sentinel-3C launched",
-    "summary": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_takes_flex_and_sentinel-3c_into_orbit/27517898-2-eng-GB/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-15T03:25:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched"
-  },
-  {
-    "id": 39939,
-    "title": "State Department Launches Space Catalyst Partnership",
-    "summary": "During Secretary of State Marco Rubio’s trip to Peru last week, the State Department announced a new Space Catalyst Partnership with Artemis Accords countries to expand commercial and civil space […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-15T02:00:03Z",
-    "url": "https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/"
-  },
-  {
-    "id": 39938,
-    "title": "Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions",
-    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana is scheduled for 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-14T22:05:37Z",
-    "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/"
-  },
-  {
-    "id": 39936,
-    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-    "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-14T21:32:22Z",
-    "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
   }
 ]
