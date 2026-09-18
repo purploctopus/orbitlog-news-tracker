@@ -1,5 +1,14 @@
 [
   {
+    "id": 39923,
+    "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+    "summary": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s Spaceport in French Guiana.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-14T07:20:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C"
+  },
+  {
     "id": 39922,
     "title": "APOD: 2026 September 14 – Where Your Elements Came From",
     "summary": "APOD Science APOD APOD: 2026 September 14 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-12T05:00:42Z",
     "url": "https://europeanspaceflight.com/first-hyprspace-baguette-one-launch-slips-to-2027/"
-  },
-  {
-    "id": 39913,
-    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-    "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-11T19:48:09Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/"
   }
 ]

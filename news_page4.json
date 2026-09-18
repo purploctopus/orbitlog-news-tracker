@@ -1,12 +1,12 @@
 [
   {
-    "id": 39967,
-    "title": "Faster-flowing glaciers fuel decades of polar ice loss",
-    "summary": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-16T09:00:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss"
+    "id": 39964,
+    "title": "Avio CEO Reports Influx of Customers Turned Away by SpaceX",
+    "summary": "Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, according to CEO Giulio Ranzo. “I can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, oh my God, can you fly us?” Ranzo […]\nThe post Avio CEO Reports Influx of Customers Turned Away by SpaceX appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-CEO-Reports-Influx-of-Customers-Turned-Away-by-SpaceX.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-16T12:41:21Z",
+    "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/"
   },
   {
     "id": 39963,
@@ -16,6 +16,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-16T09:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet"
+  },
+  {
+    "id": 39967,
+    "title": "Faster-flowing glaciers fuel decades of polar ice loss",
+    "summary": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/thwaits_glacier_antarctica/27521504-1-eng-GB/Thwaits_Glacier_Antarctica_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-16T09:00:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss"
   },
   {
     "id": 39962,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-15T18:55:33Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/"
-  },
-  {
-    "id": 39955,
-    "title": "SpaceX sets launch date for first Starship orbital flight",
-    "summary": "Reaching orbit would mark a significant milestone.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-15T18:48:08Z",
-    "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/"
   }
 ]
