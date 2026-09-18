@@ -1,5 +1,32 @@
 [
   {
+    "id": 39962,
+    "title": "APOD: 2026 September 16 – Webb’s View of M64",
+    "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+  },
+  {
+    "id": 39961,
+    "title": "Progress MS-35 poised to launch cargo to ISS from Kazakhstan",
+    "summary": "Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on…\r\nThe post Progress MS-35 poised to launch cargo to ISS from Kazakhstan appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-16T02:05:15Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/"
+  },
+  {
+    "id": 39960,
+    "title": "Starship to Attempt First Orbital Flight Next Week",
+    "summary": "SpaceX will attempt to put Starship into orbit for the first time next week pending regulatory approval. If all goes according to plan, Integrated Flight Test-14 or IFT-14 will orbit […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-16T01:09:54Z",
+    "url": "https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/"
+  },
+  {
     "id": 39959,
     "title": "NASA Ames Stars of the Month: September 2026",
     "summary": "NASA Ames Science Stars of the Month: September 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-15T16:15:12Z",
     "url": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/"
-  },
-  {
-    "id": 39953,
-    "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
-    "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-15T16:14:24Z",
-    "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
-  },
-  {
-    "id": 39951,
-    "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
-    "summary": "Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefield, putting a premium on making sense of the data appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/8829871-scaled.jpg?fit=1024%2C683&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-15T15:49:31Z",
-    "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
-  },
-  {
-    "id": 39950,
-    "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
-    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-15T14:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
   }
 ]
