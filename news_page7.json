@@ -1,5 +1,14 @@
 [
   {
+    "id": 39953,
+    "title": "Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building",
+    "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T16:14:24Z",
+    "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/"
+  },
+  {
     "id": 39951,
     "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
     "summary": "Space Force programs are tapping satellite data and AI to get intelligence to military commanders faster\nThe post More satellites watch the battlefield, putting a premium on making sense of the data appeared first on SpaceNews.",
@@ -9,15 +18,6 @@
     "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data/"
   },
   {
-    "id": 39949,
-    "title": "Webb reveals stunning panorama of star formation",
-    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/star-forming_region_ic_348_nircam_image/27515180-1-eng-GB/Star-forming_region_IC_348_NIRCam_image_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-15T14:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
-  },
-  {
     "id": 39950,
     "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
     "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
@@ -25,6 +25,15 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-15T14:00:00Z",
     "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
+  },
+  {
+    "id": 39949,
+    "title": "Webb reveals stunning panorama of star formation",
+    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/star-forming_region_ic_348_nircam_image/27515180-1-eng-GB/Star-forming_region_IC_348_NIRCam_image_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-15T14:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
   },
   {
     "id": 39948,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-15T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
-  },
-  {
-    "id": 39941,
-    "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
-    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana happened at 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-15T03:51:39Z",
-    "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/"
   }
 ]

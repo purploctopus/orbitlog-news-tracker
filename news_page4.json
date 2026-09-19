@@ -1,5 +1,14 @@
 [
   {
+    "id": 39980,
+    "title": "Three space companies win ESA awards for excellence and innovation",
+    "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/company_awards_at_industry_space_days_2026/27524588-2-eng-GB/Company_awards_at_Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T07:10:00Z",
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
+  },
+  {
     "id": 39983,
     "title": "Galileo's first civil authenticated position fix in spoofing conditions",
     "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-16T15:23:51Z",
     "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/"
-  },
-  {
-    "id": 39972,
-    "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
-    "summary": "Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26700/PIA26700.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:21:27Z",
-    "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/"
   }
 ]

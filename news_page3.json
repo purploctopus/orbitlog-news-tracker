@@ -1,5 +1,14 @@
 [
   {
+    "id": 39991,
+    "title": "NASA Unveils Enterprise, the First Space Shuttle",
+    "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T15:22:42Z",
+    "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
+  },
+  {
     "id": 39990,
     "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
     "summary": "PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]\nThe post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-17T08:07:00Z",
     "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
-  },
-  {
-    "id": 39980,
-    "title": "Three space companies win ESA awards for excellence and innovation",
-    "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/company_awards_at_industry_space_days_2026/27524588-2-eng-GB/Company_awards_at_Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-17T07:10:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
   }
 ]
