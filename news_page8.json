@@ -1,5 +1,23 @@
 [
   {
+    "id": 39945,
+    "title": "FLEX and Sentinel-3C launch highlights",
+    "summary": "ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/flex_and_sentinel-3c_launch_highlights/27518045-5-eng-GB/FLEX_and_Sentinel-3C_launch_highlights_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-15T07:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights"
+  },
+  {
+    "id": 39943,
+    "title": "Iceye’s global presence expands to address sovereign demand",
+    "summary": "Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic […]\nThe post Iceye’s global presence expands to address sovereign demand appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-15T06:00:00Z",
+    "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/"
+  },
+  {
     "id": 39946,
     "title": "Relive the launch of FLEX and Sentinel-3C",
     "summary": "Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-14T21:17:54Z",
     "url": "https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/"
-  },
-  {
-    "id": 39937,
-    "title": "Webinar 9/23: NASA CSDA Program Update 2026",
-    "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/csda-banner-graphic-rectang.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-14T21:04:04Z",
-    "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
-  },
-  {
-    "id": 39934,
-    "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
-    "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-14T19:00:00Z",
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
   }
 ]

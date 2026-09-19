@@ -1,5 +1,23 @@
 [
   {
+    "id": 39937,
+    "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+    "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/csda-banner-graphic-rectang.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-14T21:04:04Z",
+    "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/"
+  },
+  {
+    "id": 39934,
+    "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+    "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-14T19:00:00Z",
+    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
+  },
+  {
     "id": 39933,
     "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
     "summary": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…\r\nThe post Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-14T14:00:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion"
-  },
-  {
-    "id": 39924,
-    "title": "ESA’s FLEX mission reveals the secret glow of plants",
-    "summary": "Plants may look still and silent, but every leaf is constantly responding to its environment.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/esa_s_flex_mission_reveals_the_secret_glow_of_plants/27465436-1-eng-GB/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-14T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants"
-  },
-  {
-    "id": 39923,
-    "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "summary": "Two Earth observation satellites – ESA’s Fluorescence Explorer (FLEX) satellite, and the third satellite for the Copernicus Sentinel-3 mission – are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s Spaceport in French Guiana.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-14T07:20:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C"
   }
 ]
