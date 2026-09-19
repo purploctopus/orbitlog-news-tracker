@@ -1,5 +1,23 @@
 [
   {
+    "id": 39946,
+    "title": "Relive the launch of FLEX and Sentinel-3C",
+    "summary": "Watch the full replay of the launch of ESA’s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/relive_the_launch_of_flex_and_sentinel-3c/27517955-7-eng-GB/Relive_the_launch_of_FLEX_and_Sentinel-3C_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-15T05:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C"
+  },
+  {
+    "id": 39942,
+    "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+    "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
+  },
+  {
     "id": 39941,
     "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
     "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana happened at 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-14T19:00:00Z",
     "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/"
-  },
-  {
-    "id": 39933,
-    "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
-    "summary": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled…\r\nThe post Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-14-17-44-21-003.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-14T17:25:17Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/"
-  },
-  {
-    "id": 39932,
-    "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
-    "summary": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post Sept. 21: What Comes Next for On-Orbit Servicing? appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/on-orbit-servicing-virtual-event-spacenews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-14T17:09:21Z",
-    "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/"
   }
 ]
