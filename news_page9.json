@@ -1,5 +1,14 @@
 [
   {
+    "id": 39935,
+    "title": "Meink: U.S. Has Orbiting Space Control Weapons",
+    "summary": "Air Force Secretary Troy Meink revealed today that the United States has orbiting space control weapons. Speaking at the AFA’s Air, Space & Cyber Conference in National Harbor, MD this […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Meink-AFA-Sept-14-26-Credit-AFA-300x200.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-14T21:17:54Z",
+    "url": "https://spacepolicyonline.com/news/meink-u-s-has-orbiting-space-control-weapons/"
+  },
+  {
     "id": 39937,
     "title": "Webinar 9/23: NASA CSDA Program Update 2026",
     "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-14T15:00:00Z",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/"
-  },
-  {
-    "id": 39926,
-    "title": "Questions? Ask our Hera Space Companion!",
-    "summary": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission accessible to everyone!",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/hera_space_companion_front_page/27518928-2-eng-GB/Hera_Space_Companion_front_page_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-14T14:00:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion"
   }
 ]
