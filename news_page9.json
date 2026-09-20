@@ -1,5 +1,23 @@
 [
   {
+    "id": 39938,
+    "title": "Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions",
+    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana is scheduled for 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-14T22:05:37Z",
+    "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/"
+  },
+  {
+    "id": 39936,
+    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+    "summary": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-14T21:32:22Z",
+    "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/"
+  },
+  {
     "id": 39935,
     "title": "Meink: U.S. Has Orbiting Space Control Weapons",
     "summary": "Air Force Secretary Troy Meink revealed today that the United States has orbiting space control weapons. Speaking at the AFA’s Air, Space & Cyber Conference in National Harbor, MD this […]",
@@ -70,23 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-09-14T15:50:04Z",
     "url": "https://www.spacescout.info/2026/09/commercial-rockets-bring-new-life-to-stennis/"
-  },
-  {
-    "id": 39928,
-    "title": "Space’s growing billion-dollar club",
-    "summary": "Download our new mapping of every space company valued at $1 billion or more.\nThe post Space’s growing billion-dollar club appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/unicorns-spacenews-intelligence-1500-1000-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-14T15:35:10Z",
-    "url": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/"
-  },
-  {
-    "id": 39927,
-    "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
-    "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/jsc2026e045076.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-14T15:00:00Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40010,
+    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+  },
+  {
     "id": 40012,
     "title": "Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
@@ -9,13 +18,22 @@
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
   },
   {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+    "id": 40019,
+    "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
+    "summary": "Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…\nThe post LRO discovers large new lunar crater, finds interesting thermal emission phenomenon appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-20T21:13:19Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"
+  },
+  {
+    "id": 40018,
+    "title": "What’s Happening in Space Policy September 20-26, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 20-26, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-20T20:28:01Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/"
   },
   {
     "id": 40017,
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-18T22:01:00Z",
     "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
-  },
-  {
-    "id": 40009,
-    "title": "China progresses plans for Mars sample return, asteroid flyby and more launch sites",
-    "summary": "As China integrates crewed and robotic missions to further its lunar exploration program, it is…\nThe post China progresses plans for Mars sample return, asteroid flyby and more launch sites appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-scaled.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-18T21:58:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/"
-  },
-  {
-    "id": 40008,
-    "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-    "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-18T19:56:08Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
   }
 ]

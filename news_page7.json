@@ -1,5 +1,23 @@
 [
   {
+    "id": 39959,
+    "title": "NASA Ames Stars of the Month: September 2026",
+    "summary": "NASA Ames Science Stars of the Month: September 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-15T23:46:11Z",
+    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
+  },
+  {
+    "id": 39958,
+    "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+    "summary": "The rocket will carry an unspecified number of satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:18 p.m. PDT (10:18 p.m. EDT / 0218 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260915-USSF-259-on-Pad.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-15T21:29:03Z",
+    "url": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/"
+  },
+  {
     "id": 39957,
     "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
     "summary": "UK-based satellite maker Open Cosmos announced on 14 September that it had closed a €300 million funding round. The company said it would use the new funding to expand its manufacturing capacity and accelerate the deployment of its Earth observation and communications constellations. The €300 million raise represents the company’s first major publicly announced funding […]\nThe post Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-15T14:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation"
-  },
-  {
-    "id": 39950,
-    "title": "NASA’s Webb Reveals Dynamic Panorama of Star Formation",
-    "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA’s James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/09/STScI-01M0JFFAD7SDCCNHWT7T7P3QX9.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-15T14:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-dynamic-panorama-of-star-formation/"
-  },
-  {
-    "id": 39948,
-    "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
-    "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-15T12:36:11Z",
-    "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/"
   }
 ]
