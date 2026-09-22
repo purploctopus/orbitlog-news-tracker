@@ -1,5 +1,32 @@
 [
   {
+    "id": 40004,
+    "title": "COSI Telescope Comes Together",
+    "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics. COSI […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-18T15:45:03Z",
+    "url": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
+  },
+  {
+    "id": 40003,
+    "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
+    "summary": "IRVINE, Calif. and TORINO, Italy – Sept. 17, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, […]\nThe post Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/TOLM-Logo-Vertical_Color-square.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-18T14:47:38Z",
+    "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/"
+  },
+  {
+    "id": 40002,
+    "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+    "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by […]",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/potm2609a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-18T13:38:12Z",
+    "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
+  },
+  {
     "id": 40001,
     "title": "Week in images: 14-18 Sep 2026",
     "summary": "Week in images: 14-18 Sep 2026",
@@ -18,15 +45,6 @@
     "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
   },
   {
-    "id": 39999,
-    "title": "Earth from Space: Laguna Colorada",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-18T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
-  },
-  {
     "id": 39998,
     "title": "A galaxy spinning out of sync",
     "summary": "Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.",
@@ -34,6 +52,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-18T08:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync"
+  },
+  {
+    "id": 39999,
+    "title": "Earth from Space: Laguna Colorada",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-18T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
   },
   {
     "id": 39997,
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-18T00:06:52Z",
     "url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/"
-  },
-  {
-    "id": 39994,
-    "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-    "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-17T20:37:09Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
-  },
-  {
-    "id": 39993,
-    "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-    "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-17T18:32:30Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-  },
-  {
-    "id": 39991,
-    "title": "NASA Unveils Enterprise, the First Space Shuttle",
-    "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-17T15:22:42Z",
-    "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
   }
 ]

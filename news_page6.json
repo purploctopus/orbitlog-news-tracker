@@ -1,5 +1,32 @@
 [
   {
+    "id": 39994,
+    "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+    "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T20:37:09Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
+  },
+  {
+    "id": 39993,
+    "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+    "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/spacex35.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T18:32:30Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+  },
+  {
+    "id": 39991,
+    "title": "NASA Unveils Enterprise, the First Space Shuttle",
+    "summary": "Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of the Star Trek television series wrote the White House urging that the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T15:22:42Z",
+    "url": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/"
+  },
+  {
     "id": 39990,
     "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
     "summary": "PARIS — South Korean company Satrec Initiative is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announced in July. Satrec Initiative, acquires 25-centimeter optical […]\nThe post Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-17T10:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTG-I2_timelapse_from_arrival_at_Europe_s_Spaceport_to_launch"
-  },
-  {
-    "id": 39981,
-    "title": "EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September",
-    "summary": "Bulgarian satellite manufacturer EnduroSat has secured $205 million (€178 million) in new funding, pushing the total raised by European NewSpace companies in September above €1 billion. Announced on 16 September, EnduroSat’s new funding round was co-led by US investment firms Riot Ventures and Atreides Management, with participation from the European Innovation Council, among others. It […]\nThe post EnduroSat Raise Pushes European NewSpace Funding Above €1 Billion for September appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/EnduroSat-Raise-Pushes-European-NewSpace-Funding-Above-1-Billion-Euros-for-September.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-17T08:32:10Z",
-    "url": "https://europeanspaceflight.com/endurosat-raise-pushes-european-newspace-funding-above-e1-billion-for-september/"
-  },
-  {
-    "id": 39992,
-    "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
-    "summary": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connectivity services. The contracts also cover associated mission concepts and aim to shape the future of the EU's secure connectivity constellation – IRIS² – which will provide Europeans with resilient communications, when and where it matters most.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/group_picture_beginning_of_the_consolidation_phase_of_esa_low-leo_pre-operational_and_de-risk_activities/27528216-1-eng-GB/Group_Picture_beginning_of_the_Consolidation_Phase_of_ESA_Low-LEO_Pre-Operational_and_De-Risk_Activities_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-17T08:07:00Z",
-    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
-  },
-  {
-    "id": 39980,
-    "title": "Three space companies win ESA awards for excellence and innovation",
-    "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/company_awards_at_industry_space_days_2026/27524588-2-eng-GB/Company_awards_at_Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-17T07:10:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
   }
 ]

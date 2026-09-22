@@ -1,5 +1,32 @@
 [
   {
+    "id": 40033,
+    "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
+    "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T21:03:04Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
+  },
+  {
+    "id": 40034,
+    "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
+    "summary": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\r\nThe post Launch Preview: Electron, Falcon 9, and Starship set for launches appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-21T21:01:41Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
+  },
+  {
+    "id": 40032,
+    "title": "Perseverance’s View of ‘Turquoise Bay’",
+    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T19:17:59Z",
+    "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
+  },
+  {
     "id": 40031,
     "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
     "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, […]",
@@ -45,24 +72,6 @@
     "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
   },
   {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
-  },
-  {
-    "id": 40026,
-    "title": "Juice to fly past Earth for third gravity assist",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
-  },
-  {
     "id": 40012,
     "title": "Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
@@ -72,21 +81,12 @@
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
   },
   {
-    "id": 40023,
-    "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-    "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T11:11:42Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
-  },
-  {
-    "id": 40024,
-    "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-    "summary": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, investors, financial institutions, industry leaders, European institutions and policymakers, representing close to 200 participants, came together for the Investor Forum 2026 to explore how public demand and private capital can work together to strengthen Europe’s competitiveness, industrial capabilities and commercial growth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/investor_forum_2026/27532970-1-eng-GB/Investor_Forum_2026_card_full.jpg",
+    "id": 40026,
+    "title": "Juice to fly past Earth for third gravity assist",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
     "newsSite": "ESA",
-    "publishedAt": "2026-09-21T09:52:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
   }
 ]
