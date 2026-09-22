@@ -1,5 +1,32 @@
 [
   {
+    "id": 40038,
+    "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
+    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/SaxaVord-Scrapped-Launch-Rail-Plans-Forcing-HyImpulse-to-Bring-Its-Own.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-22T12:45:54Z",
+    "url": "https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/"
+  },
+  {
+    "id": 40036,
+    "title": "A call to boost European space exploration",
+    "summary": "The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/extended_reality_at_esa/27263586-1-eng-GB/Extended_reality_at_ESA_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-22T11:26:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration"
+  },
+  {
+    "id": 40037,
+    "title": "An Epic View of the Seasons",
+    "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-epic-view-of-the-seasons/equinox_epic_20240922.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
+  },
+  {
     "id": 40035,
     "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
     "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-21T16:57:40Z",
     "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
-  },
-  {
-    "id": 40028,
-    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T16:54:43Z",
-    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
-  },
-  {
-    "id": 40027,
-    "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
-    "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-21T15:00:00Z",
-    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
-  },
-  {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
   }
 ]

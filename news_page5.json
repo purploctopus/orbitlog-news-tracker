@@ -1,5 +1,32 @@
 [
   {
+    "id": 39999,
+    "title": "Earth from Space: Laguna Colorada",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_laguna_colorada/27528365-1-eng-GB/Earth_from_Space_Laguna_Colorada_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-18T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada"
+  },
+  {
+    "id": 39997,
+    "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
+    "summary": "The European Space Agency has awarded 18 contracts worth a combined €20 million to study potential future evolutions of the European Union’s IRIS2 secure communications service. Signed on 17 September, the contracts bring together nearly 80 European companies to study new satellite-based secure connectivity services and associated mission concepts. According to ESA, the solutions will […]\nThe post ESA Awards €20M in Contracts to Study Future IRIS2 Services appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-20M-Euros-in-Contracts-to-Study-Future-IRIS2-Services.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-18T07:41:46Z",
+    "url": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/"
+  },
+  {
+    "id": 39996,
+    "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+    "summary": "APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Messier 33: The […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-18T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
+  },
+  {
     "id": 39995,
     "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
     "summary": "SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory…\r\nThe post Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape appeared first on NASASpaceFlight.com.",
@@ -61,32 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-17T14:37:37Z",
     "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/"
-  },
-  {
-    "id": 39987,
-    "title": "Inside Europe’s push for space autonomy with Josef Aschbacher",
-    "summary": "In this episode of the podcast, SpaceNews’ Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss […]\nThe post Inside Europe’s push for space autonomy with Josef Aschbacher appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/space-minds-podcast-aschbacher-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-17T14:37:26Z",
-    "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/"
-  },
-  {
-    "id": 39985,
-    "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-    "summary": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innovative […]\nThe post Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/bmc3i-tap-lab-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-17T13:00:00Z",
-    "url": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/"
-  },
-  {
-    "id": 39986,
-    "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-    "summary": "PARIS — Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the International Space […]\r\nThe post Icarus Robotics tests Joy in Canada ahead of ISS flight appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_1screenshot_2026-09-16_at_33640-pm.png?fit=879%2C688&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-17T13:00:00Z",
-    "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/"
   }
 ]
