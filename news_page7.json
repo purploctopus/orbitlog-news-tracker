@@ -1,5 +1,32 @@
 [
   {
+    "id": 39983,
+    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T06:20:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
+  },
+  {
+    "id": 39984,
+    "title": "Galileo's first civil authenticated position fix under spoofing conditions",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T06:20:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
+  },
+  {
+    "id": 39979,
+    "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+    "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/JWST_Treasure_Chest.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/"
+  },
+  {
     "id": 39978,
     "title": "Summer Goes Out With a Heat Dome",
     "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-16T15:21:27Z",
     "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/"
-  },
-  {
-    "id": 39970,
-    "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
-    "summary": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/ho-software-lyman.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:14:57Z",
-    "url": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/"
-  },
-  {
-    "id": 39969,
-    "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
-    "summary": "As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq20260401-admin-0007large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:00:18Z",
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/"
-  },
-  {
-    "id": 39968,
-    "title": "NASA’s Integrated Medical Model (IMM)",
-    "summary": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronauts. To anticipate these needs ahead of time, NASA developed the Integrated Medical Model (IMM). The IMM is a decision-support tool that uses […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0088825/iss075e0088825~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T14:50:23Z",
-    "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/"
   }
 ]
