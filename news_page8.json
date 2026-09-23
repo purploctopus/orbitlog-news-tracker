@@ -1,5 +1,41 @@
 [
   {
+    "id": 39978,
+    "title": "Summer Goes Out With a Heat Dome",
+    "summary": "Temperature records toppled across the central and southern U.S. as the autumnal equinox approached.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-17T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
+  },
+  {
+    "id": 39977,
+    "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+    "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T21:06:08Z",
+    "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/"
+  },
+  {
+    "id": 39976,
+    "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+    "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T18:06:35Z",
+    "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/"
+  },
+  {
+    "id": 39975,
+    "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
+    "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/ribbon-cutting-edited.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-16T16:12:01Z",
+    "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/"
+  },
+  {
     "id": 39974,
     "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
     "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-16T14:50:23Z",
     "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/"
-  },
-  {
-    "id": 39965,
-    "title": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-    "summary": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives. Called Elias 2-24 b, the baby planet is still whirling in its natal disk of dust and gas. “Our planet-formation models already struggled to explain the previous record holders for the youngest known […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/elias-00.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T14:34:47Z",
-    "url": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/"
-  },
-  {
-    "id": 39973,
-    "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-    "summary": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (14 years on Mars; 5,000 sols on Mars; 1 kilometer of elevation gain since landing) over the past several weeks, and the team has duly celebrated these remarkable achievements. These celebrations punctuate the rover’s […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05003_opgs_edr_ncam_NRB_841646474EDR_F1241978NCAM00200M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T14:26:25Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5002-5009-tough-planning-to-learn-more-about-wind-blown-sediments/"
-  },
-  {
-    "id": 39966,
-    "title": "Curiosity Blog, Sols 5002-5009: Tough Planning To Learn More About Wind-Blown Sediments",
-    "summary": "Written by Benjamin Tutolo, Professor, University of Calgary Earth planning date: Friday, Sept. 4, 2026 Curiosity has marked several huge milestones (14 years on Mars; 5,000 sols on Mars; 1 kilometer of elevation gain since landing) over the past several weeks, and the team has duly celebrated these remarkable achievements. These celebrations punctuate the rover’s […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05003_opgs_edr_ncam_NRB_841646474EDR_F1241978NCAM00200M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T14:26:25Z",
-    "url": "https://science.nasa.gov/blog/1345718/"
-  },
-  {
-    "id": 39964,
-    "title": "Avio CEO Reports Influx of Customers Turned Away by SpaceX",
-    "summary": "Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, according to CEO Giulio Ranzo. “I can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, oh my God, can you fly us?” Ranzo […]\nThe post Avio CEO Reports Influx of Customers Turned Away by SpaceX appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-CEO-Reports-Influx-of-Customers-Turned-Away-by-SpaceX.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-16T12:41:21Z",
-    "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/"
   }
 ]

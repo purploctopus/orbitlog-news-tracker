@@ -1,5 +1,41 @@
 [
   {
+    "id": 40047,
+    "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+    "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/"
+  },
+  {
+    "id": 40048,
+    "title": "Boom Year for Desert Blooms",
+    "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/"
+  },
+  {
+    "id": 40046,
+    "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
+    "summary": "SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the…\r\nThe post Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-23T02:42:12Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/"
+  },
+  {
+    "id": 40045,
+    "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
+    "summary": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T00:40:16Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/"
+  },
+  {
     "id": 40042,
     "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
     "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
@@ -9,15 +45,6 @@
     "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/"
   },
   {
-    "id": 40043,
-    "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/SampleCollection.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-22T17:33:10Z",
-    "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
-  },
-  {
     "id": 40041,
     "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
     "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of California’s Lassen Volcanic National Park, a […]",
@@ -25,6 +52,15 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-22T17:33:10Z",
     "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/"
+  },
+  {
+    "id": 40043,
+    "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+    "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/SampleCollection.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T17:33:10Z",
+    "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
   },
   {
     "id": 40040,
@@ -47,46 +83,10 @@
   {
     "id": 40038,
     "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
-    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
+    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\r\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
     "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/SaxaVord-Scrapped-Launch-Rail-Plans-Forcing-HyImpulse-to-Bring-Its-Own.webp",
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-22T12:45:54Z",
     "url": "https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/"
-  },
-  {
-    "id": 40036,
-    "title": "A call to boost European space exploration",
-    "summary": "The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/extended_reality_at_esa/27263586-1-eng-GB/Extended_reality_at_ESA_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-22T11:26:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration"
-  },
-  {
-    "id": 40044,
-    "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
-    "summary": "APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chance Triple Alignment: […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/PlaneIssSpots_Horalek_1500.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-22T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/"
-  },
-  {
-    "id": 40037,
-    "title": "An Epic View of the Seasons",
-    "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-epic-view-of-the-seasons/equinox_epic_20240922.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-22T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
-  },
-  {
-    "id": 40035,
-    "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
-    "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T21:21:32Z",
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
   }
 ]
