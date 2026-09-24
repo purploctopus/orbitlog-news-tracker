@@ -1,5 +1,68 @@
 [
   {
+    "id": 40085,
+    "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+    "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T18:01:45Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+  },
+  {
+    "id": 40084,
+    "title": "NASA’s Machines for Mars Make Beer Bubbly",
+    "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T16:41:01Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
+  },
+  {
+    "id": 40083,
+    "title": "Practicing for Safe Landings on the Moon and Beyond",
+    "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T16:29:19Z",
+    "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
+  },
+  {
+    "id": 40082,
+    "title": "True or false on space industry trends with Pacôme Révillon",
+    "summary": "In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […]\nThe post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/space-minds-podcast-novaspace-1920-1080.jpg.jpg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-24T15:51:42Z",
+    "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
+  },
+  {
+    "id": 40081,
+    "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+    "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T15:47:17Z",
+    "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
+  },
+  {
+    "id": 40080,
+    "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
+    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […]\nThe post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-24T15:05:28Z",
+    "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
+  },
+  {
+    "id": 40079,
+    "title": "NASA chief concerned China may deny access to parts of South Pole",
+    "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-24T14:57:50Z",
+    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
+  },
+  {
     "id": 40078,
     "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
     "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health […]",
@@ -25,68 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-24T13:00:13Z",
     "url": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"
-  },
-  {
-    "id": 40075,
-    "title": "New tests for rendezvous and docking interoperability",
-    "summary": "Currently, space missions are one-shot affairs: satellites are sent to orbit to do their mission until they run out of fuel. The European Space Agency is working on a more sustainable future where satellites and spacecraft can rendezvous, dock, refuel, repair, recalibrate and even be repurposed for new missions indefinitely.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/rendezvous_tests_in_esa_s_robotics_lab/27537873-1-eng-GB/Rendezvous_tests_in_ESA_s_robotics_lab_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability"
-  },
-  {
-    "id": 40076,
-    "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
-    "summary": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control!",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/welcome_bepicolombo_to_mercury/27520540-1-eng-GB/Welcome_BepiColombo_to_Mercury_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury"
-  },
-  {
-    "id": 40073,
-    "title": "Record participation in ESA’s Industry Space Days 2026",
-    "summary": "On 16–17 September, the European Space Agency (ESA) hosted a record 3100 visitors from Europe’s space industry for a two-day Industry Space Days (ISD) event at ESA’s ESTEC technical centre in the Netherlands.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T07:05:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026"
-  },
-  {
-    "id": 40072,
-    "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
-    "summary": "The European Space Agency (ESA) has awarded Rocket Factory Augsburg (RFA) a contract amendment that will provide the company with €2.7 million in additional co-funding to support the build-out of the company’s launch and testing infrastructure at SaxaVord in Scotland. According to the agency, RFA is expected to resume preparations for static fire tests of […]\r\nThe post ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Awards-RFA-2.7-Million-Euros-in-New-Funding-for-SaxaVord-Operations.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-24T06:00:15Z",
-    "url": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/"
-  },
-  {
-    "id": 40070,
-    "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-    "summary": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The Ghosts […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/5SNR_Auriga_2000.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
-  },
-  {
-    "id": 40071,
-    "title": "Cloudy Cloak Over the Northwest",
-    "summary": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
-  },
-  {
-    "id": 40069,
-    "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
-    "summary": "The bold mission to extend the lifetime of NASA’s Swift observatory is coming to an end in the next 24 hours. Almost exactly one year after NASA signed a contract […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-24T02:01:59Z",
-    "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/"
   }
 ]
