@@ -1,5 +1,41 @@
 [
   {
+    "id": 39992,
+    "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
+    "summary": "The European Space Agency (ESA) has signed 18 consolidation contracts bringing together nearly 80 companies to study new secure and resilient connectivity services. The contracts also cover associated mission concepts and aim to shape the future of the EU's secure connectivity constellation – IRIS² – which will provide Europeans with resilient communications, when and where it matters most.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/group_picture_beginning_of_the_consolidation_phase_of_esa_low-leo_pre-operational_and_de-risk_activities/27528216-1-eng-GB/Group_Picture_beginning_of_the_Consolidation_Phase_of_ESA_Low-LEO_Pre-Operational_and_De-Risk_Activities_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T08:07:00Z",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities"
+  },
+  {
+    "id": 39980,
+    "title": "Three space companies win ESA awards for excellence and innovation",
+    "summary": "On 16 September at its Industry Space Days 2026 event at ESA–ESTEC in the Netherlands, the European Space Agency (ESA) honoured three space companies with this year’s prestigious awards for excellence and innovation.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/company_awards_at_industry_space_days_2026/27524588-2-eng-GB/Company_awards_at_Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T07:10:00Z",
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation"
+  },
+  {
+    "id": 39984,
+    "title": "Galileo's first civil authenticated position fix under spoofing conditions",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T06:20:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions"
+  },
+  {
+    "id": 39983,
+    "title": "Galileo's first civil authenticated position fix in spoofing conditions",
+    "summary": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals, marking the first real-world positioning using Galileo’s upcoming Signal Authentication Service (SAS).",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-1-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-17T06:20:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_in_spoofing_conditions"
+  },
+  {
     "id": 39979,
     "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
     "summary": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-16T16:08:00Z",
     "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/"
-  },
-  {
-    "id": 39971,
-    "title": "Indonesia’s Anak Krakatau",
-    "summary": "Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with the OLI (Operational Land Imager) on Landsat 8. Eruptions are a regular occurrence at Anak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:23:51Z",
-    "url": "https://www.nasa.gov/image-article/indonesias-anak-krakatau/"
-  },
-  {
-    "id": 39972,
-    "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
-    "summary": "Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26700/PIA26700.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:21:27Z",
-    "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/"
-  },
-  {
-    "id": 39970,
-    "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
-    "summary": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/ho-software-lyman.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:14:57Z",
-    "url": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/"
-  },
-  {
-    "id": 39969,
-    "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
-    "summary": "As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq20260401-admin-0007large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-16T15:00:18Z",
-    "url": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/"
   }
 ]
