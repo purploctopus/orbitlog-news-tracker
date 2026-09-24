@@ -1,5 +1,32 @@
 [
   {
+    "id": 40028,
+    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T16:54:43Z",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+  },
+  {
+    "id": 40027,
+    "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+    "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-21T15:00:00Z",
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
+  },
+  {
+    "id": 40010,
+    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+  },
+  {
     "id": 40012,
     "title": "Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-21T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
-  },
-  {
-    "id": 40025,
-    "title": "Arctic Melt Season Length Levels Off",
-    "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
-  },
-  {
-    "id": 40019,
-    "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
-    "summary": "Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…\r\nThe post LRO discovers large new lunar crater, finds interesting thermal emission phenomenon appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-20T21:13:19Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"
-  },
-  {
-    "id": 40018,
-    "title": "What’s Happening in Space Policy September 20-26, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 20-26, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-20T20:28:01Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/"
   }
 ]
