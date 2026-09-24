@@ -1,5 +1,14 @@
 [
   {
+    "id": 39998,
+    "title": "A galaxy spinning out of sync",
+    "summary": "Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by gravity.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/a_galaxy_spinning_out_of_sync/27523332-1-eng-GB/A_galaxy_spinning_out_of_sync_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-18T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync"
+  },
+  {
     "id": 39999,
     "title": "Earth from Space: Laguna Colorada",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-17T14:40:51Z",
     "url": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/"
-  },
-  {
-    "id": 39988,
-    "title": "NASA to order more Starliner missions and help certify a new rocket to keep it flying",
-    "summary": "\"They should fly their capsule. The government paid a lot of money for that.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-17T14:37:37Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/"
   }
 ]
