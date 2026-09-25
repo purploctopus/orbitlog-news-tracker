@@ -1,5 +1,32 @@
 [
   {
+    "id": 40027,
+    "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+    "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-21T15:00:00Z",
+    "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
+  },
+  {
+    "id": 40010,
+    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+  },
+  {
+    "id": 40026,
+    "title": "Juice to fly past Earth for third gravity assist",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+  },
+  {
     "id": 40012,
     "title": "Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-21T04:00:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
-  },
-  {
-    "id": 40019,
-    "title": "LRO discovers large new lunar crater, finds interesting thermal emission phenomenon",
-    "summary": "Using NASA’s Lunar Reconnaissance Orbiter, a team of scientists has discovered the largest, newly formed…\r\nThe post LRO discovers large new lunar crater, finds interesting thermal emission phenomenon appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/McGetchinLRONAC-1-e1789935709592.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-20T21:13:19Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/lro-mcgetchin-crater/"
-  },
-  {
-    "id": 40018,
-    "title": "What’s Happening in Space Policy September 20-26, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 20-26, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-20T20:28:01Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/"
-  },
-  {
-    "id": 40017,
-    "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-    "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CallanishAnalemma_Petricca_1280.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-20T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40058,
+    "title": "FFA 2026 Hyperwall Schedule",
+    "summary": "FFA 2026 Hyperwall Schedule",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T14:58:13Z",
+    "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/"
+  },
+  {
+    "id": 40055,
+    "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
+    "summary": "For more information, contact Jonathan E. Jones, Langley Research Center, jonathan.e.jones@nasa.gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide general recommendations for mitigating damage, operational hazards, and loss of system reliability in propulsion and auxiliary hydrazine systems. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T14:31:58Z",
+    "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/"
+  },
+  {
+    "id": 40056,
+    "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+    "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T13:55:34Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/"
+  },
+  {
     "id": 40054,
     "title": "Space explorers in the land of volcanoes",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/"
-  },
-  {
-    "id": 40048,
-    "title": "Boom Year for Desert Blooms",
-    "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/"
-  },
-  {
-    "id": 40046,
-    "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
-    "summary": "SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the…\r\nThe post Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-23T02:42:12Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/"
-  },
-  {
-    "id": 40045,
-    "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
-    "summary": "Catherine O’Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T00:40:16Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/"
   }
 ]

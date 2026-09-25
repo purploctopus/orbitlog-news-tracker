@@ -1,5 +1,23 @@
 [
   {
+    "id": 40077,
+    "title": "European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission",
+    "summary": "Belgium’s Space Applications Services has secured a ride for its LUVMI-M rover aboard a Blue Origin Blue Moon Mark 1 lunar lander. The company announced the agreement on 23 September, saying the mission is on track to become Europe’s first fully commercial lunar rover mission. Although development of the LUVMI family has benefited from public […]\nThe post European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/European-Lunar-Rover-Secures-Spot-Aboard-Blue-Origin-Blue-Moon-Mission.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-24T13:45:53Z",
+    "url": "https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission/"
+  },
+  {
+    "id": 40074,
+    "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
+    "summary": "Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…\nThe post Starfish Space’s first Otter servicing vehicle slated for Transporter-18 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-24T13:00:13Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"
+  },
+  {
     "id": 40076,
     "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
     "summary": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control!",
@@ -7,6 +25,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-24T13:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury"
+  },
+  {
+    "id": 40075,
+    "title": "New tests for rendezvous and docking interoperability",
+    "summary": "Currently, space missions are one-shot affairs: satellites are sent to orbit to do their mission until they run out of fuel. The European Space Agency is working on a more sustainable future where satellites and spacecraft can rendezvous, dock, refuel, repair, recalibrate and even be repurposed for new missions indefinitely.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/rendezvous_tests_in_esa_s_robotics_lab/27537873-1-eng-GB/Rendezvous_tests_in_ESA_s_robotics_lab_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-24T13:00:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability"
   },
   {
     "id": 40073,
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T22:08:54Z",
     "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/"
-  },
-  {
-    "id": 40067,
-    "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
-    "summary": "The inclusion of the upper stage, tail number Ship 41, comes ahead of a probable fueling demonstration planned in the days leading up to a launch attempt. Starship Flight 14 is scheduled for no earlier than Sept. 28, pending approval from the Federal Aviation Administration.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260923_Starship_Flight-14_stacked.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-23T21:47:00Z",
-    "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/"
-  },
-  {
-    "id": 40066,
-    "title": "Ship 41 and Booster 21 head into key pre-flight test",
-    "summary": "With Booster 21 and Ship 41 stacked at the launch site as of early morning…\r\nThe post Ship 41 and Booster 21 head into key pre-flight test appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-23T21:21:24Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"
-  },
-  {
-    "id": 40065,
-    "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
-    "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T20:37:19Z",
-    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/"
   }
 ]

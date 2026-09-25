@@ -1,5 +1,32 @@
 [
   {
+    "id": 40067,
+    "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
+    "summary": "The inclusion of the upper stage, tail number Ship 41, comes ahead of a probable fueling demonstration planned in the days leading up to a launch attempt. Starship Flight 14 is scheduled for no earlier than Sept. 28, pending approval from the Federal Aviation Administration.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260923_Starship_Flight-14_stacked.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-23T21:47:00Z",
+    "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/"
+  },
+  {
+    "id": 40066,
+    "title": "Ship 41 and Booster 21 head into key pre-flight test",
+    "summary": "With Booster 21 and Ship 41 stacked at the launch site as of early morning…\r\nThe post Ship 41 and Booster 21 head into key pre-flight test appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-21-19-26-175.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-23T21:21:24Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/"
+  },
+  {
+    "id": 40065,
+    "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T20:37:19Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/"
+  },
+  {
     "id": 40064,
     "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
     "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-23T15:18:10Z",
     "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/"
-  },
-  {
-    "id": 40058,
-    "title": "FFA 2026 Hyperwall Schedule",
-    "summary": "FFA 2026 Hyperwall Schedule",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T14:58:13Z",
-    "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/"
-  },
-  {
-    "id": 40055,
-    "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
-    "summary": "For more information, contact Jonathan E. Jones, Langley Research Center, jonathan.e.jones@nasa.gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide general recommendations for mitigating damage, operational hazards, and loss of system reliability in propulsion and auxiliary hydrazine systems. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T14:31:58Z",
-    "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/"
-  },
-  {
-    "id": 40056,
-    "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
-    "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T13:55:34Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/"
   }
 ]
