@@ -1,5 +1,14 @@
 [
   {
+    "id": 40020,
+    "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "summary": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
+  },
+  {
     "id": 40025,
     "title": "Arctic Melt Season Length Levels Off",
     "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-18T22:01:00Z",
     "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience"
-  },
-  {
-    "id": 40009,
-    "title": "China progresses plans for Mars sample return, asteroid flyby and more launch sites",
-    "summary": "As China integrates crewed and robotic missions to further its lunar exploration program, it is…\r\nThe post China progresses plans for Mars sample return, asteroid flyby and more launch sites appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/ZhuQue-3-ascends-on-maiden-launch-Aug-2026-close-drone-shot-above-video-still-Landspace-scaled.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-18T21:58:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/"
   }
 ]

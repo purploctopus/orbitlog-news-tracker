@@ -1,5 +1,14 @@
 [
   {
+    "id": 40079,
+    "title": "NASA chief concerned China may deny access to parts of South Pole",
+    "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-24T14:57:50Z",
+    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
+  },
+  {
     "id": 40078,
     "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
     "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-24T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
-  },
-  {
-    "id": 40069,
-    "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
-    "summary": "The bold mission to extend the lifetime of NASA’s Swift observatory is coming to an end in the next 24 hours. Almost exactly one year after NASA signed a contract […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-24T02:01:59Z",
-    "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/"
   }
 ]
