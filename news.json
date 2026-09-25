@@ -1,5 +1,41 @@
 [
   {
+    "id": 40099,
+    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+    "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T14:45:51Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/"
+  },
+  {
+    "id": 40098,
+    "title": "Week in images: 21-25 Sep 2026",
+    "summary": "Week in images: 21-25 Sep 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-25T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026"
+  },
+  {
+    "id": 40097,
+    "title": "Three Earth Explorer candidates go forward",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/03/advancing_earth_science/26001430-2-eng-GB/Advancing_Earth_science_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-25T12:20:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward"
+  },
+  {
+    "id": 40096,
+    "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return",
+    "summary": "\"The customer got comfortable with a high reliability and a low price.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-25T11:00:10Z",
+    "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
+  },
+  {
     "id": 40095,
     "title": "ESA and the EU partner with Museo Galileo on new exhibition",
     "summary": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
-  },
-  {
-    "id": 40089,
-    "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
-    "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.”",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-24T23:07:18Z",
-    "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/"
-  },
-  {
-    "id": 40088,
-    "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
-    "summary": "AS the International Space Station continues to orbit Earth as it has for over a…\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-24T22:06:28Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"
-  },
-  {
-    "id": 40087,
-    "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-    "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-cote-divoire-75-092426.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T21:27:17Z",
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 40086,
-    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-    "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T21:15:46Z",
-    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
   }
 ]
