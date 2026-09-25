@@ -1,5 +1,59 @@
 [
   {
+    "id": 40035,
+    "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T21:21:32Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
+  },
+  {
+    "id": 40033,
+    "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
+    "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T21:03:04Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
+  },
+  {
+    "id": 40034,
+    "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
+    "summary": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon…\r\nThe post Launch Preview: Electron, Falcon 9, and Starship set for launches appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-21T21:01:41Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
+  },
+  {
+    "id": 40032,
+    "title": "Perseverance’s View of ‘Turquoise Bay’",
+    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T19:17:59Z",
+    "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
+  },
+  {
+    "id": 40031,
+    "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+    "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T18:43:13Z",
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
+  },
+  {
+    "id": 40030,
+    "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+    "summary": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal Aviation Administration.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260921_B21_rollout-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-21T17:25:37Z",
+    "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
+  },
+  {
     "id": 40029,
     "title": "Exolaunch, Space Cargo book Starship Starfall missions",
     "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\r\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
@@ -34,59 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-21T14:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
-  },
-  {
-    "id": 40012,
-    "title": "Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
-  },
-  {
-    "id": 40026,
-    "title": "Juice to fly past Earth for third gravity assist",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
-  },
-  {
-    "id": 40023,
-    "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-    "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/vol-better.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T11:11:42Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/"
-  },
-  {
-    "id": 40024,
-    "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-    "summary": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, investors, financial institutions, industry leaders, European institutions and policymakers, representing close to 200 participants, came together for the Investor Forum 2026 to explore how public demand and private capital can work together to strengthen Europe’s competitiveness, industrial capabilities and commercial growth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/investor_forum_2026/27532970-1-eng-GB/Investor_Forum_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T09:52:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
-  },
-  {
-    "id": 40022,
-    "title": "ESA and ISRO extend and broaden cooperation agreement",
-    "summary": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Cooperative Agreement for a further five years, until 8 January 2032, reaffirming Europe's and India's commitment to expanding cooperation in space.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa-isro/27532710-2-eng-GB/ESA-ISRO_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T08:44:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
-  },
-  {
-    "id": 40021,
-    "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
-    "summary": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the additional checks were expected to disrupt […]\r\nThe post ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Acknowledges-Ariane-6-Delays-Following-Reports-of-Turbopump-Issue-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-21T08:05:18Z",
-    "url": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/"
   }
 ]

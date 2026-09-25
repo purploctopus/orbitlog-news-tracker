@@ -1,5 +1,59 @@
 [
   {
+    "id": 40065,
+    "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T20:37:19Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/"
+  },
+  {
+    "id": 40064,
+    "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+    "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T20:09:42Z",
+    "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/"
+  },
+  {
+    "id": 40063,
+    "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+    "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T19:03:03Z",
+    "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/"
+  },
+  {
+    "id": 40062,
+    "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+    "summary": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T18:43:43Z",
+    "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/"
+  },
+  {
+    "id": 40061,
+    "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+    "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/NASA-meatball-blk.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T17:15:32Z",
+    "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
+  },
+  {
+    "id": 40060,
+    "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+    "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-23T17:10:58Z",
+    "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
+  },
+  {
     "id": 40059,
     "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
     "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T14:31:58Z",
     "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/"
-  },
-  {
-    "id": 40056,
-    "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
-    "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T13:55:34Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/"
-  },
-  {
-    "id": 40054,
-    "title": "Space explorers in the land of volcanoes",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T13:29:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes"
-  },
-  {
-    "id": 40053,
-    "title": "First switch on for ESA-JAXA Ramses asteroid mission",
-    "summary": "The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical development schedule.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/first_switch-on_of_the_ramses_spacecraft/27537289-1-eng-GB/First_switch-on_of_the_Ramses_spacecraft_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T11:17:00Z",
-    "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission"
-  },
-  {
-    "id": 40052,
-    "title": "There are now 17,000 satellites in orbit—and growing. Should we be concerned?",
-    "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-23T11:00:17Z",
-    "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
-  },
-  {
-    "id": 40051,
-    "title": "A hitchhiker’s guide to Hera’s target asteroids",
-    "summary": "Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid’s surface?",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T08:10:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids"
-  },
-  {
-    "id": 40050,
-    "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/rfa_one_rocket/25184937-1-eng-GB/RFA_One_rocket_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T08:00:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch"
   }
 ]
