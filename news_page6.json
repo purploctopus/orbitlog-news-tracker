@@ -1,5 +1,14 @@
 [
   {
+    "id": 40060,
+    "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+    "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-23T17:10:58Z",
+    "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
+  },
+  {
     "id": 40059,
     "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
     "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-23T08:10:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids"
-  },
-  {
-    "id": 40050,
-    "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/rfa_one_rocket/25184937-1-eng-GB/RFA_One_rocket_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T08:00:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch"
   }
 ]

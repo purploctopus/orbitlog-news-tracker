@@ -1,5 +1,14 @@
 [
   {
+    "id": 40039,
+    "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
+    "summary": "Students in New Hampshire will hear from NASA astronaut Anil Menon as he answers prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 11:35 a.m. EDT Thursday, Sept. 24, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by the McAuliffe-Shepard Discovery Center in Concord, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/anil-menon-downlink-sept-22.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T13:38:53Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students/"
+  },
+  {
     "id": 40038,
     "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
     "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\r\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-21T18:43:13Z",
     "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game/"
-  },
-  {
-    "id": 40030,
-    "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
-    "summary": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal Aviation Administration.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260921_B21_rollout-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-21T17:25:37Z",
-    "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
   }
 ]

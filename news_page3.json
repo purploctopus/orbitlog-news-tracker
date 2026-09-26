@@ -1,5 +1,14 @@
 [
   {
+    "id": 40090,
+    "title": "Explosive Intensification for Hurricane Polo",
+    "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
+  },
+  {
     "id": 40089,
     "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
     "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.”",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-24T15:47:17Z",
     "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
-  },
-  {
-    "id": 40080,
-    "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […]\nThe post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-24T15:05:28Z",
-    "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
   }
 ]

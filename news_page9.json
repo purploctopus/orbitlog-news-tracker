@@ -1,5 +1,14 @@
 [
   {
+    "id": 40030,
+    "title": "SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch",
+    "summary": "The first planned orbital Starship mission is scheduled for launch from Starbase in Texas as soon as Sept. 28, pending final approval from the Federal Aviation Administration.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260921_B21_rollout-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-21T17:25:37Z",
+    "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
+  },
+  {
     "id": 40029,
     "title": "Exolaunch, Space Cargo book Starship Starfall missions",
     "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\r\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
@@ -27,13 +36,13 @@
     "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
   },
   {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
+    "id": 40012,
+    "title": "Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg",
     "newsSite": "ESA",
     "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
   },
   {
     "id": 40026,
@@ -45,13 +54,13 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
   },
   {
-    "id": 40012,
-    "title": "Pikachu in the Cupola",
+    "id": 40010,
+    "title": "ESA x TPCI - Pikachu in the Cupola",
     "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
     "newsSite": "ESA",
     "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
   },
   {
     "id": 40023,
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-21T08:44:00Z",
     "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement"
-  },
-  {
-    "id": 40021,
-    "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
-    "summary": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the additional checks were expected to disrupt […]\r\nThe post ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Acknowledges-Ariane-6-Delays-Following-Reports-of-Turbopump-Issue-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-21T08:05:18Z",
-    "url": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/"
   }
 ]

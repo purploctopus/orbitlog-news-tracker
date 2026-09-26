@@ -1,5 +1,14 @@
 [
   {
+    "id": 40100,
+    "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+    "summary": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-25T15:35:23Z",
+    "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/"
+  },
+  {
     "id": 40099,
     "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
     "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/"
-  },
-  {
-    "id": 40090,
-    "title": "Explosive Intensification for Hurricane Polo",
-    "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
   }
 ]

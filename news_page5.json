@@ -1,5 +1,14 @@
 [
   {
+    "id": 40071,
+    "title": "Cloudy Cloak Over the Northwest",
+    "summary": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
+  },
+  {
     "id": 40069,
     "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
     "summary": "The bold mission to extend the lifetime of NASA’s Swift observatory is coming to an end in the next 24 hours. Almost exactly one year after NASA signed a contract […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T17:15:32Z",
     "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
-  },
-  {
-    "id": 40060,
-    "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
-    "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-23T17:10:58Z",
-    "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
   }
 ]
