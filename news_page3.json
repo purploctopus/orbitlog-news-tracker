@@ -1,5 +1,23 @@
 [
   {
+    "id": 40089,
+    "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
+    "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.”",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-24T23:07:18Z",
+    "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/"
+  },
+  {
+    "id": 40088,
+    "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+    "summary": "AS the International Space Station continues to orbit Earth as it has for over a…\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-24T22:06:28Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"
+  },
+  {
     "id": 40087,
     "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
     "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-24T15:05:28Z",
     "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
-  },
-  {
-    "id": 40079,
-    "title": "NASA chief concerned China may deny access to parts of South Pole",
-    "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-24T14:57:50Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
-  },
-  {
-    "id": 40078,
-    "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-    "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T13:53:48Z",
-    "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
   }
 ]

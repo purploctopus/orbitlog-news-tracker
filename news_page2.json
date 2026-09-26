@@ -1,5 +1,23 @@
 [
   {
+    "id": 40099,
+    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+    "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T14:45:51Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/"
+  },
+  {
+    "id": 40098,
+    "title": "Week in images: 21-25 Sep 2026",
+    "summary": "Week in images: 21-25 Sep 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-25T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026"
+  },
+  {
     "id": 40097,
     "title": "Three Earth Explorer candidates go forward",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
-  },
-  {
-    "id": 40089,
-    "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
-    "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.”",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-24T23:07:18Z",
-    "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/"
-  },
-  {
-    "id": 40088,
-    "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
-    "summary": "AS the International Space Station continues to orbit Earth as it has for over a…\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-24T22:06:28Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"
   }
 ]

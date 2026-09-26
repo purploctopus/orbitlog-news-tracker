@@ -1,5 +1,23 @@
 [
   {
+    "id": 40029,
+    "title": "Exolaunch, Space Cargo book Starship Starfall missions",
+    "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\r\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-21T16:57:40Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
+  },
+  {
+    "id": 40028,
+    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T16:54:43Z",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
+  },
+  {
     "id": 40027,
     "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
     "summary": "September 21, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a Space Supply […]\nThe post Commercial Space Federation (CSF) Welcomes Two New Members appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-21T08:05:18Z",
     "url": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/"
-  },
-  {
-    "id": 40020,
-    "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-    "summary": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/"
-  },
-  {
-    "id": 40025,
-    "title": "Arctic Melt Season Length Levels Off",
-    "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/"
   }
 ]

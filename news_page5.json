@@ -1,5 +1,23 @@
 [
   {
+    "id": 40069,
+    "title": "Swift Rescue Mission May Not Have Succeeded, But No Regrets",
+    "summary": "The bold mission to extend the lifetime of NASA’s Swift observatory is coming to an end in the next 24 hours. Almost exactly one year after NASA signed a contract […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-24T02:01:59Z",
+    "url": "https://spacepolicyonline.com/news/swift-rescue-mission-may-not-have-succeeded-but-no-regrets/"
+  },
+  {
+    "id": 40068,
+    "title": "NASA Modernizes Commercial Airline Systems",
+    "summary": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/acd26-0034-011.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T22:08:54Z",
+    "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/"
+  },
+  {
     "id": 40067,
     "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
     "summary": "The inclusion of the upper stage, tail number Ship 41, comes ahead of a probable fueling demonstration planned in the days leading up to a launch attempt. Starship Flight 14 is scheduled for no earlier than Sept. 28, pending approval from the Federal Aviation Administration.",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-23T17:10:58Z",
     "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
-  },
-  {
-    "id": 40059,
-    "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
-    "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir  Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet greenhouse aboard the Russian space station Mir. For six months, Lucid lived and worked alongside two Russian cosmonauts conducting life science […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/s79e5277/s79e5277~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T16:03:37Z",
-    "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/"
-  },
-  {
-    "id": 40057,
-    "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-    "summary": "DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […]\nThe post Ethereal Space Awarded NOAA SBEM Task Order 1 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/ethereal-space.png?fit=800%2C800&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-23T15:18:10Z",
-    "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/"
   }
 ]

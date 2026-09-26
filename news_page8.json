@@ -1,5 +1,23 @@
 [
   {
+    "id": 40038,
+    "title": "SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own",
+    "summary": "UK-based launch facility SaxaVord Spaceport has confirmed that it abandoned plans to develop a shared suborbital launch rail, with German rocket builder HyImpulse now preparing to bring its own system to the Scottish launch site for the second flight of its SR75 rocket. The UK Space Agency awarded SaxaVord £378,000 in December 2022 for Project […]\r\nThe post SaxaVord Scrapped Launch Rail Plans, Forcing HyImpulse to Bring Its Own appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/SaxaVord-Scrapped-Launch-Rail-Plans-Forcing-HyImpulse-to-Bring-Its-Own.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-22T12:45:54Z",
+    "url": "https://europeanspaceflight.com/saxavord-scrapped-launch-rail-plans-forcing-hyimpulse-to-bring-its-own/"
+  },
+  {
+    "id": 40036,
+    "title": "A call to boost European space exploration",
+    "summary": "The Call sets out a shared vision for strengthening Europe's role in human and robotic space exploration and provides political guidance for preparations ahead of the Intermediate Ministerial Meeting in Rome on 15 December.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/extended_reality_at_esa/27263586-1-eng-GB/Extended_reality_at_ESA_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-22T11:26:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration"
+  },
+  {
     "id": 40044,
     "title": "APOD: 2026 September 22 – Chance Triple Alignment: Plane, Space Station, Sun",
     "summary": "APOD Science APOD APOD: 2026 September 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Chance Triple Alignment: […]",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-21T17:25:37Z",
     "url": "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/"
-  },
-  {
-    "id": 40029,
-    "title": "Exolaunch, Space Cargo book Starship Starfall missions",
-    "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two…\r\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-21-17-46-39-798.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-21T16:57:40Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/"
-  },
-  {
-    "id": 40028,
-    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
-    "summary": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/1-pia26815-mastcam-z-360-turquoise-bay-sols933-944-l0-natural-copy.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T16:54:43Z",
-    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/"
   }
 ]
