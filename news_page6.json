@@ -1,5 +1,14 @@
 [
   {
+    "id": 40061,
+    "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+    "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/NASA-meatball-blk.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T17:15:32Z",
+    "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
+  },
+  {
     "id": 40060,
     "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
     "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-23T11:00:17Z",
     "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
-  },
-  {
-    "id": 40051,
-    "title": "A hitchhiker’s guide to Hera’s target asteroids",
-    "summary": "Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid’s surface?",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T08:10:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40051,
+    "title": "A hitchhiker’s guide to Hera’s target asteroids",
+    "summary": "Currently speeding through deep space at 12 km/s relative to Earth, ESA’s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid’s surface?",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-23T08:10:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids"
+  },
+  {
     "id": 40050,
     "title": "Rocket Factory Augsburg ‘Boost!’ extension in run-up to first launch",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-22T17:33:10Z",
     "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
-  },
-  {
-    "id": 40040,
-    "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-    "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-22T15:40:48Z",
-    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/"
   }
 ]
