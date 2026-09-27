@@ -1,5 +1,14 @@
 [
   {
+    "id": 40043,
+    "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+    "summary": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/SampleCollection.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T17:33:10Z",
+    "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/"
+  },
+  {
     "id": 40040,
     "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
     "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-21T21:01:41Z",
     "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/"
-  },
-  {
-    "id": 40032,
-    "title": "Perseverance’s View of ‘Turquoise Bay’",
-    "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26815/PIA26815.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T19:17:59Z",
-    "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
   }
 ]

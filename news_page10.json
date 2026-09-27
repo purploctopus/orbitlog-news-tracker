@@ -1,5 +1,14 @@
 [
   {
+    "id": 40024,
+    "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
+    "summary": "Paris, 18 September 2026 – Access to appropriate finance is becoming a strategic enabler of Europe’s space ambitions. At ESA Headquarters in Paris, investors, financial institutions, industry leaders, European institutions and policymakers, representing close to 200 participants, came together for the Investor Forum 2026 to explore how public demand and private capital can work together to strengthen Europe’s competitiveness, industrial capabilities and commercial growth.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/investor_forum_2026/27532970-1-eng-GB/Investor_Forum_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T09:52:00Z",
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy"
+  },
+  {
     "id": 40022,
     "title": "ESA and ISRO extend and broaden cooperation agreement",
     "summary": "The European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) have signed an exchange of letters extending their long-standing Cooperative Agreement for a further five years, until 8 January 2032, reaffirming Europe's and India's commitment to expanding cooperation in space.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-19T20:06:04Z",
     "url": "https://spaceflightnow.com/2026/09/19/live-coverage-spacex-to-launch-27-starlink-v2-mini-satellites-on-falcon-9-rocket-from-vandenberg/"
-  },
-  {
-    "id": 40014,
-    "title": "DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October",
-    "summary": "The German aerospace agency DLR’s MAPHEUS-17 suborbital research mission is slated to launch from Sweden’s Esrange Space Center as early as 1 October. In a 16 September update, the agency confirmed that several key preflight tests had been completed and that final preparations for the mission were now underway. According to SSC Space, the MAPHEUS-17 […]\nThe post DLR’s Suborbital MAPHEUS-17 Mission to Launch as Early as 1 October appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/DLRs-Suborbital-MAPHEUS-17-Mission-to-Launch-as-Early-as-1-October-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-19T05:00:26Z",
-    "url": "https://europeanspaceflight.com/dlrs-suborbital-mapheus-17-mission-to-launch-as-early-as-1-october/"
   }
 ]

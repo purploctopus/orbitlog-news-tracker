@@ -1,5 +1,14 @@
 [
   {
+    "id": 40062,
+    "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+    "summary": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T18:43:43Z",
+    "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/"
+  },
+  {
     "id": 40061,
     "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
     "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-23T11:17:00Z",
     "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission"
-  },
-  {
-    "id": 40052,
-    "title": "There are now 17,000 satellites in orbit—and growing. Should we be concerned?",
-    "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-23T11:00:17Z",
-    "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
   }
 ]
