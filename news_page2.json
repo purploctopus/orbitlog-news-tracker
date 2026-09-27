@@ -1,5 +1,14 @@
 [
   {
+    "id": 40103,
+    "title": "2026-2027 DWU: Middle School Design Challenge",
+    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T17:20:51Z",
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
+  },
+  {
     "id": 40102,
     "title": "2026-2027 DWU: High School Engineering Challenge",
     "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-25T08:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
-  },
-  {
-    "id": 40093,
-    "title": "MIRROR robot reflects future of in-orbit assembly",
-    "summary": "Like a climber, selecting and adjusting its grip on the next hold and slowly moving across a rockface, the robot seen here crawls across a dark laboratory clutching onto pieces of equipment to steadily build a structure underneath itself, piece by piece.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mirror_robot_reflects_future_of_in-orbit_assembly/27537076-2-eng-GB/MIRROR_robot_reflects_future_of_in-orbit_assembly_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T07:45:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly"
   }
 ]

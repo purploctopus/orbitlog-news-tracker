@@ -1,5 +1,14 @@
 [
   {
+    "id": 40083,
+    "title": "Practicing for Safe Landings on the Moon and Beyond",
+    "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T16:29:19Z",
+    "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
+  },
+  {
     "id": 40082,
     "title": "True or false on space industry trends with Pacôme Révillon",
     "summary": "In this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true […]\nThe post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-24T13:00:00Z",
     "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability"
-  },
-  {
-    "id": 40073,
-    "title": "Record participation in ESA’s Industry Space Days 2026",
-    "summary": "On 16–17 September, the European Space Agency (ESA) hosted a record 3100 visitors from Europe’s space industry for a two-day Industry Space Days (ISD) event at ESA’s ESTEC technical centre in the Netherlands.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T07:05:00Z",
-    "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40113,
+    "title": "What’s Happening in Space Policy September 27-October 3, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 27-October 3, 2026 and any insight we can offer about them. The Senate is in session this […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Sen-Fischer-Sept-2026-300x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-27T20:23:39Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/"
+  },
+  {
     "id": 40112,
     "title": "Starship Flight 14: SpaceX Attempts Orbit",
     "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to…\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T19:36:10Z",
     "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
-  },
-  {
-    "id": 40103,
-    "title": "2026-2027 DWU: Middle School Design Challenge",
-    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T17:20:51Z",
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40073,
+    "title": "Record participation in ESA’s Industry Space Days 2026",
+    "summary": "On 16–17 September, the European Space Agency (ESA) hosted a record 3100 visitors from Europe’s space industry for a two-day Industry Space Days (ISD) event at ESA’s ESTEC technical centre in the Netherlands.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_20263/27536066-2-eng-GB/Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-24T07:05:00Z",
+    "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026"
+  },
+  {
     "id": 40072,
     "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
     "summary": "The European Space Agency (ESA) has awarded Rocket Factory Augsburg (RFA) a contract amendment that will provide the company with €2.7 million in additional co-funding to support the build-out of the company’s launch and testing infrastructure at SaxaVord in Scotland. According to the agency, RFA is expected to resume preparations for static fire tests of […]\r\nThe post ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T20:09:42Z",
     "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/"
-  },
-  {
-    "id": 40063,
-    "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
-    "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-23T19:03:03Z",
-    "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/"
   }
 ]
