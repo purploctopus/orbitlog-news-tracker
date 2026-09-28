@@ -1,5 +1,23 @@
 [
   {
+    "id": 40116,
+    "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
+    "summary": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions deeper into space, human-robot collaboration could become reality. Advanced robotic systems are critical for human spaceflight because they can enhance a crew’s performance and productivity while reducing risk and expanding the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T10:00:00Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/"
+  },
+  {
+    "id": 40115,
+    "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+    "summary": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland%E2%80%99s-ice/greenlandvalleynet_ifpa_2026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/"
+  },
+  {
     "id": 40114,
     "title": "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
     "summary": "The first planned orbital flight of a Starship-Super Heavy rocket aims to send 26 Starlink Version 3 into low Earth orbit. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a 75-minute window that opens at 7:15 a.m. CDT (8:15 a.m. EDT / 1215 UTC).",
@@ -20,7 +38,7 @@
   {
     "id": 40112,
     "title": "Starship Flight 14: SpaceX Attempts Orbit",
-    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to…\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
+    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to…\r\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-During-their-WDR-scaled.jpg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-27T16:59:56Z",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T22:06:50Z",
     "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
-  },
-  {
-    "id": 40106,
-    "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
-    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-25T20:26:14Z",
-    "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/"
-  },
-  {
-    "id": 40105,
-    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T19:53:03Z",
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
   }
 ]

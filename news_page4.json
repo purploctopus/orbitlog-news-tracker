@@ -1,5 +1,23 @@
 [
   {
+    "id": 40086,
+    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+    "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T21:15:46Z",
+    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+  },
+  {
+    "id": 40085,
+    "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+    "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T18:01:45Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+  },
+  {
     "id": 40084,
     "title": "NASA’s Machines for Mars Make Beer Bubbly",
     "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-09-24T13:45:53Z",
     "url": "https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission/"
-  },
-  {
-    "id": 40074,
-    "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
-    "summary": "Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…\r\nThe post Starfish Space’s first Otter servicing vehicle slated for Transporter-18 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-24T13:00:13Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"
-  },
-  {
-    "id": 40076,
-    "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
-    "summary": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control!",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/welcome_bepicolombo_to_mercury/27520540-1-eng-GB/Welcome_BepiColombo_to_Mercury_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury"
   }
 ]

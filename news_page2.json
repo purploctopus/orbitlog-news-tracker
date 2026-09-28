@@ -1,5 +1,23 @@
 [
   {
+    "id": 40106,
+    "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-25T20:26:14Z",
+    "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/"
+  },
+  {
+    "id": 40105,
+    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:53:03Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
+  },
+  {
     "id": 40104,
     "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
     "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-25T12:20:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward"
-  },
-  {
-    "id": 40096,
-    "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return",
-    "summary": "\"The customer got comfortable with a high reliability and a low price.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-25T11:00:10Z",
-    "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
-  },
-  {
-    "id": 40095,
-    "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-    "summary": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/armillary_sphere_in_the_museo_galileo/27537430-2-eng-GB/Armillary_sphere_in_the_Museo_Galileo_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T09:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition"
   }
 ]

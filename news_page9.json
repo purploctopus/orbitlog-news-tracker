@@ -1,5 +1,23 @@
 [
   {
+    "id": 40037,
+    "title": "An Epic View of the Seasons",
+    "summary": "The tilt in Earth’s axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-epic-view-of-the-seasons/equinox_epic_20240922.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
+  },
+  {
+    "id": 40035,
+    "title": "NASA Welcomes Albania as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Albania signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, joining the coalition of like‑minded nations committed to the responsible and transparent exploration of space. “It is my privilege to welcome the Republic of Albania as the 73rd signatory of the Artemis Accords,” said […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55541281672-5c736ba51b-k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-21T21:21:32Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
+  },
+  {
     "id": 40033,
     "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
     "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-21T15:00:00Z",
     "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/"
-  },
-  {
-    "id": 40010,
-    "title": "ESA x TPCI - Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_x_tpci_-_pikachu_in_the_cupola/27530034-1-eng-GB/ESA_x_TPCI_-_Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/ESA_x_TPCI_-_Pikachu_in_the_Cupola"
-  },
-  {
-    "id": 40012,
-    "title": "Pikachu in the Cupola",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pikachu_in_the_cupola/27530034-1-eng-GB/Pikachu_in_the_Cupola_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-21T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Pikachu_in_the_Cupola"
   }
 ]
