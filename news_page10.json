@@ -1,5 +1,14 @@
 [
   {
+    "id": 40026,
+    "title": "Juice to fly past Earth for third gravity assist",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-21T14:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist"
+  },
+  {
     "id": 40023,
     "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
     "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park.  For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-20T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
-  },
-  {
-    "id": 40016,
-    "title": "Russian Progress cargo ship arrives at International Space Station",
-    "summary": "The Progress M-25 docked at the space-facing port of Russia’s Poisk module at 9:44 a.m. EDT (1344 UTC) after a one-week delay.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260919-Progress-Final-Approach.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-19T21:11:15Z",
-    "url": "https://spaceflightnow.com/2026/09/19/russian-progress-cargo-ship-arrives-at-international-space-station/"
   }
 ]

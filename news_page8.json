@@ -1,5 +1,14 @@
 [
   {
+    "id": 40042,
+    "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+    "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-22T19:19:45Z",
+    "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/"
+  },
+  {
     "id": 40041,
     "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
     "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of California’s Lassen Volcanic National Park, a […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-21T21:21:32Z",
     "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 40033,
-    "title": "NASA Kicks Off Nationwide Effort to Prepare Tomorrow’s Space Workforce",
-    "summary": "NASA kicked off its State Hubs for Skilled Technical Workforce initiative Sept. 15, 2026 with awardees at Space Center Houston. Agency leadership convened State Hub partners to align strategy and build momentum while focusing on partnerships, small business engagement, and next steps. “The NASA State Hubs initiative is a top priority for the agency, because […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/state-hubs-kickoff2-jpg.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-21T21:03:04Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-kicks-off-nationwide-effort-to-prepare-tomorrows-space-workforce/"
   }
 ]

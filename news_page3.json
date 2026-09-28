@@ -1,5 +1,14 @@
 [
   {
+    "id": 40094,
+    "title": "Earth from Space: Venetian Lagoon",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-25T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
+  },
+  {
     "id": 40093,
     "title": "MIRROR robot reflects future of in-orbit assembly",
     "summary": "Like a climber, selecting and adjusting its grip on the next hold and slowly moving across a rockface, the robot seen here crawls across a dark laboratory clutching onto pieces of equipment to steadily build a structure underneath itself, piece by piece.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-24T18:01:45Z",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
-  },
-  {
-    "id": 40084,
-    "title": "NASA’s Machines for Mars Make Beer Bubbly",
-    "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T16:41:01Z",
-    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
   }
 ]

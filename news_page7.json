@@ -1,5 +1,14 @@
 [
   {
+    "id": 40054,
+    "title": "Space explorers in the land of volcanoes",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-23T13:29:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes"
+  },
+  {
     "id": 40053,
     "title": "First switch on for ESA-JAXA Ramses asteroid mission",
     "summary": "The European Space Agency’s and Japan Aerospace Exploration Agency’s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor – marking a major milestone in its time-critical development schedule.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T00:40:16Z",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/"
-  },
-  {
-    "id": 40042,
-    "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-    "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA’s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-22T19:19:45Z",
-    "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/"
   }
 ]

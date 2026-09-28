@@ -1,5 +1,14 @@
 [
   {
+    "id": 40064,
+    "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+    "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-23T20:09:42Z",
+    "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/"
+  },
+  {
     "id": 40063,
     "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
     "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland; Colorado […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-23T13:55:34Z",
     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/"
-  },
-  {
-    "id": 40054,
-    "title": "Space explorers in the land of volcanoes",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/space_explorers_in_the_land_of_volcanoes/27538504-1-eng-GB/Space_explorers_in_the_land_of_volcanoes_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-23T13:29:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Space_explorers_in_the_land_of_volcanoes"
   }
 ]

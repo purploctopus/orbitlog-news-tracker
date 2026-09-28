@@ -1,5 +1,14 @@
 [
   {
+    "id": 40104,
+    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:36:10Z",
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
+  },
+  {
     "id": 40103,
     "title": "2026-2027 DWU: Middle School Design Challenge",
     "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-25T09:00:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition"
-  },
-  {
-    "id": 40094,
-    "title": "Earth from Space: Venetian Lagoon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
   }
 ]

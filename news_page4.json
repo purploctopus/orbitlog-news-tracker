@@ -1,5 +1,14 @@
 [
   {
+    "id": 40084,
+    "title": "NASA’s Machines for Mars Make Beer Bubbly",
+    "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T16:41:01Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
+  },
+  {
     "id": 40083,
     "title": "Practicing for Safe Landings on the Moon and Beyond",
     "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-24T13:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury"
-  },
-  {
-    "id": 40075,
-    "title": "New tests for rendezvous and docking interoperability",
-    "summary": "Currently, space missions are one-shot affairs: satellites are sent to orbit to do their mission until they run out of fuel. The European Space Agency is working on a more sustainable future where satellites and spacecraft can rendezvous, dock, refuel, repair, recalibrate and even be repurposed for new missions indefinitely.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/rendezvous_tests_in_esa_s_robotics_lab/27537873-1-eng-GB/Rendezvous_tests_in_ESA_s_robotics_lab_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40114,
+    "title": "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
+    "summary": "The first planned orbital flight of a Starship-Super Heavy rocket aims to send 26 Starlink Version 3 into low Earth orbit. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a 75-minute window that opens at 7:15 a.m. CDT (8:15 a.m. EDT / 1215 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260927_Starship_Flight-14_sunrise.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-28T00:21:39Z",
+    "url": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/"
+  },
+  {
     "id": 40113,
     "title": "What’s Happening in Space Policy September 27-October 3, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 27-October 3, 2026 and any insight we can offer about them. The Senate is in session this […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-25T19:53:03Z",
     "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
-  },
-  {
-    "id": 40104,
-    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T19:36:10Z",
-    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
   }
 ]
