@@ -1,5 +1,59 @@
 [
   {
+    "id": 40107,
+    "title": "NASA, Boeing to Provide Update on Starliner Development",
+    "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T22:06:50Z",
+    "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
+  },
+  {
+    "id": 40106,
+    "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-25T20:26:14Z",
+    "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/"
+  },
+  {
+    "id": 40105,
+    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:53:03Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
+  },
+  {
+    "id": 40104,
+    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:36:10Z",
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
+  },
+  {
+    "id": 40103,
+    "title": "2026-2027 DWU: Middle School Design Challenge",
+    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T17:20:51Z",
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
+  },
+  {
+    "id": 40102,
+    "title": "2026-2027 DWU: High School Engineering Challenge",
+    "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T17:19:42Z",
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/"
+  },
+  {
     "id": 40101,
     "title": "Hubble Spots Chaotic Secret in Galaxy",
     "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
@@ -34,59 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-25T13:10:00Z",
     "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026"
-  },
-  {
-    "id": 40097,
-    "title": "Three Earth Explorer candidates go forward",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/03/advancing_earth_science/26001430-2-eng-GB/Advancing_Earth_science_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T12:20:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward"
-  },
-  {
-    "id": 40096,
-    "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027. target for return",
-    "summary": "\"The customer got comfortable with a high reliability and a low price.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-25T11:00:10Z",
-    "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
-  },
-  {
-    "id": 40095,
-    "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-    "summary": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/armillary_sphere_in_the_museo_galileo/27537430-2-eng-GB/Armillary_sphere_in_the_Museo_Galileo_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T09:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition"
-  },
-  {
-    "id": 40094,
-    "title": "Earth from Space: Venetian Lagoon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
-  },
-  {
-    "id": 40093,
-    "title": "MIRROR robot reflects future of in-orbit assembly",
-    "summary": "Like a climber, selecting and adjusting its grip on the next hold and slowly moving across a rockface, the robot seen here crawls across a dark laboratory clutching onto pieces of equipment to steadily build a structure underneath itself, piece by piece.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mirror_robot_reflects_future_of_in-orbit_assembly/27537076-2-eng-GB/MIRROR_robot_reflects_future_of_in-orbit_assembly_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T07:45:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly"
-  },
-  {
-    "id": 40092,
-    "title": "Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test",
-    "summary": "The German Aerospace Center (DLR) has completed final testing of the nose cone for the Callisto reusable rocket demonstrator, with the hardware now set to be transferred to France for final integration. DLR has also confirmed that the demonstrator’s initial hop test has slipped to 2027, a delay first hinted at in a French space […]\r\nThe post Callisto Reusable Rocket Demonstrator Takes Shape Ahead of 2027 Hop Test appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Callisto-Reusable-Rocket-Demonstrator-Takes-Shape-Ahead-of-2027-Hop-Test.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-25T06:00:20Z",
-    "url": "https://europeanspaceflight.com/callisto-reusable-rocket-demonstrator-takes-shape-ahead-of-2027-hop-test/"
   }
 ]

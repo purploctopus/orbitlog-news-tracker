@@ -1,5 +1,59 @@
 [
   {
+    "id": 40117,
+    "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
+    "summary": "APOD Science APOD APOD: 2026 September 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AnnotatedOriginal Cosmic Latte: […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T11:14:27Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/"
+  },
+  {
+    "id": 40116,
+    "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
+    "summary": "The idea of humans and robots working side-by-side in space was once the stuff of science fiction, but with NASA launching increasingly complex missions deeper into space, human-robot collaboration could become reality. Advanced robotic systems are critical for human spaceflight because they can enhance a crew’s performance and productivity while reducing risk and expanding the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/sa-and-valkyrie.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T10:00:00Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/"
+  },
+  {
+    "id": 40115,
+    "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+    "summary": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland%E2%80%99s-ice/greenlandvalleynet_ifpa_2026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/"
+  },
+  {
+    "id": 40114,
+    "title": "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
+    "summary": "The first planned orbital flight of a Starship-Super Heavy rocket aims to send 26 Starlink Version 3 into low Earth orbit. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a 75-minute window that opens at 7:15 a.m. CDT (8:15 a.m. EDT / 1215 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260927_Starship_Flight-14_sunrise.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-28T00:21:39Z",
+    "url": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/"
+  },
+  {
+    "id": 40113,
+    "title": "What’s Happening in Space Policy September 27-October 3, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 27-October 3, 2026 and any insight we can offer about them. The Senate is in session this […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Sen-Fischer-Sept-2026-300x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-09-27T20:23:39Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/"
+  },
+  {
+    "id": 40112,
+    "title": "Starship Flight 14: SpaceX Attempts Orbit",
+    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to…\r\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-During-their-WDR-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-27T16:59:56Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"
+  },
+  {
     "id": 40111,
     "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
     "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-26T04:01:59Z",
     "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"
-  },
-  {
-    "id": 40107,
-    "title": "NASA, Boeing to Provide Update on Starliner Development",
-    "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T22:06:50Z",
-    "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/"
-  },
-  {
-    "id": 40106,
-    "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
-    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 5:56 a.m. PDT (8:56 a.m. EDT / 1256 UTC) at the opening of a three-hour launch window.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260925-Falcon-9-File.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-25T20:26:14Z",
-    "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/"
-  },
-  {
-    "id": 40105,
-    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T19:53:03Z",
-    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
-  },
-  {
-    "id": 40104,
-    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T19:36:10Z",
-    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
-  },
-  {
-    "id": 40103,
-    "title": "2026-2027 DWU: Middle School Design Challenge",
-    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T17:20:51Z",
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
-  },
-  {
-    "id": 40102,
-    "title": "2026-2027 DWU: High School Engineering Challenge",
-    "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-25T17:19:42Z",
-    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/"
   }
 ]
