@@ -1,5 +1,77 @@
 [
   {
+    "id": 40091,
+    "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+    "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/"
+  },
+  {
+    "id": 40090,
+    "title": "Explosive Intensification for Hurricane Polo",
+    "summary": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/"
+  },
+  {
+    "id": 40089,
+    "title": "NASA announces new space telescope ‘PRIMA’ to launch in 2033",
+    "summary": "Once it goes through a confirmation review, the observatory can proceed into construction. The 5.9-foot telescope will be capped at a project cost of $1.2 billion, which excludes launch “and other non-project costs.”",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260924_PRIMA_rendering.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-24T23:07:18Z",
+    "url": "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/"
+  },
+  {
+    "id": 40088,
+    "title": "Expedition 75 astronauts continue science work as Crew-13 readies for launch",
+    "summary": "AS the International Space Station continues to orbit Earth as it has for over a…\r\nThe post Expedition 75 astronauts continue science work as Crew-13 readies for launch appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/IMG_7485.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-24T22:06:28Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/iss-roundup-20260924/"
+  },
+  {
+    "id": 40087,
+    "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+    "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-cote-divoire-75-092426.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T21:27:17Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/"
+  },
+  {
+    "id": 40086,
+    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+    "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/crew14.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T21:15:46Z",
+    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+  },
+  {
+    "id": 40085,
+    "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+    "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/07/mars-to-table.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T18:01:45Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+  },
+  {
+    "id": 40084,
+    "title": "NASA’s Machines for Mars Make Beer Bubbly",
+    "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-24T16:41:01Z",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
+  },
+  {
     "id": 40083,
     "title": "Practicing for Safe Landings on the Moon and Beyond",
     "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
@@ -16,77 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-24T15:51:42Z",
     "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/"
-  },
-  {
-    "id": 40081,
-    "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-    "summary": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T15:47:17Z",
-    "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/"
-  },
-  {
-    "id": 40080,
-    "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-    "summary": "East Aurora, NY — Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This […]\nThe post Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-24T15:05:28Z",
-    "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/"
-  },
-  {
-    "id": 40079,
-    "title": "NASA chief concerned China may deny access to parts of South Pole",
-    "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-24T14:57:50Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/"
-  },
-  {
-    "id": 40078,
-    "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
-    "summary": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-24T13:53:48Z",
-    "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
-  },
-  {
-    "id": 40077,
-    "title": "European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission",
-    "summary": "Belgium’s Space Applications Services has secured a ride for its LUVMI-M rover aboard a Blue Origin Blue Moon Mark 1 lunar lander. The company announced the agreement on 23 September, saying the mission is on track to become Europe’s first fully commercial lunar rover mission. Although development of the LUVMI family has benefited from public […]\r\nThe post European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/European-Lunar-Rover-Secures-Spot-Aboard-Blue-Origin-Blue-Moon-Mission.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-24T13:45:53Z",
-    "url": "https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission/"
-  },
-  {
-    "id": 40074,
-    "title": "Starfish Space’s first Otter servicing vehicle slated for Transporter-18",
-    "summary": "Starfish Space has confirmed that its first full-scale Otter satellite servicing vehicle is complete and…\r\nThe post Starfish Space’s first Otter servicing vehicle slated for Transporter-18 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-24-04-20-42-246.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-24T13:00:13Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/"
-  },
-  {
-    "id": 40075,
-    "title": "New tests for rendezvous and docking interoperability",
-    "summary": "Currently, space missions are one-shot affairs: satellites are sent to orbit to do their mission until they run out of fuel. The European Space Agency is working on a more sustainable future where satellites and spacecraft can rendezvous, dock, refuel, repair, recalibrate and even be repurposed for new missions indefinitely.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/rendezvous_tests_in_esa_s_robotics_lab/27537873-1-eng-GB/Rendezvous_tests_in_ESA_s_robotics_lab_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/New_tests_for_rendezvous_and_docking_interoperability"
-  },
-  {
-    "id": 40076,
-    "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
-    "summary": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control!",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/welcome_bepicolombo_to_mercury/27520540-1-eng-GB/Welcome_BepiColombo_to_Mercury_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-24T13:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury"
   }
 ]

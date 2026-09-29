@@ -1,5 +1,59 @@
 [
   {
+    "id": 40139,
+    "title": "NASA plans unpiloted Starliner test flight at end of year",
+    "summary": "If the unpiloted test flight goes well, NASA and Boeing hope to launch a piloted Starliner flight in mid 2028, officials said Monday, incorporating redesigned propulsion system valves, more robust subsystems and other modifications expected to prevent the sort of failures that occurred in 2024.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_starliner.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-29T01:14:36Z",
+    "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/"
+  },
+  {
+    "id": 40138,
+    "title": "October’s Night Sky Notes: Spooky Stargazing",
+    "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23403/PIA23403.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T22:48:56Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
+  },
+  {
+    "id": 40137,
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-28T22:24:33Z",
+    "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
+  },
+  {
+    "id": 40136,
+    "title": "NASA, Boeing outline Starliner’s return path to ISS crew rotations",
+    "summary": "NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…\r\nThe post NASA, Boeing outline Starliner’s return path to ISS crew rotations appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-28T22:13:09Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"
+  },
+  {
+    "id": 40135,
+    "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
+    "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajectory.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_Starship_Flight-14.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-28T20:40:02Z",
+    "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
+  },
+  {
+    "id": 40134,
+    "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+    "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T19:26:57Z",
+    "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
+  },
+  {
     "id": 40133,
     "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
     "summary": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation history. Fast forward 80 […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-28T16:26:45Z",
     "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
-  },
-  {
-    "id": 40127,
-    "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-    "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T16:16:40Z",
-    "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
-  },
-  {
-    "id": 40126,
-    "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-    "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T16:09:09Z",
-    "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/"
-  },
-  {
-    "id": 40130,
-    "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
-    "summary": "NASA isn't saying much. The problem may be temporary.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-28T16:03:50Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
-  },
-  {
-    "id": 40125,
-    "title": "The large robotic arm on the International Space Station has stopped working",
-    "summary": "NASA isn't saying much. The problem may be temporary.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-28T16:03:50Z",
-    "url": "https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
-  },
-  {
-    "id": 40124,
-    "title": "Space Station View of Earth at Night",
-    "summary": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time on Sept. 8, 2026, from the International Space Station as it orbited 259 miles above Earth. Image credit: NASA/Jessica Meir",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T15:21:36Z",
-    "url": "https://www.nasa.gov/image-article/space-station-view-of-earth-at-night/"
-  },
-  {
-    "id": 40128,
-    "title": "Successful Earth flyby improves Juice’s course to Jupiter",
-    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-28T15:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter"
   }
 ]
