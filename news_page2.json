@@ -1,5 +1,59 @@
 [
   {
+    "id": 40166,
+    "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
+    "summary": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial and institutional partners will be involved in […]\nThe post ESA Selects Airbus and OHB to Lead European Space Station Studies appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-30T10:10:12Z",
+    "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/"
+  },
+  {
+    "id": 40165,
+    "title": "Science begins for Smile",
+    "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-30T07:05:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile"
+  },
+  {
+    "id": 40163,
+    "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+    "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
+  },
+  {
+    "id": 40164,
+    "title": "Powerful Storms Continue to Prowl the Pacific",
+    "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
+  },
+  {
+    "id": 40162,
+    "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
+    "summary": "Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…\r\nThe post Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-29T21:48:36Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"
+  },
+  {
+    "id": 40161,
+    "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+    "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T21:27:56Z",
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
+  },
+  {
     "id": 40159,
     "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
     "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-29T20:08:01Z",
     "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/"
-  },
-  {
-    "id": 40156,
-    "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-    "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thursday, Oct. 1, from Space Launch Complex 40 at […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T18:57:14Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-  },
-  {
-    "id": 40155,
-    "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-    "summary": "So is SpaceX just being selfish, or what?",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-29T18:34:00Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
-  },
-  {
-    "id": 40154,
-    "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-    "summary": "IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […]\nThe post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/TOLM-Logo-Vertical_Color-square1.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-29T17:42:20Z",
-    "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/"
-  },
-  {
-    "id": 40153,
-    "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-    "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T15:31:56Z",
-    "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
-  },
-  {
-    "id": 40152,
-    "title": "Starship Orbits Earth, Returns Early",
-    "summary": "Although technical issues cut the mission short, Starship achieved most of its objectives, including its first deployment of an operational payload into orbit.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/09/cam-liftoff.jpg",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-09-29T15:13:22Z",
-    "url": "https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/"
-  },
-  {
-    "id": 40150,
-    "title": "NSTGRO 2026",
-    "summary": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS) Tetiana TymoshevskaUniversity of MichiganLiquid Droplet Radiator Enabled by an Electrospray Array Hannah HuttonUniversity of MichiganRESIST: Radiation-Enabled Structural Improvement in Space Materials Elan GraupeUniversity Of MinnesotaModel-Driven Navigation for Robust Spacecraft Atmospheric Entry and Descent Emily GokieUniversity Of Colorado, BoulderA low-SWaP timing system […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T14:20:08Z",
-    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
   }
 ]
