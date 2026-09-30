@@ -1,5 +1,50 @@
 [
   {
+    "id": 40129,
+    "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
+    "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T16:26:45Z",
+    "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
+  },
+  {
+    "id": 40127,
+    "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
+    "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T16:16:40Z",
+    "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
+  },
+  {
+    "id": 40126,
+    "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
+    "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
+    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T16:09:09Z",
+    "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/"
+  },
+  {
+    "id": 40125,
+    "title": "The large robotic arm on the International Space Station has stopped working",
+    "summary": "NASA isn't saying much. The problem may be temporary.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-28T16:03:50Z",
+    "url": "https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
+  },
+  {
+    "id": 40130,
+    "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
+    "summary": "NASA isn't saying much. The problem may be temporary.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-28T16:03:50Z",
+    "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
+  },
+  {
     "id": 40151,
     "title": "How ESA astronauts return from space",
     "summary": "When an astronaut from the European Space Agency (ESA) returns from space, the mission is far from over.",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-28T14:57:21Z",
     "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/"
-  },
-  {
-    "id": 40122,
-    "title": "NASA ORBIT Challenge 2027",
-    "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T14:56:39Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/"
-  },
-  {
-    "id": 40121,
-    "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
-    "summary": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disrupting, degrade, and deny hostile threats in space.” […]\nThe post UK Creates Space Effects Squadron to Protect Its Satellites appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-Creates-Space-Effects-Squadron-to-Protect-Its-Satellites.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-28T13:33:49Z",
-    "url": "https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/"
-  },
-  {
-    "id": 40120,
-    "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
-    "summary": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/s26-011-kristie-foster.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T13:00:00Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/"
-  },
-  {
-    "id": 40119,
-    "title": "One geology step closer to the Moon",
-    "summary": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms for space exploration.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/astronauts_explore_ancient_volcano_in_lanzarote/27542460-1-eng-GB/Astronauts_explore_ancient_volcano_in_Lanzarote_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-28T12:03:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon"
-  },
-  {
-    "id": 40118,
-    "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-    "summary": "DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […]\nThe post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-28T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": 40140,
+    "title": "Mars Has Its Charmes",
+    "summary": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T01:27:52Z",
+    "url": "https://science.nasa.gov/blog/mars-has-its-charmes/"
+  },
+  {
+    "id": 40139,
+    "title": "NASA plans unpiloted Starliner test flight at end of year",
+    "summary": "If the unpiloted test flight goes well, NASA and Boeing hope to launch a piloted Starliner flight in mid 2028, officials said Monday, incorporating redesigned propulsion system valves, more robust subsystems and other modifications expected to prevent the sort of failures that occurred in 2024.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_starliner.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-29T01:14:36Z",
+    "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/"
+  },
+  {
+    "id": 40138,
+    "title": "October’s Night Sky Notes: Spooky Stargazing",
+    "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa. […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23403/PIA23403.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T22:48:56Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
+  },
+  {
+    "id": 40137,
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-28T22:24:33Z",
+    "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
+  },
+  {
+    "id": 40136,
+    "title": "NASA, Boeing outline Starliner’s return path to ISS crew rotations",
+    "summary": "NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…\r\nThe post NASA, Boeing outline Starliner’s return path to ISS crew rotations appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-28T22:13:09Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"
+  },
+  {
     "id": 40135,
     "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
     "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajectory.",
@@ -43,50 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-28T17:44:33Z",
     "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/"
-  },
-  {
-    "id": 40129,
-    "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
-    "summary": "Marking a significant expansion in the number of signatories to the Artemis Accords, NASA welcomed Albania, Croatia, Côte d’Ivoire, and San Marino, bringing total participation to 76 countries.  “Our momentum reflects a growing commitment to peaceful, responsible exploration and a shared understanding that the future in space will be shaped by those willing to lead,” […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-san-marino-76-092526.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T16:26:45Z",
-    "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/"
-  },
-  {
-    "id": 40127,
-    "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-    "summary": "The four astronauts of NASA’s Artemis II mission will participate in an event hosted by industry and community partners at the University of Houston to discuss their mission around the Moon aboard the Orion spacecraft. It will be the first event in Houston for the public following their lunar mission earlier this year and marks […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-ii-crew.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T16:16:40Z",
-    "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
-  },
-  {
-    "id": 40126,
-    "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-    "summary": "Four crew members are set to launch to the International Space Station as part of NASA’s SpaceX Crew-13 mission to perform research, technology demonstrations, and maintenance aboard the orbiting laboratory.",
-    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T16:09:09Z",
-    "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission/"
-  },
-  {
-    "id": 40125,
-    "title": "The large robotic arm on the International Space Station has stopped working",
-    "summary": "NASA isn't saying much. The problem may be temporary.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-28T16:03:50Z",
-    "url": "https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
-  },
-  {
-    "id": 40130,
-    "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
-    "summary": "NASA isn't saying much. The problem may be temporary.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-28T16:03:50Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
   }
 ]

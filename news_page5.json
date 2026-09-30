@@ -1,5 +1,50 @@
 [
   {
+    "id": 40122,
+    "title": "NASA ORBIT Challenge 2027",
+    "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/12/nasa-orbit-challenge-2026.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T14:56:39Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/"
+  },
+  {
+    "id": 40121,
+    "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
+    "summary": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disrupting, degrade, and deny hostile threats in space.” […]\nThe post UK Creates Space Effects Squadron to Protect Its Satellites appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/UK-Creates-Space-Effects-Squadron-to-Protect-Its-Satellites.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-09-28T13:33:49Z",
+    "url": "https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/"
+  },
+  {
+    "id": 40120,
+    "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
+    "summary": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/s26-011-kristie-foster.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-28T13:00:00Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/"
+  },
+  {
+    "id": 40119,
+    "title": "One geology step closer to the Moon",
+    "summary": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms for space exploration.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/astronauts_explore_ancient_volcano_in_lanzarote/27542460-1-eng-GB/Astronauts_explore_ancient_volcano_in_Lanzarote_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-28T12:03:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon"
+  },
+  {
+    "id": 40118,
+    "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+    "summary": "DURANGO, Colo., Sept. 28, 2026 – Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile’s operational leadership as the company […]\nThe post Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-28T12:00:00Z",
+    "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/"
+  },
+  {
     "id": 40117,
     "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
     "summary": "APOD Science APOD APOD: 2026 September 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AnnotatedOriginal Cosmic Latte: […]",
@@ -43,50 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-27T20:23:39Z",
     "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/"
-  },
-  {
-    "id": 40112,
-    "title": "Starship Flight 14: SpaceX Attempts Orbit",
-    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to…\r\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-During-their-WDR-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-27T16:59:56Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/"
-  },
-  {
-    "id": 40111,
-    "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-    "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M31Before_Scherer_4298.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-27T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
-  },
-  {
-    "id": 40110,
-    "title": "Next crew bound for the space station arrive in Florida",
-    "summary": "The three astronauts and one cosmonaut will spend roughly six months onboard the International Space Station. Launch is scheduled for no earlier than Oct. 1.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260926_NASA_crew-13_JP-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-26T19:36:47Z",
-    "url": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/"
-  },
-  {
-    "id": 40109,
-    "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-    "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-26T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
-  },
-  {
-    "id": 40108,
-    "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
-    "summary": "With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing…\r\nThe post Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-26-04-55-29-205.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-26T04:01:59Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/"
   }
 ]
