@@ -1,5 +1,32 @@
 [
   {
+    "id": 40105,
+    "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+    "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:53:03Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
+  },
+  {
+    "id": 40104,
+    "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+    "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T19:36:10Z",
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/"
+  },
+  {
+    "id": 40103,
+    "title": "2026-2027 DWU: Middle School Design Challenge",
+    "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”  As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-25T17:20:51Z",
+    "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
+  },
+  {
     "id": 40102,
     "title": "2026-2027 DWU: High School Engineering Challenge",
     "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
@@ -61,32 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-25T11:00:10Z",
     "url": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
-  },
-  {
-    "id": 40095,
-    "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-    "summary": "The European Space Agency (ESA), Italy’s Museo Galileo - Institute and Museum of the History of Science, and the European Commission (EC) have partnered to uncover the surprising and far-reaching connections between the pioneer astronomer Galileo Galilei and Europe’s satellite navigation system Galileo.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/armillary_sphere_in_the_museo_galileo/27537430-2-eng-GB/Armillary_sphere_in_the_Museo_Galileo_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T09:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition"
-  },
-  {
-    "id": 40094,
-    "title": "Earth from Space: Venetian Lagoon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/earth_from_space_venetian_lagoon/27535878-1-eng-GB/Earth_from_Space_Venetian_Lagoon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon"
-  },
-  {
-    "id": 40093,
-    "title": "MIRROR robot reflects future of in-orbit assembly",
-    "summary": "Like a climber, selecting and adjusting its grip on the next hold and slowly moving across a rockface, the robot seen here crawls across a dark laboratory clutching onto pieces of equipment to steadily build a structure underneath itself, piece by piece.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mirror_robot_reflects_future_of_in-orbit_assembly/27537076-2-eng-GB/MIRROR_robot_reflects_future_of_in-orbit_assembly_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-25T07:45:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/MIRROR_robot_reflects_future_of_in-orbit_assembly"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40145,
+    "title": "Photos at Industry Space Days 2026",
+    "summary": "Photos at ESA's Industry Space Days",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/industry_space_days_202612/27543822-3-eng-GB/Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-28T15:20:00Z",
+    "url": "https://portals.scaleflex.com/p/fmqowdxm/en/sNtkNNHweZrniL2o64Idj5wCMt"
+  },
+  {
+    "id": 40128,
+    "title": "Successful Earth flyby improves Juice’s course to Jupiter",
+    "summary": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-28T15:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter"
+  },
+  {
+    "id": 40123,
+    "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+    "summary": "ORLANDO, FL — September 28th, 2026 — Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled technologies create […]\nThe post Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/economist-enterprise.png?fit=900%2C902&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-28T14:57:21Z",
+    "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/"
+  },
+  {
     "id": 40122,
     "title": "NASA ORBIT Challenge 2027",
     "summary": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-28T10:00:00Z",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team/"
-  },
-  {
-    "id": 40115,
-    "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
-    "summary": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland%E2%80%99s-ice/greenlandvalleynet_ifpa_2026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/"
-  },
-  {
-    "id": 40114,
-    "title": "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
-    "summary": "The first planned orbital flight of a Starship-Super Heavy rocket aims to send 26 Starlink Version 3 into low Earth orbit. Liftoff from Pad 2 at Starbase, Texas, is scheduled during a 75-minute window that opens at 7:15 a.m. CDT (8:15 a.m. EDT / 1215 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260927_Starship_Flight-14_sunrise.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-28T00:21:39Z",
-    "url": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship/"
-  },
-  {
-    "id": 40113,
-    "title": "What’s Happening in Space Policy September 27-October 3, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of September 27-October 3, 2026 and any insight we can offer about them. The Senate is in session this […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Sen-Fischer-Sept-2026-300x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-09-27T20:23:39Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-27-october-3-2026/"
   }
 ]
