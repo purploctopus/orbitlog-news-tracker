@@ -1,5 +1,68 @@
 [
   {
+    "id": 40173,
+    "title": "NASA, International Partners Advance Work on Space Crops",
+    "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
+    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20230417-PH-ILW01_0128/KSC-20230417-PH-ILW01_0128~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T18:38:20Z",
+    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/"
+  },
+  {
+    "id": 40172,
+    "title": "Star Trails",
+    "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T17:50:50Z",
+    "url": "https://www.nasa.gov/image-article/star-trails/"
+  },
+  {
+    "id": 40171,
+    "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+    "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-09-30T16:48:56Z",
+    "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/"
+  },
+  {
+    "id": 40170,
+    "title": "Starship makes orbit, Flight 15 preps in full swing",
+    "summary": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…\r\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-09-30T15:17:07Z",
+    "url": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/"
+  },
+  {
+    "id": 40169,
+    "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+    "summary": "ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise […]\nThe post NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/navigate_logo_notext-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-30T15:00:00Z",
+    "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/"
+  },
+  {
+    "id": 40168,
+    "title": "Shaping Europe’s future in low Earth orbit",
+    "summary": "For more than 25 years, the Internation Space Station (ISS) has been humankind's home in space. It has enabled scientists to conduct research in weightlessness, helped astronauts learn how to live and work in orbit and provided engineers with experience that is shaping future exploration.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-986/27435915-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-98_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-30T13:19:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit"
+  },
+  {
+    "id": 40167,
+    "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+    "summary": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […]\nThe post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/quantum-space-logo-square.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-30T13:00:00Z",
+    "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/"
+  },
+  {
     "id": 40166,
     "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
     "summary": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial and institutional partners will be involved in […]\nThe post ESA Selects Airbus and OHB to Lead European Space Station Studies appeared first on European Spaceflight.",
@@ -25,68 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-30T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
-  },
-  {
-    "id": 40164,
-    "title": "Powerful Storms Continue to Prowl the Pacific",
-    "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
-  },
-  {
-    "id": 40162,
-    "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
-    "summary": "Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…\r\nThe post Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-29T21:48:36Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/"
-  },
-  {
-    "id": 40161,
-    "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-    "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T21:27:56Z",
-    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
-  },
-  {
-    "id": 40159,
-    "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-    "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T21:00:00Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
-  },
-  {
-    "id": 40160,
-    "title": "NASA Features Exploration, Science at International Space Conference",
-    "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.  The IAC, organized by the International Astronautical […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T20:55:24Z",
-    "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/"
-  },
-  {
-    "id": 40158,
-    "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-    "summary": "Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-29T20:32:07Z",
-    "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/"
-  },
-  {
-    "id": 40157,
-    "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-    "summary": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T20:08:01Z",
-    "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/"
   }
 ]
