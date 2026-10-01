@@ -1,5 +1,32 @@
 [
   {
+    "id": 40148,
+    "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+    "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pack fewer supplies — saving weight and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/lsp-2-100x.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T14:00:00Z",
+    "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
+  },
+  {
+    "id": 40146,
+    "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+    "summary": "On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […]\nThe post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-081521.png?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"
+  },
+  {
+    "id": 40147,
+    "title": "ESA investigates potential future European-led orbital outpost",
+    "summary": "As part of the preparation for the end of utilisation of the International Space Station (ISS), the European Space Agency (ESA) awarded a contract to two European industrial consortia to conduct preliminary studies assessing the feasibility to develop a future European-led orbital outpost. These studies are part of the options currently explored by ESA for the post-ISS era, building on Europe's industrial capabilities and expertise in human spaceflight.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/artist_s_impression_of_a_potential_european-led_orbital_station_1_3/27544855-1-eng-GB/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-29T10:48:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost"
+  },
+  {
     "id": 40144,
     "title": "Galaxies in a cosmic house of mirrors",
     "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-28T22:48:56Z",
     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/"
-  },
-  {
-    "id": 40137,
-    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-    "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-28T22:24:33Z",
-    "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/"
-  },
-  {
-    "id": 40136,
-    "title": "NASA, Boeing outline Starliner’s return path to ISS crew rotations",
-    "summary": "NASA and Boeing have laid out a revised path for Starliner that puts an uncrewed…\r\nThe post NASA, Boeing outline Starliner’s return path to ISS crew rotations appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-28-22-54-40-095.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-28T22:13:09Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"
-  },
-  {
-    "id": 40135,
-    "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
-    "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajectory.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_Starship_Flight-14.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-28T20:40:02Z",
-    "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
   }
 ]
