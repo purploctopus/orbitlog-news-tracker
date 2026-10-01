@@ -1,5 +1,50 @@
 [
   {
+    "id": 40184,
+    "title": "EarthCARE’s view of volcanic plume boosts air safety",
+    "summary": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T07:30:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety"
+  },
+  {
+    "id": 40182,
+    "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+    "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Harvest Moon with […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/"
+  },
+  {
+    "id": 40183,
+    "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+    "summary": "Surrounded by wetlands, Manitoba’s northernmost farmland near The Pas turns from green to brown over the 2026 growing season.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-%E2%80%9Cisland%E2%80%9D-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/"
+  },
+  {
+    "id": 40181,
+    "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+    "summary": "NASA astronaut Jessica Watkins, will become the first agency astronaut to fly for a second time onboard a SpaceX Dragon spacecraft. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Base is scheduled for 11:10 a.m. EDT (1510 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260930_Crew-13_Dragon_MC-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T02:03:53Z",
+    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/"
+  },
+  {
+    "id": 40180,
+    "title": "LTG David Miller Nominated as Next Leader of U.S. Space Command",
+    "summary": "U.S. Space Force Lieutenant General David Miller, Jr. has been nominated as the next Commander of U.S. Space Command, succeeding Gen. Stephen Whiting who will retire early next year. Yesterday, […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/LTG-David-Miller-Sept-2026-240x300.avif",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-01T01:13:53Z",
+    "url": "https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/"
+  },
+  {
     "id": 40179,
     "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
     "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews.",
@@ -38,55 +83,10 @@
   {
     "id": 40175,
     "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
-    "summary": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com.",
+    "summary": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\r\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4.jpeg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-30T21:04:39Z",
     "url": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/"
-  },
-  {
-    "id": 40174,
-    "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-    "summary": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/cropped-nasa-meatball-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T20:41:26Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-  },
-  {
-    "id": 40173,
-    "title": "NASA, International Partners Advance Work on Space Crops",
-    "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
-    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20230417-PH-ILW01_0128/KSC-20230417-PH-ILW01_0128~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T18:38:20Z",
-    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/"
-  },
-  {
-    "id": 40172,
-    "title": "Star Trails",
-    "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T17:50:50Z",
-    "url": "https://www.nasa.gov/image-article/star-trails/"
-  },
-  {
-    "id": 40171,
-    "title": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
-    "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1242530931.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-30T16:48:56Z",
-    "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/"
-  },
-  {
-    "id": 40170,
-    "title": "Starship makes orbit, Flight 15 preps in full swing",
-    "summary": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing…\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Ship-41-and-Booster-21-Liftoff-for-Flight-14-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-30T15:17:07Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/"
   }
 ]
