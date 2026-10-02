@@ -1,5 +1,77 @@
 [
   {
+    "id": 40210,
+    "title": "Juice’s September 2026 Earth flyby: the movie",
+    "summary": "On 28 September 2026, ESA’s Jupiter Icy Moons Explorer (Juice) successfully completed a gravity assist flyby of Earth. Flight controllers guided the spacecraft close to our home planet to increase its velocity by 3.5 km/s and deflect its trajectory by an angle of 20°.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/juice_s_september_2026_earth_flyby_the_movie/27549319-1-eng-GB/Juice_s_September_2026_Earth_flyby_the_movie_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T15:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie"
+  },
+  {
+    "id": 40191,
+    "title": "Rethinking risk with electronics for space",
+    "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […]\nThe post Rethinking risk with electronics for space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-arrow-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T14:51:34Z",
+    "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
+  },
+  {
+    "id": 40190,
+    "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+    "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]\nThe post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T14:40:51Z",
+    "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/"
+  },
+  {
+    "id": 40189,
+    "title": "Norwegian Government Proposes Paying for Second Andøya Launch Pad",
+    "summary": "The Norwegian government plans to invest almost NOK 650 million (almost €60 million) to build a second orbital launch pad at Andøya Spaceport. The state will own the pad and lease it to Andøya Space, the commercial operator of the orbital launch facility. Norway’s Minister of Trade and Industry, Cecilie Myrseth, announced the planned investment […]\nThe post Norwegian Government Proposes Paying for Second Andøya Launch Pad appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norwegian-Government-Proposes-Paying-for-Second-Andoya-Launch-Pad.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-01T14:34:58Z",
+    "url": "https://europeanspaceflight.com/norwegian-government-proposes-paying-for-second-andoya-launch-pad/"
+  },
+  {
+    "id": 40211,
+    "title": "ESA at the 77th International Astronautical Congress",
+    "summary": "The European Space Agency (ESA) will participate in the 77th International Astronautical Congress (IAC), which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest Congress and Exhibition Centre, under the theme ‘The World Needs More Space’.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_key_visual/27549049-1-eng-GB/ESA_IAC_2026_key_visual_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T14:20:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress"
+  },
+  {
+    "id": 40188,
+    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+    "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T14:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
+  },
+  {
+    "id": 40186,
+    "title": "Starfish Otter, other payloads set to launch on Transporter 18",
+    "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…\r\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-01T12:55:06Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/transporter-18/"
+  },
+  {
+    "id": 40185,
+    "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+    "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]\r\nThe post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/CZ6A-Yaogan40-04-24sept2026-CASC-1.png?fit=1024%2C603&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T12:46:32Z",
+    "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
+  },
+  {
     "id": 40193,
     "title": "What happened this month at the European Space Agency? (September 2026)",
     "summary": "September was a month of milestones and discoveries. FLEX launched aboard Vega-C alongside Sentinel-3C. Sophie Adenot completed her third and final spacewalk, leading the mission as EV-1. BepiColombo separated from its Mercury Transfer Module, taking another step towards Mercury. Spectrum became the first rocket to reach orbit from continental Europe. And the James Webb Space Telescope found tiny brown dwarfs that could harbor the building blocks of planets.",
@@ -16,77 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-01T12:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space"
-  },
-  {
-    "id": 40184,
-    "title": "EarthCARE’s view of volcanic plume boosts air safety",
-    "summary": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T07:30:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety"
-  },
-  {
-    "id": 40182,
-    "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-    "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Harvest Moon with […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/"
-  },
-  {
-    "id": 40183,
-    "title": "An Agricultural “Island” in the Saskatchewan River Delta",
-    "summary": "Surrounded by wetlands, Manitoba’s northernmost farmland near The Pas turns from green to brown over the 2026 growing season.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-%E2%80%9Cisland%E2%80%9D-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/"
-  },
-  {
-    "id": 40181,
-    "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
-    "summary": "NASA astronaut Jessica Watkins, will become the first agency astronaut to fly for a second time onboard a SpaceX Dragon spacecraft. Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Base is scheduled for 11:10 a.m. EDT (1510 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260930_Crew-13_Dragon_MC-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-01T02:03:53Z",
-    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station/"
-  },
-  {
-    "id": 40180,
-    "title": "LTG David Miller Nominated as Next Leader of U.S. Space Command",
-    "summary": "U.S. Space Force Lieutenant General David Miller, Jr. has been nominated as the next Commander of U.S. Space Command, succeeding Gen. Stephen Whiting who will retire early next year. Yesterday, […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/LTG-David-Miller-Sept-2026-240x300.avif",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-01T01:13:53Z",
-    "url": "https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/"
-  },
-  {
-    "id": 40179,
-    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-    "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/galileo-logo-square-submission.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T00:24:08Z",
-    "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/"
-  },
-  {
-    "id": 40178,
-    "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
-    "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we were looking […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05016_mhli_5016MH0001930001804259R00_DXXX.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T23:37:47Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/"
-  },
-  {
-    "id": 40177,
-    "title": "Help Overlap Zoo Reveal Cosmic Dust",
-    "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T21:19:33Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
   }
 ]
