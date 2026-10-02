@@ -1,5 +1,32 @@
 [
   {
+    "id": 40165,
+    "title": "Science begins for Smile",
+    "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-30T07:05:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile"
+  },
+  {
+    "id": 40163,
+    "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+    "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/"
+  },
+  {
+    "id": 40164,
+    "title": "Powerful Storms Continue to Prowl the Pacific",
+    "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/"
+  },
+  {
     "id": 40162,
     "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
     "summary": "Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy…\r\nThe post Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO appeared first on NASASpaceFlight.com.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-29T18:57:14Z",
     "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-  },
-  {
-    "id": 40155,
-    "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-    "summary": "So is SpaceX just being selfish, or what?",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-09-29T18:34:00Z",
-    "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/"
-  },
-  {
-    "id": 40154,
-    "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-    "summary": "IRVINE, Calif. – Sept. 29, 2026 – Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the […]\nThe post Terran Orbital Names Jamin Brown Chief Operating Officer appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/TOLM-Logo-Vertical_Color-square1.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-29T17:42:20Z",
-    "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/"
-  },
-  {
-    "id": 40153,
-    "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-    "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27, 2026, photo. NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T15:31:56Z",
-    "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/"
   }
 ]
