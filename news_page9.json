@@ -1,5 +1,14 @@
 [
   {
+    "id": 40144,
+    "title": "Galaxies in a cosmic house of mirrors",
+    "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galaxies_in_a_cosmic_house_of_mirrors/27538440-1-eng-GB/Galaxies_in_a_cosmic_house_of_mirrors_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-29T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors"
+  },
+  {
     "id": 40142,
     "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
     "summary": "APOD Science APOD APOD: 2026 September 29 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sh2-188: The Shrimp […]",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-09-28T20:40:02Z",
     "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
-  },
-  {
-    "id": 40134,
-    "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-    "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-28T19:26:57Z",
-    "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40193,
+    "title": "What happened this month at the European Space Agency? (September 2026)",
+    "summary": "September was a month of milestones and discoveries. FLEX launched aboard Vega-C alongside Sentinel-3C. Sophie Adenot completed her third and final spacewalk, leading the mission as EV-1. BepiColombo separated from its Mercury Transfer Module, taking another step towards Mercury. Spectrum became the first rocket to reach orbit from continental Europe. And the James Webb Space Telescope found tiny brown dwarfs that could harbor the building blocks of planets.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_september_2026/27548693-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_September_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T12:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_September_2026"
+  },
+  {
     "id": 40187,
     "title": "Tiny thrusters 3D-printed in space",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-30T21:19:33Z",
     "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
-  },
-  {
-    "id": 40176,
-    "title": "NASA Adds New Science Investigations for Moon Base",
-    "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T21:11:23Z",
-    "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
   }
 ]

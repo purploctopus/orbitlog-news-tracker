@@ -1,5 +1,14 @@
 [
   {
+    "id": 40156,
+    "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+    "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live Crew‑13 is scheduled to launch at 11:10 a.m. EDT, Thursday, Oct. 1, from Space Launch Complex 40 at […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T18:57:14Z",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+  },
+  {
     "id": 40155,
     "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
     "summary": "So is SpaceX just being selfish, or what?",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-29T10:48:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost"
-  },
-  {
-    "id": 40144,
-    "title": "Galaxies in a cosmic house of mirrors",
-    "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galaxies_in_a_cosmic_house_of_mirrors/27538440-1-eng-GB/Galaxies_in_a_cosmic_house_of_mirrors_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-29T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors"
   }
 ]

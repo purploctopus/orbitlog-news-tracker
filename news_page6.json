@@ -1,5 +1,14 @@
 [
   {
+    "id": 40176,
+    "title": "NASA Adds New Science Investigations for Moon Base",
+    "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T21:11:23Z",
+    "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
+  },
+  {
     "id": 40175,
     "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
     "summary": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\r\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-09-30T13:00:00Z",
     "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/"
-  },
-  {
-    "id": 40166,
-    "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
-    "summary": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial and institutional partners will be involved in […]\nThe post ESA Selects Airbus and OHB to Lead European Space Station Studies appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-30T10:10:12Z",
-    "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/"
   }
 ]
