@@ -1,5 +1,32 @@
 [
   {
+    "id": 40199,
+    "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
+    "summary": "The mission carries 130 payloads onboard the Falcon 9 rocket heading to a Sun-synchronous orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 11:32 a.m. PDT (2:32 p.m. EDT / 1832 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T17:51:39Z",
+    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/"
+  },
+  {
+    "id": 40197,
+    "title": "What’s Up: October 2026 Skywatching Tips from NASA",
+    "summary": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. Skywatching Highlights Transcript Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. That’s […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T16:58:10Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/"
+  },
+  {
+    "id": 40195,
+    "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+    "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-crew13-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T15:59:24Z",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+  },
+  {
     "id": 40196,
     "title": "As US relations fray, Canada gets serious about its own launch industry",
     "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
@@ -61,32 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-01T14:34:58Z",
     "url": "https://europeanspaceflight.com/norwegian-government-proposes-paying-for-second-andoya-launch-pad/"
-  },
-  {
-    "id": 40211,
-    "title": "ESA at the 77th International Astronautical Congress",
-    "summary": "The European Space Agency (ESA) will participate in the 77th International Astronautical Congress (IAC), which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest Congress and Exhibition Centre, under the theme ‘The World Needs More Space’.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_key_visual/27549049-1-eng-GB/ESA_IAC_2026_key_visual_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T14:20:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress"
-  },
-  {
-    "id": 40188,
-    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
-    "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T14:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
-  },
-  {
-    "id": 40186,
-    "title": "Starfish Otter, other payloads set to launch on Transporter 18",
-    "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…\r\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T12:55:06Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/transporter-18/"
   }
 ]
