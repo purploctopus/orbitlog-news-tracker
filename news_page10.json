@@ -1,5 +1,14 @@
 [
   {
+    "id": 40135,
+    "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
+    "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajectory.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_Starship_Flight-14.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-09-28T20:40:02Z",
+    "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
+  },
+  {
     "id": 40134,
     "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
     "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared Isaacman. “As this domain continues to open, there […]",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-09-28T16:03:50Z",
     "url": "https://arstechnica.com/space/2026/09/the-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
-  },
-  {
-    "id": 40151,
-    "title": "How ESA astronauts return from space",
-    "summary": "When an astronaut from the European Space Agency (ESA) returns from space, the mission is far from over.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/10/samantha_arrives_in_cologne6/24523998-4-eng-GB/Samantha_arrives_in_Cologne_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-09-28T15:33:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_ESA_astronauts_return_from_space"
   }
 ]

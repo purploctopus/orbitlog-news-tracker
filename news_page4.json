@@ -1,5 +1,14 @@
 [
   {
+    "id": 40196,
+    "title": "As US relations fray, Canada gets serious about its own launch industry",
+    "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-01T15:30:49Z",
+    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+  },
+  {
     "id": 40194,
     "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
     "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…\nThe post Canada Rocket Company plans first large-scale engine test site in London, Ontario appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-01T12:55:06Z",
     "url": "https://www.nasaspaceflight.com/2026/10/transporter-18/"
-  },
-  {
-    "id": 40185,
-    "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-    "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]\r\nThe post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/CZ6A-Yaogan40-04-24sept2026-CASC-1.png?fit=1024%2C603&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T12:46:32Z",
-    "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40217,
+    "title": "NASA Opens Applications for Next Class of Flight Directors",
+    "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-02T15:49:26Z",
+    "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/"
+  },
+  {
     "id": 40216,
     "title": "Portugal’s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket",
     "summary": "Portuguese space technology group Omnidea has acquired most of Orbex’s intellectual property and UK assets after the rocket builder collapsed into administration in February. Omnidea plans to develop an evolution of Orbex’s small launch vehicle called PrimeNEO. Omnidea completed the acquisition of Orbex’s UK manufacturing assets, intellectual property and brand on 30 September. The company […]\r\nThe post Portugal’s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-02T02:39:04Z",
     "url": "https://spacepolicyonline.com/news/crew-13-arrives-at-iss-as-crew-12-prepares-to-depart/"
-  },
-  {
-    "id": 40205,
-    "title": "10 Things: Movie Night",
-    "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-02T00:25:36Z",
-    "url": "https://science.nasa.gov/solar-system/10-things-movie-night/"
   }
 ]

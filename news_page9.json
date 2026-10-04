@@ -1,5 +1,14 @@
 [
   {
+    "id": 40147,
+    "title": "ESA investigates potential future European-led orbital outpost",
+    "summary": "As part of the preparation for the end of utilisation of the International Space Station (ISS), the European Space Agency (ESA) awarded a contract to two European industrial consortia to conduct preliminary studies assessing the feasibility to develop a future European-led orbital outpost. These studies are part of the options currently explored by ESA for the post-ISS era, building on Europe's industrial capabilities and expertise in human spaceflight.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/artist_s_impression_of_a_potential_european-led_orbital_station_1_3/27544855-1-eng-GB/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-09-29T10:48:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_investigates_potential_future_European-led_orbital_outpost"
+  },
+  {
     "id": 40144,
     "title": "Galaxies in a cosmic house of mirrors",
     "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-09-28T22:13:09Z",
     "url": "https://www.nasaspaceflight.com/2026/09/nasa-boeing-starliners-return-iss-crew/"
-  },
-  {
-    "id": 40135,
-    "title": "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
-    "summary": "The Super Heavy first stage booster, generating some 16 million pounds of thrust — twice the power of NASA's Space Launch System moon rocket — rapidly accelerated as it consumed propellant and lost weight, climbing out of the thick lower atmosphere along a southeasterly trajectory.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_Starship_Flight-14.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-28T20:40:02Z",
-    "url": "https://spaceflightnow.com/2026/09/28/starship-returns-to-earth-rocket-splashes-down-north-of-hawaii-after-three-hour-flight/"
   }
 ]

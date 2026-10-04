@@ -1,5 +1,14 @@
 [
   {
+    "id": 40177,
+    "title": "Help Overlap Zoo Reveal Cosmic Dust",
+    "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-30T21:19:33Z",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
+  },
+  {
     "id": 40176,
     "title": "NASA Adds New Science Investigations for Moon Base",
     "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-09-30T13:19:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Shaping_Europe_s_future_in_low_Earth_orbit"
-  },
-  {
-    "id": 40167,
-    "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-    "summary": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. — September 30, 2026 — Quantum Space, LLC (the “Company” or “Quantum Space”), a company developing the next generation of advanced maneuverable spacecraft for […]\nThe post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/quantum-space-logo-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-30T13:00:00Z",
-    "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/"
   }
 ]
