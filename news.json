@@ -1,5 +1,23 @@
 [
   {
+    "id": 40234,
+    "title": "ESA, CAS release first images from SMILE; officially begin science operations",
+    "summary": "Following its launch in May and a multi-month commissioning period, the joint European Space Agency…\nThe post ESA, CAS release first images from SMILE; officially begin science operations appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-04T22:49:58Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"
+  },
+  {
+    "id": 40233,
+    "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+    "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-04T21:13:07Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/"
+  },
+  {
     "id": 40232,
     "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
     "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 1:17 a.m. PDT (4:17 a.m. EDT / 0817 UTC).",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-02T19:30:00Z",
     "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/"
-  },
-  {
-    "id": 40224,
-    "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-    "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-02T19:00:36Z",
-    "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
-  },
-  {
-    "id": 40222,
-    "title": "US military ends long-running program to spot nuclear missile launches",
-    "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-02T17:32:14Z",
-    "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/"
   }
 ]

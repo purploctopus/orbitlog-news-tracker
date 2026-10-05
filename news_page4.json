@@ -1,5 +1,23 @@
 [
   {
+    "id": 40200,
+    "title": "NASA’s SpaceX Crew-13 Launches",
+    "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T18:05:38Z",
+    "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
+  },
+  {
+    "id": 40198,
+    "title": "Crew-13 Spreads its Wings",
+    "summary": "NASA’s Crew-13 mission is on its way to the International Space Station, ready to support the next chapter of long-duration research aboard the orbiting laboratory.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/Crew-13_Launch_Logo.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-10-01T18:00:06Z",
+    "url": "https://www.spacescout.info/2026/10/crew-13-spreads-its-wings/"
+  },
+  {
     "id": 40199,
     "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
     "summary": "The mission carries 130 payloads onboard the Falcon 9 rocket heading to a Sun-synchronous orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 11:32 a.m. PDT (2:32 p.m. EDT / 1832 UTC).",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-01T14:51:34Z",
     "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
-  },
-  {
-    "id": 40190,
-    "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-    "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]\nThe post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T14:40:51Z",
-    "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/"
-  },
-  {
-    "id": 40189,
-    "title": "Norwegian Government Proposes Paying for Second Andøya Launch Pad",
-    "summary": "The Norwegian government plans to invest almost NOK 650 million (almost €60 million) to build a second orbital launch pad at Andøya Spaceport. The state will own the pad and lease it to Andøya Space, the commercial operator of the orbital launch facility. Norway’s Minister of Trade and Industry, Cecilie Myrseth, announced the planned investment […]\nThe post Norwegian Government Proposes Paying for Second Andøya Launch Pad appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norwegian-Government-Proposes-Paying-for-Second-Andoya-Launch-Pad.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-01T14:34:58Z",
-    "url": "https://europeanspaceflight.com/norwegian-government-proposes-paying-for-second-andoya-launch-pad/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40224,
+    "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+    "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-02T19:00:36Z",
+    "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
+  },
+  {
+    "id": 40222,
+    "title": "US military ends long-running program to spot nuclear missile launches",
+    "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-02T17:32:14Z",
+    "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/"
+  },
+  {
     "id": 40223,
     "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
     "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign spent weeks this summer hunting across […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-02T10:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks"
-  },
-  {
-    "id": 40212,
-    "title": "Earth from Space: Typhoon Surigae",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-02T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae"
-  },
-  {
-    "id": 40209,
-    "title": "Jammertest pumps up the jam in Norway",
-    "summary": "Every September, for one week, the airwaves above the Arctic island of Andøya, Norway, become some of the most heavily attacked in the world. For a good reason: Jammertest. From the small village of Bleik, 69 degrees north, Norwegian authorities launch hundreds of jamming and spoofing attacks, allowing participants to test their technologies against realistic threats, identify weaknesses in them and ultimately develop stronger positioning, navigation and timing (PNT) solutions.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_team_at_jammertest_2026/27542153-1-eng-GB/ESA_team_at_Jammertest_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-02T07:05:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway"
   }
 ]

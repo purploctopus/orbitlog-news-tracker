@@ -1,5 +1,23 @@
 [
   {
+    "id": 40212,
+    "title": "Earth from Space: Typhoon Surigae",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-02T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae"
+  },
+  {
+    "id": 40209,
+    "title": "Jammertest pumps up the jam in Norway",
+    "summary": "Every September, for one week, the airwaves above the Arctic island of Andøya, Norway, become some of the most heavily attacked in the world. For a good reason: Jammertest. From the small village of Bleik, 69 degrees north, Norwegian authorities launch hundreds of jamming and spoofing attacks, allowing participants to test their technologies against realistic threats, identify weaknesses in them and ultimately develop stronger positioning, navigation and timing (PNT) solutions.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/esa_team_at_jammertest_2026/27542153-1-eng-GB/ESA_team_at_Jammertest_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-02T07:05:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway"
+  },
+  {
     "id": 40208,
     "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
     "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-01T19:17:40Z",
     "url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/"
-  },
-  {
-    "id": 40200,
-    "title": "NASA’s SpaceX Crew-13 Launches",
-    "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T18:05:38Z",
-    "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
-  },
-  {
-    "id": 40198,
-    "title": "Crew-13 Spreads its Wings",
-    "summary": "NASA’s Crew-13 mission is on its way to the International Space Station, ready to support the next chapter of long-duration research aboard the orbiting laboratory.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/Crew-13_Launch_Logo.jpg",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-10-01T18:00:06Z",
-    "url": "https://www.spacescout.info/2026/10/crew-13-spreads-its-wings/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40152,
+    "title": "Starship Orbits Earth, Returns Early",
+    "summary": "Although technical issues cut the mission short, Starship achieved most of its objectives, including its first deployment of an operational payload into orbit.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/09/cam-liftoff.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-09-29T15:13:22Z",
+    "url": "https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/"
+  },
+  {
+    "id": 40150,
+    "title": "NSTGRO 2026",
+    "summary": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS) Tetiana TymoshevskaUniversity of MichiganLiquid Droplet Radiator Enabled by an Electrospray Array Hannah HuttonUniversity of MichiganRESIST: Radiation-Enabled Structural Improvement in Space Materials Elan GraupeUniversity Of MinnesotaModel-Driven Navigation for Robust Spacecraft Atmospheric Entry and Descent Emily GokieUniversity Of Colorado, BoulderA low-SWaP timing system […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T14:20:08Z",
+    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
+  },
+  {
     "id": 40149,
     "title": "CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana",
     "summary": "The French space agency CNES has issued a call for new automated optical tracking systems for the Guiana Space Centre. The new system will need to be capable of tracking launch vehicles to altitudes of up to an altitude of 100 kilometres. Published on 24 September, the initiative aims to replace aging and partially obsolete […]\nThe post CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-09-29T03:54:50Z",
     "url": "https://spacepolicyonline.com/news/next-crewed-boeing-starliner-flight-not-until-2028/"
-  },
-  {
-    "id": 40140,
-    "title": "Mars Has Its Charmes",
-    "summary": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T01:27:52Z",
-    "url": "https://science.nasa.gov/blog/mars-has-its-charmes/"
-  },
-  {
-    "id": 40139,
-    "title": "NASA plans unpiloted Starliner test flight at end of year",
-    "summary": "If the unpiloted test flight goes well, NASA and Boeing hope to launch a piloted Starliner flight in mid 2028, officials said Monday, incorporating redesigned propulsion system valves, more robust subsystems and other modifications expected to prevent the sort of failures that occurred in 2024.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260928_starliner.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-09-29T01:14:36Z",
-    "url": "https://spaceflightnow.com/2026/09/29/nasa-plans-unpiloted-starliner-test-flight-at-end-of-year/"
   }
 ]
