@@ -1,5 +1,32 @@
 [
   {
+    "id": 40185,
+    "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+    "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]\r\nThe post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/CZ6A-Yaogan40-04-24sept2026-CASC-1.png?fit=1024%2C603&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T12:46:32Z",
+    "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
+  },
+  {
+    "id": 40193,
+    "title": "What happened this month at the European Space Agency? (September 2026)",
+    "summary": "September was a month of milestones and discoveries. FLEX launched aboard Vega-C alongside Sentinel-3C. Sophie Adenot completed her third and final spacewalk, leading the mission as EV-1. BepiColombo separated from its Mercury Transfer Module, taking another step towards Mercury. Spectrum became the first rocket to reach orbit from continental Europe. And the James Webb Space Telescope found tiny brown dwarfs that could harbor the building blocks of planets.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_september_2026/27548693-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_September_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T12:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_September_2026"
+  },
+  {
+    "id": 40187,
+    "title": "Tiny thrusters 3D-printed in space",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/tiny_thrusters_3d-printed_in_space/27548142-2-eng-GB/Tiny_thrusters_3D-printed_in_space_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T12:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space"
+  },
+  {
     "id": 40184,
     "title": "EarthCARE’s view of volcanic plume boosts air safety",
     "summary": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-09-30T23:37:47Z",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/"
-  },
-  {
-    "id": 40177,
-    "title": "Help Overlap Zoo Reveal Cosmic Dust",
-    "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T21:19:33Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/"
-  },
-  {
-    "id": 40176,
-    "title": "NASA Adds New Science Investigations for Moon Base",
-    "summary": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-30T21:11:23Z",
-    "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
-  },
-  {
-    "id": 40175,
-    "title": "Crew-13 astronauts set for launch to ISS after weeks of delays",
-    "summary": "One veteran astronaut and three first-time flyers are ready to begin a six-month mission to…\r\nThe post Crew-13 astronauts set for launch to ISS after weeks of delays appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/HTfJkaGXwAAn5W4.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-09-30T21:04:39Z",
-    "url": "https://www.nasaspaceflight.com/2026/09/crew-13-launch/"
   }
 ]

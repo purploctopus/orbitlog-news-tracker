@@ -1,5 +1,32 @@
 [
   {
+    "id": 40205,
+    "title": "10 Things: Movie Night",
+    "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-02T00:25:36Z",
+    "url": "https://science.nasa.gov/solar-system/10-things-movie-night/"
+  },
+  {
+    "id": 40204,
+    "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
+    "summary": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:53 p.m. EDT (0353 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Falcon-Heavy-Sunset-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T22:37:30Z",
+    "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/"
+  },
+  {
+    "id": 40203,
+    "title": "Fresh crew takes off for six-month stay aboard space station",
+    "summary": "Strapped into a SpaceX Crew Dragon capsule, Crew 13 commander Jessica Watkins, pilot Luke Delaney, Russian cosmonaut Sergey Teteryatnikov and Canadian astronaut Joshua Kutryk blasted off from pad 40 at the Cape Canaveral Space Force Station at 11:10 a.m. EDT.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001_Crew-13_JP-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T20:46:05Z",
+    "url": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/"
+  },
+  {
     "id": 40202,
     "title": "NASA Awards Enterprise Logistics Support Services Agreements",
     "summary": "NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, disposal, product support, flight hardware support operations, equipment maintenance and repair, export control, move operations, […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-01T15:59:24Z",
     "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
-  },
-  {
-    "id": 40196,
-    "title": "As US relations fray, Canada gets serious about its own launch industry",
-    "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-01T15:30:49Z",
-    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
-  },
-  {
-    "id": 40194,
-    "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
-    "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…\nThe post Canada Rocket Company plans first large-scale engine test site in London, Ontario appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T15:30:36Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"
-  },
-  {
-    "id": 40192,
-    "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
-    "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […]\nThe post World Space Week 2026 Celebrates the “Rocket Revolution”  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T15:06:43Z",
-    "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
   }
 ]
