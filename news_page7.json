@@ -1,5 +1,59 @@
 [
   {
+    "id": 40206,
+    "title": "Crew-13 Arrives at ISS as Crew-12 Prepares to Depart",
+    "summary": "NASA’s 13th operational Crew Dragon mission arrived at the International Space Station today about 8 hours after launch. That’s the fastest trip on a SpaceX Dragon thanks to an opportune […]",
+    "imageUrl": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-02T02:39:04Z",
+    "url": "https://spacepolicyonline.com/news/crew-13-arrives-at-iss-as-crew-12-prepares-to-depart/"
+  },
+  {
+    "id": 40205,
+    "title": "10 Things: Movie Night",
+    "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic Dawn Planetary […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-02T00:25:36Z",
+    "url": "https://science.nasa.gov/solar-system/10-things-movie-night/"
+  },
+  {
+    "id": 40204,
+    "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
+    "summary": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:53 p.m. EDT (0353 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Falcon-Heavy-Sunset-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T22:37:30Z",
+    "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/"
+  },
+  {
+    "id": 40203,
+    "title": "Fresh crew takes off for six-month stay aboard space station",
+    "summary": "Strapped into a SpaceX Crew Dragon capsule, Crew 13 commander Jessica Watkins, pilot Luke Delaney, Russian cosmonaut Sergey Teteryatnikov and Canadian astronaut Joshua Kutryk blasted off from pad 40 at the Cape Canaveral Space Force Station at 11:10 a.m. EDT.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001_Crew-13_JP-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T20:46:05Z",
+    "url": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/"
+  },
+  {
+    "id": 40202,
+    "title": "NASA Awards Enterprise Logistics Support Services Agreements",
+    "summary": "NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, disposal, product support, flight hardware support operations, equipment maintenance and repair, export control, move operations, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T20:34:27Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/"
+  },
+  {
+    "id": 40201,
+    "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
+    "summary": "SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch…\r\nThe post Falcon Heavy set to launch classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/20260930_CC_NROL_97_sunset_DSC_0504_desktop_32cdaaf193-scaled-e1790881481877.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-01T19:17:40Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/"
+  },
+  {
     "id": 40200,
     "title": "NASA’s SpaceX Crew-13 Launches",
     "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-01T16:58:10Z",
     "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/"
-  },
-  {
-    "id": 40195,
-    "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
-    "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-crew13-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T15:59:24Z",
-    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
-  },
-  {
-    "id": 40196,
-    "title": "As US relations fray, Canada gets serious about its own launch industry",
-    "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-01T15:30:49Z",
-    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
-  },
-  {
-    "id": 40194,
-    "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
-    "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…\nThe post Canada Rocket Company plans first large-scale engine test site in London, Ontario appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T15:30:36Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"
-  },
-  {
-    "id": 40192,
-    "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
-    "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […]\nThe post World Space Week 2026 Celebrates the “Rocket Revolution”  appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T15:06:43Z",
-    "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
-  },
-  {
-    "id": 40210,
-    "title": "Juice’s September 2026 Earth flyby: the movie",
-    "summary": "On 28 September 2026, ESA’s Jupiter Icy Moons Explorer (Juice) successfully completed a gravity assist flyby of Earth. Flight controllers guided the spacecraft close to our home planet to increase its velocity by 3.5 km/s and deflect its trajectory by an angle of 20°.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/juice_s_september_2026_earth_flyby_the_movie/27549319-1-eng-GB/Juice_s_September_2026_Earth_flyby_the_movie_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T15:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie"
-  },
-  {
-    "id": 40191,
-    "title": "Rethinking risk with electronics for space",
-    "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […]\nThe post Rethinking risk with electronics for space appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-arrow-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T14:51:34Z",
-    "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
   }
 ]

@@ -1,5 +1,59 @@
 [
   {
+    "id": 40195,
+    "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+    "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-crew13-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T15:59:24Z",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+  },
+  {
+    "id": 40196,
+    "title": "As US relations fray, Canada gets serious about its own launch industry",
+    "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-01T15:30:49Z",
+    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+  },
+  {
+    "id": 40194,
+    "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
+    "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…\nThe post Canada Rocket Company plans first large-scale engine test site in London, Ontario appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-10-01-05-10-39-841.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-01T15:30:36Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/canada-rocket-company-engine-test-site-ontario/"
+  },
+  {
+    "id": 40192,
+    "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
+    "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […]\nThe post World Space Week 2026 Celebrates the “Rocket Revolution”  appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T15:06:43Z",
+    "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/"
+  },
+  {
+    "id": 40210,
+    "title": "Juice’s September 2026 Earth flyby: the movie",
+    "summary": "On 28 September 2026, ESA’s Jupiter Icy Moons Explorer (Juice) successfully completed a gravity assist flyby of Earth. Flight controllers guided the spacecraft close to our home planet to increase its velocity by 3.5 km/s and deflect its trajectory by an angle of 20°.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/juice_s_september_2026_earth_flyby_the_movie/27549319-1-eng-GB/Juice_s_September_2026_Earth_flyby_the_movie_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-01T15:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie"
+  },
+  {
+    "id": 40191,
+    "title": "Rethinking risk with electronics for space",
+    "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […]\nThe post Rethinking risk with electronics for space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-arrow-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-01T14:51:34Z",
+    "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
+  },
+  {
     "id": 40190,
     "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
     "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]\nThe post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews.",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-01T14:00:00Z",
     "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
-  },
-  {
-    "id": 40186,
-    "title": "Starfish Otter, other payloads set to launch on Transporter 18",
-    "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…\r\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T12:55:06Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/transporter-18/"
-  },
-  {
-    "id": 40185,
-    "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-    "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]\r\nThe post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/CZ6A-Yaogan40-04-24sept2026-CASC-1.png?fit=1024%2C603&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T12:46:32Z",
-    "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
-  },
-  {
-    "id": 40193,
-    "title": "What happened this month at the European Space Agency? (September 2026)",
-    "summary": "September was a month of milestones and discoveries. FLEX launched aboard Vega-C alongside Sentinel-3C. Sophie Adenot completed her third and final spacewalk, leading the mission as EV-1. BepiColombo separated from its Mercury Transfer Module, taking another step towards Mercury. Spectrum became the first rocket to reach orbit from continental Europe. And the James Webb Space Telescope found tiny brown dwarfs that could harbor the building blocks of planets.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_september_2026/27548693-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_September_2026_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T12:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_September_2026"
-  },
-  {
-    "id": 40187,
-    "title": "Tiny thrusters 3D-printed in space",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/tiny_thrusters_3d-printed_in_space/27548142-2-eng-GB/Tiny_thrusters_3D-printed_in_space_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T12:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Tiny_thrusters_3D-printed_in_space"
-  },
-  {
-    "id": 40184,
-    "title": "EarthCARE’s view of volcanic plume boosts air safety",
-    "summary": "When Anak Krakatau erupted a few weeks ago, the European Space Agency’s EarthCARE satellite, orbiting above, captured vertical profiles of different constituents within the volcanic plume. Designed primarily to advance our understanding of how clouds and aerosols influence Earth’s climate, here EarthCARE also provided valuable information to support safe air travel.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/anak_krakatau_eruption_by_sentinel-3/27456765-1-eng-GB/Anak_Krakatau_eruption_by_Sentinel-3_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T07:30:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety"
-  },
-  {
-    "id": 40182,
-    "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-    "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Harvest Moon with […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Harvest%20Moon%20Trail%20With%20Venus%20Belt%20and%20Erupting%20Mount%20Etna%204%20LD.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/"
   }
 ]
