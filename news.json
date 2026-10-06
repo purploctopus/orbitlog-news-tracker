@@ -1,92 +1,92 @@
 [
   {
-    "id": 40252,
-    "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-    "summary": "APOD Science APOD APOD: 2026 October 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ESA, CAS, […]",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm.gif",
+    "id": 40263,
+    "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+    "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg",
     "newsSite": "NASA",
-    "publishedAt": "2026-10-06T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/"
+    "publishedAt": "2026-10-06T16:09:13Z",
+    "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/"
   },
   {
-    "id": 40253,
-    "title": "The Beaver Brown Waters of Rupert Bay",
-    "summary": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg",
+    "id": 40262,
+    "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+    "summary": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-06T16:00:02Z",
+    "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/"
+  },
+  {
+    "id": 40260,
+    "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
+    "summary": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.png",
     "newsSite": "NASA",
-    "publishedAt": "2026-10-06T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/"
+    "publishedAt": "2026-10-06T15:30:07Z",
+    "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/"
   },
   {
-    "id": 40250,
-    "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
-    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05024_opgs_edr_ncam_NLB_843496448EDR_F1250558NCAM00309M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T01:04:01Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
-  },
-  {
-    "id": 40251,
-    "title": "A Journey to the Depths of Ancient Mars?",
-    "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZR0_1965_0841379465_206EBY_N0910606ZCAM04453_1100LMJ.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T00:48:54Z",
-    "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
-  },
-  {
-    "id": 40249,
-    "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-    "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55559507519-2d24859fff-k.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T21:44:40Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
-  },
-  {
-    "id": 40248,
-    "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
-    "summary": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-05T20:55:39Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"
-  },
-  {
-    "id": 40247,
-    "title": "Resource competition intensifies with surge in megaconstellations",
-    "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […]\nThe post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-05T19:13:40Z",
-    "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
-  },
-  {
-    "id": 40246,
-    "title": "ESA at IAC 2026 – Day 1",
-    "summary": "Stronger European capabilities and deeper international cooperation were at the heart of ESA’s first day at the 77th International Astronautical Congress (IAC) in Antalya, Türkiye. From exploration to the contribution of space to society, ESA Director General Josef Aschbacher underlined the importance of Europe becoming a stronger and more capable partner in a rapidly changing space environment.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_direct_general_at_iac_2026/27557069-2-eng-GB/ESA_Direct_General_at_IAC_2026_card_full.jpg",
+    "id": 40261,
+    "title": "ESA at IAC 2026 – Day 2",
+    "summary": "International cooperation remained at the heart of ESA’s participation in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, as ESA Director General Josef Aschbacher held a series of high-level meetings with partners from around the world. The exchanges reflected ESA’s commitment to strengthening existing partnerships while broadening cooperation with both established and emerging space actors.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iaf_global_space_leaders_summit_2026/27559712-1-eng-GB/IAF_Global_space_leaders_summit_2026_card_full.jpg",
     "newsSite": "ESA",
-    "publishedAt": "2026-10-05T18:28:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1"
+    "publishedAt": "2026-10-06T14:37:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
   },
   {
-    "id": 40245,
-    "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
-    "summary": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T17:42:56Z",
-    "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/"
+    "id": 40259,
+    "title": "The EU Extends SALTO Deadline Again as Themis Hop Test Slips",
+    "summary": "The European Commission has extended the deadline for the SALTO reusable launcher project to the end of 2026, giving the programme another three months to complete the first hop test of Europe’s Themis reusable rocket demonstrator. According to the European Commission’s project database, the reuSable strAtegic space Launcher Technologies & Operations (SALTO) initiative is now […]\nThe post The EU Extends SALTO Deadline Again as Themis Hop Test Slips appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-EU-Extends-SALTO-Deadline-Again-as-Themis-Hop-Test-Slips.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-06T14:27:45Z",
+    "url": "https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/"
   },
   {
-    "id": 40243,
-    "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
-    "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.   The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/GRC-2026-C-02774/GRC-2026-C-02774~large.jpg",
+    "id": 40258,
+    "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+    "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png",
     "newsSite": "NASA",
-    "publishedAt": "2026-10-05T15:27:23Z",
-    "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
+    "publishedAt": "2026-10-06T13:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
+  },
+  {
+    "id": 40256,
+    "title": "Webb captures commotion from nebula’s stellar jets",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-06T13:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
+  },
+  {
+    "id": 40255,
+    "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+    "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\nThe post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-06T12:35:41Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
+  },
+  {
+    "id": 40257,
+    "title": "How to record rocket emissions",
+    "summary": "A research aircraft chased a sub-orbital rocket launch in Sweden to see how space agencies can better monitor and understand emissions in our atmosphere.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mapheus-17_liftoff_through_the_clouds/27559065-2-eng-GB/Mapheus-17_liftoff_through_the_clouds_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-06T12:29:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/How_to_record_rocket_emissions"
+  },
+  {
+    "id": 40264,
+    "title": "Watch Sophie Adenot return to Earth",
+    "summary": "On 7 October 2026, ESA astronaut Sophie Adenot and her Crew-12 crewmates will undock from the International Space Station at around 12:05 GMT/14:05 CEST to begin their journey back to Earth.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/crew-12_members_gather_for_a_portrait_in_their_spacex_dragon_pressure_suits_cropped/27558110-5-eng-GB/Crew-12_members_gather_for_a_portrait_in_their_SpaceX_Dragon_pressure_suits_cropped_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-06T08:34:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Watch_Sophie_Adenot_return_to_Earth"
   }
 ]
