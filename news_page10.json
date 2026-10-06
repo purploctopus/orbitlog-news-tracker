@@ -1,5 +1,41 @@
 [
   {
+    "id": 40161,
+    "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+    "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T21:27:56Z",
+    "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
+  },
+  {
+    "id": 40159,
+    "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+    "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T21:00:00Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
+  },
+  {
+    "id": 40160,
+    "title": "NASA Features Exploration, Science at International Space Conference",
+    "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.  The IAC, organized by the International Astronautical […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-09-29T20:55:24Z",
+    "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/"
+  },
+  {
+    "id": 40158,
+    "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+    "summary": "Paris, France | September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues […]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-09-29T20:32:07Z",
+    "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/"
+  },
+  {
     "id": 40157,
     "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
     "summary": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an […]",
@@ -52,41 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-09-29T15:13:22Z",
     "url": "https://www.spacescout.info/2026/09/starship-orbits-earth-returns-early/"
-  },
-  {
-    "id": 40150,
-    "title": "NSTGRO 2026",
-    "summary": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS) Tetiana TymoshevskaUniversity of MichiganLiquid Droplet Radiator Enabled by an Electrospray Array Hannah HuttonUniversity of MichiganRESIST: Radiation-Enabled Structural Improvement in Space Materials Elan GraupeUniversity Of MinnesotaModel-Driven Navigation for Robust Spacecraft Atmospheric Entry and Descent Emily GokieUniversity Of Colorado, BoulderA low-SWaP timing system […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T14:20:08Z",
-    "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/"
-  },
-  {
-    "id": 40149,
-    "title": "CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana",
-    "summary": "The French space agency CNES has issued a call for new automated optical tracking systems for the Guiana Space Centre. The new system will need to be capable of tracking launch vehicles to altitudes of up to an altitude of 100 kilometres. Published on 24 September, the initiative aims to replace aging and partially obsolete […]\nThe post CNES Publishes Call for New Rocket Launch Tracking Turrets for French Guiana appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/09/CNES-Publishes-Call-for-New-Launch-Tracking-Turrets-for-French-Guiana.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-09-29T14:04:28Z",
-    "url": "https://europeanspaceflight.com/cnes-publishes-call-for-new-rocket-launch-tracking-turrets-for-french-guiana/"
-  },
-  {
-    "id": 40148,
-    "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
-    "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research Center in Cleveland, the material could be created directly on the Moon or Mars, allowing NASA to pack fewer supplies — saving weight and […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/lsp-2-100x.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-09-29T14:00:00Z",
-    "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/"
-  },
-  {
-    "id": 40146,
-    "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
-    "summary": "On September 9, 2026, Evan Hubinger, Anthropic’s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […]\nThe post If AI cannot be trusted in a classroom, why should it be trusted in orbit? appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-081521.png?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-09-29T11:00:00Z",
-    "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/"
   }
 ]

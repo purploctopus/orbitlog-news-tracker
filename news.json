@@ -1,5 +1,41 @@
 [
   {
+    "id": 40252,
+    "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+    "summary": "APOD Science APOD APOD: 2026 October 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. ESA, CAS, […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/Smile_s_first_ultraviolet_footage_shows_auroral_substorm.gif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/"
+  },
+  {
+    "id": 40253,
+    "title": "The Beaver Brown Waters of Rupert Bay",
+    "summary": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/"
+  },
+  {
+    "id": 40250,
+    "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
+    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05024_opgs_edr_ncam_NLB_843496448EDR_F1250558NCAM00309M_.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T01:04:01Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
+  },
+  {
+    "id": 40251,
+    "title": "A Journey to the Depths of Ancient Mars?",
+    "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZR0_1965_0841379465_206EBY_N0910606ZCAM04453_1100LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T00:48:54Z",
+    "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
+  },
+  {
     "id": 40249,
     "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
     "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-05T15:27:23Z",
     "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
-  },
-  {
-    "id": 40244,
-    "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-    "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M3CBK3T6SRKP4Q7WV9CGFGW9.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T15:00:35Z",
-    "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/"
-  },
-  {
-    "id": 40242,
-    "title": "Contacting NASA’s Langley Research Center",
-    "summary": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/center-aerial-photo-2021.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T14:50:39Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
-  },
-  {
-    "id": 40240,
-    "title": "Second HyImpulse Suborbital SR75 Flight Slips to 2027",
-    "summary": "German launch startup HyImpulse has pushed the second flight of its SR75 suborbital rocket into spring 2027. On 1 October, HyImpulse announced that it had secured a launch operator licence from the UK Civil Aviation Authority (CAA) to operate its SR75 rocket from SaxaVord in Scotland. With the announcement, the company said the rocket’s first […]\nThe post Second HyImpulse Suborbital SR75 Flight Slips to 2027 appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-05T14:00:18Z",
-    "url": "https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"
-  },
-  {
-    "id": 40238,
-    "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-    "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […]\nThe post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-05T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
   }
 ]

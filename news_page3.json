@@ -1,5 +1,41 @@
 [
   {
+    "id": 40232,
+    "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
+    "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 1:17 a.m. PDT (4:17 a.m. EDT / 0817 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261004_T1TL-A_satellites.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-04T20:33:26Z",
+    "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/"
+  },
+  {
+    "id": 40231,
+    "title": "What’s Happening in Space Policy October 4-10, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 4-10, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Sputnik-replica-NASM-NASA-300x154.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-04T19:58:01Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/"
+  },
+  {
+    "id": 40230,
+    "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+    "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-04T19:10:59Z",
+    "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+  },
+  {
+    "id": 40229,
+    "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+    "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-04T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
+  },
+  {
     "id": 40228,
     "title": "ESA to pursue crew transport and space stations as European launchers come online",
     "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The…\nThe post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com.",
@@ -52,41 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-02T17:32:14Z",
     "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/"
-  },
-  {
-    "id": 40223,
-    "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
-    "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign spent weeks this summer hunting across […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/20260826-175244.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-02T16:34:57Z",
-    "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/"
-  },
-  {
-    "id": 40220,
-    "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
-    "summary": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.  In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/bscw-side-by-side-image.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-02T16:10:55Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/"
-  },
-  {
-    "id": 40219,
-    "title": "Analysis: Despite Ambiguous Wording, Moon Base’s “Perimeter” Likely Complies With International Law",
-    "summary": "NASA should strive for clarity as to its exact intentions as it seeks to establish positive norms for lunar surface usage.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-1.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-10-02T16:02:43Z",
-    "url": "https://www.spacescout.info/2026/10/despite-ambiguous-wording-moon-bases-perimeter-likely-complies-with-international-law/"
-  },
-  {
-    "id": 40217,
-    "title": "NASA Opens Applications for Next Class of Flight Directors",
-    "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-02T15:49:26Z",
-    "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/"
   }
 ]
