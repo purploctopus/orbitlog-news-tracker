@@ -1,5 +1,59 @@
 [
   {
+    "id": 40200,
+    "title": "NASA’s SpaceX Crew-13 Launches",
+    "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T18:05:38Z",
+    "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
+  },
+  {
+    "id": 40198,
+    "title": "Crew-13 Spreads its Wings",
+    "summary": "NASA’s Crew-13 mission is on its way to the International Space Station, ready to support the next chapter of long-duration research aboard the orbiting laboratory.",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/Crew-13_Launch_Logo.jpg",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-10-01T18:00:06Z",
+    "url": "https://www.spacescout.info/2026/10/crew-13-spreads-its-wings/"
+  },
+  {
+    "id": 40199,
+    "title": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
+    "summary": "The mission carries 130 payloads onboard the Falcon 9 rocket heading to a Sun-synchronous orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 11:32 a.m. PDT (2:32 p.m. EDT / 1832 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-01T17:51:39Z",
+    "url": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18/"
+  },
+  {
+    "id": 40197,
+    "title": "What’s Up: October 2026 Skywatching Tips from NASA",
+    "summary": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. Skywatching Highlights Transcript Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. That’s […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T16:58:10Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/"
+  },
+  {
+    "id": 40195,
+    "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+    "summary": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-crew13-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T15:59:24Z",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"
+  },
+  {
+    "id": 40196,
+    "title": "As US relations fray, Canada gets serious about its own launch industry",
+    "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-01T15:30:49Z",
+    "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+  },
+  {
     "id": 40194,
     "title": "Canada Rocket Company plans first large-scale engine test site in London, Ontario",
     "summary": "Canada Rocket Company (CRC) will build Canada’s first large-scale rocket engine test facility at London…\nThe post Canada Rocket Company plans first large-scale engine test site in London, Ontario appeared first on NASASpaceFlight.com.",
@@ -34,59 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-01T14:51:34Z",
     "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space/"
-  },
-  {
-    "id": 40190,
-    "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-    "summary": "Noordwijk, the Netherlands | September 22, 2026 – During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone […]\nThe post LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T14:40:51Z",
-    "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/"
-  },
-  {
-    "id": 40189,
-    "title": "Norwegian Government Proposes Paying for Second Andøya Launch Pad",
-    "summary": "The Norwegian government plans to invest almost NOK 650 million (almost €60 million) to build a second orbital launch pad at Andøya Spaceport. The state will own the pad and lease it to Andøya Space, the commercial operator of the orbital launch facility. Norway’s Minister of Trade and Industry, Cecilie Myrseth, announced the planned investment […]\nThe post Norwegian Government Proposes Paying for Second Andøya Launch Pad appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norwegian-Government-Proposes-Paying-for-Second-Andoya-Launch-Pad.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-01T14:34:58Z",
-    "url": "https://europeanspaceflight.com/norwegian-government-proposes-paying-for-second-andoya-launch-pad/"
-  },
-  {
-    "id": 40211,
-    "title": "ESA at the 77th International Astronautical Congress",
-    "summary": "The European Space Agency (ESA) will participate in the 77th International Astronautical Congress (IAC), which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest Congress and Exhibition Centre, under the theme ‘The World Needs More Space’.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_key_visual/27549049-1-eng-GB/ESA_IAC_2026_key_visual_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-01T14:20:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress"
-  },
-  {
-    "id": 40188,
-    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
-    "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T14:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
-  },
-  {
-    "id": 40186,
-    "title": "Starfish Otter, other payloads set to launch on Transporter 18",
-    "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…\r\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/0C67D3BF-9038-495A-A53F-3E356705001C-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T12:55:06Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/transporter-18/"
-  },
-  {
-    "id": 40185,
-    "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-    "summary": "HELSINKI — China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A […]\r\nThe post China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/CZ6A-Yaogan40-04-24sept2026-CASC-1.png?fit=1024%2C603&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T12:46:32Z",
-    "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/"
   }
 ]
