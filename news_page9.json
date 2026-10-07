@@ -1,5 +1,14 @@
 [
   {
+    "id": 40188,
+    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+    "summary": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-01T14:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/"
+  },
+  {
     "id": 40186,
     "title": "Starfish Otter, other payloads set to launch on Transporter 18",
     "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on…\r\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-01T01:13:53Z",
     "url": "https://spacepolicyonline.com/news/ltg-david-miller-nominated-as-next-leader-of-u-s-space-command/"
-  },
-  {
-    "id": 40179,
-    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-    "summary": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can […]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/galileo-logo-square-submission.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-01T00:24:08Z",
-    "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/"
   }
 ]

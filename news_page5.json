@@ -1,5 +1,14 @@
 [
   {
+    "id": 40230,
+    "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+    "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-04T19:10:59Z",
+    "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+  },
+  {
     "id": 40229,
     "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
     "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-02T16:10:55Z",
     "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/"
-  },
-  {
-    "id": 40219,
-    "title": "Analysis: Despite Ambiguous Wording, Moon Base’s “Perimeter” Likely Complies With International Law",
-    "summary": "NASA should strive for clarity as to its exact intentions as it seeks to establish positive norms for lunar surface usage.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-1.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-10-02T16:02:43Z",
-    "url": "https://www.spacescout.info/2026/10/despite-ambiguous-wording-moon-bases-perimeter-likely-complies-with-international-law/"
   }
 ]

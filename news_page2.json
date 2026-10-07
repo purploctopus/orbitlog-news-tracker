@@ -1,5 +1,14 @@
 [
   {
+    "id": 40261,
+    "title": "ESA at IAC 2026 – Day 2",
+    "summary": "International cooperation remained at the heart of ESA’s participation in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, as ESA Director General Josef Aschbacher held a series of high-level meetings with partners from around the world. The exchanges reflected ESA’s commitment to strengthening existing partnerships while broadening cooperation with both established and emerging space actors.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iaf_global_space_leaders_summit_2026/27559712-1-eng-GB/IAF_Global_space_leaders_summit_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-06T14:37:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
+  },
+  {
     "id": 40259,
     "title": "The EU Extends SALTO Deadline Again as Themis Hop Test Slips",
     "summary": "The European Commission has extended the deadline for the SALTO reusable launcher project to the end of 2026, giving the programme another three months to complete the first hop test of Europe’s Themis reusable rocket demonstrator. According to the European Commission’s project database, the reuSable strAtegic space Launcher Technologies & Operations (SALTO) initiative is now […]\nThe post The EU Extends SALTO Deadline Again as Themis Hop Test Slips appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-06T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/"
-  },
-  {
-    "id": 40250,
-    "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
-    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05024_opgs_edr_ncam_NLB_843496448EDR_F1250558NCAM00309M_.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T01:04:01Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
   }
 ]
