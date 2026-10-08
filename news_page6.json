@@ -1,5 +1,59 @@
 [
   {
+    "id": 40244,
+    "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+    "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M3CBK3T6SRKP4Q7WV9CGFGW9.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T15:00:35Z",
+    "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/"
+  },
+  {
+    "id": 40242,
+    "title": "Contacting NASA’s Langley Research Center",
+    "summary": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/center-aerial-photo-2021.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T14:50:39Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
+  },
+  {
+    "id": 40240,
+    "title": "Second HyImpulse Suborbital SR75 Flight Slips to 2027",
+    "summary": "German launch startup HyImpulse has pushed the second flight of its SR75 suborbital rocket into spring 2027. On 1 October, HyImpulse announced that it had secured a launch operator licence from the UK Civil Aviation Authority (CAA) to operate its SR75 rocket from SaxaVord in Scotland. With the announcement, the company said the rocket’s first […]\r\nThe post Second HyImpulse Suborbital SR75 Flight Slips to 2027 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-05T14:00:18Z",
+    "url": "https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"
+  },
+  {
+    "id": 40238,
+    "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+    "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […]\nThe post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-05T12:00:00Z",
+    "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
+  },
+  {
+    "id": 40239,
+    "title": "Presentations at Industry Space Days",
+    "summary": "Presentations at Industry Space Days",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/jens_kauffmann_head_of_esa_s_sme_section_at_industry_space_days_2026/27538274-2-eng-GB/Jens_Kauffmann_Head_of_ESA_s_SME_Section_at_Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-05T11:47:00Z",
+    "url": "https://isd.esa.int/home/programme/"
+  },
+  {
+    "id": 40241,
+    "title": "Vacuuming the ventilation grids in Columbus",
+    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/vacuuming_the_ventilation_grids_in_columbus/27555754-2-eng-GB/Vacuuming_the_ventilation_grids_in_Columbus_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-05T09:49:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus"
+  },
+  {
     "id": 40236,
     "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
     "summary": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M104: The […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-04T21:13:07Z",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/"
-  },
-  {
-    "id": 40232,
-    "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
-    "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 1:17 a.m. PDT (4:17 a.m. EDT / 0817 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261004_T1TL-A_satellites.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-04T20:33:26Z",
-    "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/"
-  },
-  {
-    "id": 40231,
-    "title": "What’s Happening in Space Policy October 4-10, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 4-10, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Sputnik-replica-NASM-NASA-300x154.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-04T19:58:01Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/"
-  },
-  {
-    "id": 40230,
-    "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-    "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-04T19:10:59Z",
-    "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-  },
-  {
-    "id": 40229,
-    "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-    "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernumerary Rainbows over […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-04T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
-  },
-  {
-    "id": 40228,
-    "title": "ESA to pursue crew transport and space stations as European launchers come online",
-    "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The…\nThe post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-03T22:11:23Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/europe-update/"
-  },
-  {
-    "id": 40227,
-    "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-    "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-03T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
   }
 ]

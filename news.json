@@ -1,5 +1,32 @@
 [
   {
+    "id": 40293,
+    "title": "Keeping the sky dark and quiet",
+    "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/one_hour_of_satellites_over_the_northern_atacama_desert_in_chile/27563255-1-eng-GB/One_hour_of_satellites_over_the_northern_Atacama_Desert_in_Chile_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T08:00:00Z",
+    "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet"
+  },
+  {
+    "id": 40290,
+    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/"
+  },
+  {
+    "id": 40289,
+    "title": "Fighting Drought in Texas Cotton Country",
+    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
+  },
+  {
     "id": 40287,
     "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
     "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T15:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
-  },
-  {
-    "id": 40281,
-    "title": "ESA at IAC 2026 – Day 3",
-    "summary": "The future of European exploration and the decisions ahead took centre stage during ESA’s third day at IAC 2026. ESA Director General Josef Aschbacher joined representatives of ESA Member States to discuss Europe's ambitions in low Earth orbit, around the Moon and beyond. The day also saw ESA Director of Space Transportation Géraldine Naja receive the 2026 WIA-Europe Outstanding Achievement Award in recognition of her contribution to the European space sector.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iac_2026_europe_s_exploration_ambition/27561963-1-eng-GB/IAC_2026_Europe_s_exploration_ambition_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T14:54:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3"
-  },
-  {
-    "id": 40279,
-    "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-    "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-07T14:18:18Z",
-    "url": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/"
-  },
-  {
-    "id": 40277,
-    "title": "Brake! Time for ESA’s Hera asteroid mission to go slow",
-    "summary": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since. The small-car-sized spacecraft is now preparing for its single most challenging activity since lift-off: the sustained braking manoeuvres to slow it down to approach its target asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_braking/27560778-2-eng-GB/Hera_braking_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T12:33:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow"
   }
 ]
