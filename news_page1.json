@@ -1,5 +1,77 @@
 [
   {
+    "id": 40302,
+    "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+    "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/crew12splashdown1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T17:02:28Z",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
+  },
+  {
+    "id": 40300,
+    "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
+    "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify American leadership in space nuclear power and propulsion.  “We are entering the ‘Nuclear NASA-era,’ […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-doe-mou-release-smaller-image-oct-8.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T15:46:25Z",
+    "url": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/"
+  },
+  {
+    "id": 40301,
+    "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+    "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T15:31:24Z",
+    "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+  },
+  {
+    "id": 40299,
+    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
+    "summary": "\"If this was easy, everybody else would be doing it.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-08T15:28:36Z",
+    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
+  },
+  {
+    "id": 40298,
+    "title": "The Exploration Company to Test Lunar Hopper Demonstrator in 2027",
+    "summary": "The Exploration Company has announced it will test a lunar hopper demonstrator called ONEIROS in the United Arab Emirates in 2027. ONEIROS is a privately funded initiative focused on validating technologies that could eventually support lower-cost access to the lunar surface. The company plans to build a one-tonne demonstrator that will use a throttleable methane-fuelled […]\nThe post The Exploration Company to Test Lunar Hopper Demonstrator in 2027 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-Exploration-Company-to-Test-Lunar-Hopper-Demonstrator-in-2027.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-08T14:48:33Z",
+    "url": "https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/"
+  },
+  {
+    "id": 40297,
+    "title": "What will it take to build a moon base?",
+    "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […]\nThe post What will it take to build a moon base? appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-08T13:57:38Z",
+    "url": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/"
+  },
+  {
+    "id": 40296,
+    "title": "Sentinel-3C returns its first views of Earth",
+    "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T12:25:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
+  },
+  {
+    "id": 40294,
+    "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+    "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T09:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
+  },
+  {
     "id": 40293,
     "title": "Keeping the sky dark and quiet",
     "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
@@ -9,84 +81,12 @@
     "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet"
   },
   {
-    "id": 40290,
-    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
-    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/"
-  },
-  {
-    "id": 40289,
-    "title": "Fighting Drought in Texas Cotton Country",
-    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
-  },
-  {
-    "id": 40287,
-    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-    "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T21:16:42Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
-  },
-  {
-    "id": 40285,
-    "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-    "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T20:17:16Z",
-    "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-  },
-  {
-    "id": 40286,
-    "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-    "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T20:15:49Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/"
-  },
-  {
-    "id": 40283,
-    "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-    "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T17:00:47Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
-  },
-  {
-    "id": 40284,
-    "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-    "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T16:49:50Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
-  },
-  {
-    "id": 40282,
-    "title": "Artemis II Crew Moon Photo Annotations",
-    "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T15:44:59Z",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
-  },
-  {
-    "id": 40280,
-    "title": "Mars’s oddest cloud may be even odder than we thought",
-    "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
     "newsSite": "ESA",
-    "publishedAt": "2026-10-07T15:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
+    "publishedAt": "2026-10-08T08:00:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
   }
 ]
