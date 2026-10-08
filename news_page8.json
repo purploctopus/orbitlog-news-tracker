@@ -1,5 +1,32 @@
 [
   {
+    "id": 40214,
+    "title": "A guide to blood draws in orbit",
+    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/a_guide_to_blood_draws_in_orbit/27551016-1-eng-GB/A_guide_to_blood_draws_in_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-02T10:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/A_guide_to_blood_draws_in_orbit"
+  },
+  {
+    "id": 40213,
+    "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
+    "summary": "For ESA astronaut Sophie Adenot, her first steps into space were only the beginning.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/beyond_the_airlock_-_sophie_adenot_s_three_spacewalks/27549738-4-eng-GB/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-02T10:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Beyond_the_airlock_-_Sophie_Adenot_s_three_spacewalks"
+  },
+  {
+    "id": 40212,
+    "title": "Earth from Space: Typhoon Surigae",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_typhoon_surigae/27547933-1-eng-GB/Earth_from_Space_Typhoon_Surigae_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-02T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae"
+  },
+  {
     "id": 40237,
     "title": "GOMX-5 successfully launched",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-01T22:37:30Z",
     "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/"
-  },
-  {
-    "id": 40203,
-    "title": "Fresh crew takes off for six-month stay aboard space station",
-    "summary": "Strapped into a SpaceX Crew Dragon capsule, Crew 13 commander Jessica Watkins, pilot Luke Delaney, Russian cosmonaut Sergey Teteryatnikov and Canadian astronaut Joshua Kutryk blasted off from pad 40 at the Cape Canaveral Space Force Station at 11:10 a.m. EDT.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001_Crew-13_JP-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-01T20:46:05Z",
-    "url": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/"
-  },
-  {
-    "id": 40202,
-    "title": "NASA Awards Enterprise Logistics Support Services Agreements",
-    "summary": "NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, disposal, product support, flight hardware support operations, equipment maintenance and repair, export control, move operations, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-01T20:34:27Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/"
-  },
-  {
-    "id": 40201,
-    "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
-    "summary": "SpaceX’s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch…\r\nThe post Falcon Heavy set to launch classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/20260930_CC_NROL_97_sunset_DSC_0504_desktop_32cdaaf193-scaled-e1790881481877.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-01T19:17:40Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/"
   }
 ]
