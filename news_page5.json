@@ -1,5 +1,41 @@
 [
   {
+    "id": 40291,
+    "title": "Themis completes second fuelling rehearsal",
+    "summary": "ESA’s Themis reusable rocket stage demonstrator successfully completed its second ‘wet dress rehearsal’ at Esrange Space Center in Sweden on 29 September, testing the vehicle and ground procedures under representative cryogenic conditions.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/themis_during_second_wet_dress_rehearsal/27560446-3-eng-GB/Themis_during_second_wet_dress_rehearsal_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T07:33:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal"
+  },
+  {
+    "id": 40273,
+    "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+    "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
+  },
+  {
+    "id": 40272,
+    "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+    "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+  },
+  {
+    "id": 40271,
+    "title": "Crew-12 set to depart the ISS after eighth months in orbit",
+    "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission is scheduled…\r\nThe post Crew-12 set to depart the ISS after eighth months in orbit appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/55490081853_fc3faab619_5k-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-06T23:43:49Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/"
+  },
+  {
     "id": 40270,
     "title": "It looks like the Atlantic storm season may finally produce a hurricane",
     "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-06T17:55:52Z",
     "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/"
-  },
-  {
-    "id": 40263,
-    "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-    "summary": "Diligent sleuthing by astronomers uncovered a surprising chemical clue that indicates the white dwarf star HS 0209+0832 may host a second-generation planet. This artist’s concept released on Oct. 5, 2026, depicts that possible explanation. The white dwarf is the “dead” core of a star that burned through all of its nuclear fuel and lost its outer […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T16:09:13Z",
-    "url": "https://www.nasa.gov/image-article/astronomers-solve-cosmic-cold-case-with-nasa-hubble-data/"
-  },
-  {
-    "id": 40262,
-    "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
-    "summary": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-06T16:00:02Z",
-    "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/"
-  },
-  {
-    "id": 40260,
-    "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
-    "summary": "A newly released panorama captured by NASA’s Curiosity rover offers the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close. The scene was snapped at 8:30 a.m. local Mars time, showing striking blue hues in the foreground as bright morning light illuminates […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T15:30:07Z",
-    "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/"
-  },
-  {
-    "id": 40261,
-    "title": "ESA at IAC 2026 – Day 2",
-    "summary": "International cooperation remained at the heart of ESA’s participation in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, as ESA Director General Josef Aschbacher held a series of high-level meetings with partners from around the world. The exchanges reflected ESA’s commitment to strengthening existing partnerships while broadening cooperation with both established and emerging space actors.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iaf_global_space_leaders_summit_2026/27559712-1-eng-GB/IAF_Global_space_leaders_summit_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-06T14:37:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
   }
 ]
