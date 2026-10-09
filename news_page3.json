@@ -1,5 +1,14 @@
 [
   {
+    "id": 40287,
+    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+    "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T21:16:42Z",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
+  },
+  {
     "id": 40285,
     "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
     "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-07T14:18:18Z",
     "url": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/"
-  },
-  {
-    "id": 40277,
-    "title": "Brake! Time for ESA’s Hera asteroid mission to go slow",
-    "summary": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since. The small-car-sized spacecraft is now preparing for its single most challenging activity since lift-off: the sustained braking manoeuvres to slow it down to approach its target asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_braking/27560778-2-eng-GB/Hera_braking_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T12:33:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow"
   }
 ]

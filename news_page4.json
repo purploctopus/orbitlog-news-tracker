@@ -1,5 +1,14 @@
 [
   {
+    "id": 40277,
+    "title": "Brake! Time for ESA’s Hera asteroid mission to go slow",
+    "summary": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since. The small-car-sized spacecraft is now preparing for its single most challenging activity since lift-off: the sustained braking manoeuvres to slow it down to approach its target asteroids.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_braking/27560778-2-eng-GB/Hera_braking_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T12:33:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow"
+  },
+  {
     "id": 40276,
     "title": "The Incredible Adventures of the Hera mission – The space detectives arrive",
     "summary": "Meet Hera, our very own asteroid detective. Together with two CubeSats – Milani the rock decoder and Juventas the radar visionary – Hera is off on an adventure to explore Didymos, a double asteroid system that is typical of the thousands that pose an impact risk to planet Earth.",
@@ -18,15 +27,6 @@
     "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
   },
   {
-    "id": 40278,
-    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
-    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T08:03:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
-  },
-  {
     "id": 40288,
     "title": "Finding Hera’s way: Flight Dynamics team in action",
     "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
@@ -34,6 +34,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T08:03:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_Flight_Dynamics_team_in_action"
+  },
+  {
+    "id": 40278,
+    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
+    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T08:03:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
   },
   {
     "id": 40274,
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-06T23:43:49Z",
     "url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/"
-  },
-  {
-    "id": 40270,
-    "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-    "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-deepmind.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-06T19:55:50Z",
-    "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/"
   }
 ]

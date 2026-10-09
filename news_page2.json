@@ -1,5 +1,14 @@
 [
   {
+    "id": 40301,
+    "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+    "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T15:31:24Z",
+    "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+  },
+  {
     "id": 40299,
     "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
     "summary": "\"If this was easy, everybody else would be doing it.\"",
@@ -45,15 +54,6 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
   },
   {
-    "id": 40295,
-    "title": "The director’s take: telling Galileo’s story through film",
-    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T08:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
-  },
-  {
     "id": 40293,
     "title": "Keeping the sky dark and quiet",
     "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
@@ -61,6 +61,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-08T08:00:00Z",
     "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet"
+  },
+  {
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T08:00:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
   },
   {
     "id": 40290,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
-  },
-  {
-    "id": 40287,
-    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-    "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T21:16:42Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
   }
 ]

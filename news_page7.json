@@ -1,5 +1,14 @@
 [
   {
+    "id": 40251,
+    "title": "A Journey to the Depths of Ancient Mars?",
+    "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZR0_1965_0841379465_206EBY_N0910606ZCAM04453_1100LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T00:48:54Z",
+    "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
+  },
+  {
     "id": 40249,
     "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
     "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-05T14:00:18Z",
     "url": "https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"
-  },
-  {
-    "id": 40238,
-    "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-    "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […]\nThe post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-05T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
   }
 ]
