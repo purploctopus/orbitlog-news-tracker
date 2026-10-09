@@ -1,5 +1,32 @@
 [
   {
+    "id": 40280,
+    "title": "Mars’s oddest cloud may be even odder than we thought",
+    "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T15:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
+  },
+  {
+    "id": 40281,
+    "title": "ESA at IAC 2026 – Day 3",
+    "summary": "The future of European exploration and the decisions ahead took centre stage during ESA’s third day at IAC 2026. ESA Director General Josef Aschbacher joined representatives of ESA Member States to discuss Europe's ambitions in low Earth orbit, around the Moon and beyond. The day also saw ESA Director of Space Transportation Géraldine Naja receive the 2026 WIA-Europe Outstanding Achievement Award in recognition of her contribution to the European space sector.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iac_2026_europe_s_exploration_ambition/27561963-1-eng-GB/IAC_2026_Europe_s_exploration_ambition_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T14:54:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3"
+  },
+  {
+    "id": 40292,
+    "title": "Géraldine Naja with the WIA-Europe award",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/geraldine_naja_with_the_wia-europe_award/27562176-1-eng-GB/Geraldine_Naja_with_the_WIA-Europe_award_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T14:53:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Geraldine_Naja_with_the_WIA-Europe_award"
+  },
+  {
     "id": 40279,
     "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
     "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
@@ -36,15 +63,6 @@
     "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
   },
   {
-    "id": 40278,
-    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
-    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T08:03:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
-  },
-  {
     "id": 40288,
     "title": "Finding Hera’s way: Flight Dynamics team in action",
     "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
@@ -54,6 +72,15 @@
     "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_Flight_Dynamics_team_in_action"
   },
   {
+    "id": 40278,
+    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
+    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T08:03:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
+  },
+  {
     "id": 40274,
     "title": "When the Sun turns black",
     "summary": "From the ESA Blogs.",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T08:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black"
-  },
-  {
-    "id": 40291,
-    "title": "Themis completes second fuelling rehearsal",
-    "summary": "ESA’s Themis reusable rocket stage demonstrator successfully completed its second ‘wet dress rehearsal’ at Esrange Space Center in Sweden on 29 September, testing the vehicle and ground procedures under representative cryogenic conditions.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/themis_during_second_wet_dress_rehearsal/27560446-3-eng-GB/Themis_during_second_wet_dress_rehearsal_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T07:33:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal"
-  },
-  {
-    "id": 40273,
-    "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-    "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
-  },
-  {
-    "id": 40272,
-    "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-    "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
   }
 ]

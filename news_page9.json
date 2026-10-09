@@ -1,5 +1,32 @@
 [
   {
+    "id": 40243,
+    "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+    "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.   The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/GRC-2026-C-02774/GRC-2026-C-02774~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T15:27:23Z",
+    "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
+  },
+  {
+    "id": 40244,
+    "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+    "summary": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M3CBK3T6SRKP4Q7WV9CGFGW9.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T15:00:35Z",
+    "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/"
+  },
+  {
+    "id": 40242,
+    "title": "Contacting NASA’s Langley Research Center",
+    "summary": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/center-aerial-photo-2021.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T14:50:39Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
+  },
+  {
     "id": 40240,
     "title": "Second HyImpulse Suborbital SR75 Flight Slips to 2027",
     "summary": "German launch startup HyImpulse has pushed the second flight of its SR75 suborbital rocket into spring 2027. On 1 October, HyImpulse announced that it had secured a launch operator licence from the UK Civil Aviation Authority (CAA) to operate its SR75 rocket from SaxaVord in Scotland. With the announcement, the company said the rocket’s first […]\r\nThe post Second HyImpulse Suborbital SR75 Flight Slips to 2027 appeared first on European Spaceflight.",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-04T22:49:58Z",
     "url": "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"
-  },
-  {
-    "id": 40233,
-    "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-    "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-04T21:13:07Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/"
-  },
-  {
-    "id": 40232,
-    "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
-    "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 1:17 a.m. PDT (4:17 a.m. EDT / 0817 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261004_T1TL-A_satellites.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-04T20:33:26Z",
-    "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/"
-  },
-  {
-    "id": 40231,
-    "title": "What’s Happening in Space Policy October 4-10, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 4-10, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Sputnik-replica-NASM-NASA-300x154.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-04T19:58:01Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-4-10-2026/"
   }
 ]
