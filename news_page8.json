@@ -1,5 +1,68 @@
 [
   {
+    "id": 40250,
+    "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
+    "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05024_opgs_edr_ncam_NLB_843496448EDR_F1250558NCAM00309M_.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T01:04:01Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/"
+  },
+  {
+    "id": 40251,
+    "title": "A Journey to the Depths of Ancient Mars?",
+    "summary": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.  Light-colored rocks are a strange sight on Mars, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZR0_1965_0841379465_206EBY_N0910606ZCAM04453_1100LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T00:48:54Z",
+    "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
+  },
+  {
+    "id": 40249,
+    "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+    "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55559507519-2d24859fff-k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T21:44:40Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
+  },
+  {
+    "id": 40248,
+    "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
+    "summary": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\r\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-05T20:55:39Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"
+  },
+  {
+    "id": 40247,
+    "title": "Resource competition intensifies with surge in megaconstellations",
+    "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […]\nThe post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-05T19:13:40Z",
+    "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
+  },
+  {
+    "id": 40246,
+    "title": "ESA at IAC 2026 – Day 1",
+    "summary": "Stronger European capabilities and deeper international cooperation were at the heart of ESA’s first day at the 77th International Astronautical Congress (IAC) in Antalya, Türkiye. From exploration to the contribution of space to society, ESA Director General Josef Aschbacher underlined the importance of Europe becoming a stronger and more capable partner in a rapidly changing space environment.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_direct_general_at_iac_2026/27557069-2-eng-GB/ESA_Direct_General_at_IAC_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-05T18:28:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1"
+  },
+  {
+    "id": 40245,
+    "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+    "summary": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T17:42:56Z",
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/"
+  },
+  {
     "id": 40243,
     "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
     "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.   The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are […]",
@@ -25,68 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-05T14:50:39Z",
     "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
-  },
-  {
-    "id": 40240,
-    "title": "Second HyImpulse Suborbital SR75 Flight Slips to 2027",
-    "summary": "German launch startup HyImpulse has pushed the second flight of its SR75 suborbital rocket into spring 2027. On 1 October, HyImpulse announced that it had secured a launch operator licence from the UK Civil Aviation Authority (CAA) to operate its SR75 rocket from SaxaVord in Scotland. With the announcement, the company said the rocket’s first […]\r\nThe post Second HyImpulse Suborbital SR75 Flight Slips to 2027 appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Second-HyImpulse-Suborbital-SR75-Flight-Slips-to-2027-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-05T14:00:18Z",
-    "url": "https://europeanspaceflight.com/second-hyimpulse-suborbital-sr75-flight-slips-to-2027/"
-  },
-  {
-    "id": 40238,
-    "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-    "summary": "DURANGO, Colo., Oct. 5, 2026 — Agile Space Industries today announced that Jonathan Baliff has joined its Board of Directors, bringing extensive experience in aerospace, finance, and corporate leadership. His […]\nThe post Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-05T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
-  },
-  {
-    "id": 40239,
-    "title": "Presentations at Industry Space Days",
-    "summary": "Presentations at Industry Space Days",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/jens_kauffmann_head_of_esa_s_sme_section_at_industry_space_days_2026/27538274-2-eng-GB/Jens_Kauffmann_Head_of_ESA_s_SME_Section_at_Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-05T11:47:00Z",
-    "url": "https://isd.esa.int/home/programme/"
-  },
-  {
-    "id": 40241,
-    "title": "Vacuuming the ventilation grids in Columbus",
-    "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/vacuuming_the_ventilation_grids_in_columbus/27555754-2-eng-GB/Vacuuming_the_ventilation_grids_in_Columbus_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-05T09:49:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Vacuuming_the_ventilation_grids_in_Columbus"
-  },
-  {
-    "id": 40236,
-    "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-    "summary": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M104: The […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/M104_Vollmer_4222.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/"
-  },
-  {
-    "id": 40235,
-    "title": "Moon-Like Madagascar",
-    "summary": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/"
-  },
-  {
-    "id": 40234,
-    "title": "ESA, CAS release first images from SMILE; officially begin science operations",
-    "summary": "Following its launch in May and a multi-month commissioning period, the joint European Space Agency…\r\nThe post ESA, CAS release first images from SMILE; officially begin science operations appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-04T22:49:58Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"
   }
 ]
