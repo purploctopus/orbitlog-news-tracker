@@ -1,5 +1,23 @@
 [
   {
+    "id": 40303,
+    "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+    "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-brown-dwarf-grid-16x9-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T18:22:48Z",
+    "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
+  },
+  {
+    "id": 40304,
+    "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
+    "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T18:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
+  },
+  {
     "id": 40302,
     "title": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
     "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the agency’s Johnson Space Center in Houston. […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-08T12:25:00Z",
     "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
-  },
-  {
-    "id": 40332,
-    "title": "3D-printed metal: unlocking crew autonomy",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T10:34:36Z",
-    "url": "https://new.esa.int/articles/3d-printed-metal-unlocking-crew-autonomy"
-  },
-  {
-    "id": 40294,
-    "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-    "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T09:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
   }
 ]

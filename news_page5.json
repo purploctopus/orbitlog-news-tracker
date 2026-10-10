@@ -1,5 +1,23 @@
 [
   {
+    "id": 40284,
+    "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+    "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T16:49:50Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
+  },
+  {
+    "id": 40282,
+    "title": "Artemis II Crew Moon Photo Annotations",
+    "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T15:44:59Z",
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
+  },
+  {
     "id": 40280,
     "title": "Mars’s oddest cloud may be even odder than we thought",
     "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T08:03:00Z",
     "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_Flight_Dynamics_team_in_action"
-  },
-  {
-    "id": 40278,
-    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
-    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T08:03:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
-  },
-  {
-    "id": 40274,
-    "title": "When the Sun turns black",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/when_the_sun_turns_black/27556841-1-eng-GB/When_the_Sun_turns_black_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black"
   }
 ]

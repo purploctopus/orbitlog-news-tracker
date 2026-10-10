@@ -1,5 +1,23 @@
 [
   {
+    "id": 40278,
+    "title": "Finding Hera’s way: ESA’s Flight Dynamics team into action",
+    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T08:03:00Z",
+    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action"
+  },
+  {
+    "id": 40274,
+    "title": "When the Sun turns black",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/when_the_sun_turns_black/27556841-1-eng-GB/When_the_Sun_turns_black_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black"
+  },
+  {
     "id": 40291,
     "title": "Themis completes second fuelling rehearsal",
     "summary": "ESA’s Themis reusable rocket stage demonstrator successfully completed its second ‘wet dress rehearsal’ at Esrange Space Center in Sweden on 29 September, testing the vehicle and ground procedures under representative cryogenic conditions.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-06T18:27:38Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/"
-  },
-  {
-    "id": 40266,
-    "title": "Lunar Grounding Challenge",
-    "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesuit can buildup a substantial negative potential due […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/feature-moonbase-img-2f4057.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T18:22:24Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/lunar-grounding-challenge/"
-  },
-  {
-    "id": 40265,
-    "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-    "summary": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work, infrastructure, and systems. The laboratory will provide modern […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T17:55:52Z",
-    "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/"
   }
 ]

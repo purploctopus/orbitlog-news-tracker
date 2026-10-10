@@ -1,5 +1,23 @@
 [
   {
+    "id": 40314,
+    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+    "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-09T11:00:57Z",
+    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+  },
+  {
+    "id": 40318,
+    "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
+    "summary": "On 9 October, astronauts on the International Space Station begin supporting the final decommissioning of ESA's Fluid Science Laboratory (FSL), one of the longest-serving scientific facilities inside Europe's Columbus laboratory.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/installing_pasta-3_in_fsl/27567798-1-eng-GB/Installing_PASTA-3_in_FSL_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-09T10:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit"
+  },
+  {
     "id": 40313,
     "title": "Earth from Space: Namibia’s biggest salt pan",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T18:52:27Z",
     "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
-  },
-  {
-    "id": 40303,
-    "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-    "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-brown-dwarf-grid-16x9-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T18:22:48Z",
-    "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/"
-  },
-  {
-    "id": 40304,
-    "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-    "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01KKCJGBWX6TE4ABRTFWE9B8SQ.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T18:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/"
   }
 ]

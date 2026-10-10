@@ -1,5 +1,23 @@
 [
   {
+    "id": 40332,
+    "title": "3D-printed metal: unlocking crew autonomy",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T10:34:36Z",
+    "url": "https://new.esa.int/articles/3d-printed-metal-unlocking-crew-autonomy"
+  },
+  {
+    "id": 40294,
+    "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+    "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_26_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_26_March_2022_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T09:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
+  },
+  {
     "id": 40295,
     "title": "The director’s take: telling Galileo’s story through film",
     "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-07T17:00:47Z",
     "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
-  },
-  {
-    "id": 40284,
-    "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-    "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T16:49:50Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/"
-  },
-  {
-    "id": 40282,
-    "title": "Artemis II Crew Moon Photo Annotations",
-    "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike” Glover (in green) and CSA (Canadian Space Agency) Jeremy Hansen (in red) observed impact flashes and their locations, which […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T15:44:59Z",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/"
   }
 ]

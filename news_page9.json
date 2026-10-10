@@ -1,5 +1,23 @@
 [
   {
+    "id": 40246,
+    "title": "ESA at IAC 2026 – Day 1",
+    "summary": "Stronger European capabilities and deeper international cooperation were at the heart of ESA’s first day at the 77th International Astronautical Congress (IAC) in Antalya, Türkiye. From exploration to the contribution of space to society, ESA Director General Josef Aschbacher underlined the importance of Europe becoming a stronger and more capable partner in a rapidly changing space environment.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_direct_general_at_iac_2026/27557069-2-eng-GB/ESA_Direct_General_at_IAC_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-05T18:28:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1"
+  },
+  {
+    "id": 40245,
+    "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+    "summary": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL games is […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T17:42:56Z",
+    "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/"
+  },
+  {
     "id": 40243,
     "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
     "summary": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds.   The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds containing unusually large drops of water that are […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-05T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/"
-  },
-  {
-    "id": 40235,
-    "title": "Moon-Like Madagascar",
-    "summary": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/"
-  },
-  {
-    "id": 40234,
-    "title": "ESA, CAS release first images from SMILE; officially begin science operations",
-    "summary": "Following its launch in May and a multi-month commissioning period, the joint European Space Agency…\r\nThe post ESA, CAS release first images from SMILE; officially begin science operations appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/smileuvi1-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-04T22:49:58Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/"
   }
 ]
