@@ -1,5 +1,14 @@
 [
   {
+    "id": 40296,
+    "title": "Sentinel-3C returns its first views of Earth",
+    "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T12:25:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
+  },
+  {
     "id": 40332,
     "title": "3D-printed metal: unlocking crew autonomy",
     "summary": "From the ESA Blogs.",
@@ -18,15 +27,6 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
   },
   {
-    "id": 40295,
-    "title": "The director’s take: telling Galileo’s story through film",
-    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T08:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
-  },
-  {
     "id": 40293,
     "title": "Keeping the sky dark and quiet",
     "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
@@ -34,6 +34,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-08T08:00:00Z",
     "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet"
+  },
+  {
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T08:00:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
   },
   {
     "id": 40290,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-07T20:15:49Z",
     "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/"
-  },
-  {
-    "id": 40283,
-    "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-    "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T17:00:47Z",
-    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
   }
 ]

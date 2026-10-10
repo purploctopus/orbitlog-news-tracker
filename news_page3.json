@@ -1,5 +1,14 @@
 [
   {
+    "id": 40306,
+    "title": "Crew-12 Returns to Earth",
+    "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T18:52:27Z",
+    "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
+  },
+  {
     "id": 40303,
     "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
     "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-08T13:57:38Z",
     "url": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/"
-  },
-  {
-    "id": 40296,
-    "title": "Sentinel-3C returns its first views of Earth",
-    "summary": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments – a major milestone that confirms the satellite is working well and on the road to monitoring the health of Earth’s oceans, land, cryosphere and atmosphere.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/italy_and_beyond_imaged_by_sentinel-3c/27561379-1-eng-GB/Italy_and_beyond_imaged_by_Sentinel-3C_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T12:25:00Z",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40268,
+    "title": "October 2026 Satellite Puzzler",
+    "summary": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/satellite-puzzler/2026_octoberpuzzler.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T18:27:38Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/"
+  },
+  {
     "id": 40266,
     "title": "Lunar Grounding Challenge",
     "summary": "As an astronaut traverses the lunar South Pole, tribocharging from walking on the lunar surface and plasma charging from the ambient plasma generate electric charge on the spacesuit. This problem is severely compounded when entering lunar shadows and Permanently Shadowed Regions (PSRs). In these dark zones, the spacesuit can buildup a substantial negative potential due […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-06T13:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
-  },
-  {
-    "id": 40255,
-    "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-    "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\r\nThe post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-06T12:35:41Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
   }
 ]

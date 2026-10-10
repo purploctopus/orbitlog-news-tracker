@@ -1,5 +1,14 @@
 [
   {
+    "id": 40315,
+    "title": "Week in images: 05-09 October 2026",
+    "summary": "Week in images: 05-09 October 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-09T13:15:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026"
+  },
+  {
     "id": 40314,
     "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
     "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T18:56:25Z",
     "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-  },
-  {
-    "id": 40306,
-    "title": "Crew-12 Returns to Earth",
-    "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T18:52:27Z",
-    "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/"
   }
 ]

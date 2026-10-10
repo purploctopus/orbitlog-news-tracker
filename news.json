@@ -1,5 +1,14 @@
 [
   {
+    "id": 40341,
+    "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+    "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-10T14:18:59Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/"
+  },
+  {
     "id": 40340,
     "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
     "summary": "ESA astronaut Sophie Adenot has arrived back in Europe, landing in Cologne, Germany, following her return to Earth with Crew-12 after 237 days, nearly eight months, aboard the International Space Station for her εpsilon mission.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-09T13:46:21Z",
     "url": "https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/"
-  },
-  {
-    "id": 40315,
-    "title": "Week in images: 05-09 October 2026",
-    "summary": "Week in images: 05-09 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-09T13:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026"
   }
 ]

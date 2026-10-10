@@ -1,5 +1,14 @@
 [
   {
+    "id": 40255,
+    "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+    "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\r\nThe post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-06-13-24-15-744.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-06T12:35:41Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/"
+  },
+  {
     "id": 40257,
     "title": "How to record rocket emissions",
     "summary": "A research aircraft chased a sub-orbital rocket launch in Sweden to see how space agencies can better monitor and understand emissions in our atmosphere.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-05T20:55:39Z",
     "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"
-  },
-  {
-    "id": 40247,
-    "title": "Resource competition intensifies with surge in megaconstellations",
-    "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […]\nThe post Resource competition intensifies with surge in megaconstellations appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-05T19:13:40Z",
-    "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40283,
+    "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+    "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T17:00:47Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
+  },
+  {
     "id": 40284,
     "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
     "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-07T08:21:45Z",
     "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
-  },
-  {
-    "id": 40288,
-    "title": "Finding Hera’s way: Flight Dynamics team in action",
-    "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T08:03:00Z",
-    "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_Flight_Dynamics_team_in_action"
   }
 ]
