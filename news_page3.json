@@ -1,5 +1,14 @@
 [
   {
+    "id": 40308,
+    "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+    "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T19:40:00Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/"
+  },
+  {
     "id": 40305,
     "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
     "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
@@ -79,14 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-08T15:28:36Z",
     "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
-  },
-  {
-    "id": 40298,
-    "title": "The Exploration Company to Test Lunar Hopper Demonstrator in 2027",
-    "summary": "The Exploration Company has announced it will test a lunar hopper demonstrator called ONEIROS in the United Arab Emirates in 2027. ONEIROS is a privately funded initiative focused on validating technologies that could eventually support lower-cost access to the lunar surface. The company plans to build a one-tonne demonstrator that will use a throttleable methane-fuelled […]\r\nThe post The Exploration Company to Test Lunar Hopper Demonstrator in 2027 appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-Exploration-Company-to-Test-Lunar-Hopper-Demonstrator-in-2027.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-08T14:48:33Z",
-    "url": "https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/"
   }
 ]

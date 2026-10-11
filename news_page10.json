@@ -1,5 +1,14 @@
 [
   {
+    "id": 40239,
+    "title": "Presentations at Industry Space Days",
+    "summary": "Presentations at Industry Space Days",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/jens_kauffmann_head_of_esa_s_sme_section_at_industry_space_days_2026/27538274-2-eng-GB/Jens_Kauffmann_Head_of_ESA_s_SME_Section_at_Industry_Space_Days_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-05T11:47:00Z",
+    "url": "https://isd.esa.int/home/programme/"
+  },
+  {
     "id": 40241,
     "title": "Vacuuming the ventilation grids in Columbus",
     "summary": "This video was published on social media by ESA astronaut Sophie Adenot with the following caption:",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-04T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/"
-  },
-  {
-    "id": 40228,
-    "title": "ESA to pursue crew transport and space stations as European launchers come online",
-    "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The…\nThe post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Artist_s_impression_of_a_potential_European-led_orbital_station_1_3.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-03T22:11:23Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/europe-update/"
   }
 ]

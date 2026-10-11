@@ -1,5 +1,14 @@
 [
   {
+    "id": 40298,
+    "title": "The Exploration Company to Test Lunar Hopper Demonstrator in 2027",
+    "summary": "The Exploration Company has announced it will test a lunar hopper demonstrator called ONEIROS in the United Arab Emirates in 2027. ONEIROS is a privately funded initiative focused on validating technologies that could eventually support lower-cost access to the lunar surface. The company plans to build a one-tonne demonstrator that will use a throttleable methane-fuelled […]\r\nThe post The Exploration Company to Test Lunar Hopper Demonstrator in 2027 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-Exploration-Company-to-Test-Lunar-Hopper-Demonstrator-in-2027.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-08T14:48:33Z",
+    "url": "https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/"
+  },
+  {
     "id": 40297,
     "title": "What will it take to build a moon base?",
     "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […]\nThe post What will it take to build a moon base? appeared first on SpaceNews.",
@@ -36,15 +45,6 @@
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks"
   },
   {
-    "id": 40295,
-    "title": "The director’s take: telling Galileo’s story through film",
-    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-08T08:00:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
-  },
-  {
     "id": 40293,
     "title": "Keeping the sky dark and quiet",
     "summary": "For thousands of years, the night sky has inspired humanity, guided explorers and helped scientists unlock the mysteries of the Universe. As the number of satellites in orbit grows, their reflected light and radio frequency interference become a challenge for both professional astronomy and simple stargazing.",
@@ -52,6 +52,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-08T08:00:00Z",
     "url": "https://www.esa.int/Space_Safety/Clean_Space/Keeping_the_sky_dark_and_quiet"
+  },
+  {
+    "id": 40295,
+    "title": "The director’s take: telling Galileo’s story through film",
+    "summary": "In 2025, to celebrate thirty years of satellite navigation in Europe, the European Space Agency (ESA) commissioned a documentary to capture the history of Galileo, Europe’s satellite navigation system. Finding Our Way: Inside the Galileo Project will premiere on YouTube on 15 October 2026 at 18:30 CEST. Here, we sit down with Design & Data’s Johannes Walden, who directed the documentary.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/navigation_documentary_filming_at_estec/27553947-1-eng-GB/Navigation_documentary_filming_at_ESTEC_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-08T08:00:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/The_director_s_take_telling_Galileo_s_story_through_film"
   },
   {
     "id": 40290,
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-07T21:16:42Z",
     "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
-  },
-  {
-    "id": 40285,
-    "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-    "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T20:17:16Z",
-    "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40258,
+    "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
+    "summary": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M2RAWEPQ0YFBJH9VZHV49SQT.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T13:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/"
+  },
+  {
     "id": 40256,
     "title": "Webb captures commotion from nebula’s stellar jets",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-06T00:48:54Z",
     "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
-  },
-  {
-    "id": 40249,
-    "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-    "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55559507519-2d24859fff-k.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T21:44:40Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
   }
 ]

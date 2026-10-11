@@ -1,5 +1,14 @@
 [
   {
+    "id": 40249,
+    "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+    "summary": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55559507519-2d24859fff-k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-05T21:44:40Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
+  },
+  {
     "id": 40248,
     "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
     "summary": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\r\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-05T12:00:00Z",
     "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/"
-  },
-  {
-    "id": 40239,
-    "title": "Presentations at Industry Space Days",
-    "summary": "Presentations at Industry Space Days",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/jens_kauffmann_head_of_esa_s_sme_section_at_industry_space_days_2026/27538274-2-eng-GB/Jens_Kauffmann_Head_of_ESA_s_SME_Section_at_Industry_Space_Days_2026_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-05T11:47:00Z",
-    "url": "https://isd.esa.int/home/programme/"
   }
 ]
