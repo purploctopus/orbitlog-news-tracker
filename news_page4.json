@@ -1,5 +1,14 @@
 [
   {
+    "id": 40299,
+    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
+    "summary": "\"If this was easy, everybody else would be doing it.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-08T15:28:36Z",
+    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
+  },
+  {
     "id": 40298,
     "title": "The Exploration Company to Test Lunar Hopper Demonstrator in 2027",
     "summary": "The Exploration Company has announced it will test a lunar hopper demonstrator called ONEIROS in the United Arab Emirates in 2027. ONEIROS is a privately funded initiative focused on validating technologies that could eventually support lower-cost access to the lunar surface. The company plans to build a one-tonne demonstrator that will use a throttleable methane-fuelled […]\r\nThe post The Exploration Company to Test Lunar Hopper Demonstrator in 2027 appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
-  },
-  {
-    "id": 40287,
-    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-    "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T21:16:42Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/"
   }
 ]

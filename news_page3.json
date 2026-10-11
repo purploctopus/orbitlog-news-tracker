@@ -1,5 +1,14 @@
 [
   {
+    "id": 40309,
+    "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+    "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T20:22:12Z",
+    "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+  },
+  {
     "id": 40308,
     "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
     "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T15:31:24Z",
     "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-  },
-  {
-    "id": 40299,
-    "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
-    "summary": "\"If this was easy, everybody else would be doing it.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-08T15:28:36Z",
-    "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
   }
 ]

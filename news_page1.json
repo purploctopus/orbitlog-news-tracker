@@ -1,5 +1,14 @@
 [
   {
+    "id": 40344,
+    "title": "What’s Happening in Space Policy October 11-17, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 11-17, 2026 and any insight we can offer about them. The House and Senate are in recess, […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Meir-Adenot-day-before-EVA-300x200.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-11T19:37:35Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/"
+  },
+  {
     "id": 40343,
     "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
     "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-09T16:59:24Z",
     "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
-  },
-  {
-    "id": 40319,
-    "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
-    "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-09T14:36:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
   }
 ]

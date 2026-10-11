@@ -1,5 +1,14 @@
 [
   {
+    "id": 40270,
+    "title": "It looks like the Atlantic storm season may finally produce a hurricane",
+    "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-deepmind.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-06T19:55:50Z",
+    "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/"
+  },
+  {
     "id": 40269,
     "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
     "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […]\nThe post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-06T14:37:00Z",
     "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2"
-  },
-  {
-    "id": 40259,
-    "title": "The EU Extends SALTO Deadline Again as Themis Hop Test Slips",
-    "summary": "The European Commission has extended the deadline for the SALTO reusable launcher project to the end of 2026, giving the programme another three months to complete the first hop test of Europe’s Themis reusable rocket demonstrator. According to the European Commission’s project database, the reuSable strAtegic space Launcher Technologies & Operations (SALTO) initiative is now […]\r\nThe post The EU Extends SALTO Deadline Again as Themis Hop Test Slips appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/The-EU-Extends-SALTO-Deadline-Again-as-Themis-Hop-Test-Slips.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-06T14:27:45Z",
-    "url": "https://europeanspaceflight.com/the-eu-extends-salto-deadline-again-as-themis-hop-test-slips/"
   }
 ]
