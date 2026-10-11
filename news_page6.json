@@ -1,5 +1,14 @@
 [
   {
+    "id": 40275,
+    "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+    "summary": "The European Space Agency announced that ArianeGroup and Swedish Space Corporation completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with the first wet dress rehearsal, […]\r\nThe post ArianeGroup Completes Second Themis Wet Dress Rehearsal appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ArianeGroup-Completes-Second-Themis-Wet-Dress-Rehearsal.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-07T08:21:45Z",
+    "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
+  },
+  {
     "id": 40288,
     "title": "Finding Hera’s way: Flight Dynamics team in action",
     "summary": "The European Space Agency’s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-06T19:20:20Z",
     "url": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/"
-  },
-  {
-    "id": 40267,
-    "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-    "summary": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s Commercial Resupply Services-24 mission, or Northrop Grumman CRS-24. Watch NASA’s live coverage of undocking and departure beginning at 12:30 […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss074e0458241/iss074e0458241~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-06T18:31:40Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
   }
 ]

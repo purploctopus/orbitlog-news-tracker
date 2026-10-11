@@ -1,5 +1,14 @@
 [
   {
+    "id": 40256,
+    "title": "Webb captures commotion from nebula’s stellar jets",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-06T13:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets"
+  },
+  {
     "id": 40255,
     "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
     "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile…\r\nThe post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-05T21:44:40Z",
     "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
-  },
-  {
-    "id": 40248,
-    "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
-    "summary": "On the heels of an impactful few days of launches from SpaceX, this week shapes…\r\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-05T20:55:39Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/"
   }
 ]

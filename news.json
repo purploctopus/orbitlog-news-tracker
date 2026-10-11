@@ -1,5 +1,14 @@
 [
   {
+    "id": 40342,
+    "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+    "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-11T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+  },
+  {
     "id": 40341,
     "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
     "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-09T13:57:24Z",
     "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
-  },
-  {
-    "id": 40316,
-    "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
-    "summary": "The Italian Space Agency (ASI) is exploring the development of a dedicated orbital platform capable of generating artificial gravity to support scientific research and technology development. ASI announced the initiative on 8 October and expects to open a consultation with the scientific and technological community later this month to gather research requirements, ideas and potential […]\nThe post Italy Explores Building an Artificial Gravity Research Platform in Orbit appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Italy-Explores-Building-Artificial-Gravity-Research-Platform-in-Orbit-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-09T13:46:21Z",
-    "url": "https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/"
   }
 ]

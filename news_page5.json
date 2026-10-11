@@ -1,5 +1,14 @@
 [
   {
+    "id": 40286,
+    "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+    "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-07T20:15:49Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/"
+  },
+  {
     "id": 40283,
     "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
     "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T12:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive"
-  },
-  {
-    "id": 40275,
-    "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
-    "summary": "The European Space Agency announced that ArianeGroup and Swedish Space Corporation completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with the first wet dress rehearsal, […]\r\nThe post ArianeGroup Completes Second Themis Wet Dress Rehearsal appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ArianeGroup-Completes-Second-Themis-Wet-Dress-Rehearsal.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-07T08:21:45Z",
-    "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/"
   }
 ]

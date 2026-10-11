@@ -1,5 +1,14 @@
 [
   {
+    "id": 40305,
+    "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+    "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/otter-2.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T18:56:25Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+  },
+  {
     "id": 40306,
     "title": "Crew-12 Returns to Earth",
     "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-08T14:48:33Z",
     "url": "https://europeanspaceflight.com/the-exploration-company-to-test-lunar-hopper-demonstrator-in-2027/"
-  },
-  {
-    "id": 40297,
-    "title": "What will it take to build a moon base?",
-    "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […]\nThe post What will it take to build a moon base? appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-jhu-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-08T13:57:38Z",
-    "url": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/"
   }
 ]
