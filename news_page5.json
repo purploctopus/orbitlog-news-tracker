@@ -1,5 +1,14 @@
 [
   {
+    "id": 40289,
+    "title": "Fighting Drought in Texas Cotton Country",
+    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
+  },
+  {
     "id": 40287,
     "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
     "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T14:53:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Geraldine_Naja_with_the_WIA-Europe_award"
-  },
-  {
-    "id": 40279,
-    "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-    "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-07T14:18:18Z",
-    "url": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/"
   }
 ]

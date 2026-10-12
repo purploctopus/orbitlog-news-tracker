@@ -1,5 +1,14 @@
 [
   {
+    "id": 40320,
+    "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+    "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-09T16:59:24Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
+  },
+  {
     "id": 40319,
     "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
     "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-09T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/"
-  },
-  {
-    "id": 40310,
-    "title": "Crew-12 Back on Earth as ISS Keeps Busy",
-    "summary": "NASA’s Crew-12 mission splashed down in the Pacific Ocean off the coast of California this morning, bringing the 237-day mission to an end. Their replacements on Crew-13 arrived a week […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Crew12-splashdown-Keegan-300x200.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-08T23:04:00Z",
-    "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/"
   }
 ]

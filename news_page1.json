@@ -1,5 +1,14 @@
 [
   {
+    "id": 40345,
+    "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
+    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-11T21:47:31Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
+  },
+  {
     "id": 40344,
     "title": "What’s Happening in Space Policy October 11-17, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 11-17, 2026 and any insight we can offer about them. The House and Senate are in recess, […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-09T18:11:44Z",
     "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-  },
-  {
-    "id": 40320,
-    "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-    "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T16:59:24Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40301,
+    "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
+    "summary": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T15:31:24Z",
+    "url": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+  },
+  {
     "id": 40299,
     "title": "Amazon builds 1,000th satellite, is weeks away from space Internet rollout",
     "summary": "\"If this was easy, everybody else would be doing it.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-08T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/"
-  },
-  {
-    "id": 40289,
-    "title": "Fighting Drought in Texas Cotton Country",
-    "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-08T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/"
   }
 ]
