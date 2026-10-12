@@ -1,5 +1,14 @@
 [
   {
+    "id": 40290,
+    "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+    "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Saturn […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-08T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/"
+  },
+  {
     "id": 40289,
     "title": "Fighting Drought in Texas Cotton Country",
     "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T14:54:00Z",
     "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3"
-  },
-  {
-    "id": 40292,
-    "title": "Géraldine Naja with the WIA-Europe award",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/geraldine_naja_with_the_wia-europe_award/27562176-1-eng-GB/Geraldine_Naja_with_the_WIA-Europe_award_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T14:53:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Geraldine_Naja_with_the_WIA-Europe_award"
   }
 ]

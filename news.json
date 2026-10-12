@@ -1,8 +1,26 @@
 [
   {
+    "id": 40347,
+    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+    "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
+  },
+  {
+    "id": 40346,
+    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+  },
+  {
     "id": 40345,
     "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
-    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
+    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\r\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-11T21:47:31Z",
@@ -20,7 +38,7 @@
   {
     "id": 40343,
     "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-    "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
+    "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\r\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818.jpg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-11T14:29:52Z",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-09T21:41:30Z",
     "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/"
-  },
-  {
-    "id": 40337,
-    "title": "NASA issues long-awaited call to industry for private space stations",
-    "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-09T21:34:09Z",
-    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
-  },
-  {
-    "id": 40321,
-    "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T18:11:44Z",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40253,
+    "title": "The Beaver Brown Waters of Rupert Bay",
+    "summary": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-06T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/"
+  },
+  {
     "id": 40250,
     "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
     "summary": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Oct. 1, 2026 The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-05T15:00:35Z",
     "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/"
-  },
-  {
-    "id": 40242,
-    "title": "Contacting NASA’s Langley Research Center",
-    "summary": "By Mail: National Aeronautics and Space Administration Langley Research Center Hampton, VA  23681-2199 By Phone: Operator: (757) 864-1000 Public & Media Inquiries: larc-dl-public-inquiries@mail.nasa.gov Partnerships:larc-partnerships@mail.nasa.gov Educational Inquiries:Langley Office of Education (757) 864-6300 See also: NASA Learning Resources Visitors Center: Virginia Air & Space Science Center Telephone: (757) 727-0900",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/02/center-aerial-photo-2021.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-05T14:50:39Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
   }
 ]

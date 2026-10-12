@@ -1,5 +1,14 @@
 [
   {
+    "id": 40292,
+    "title": "Géraldine Naja with the WIA-Europe award",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/geraldine_naja_with_the_wia-europe_award/27562176-1-eng-GB/Geraldine_Naja_with_the_WIA-Europe_award_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T14:53:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Geraldine_Naja_with_the_WIA-Europe_award"
+  },
+  {
     "id": 40279,
     "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
     "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-07T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
-  },
-  {
-    "id": 40272,
-    "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
-    "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
   }
 ]
