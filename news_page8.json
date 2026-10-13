@@ -1,5 +1,14 @@
 [
   {
+    "id": 40281,
+    "title": "ESA at IAC 2026 – Day 3",
+    "summary": "The future of European exploration and the decisions ahead took centre stage during ESA’s third day at IAC 2026. ESA Director General Josef Aschbacher joined representatives of ESA Member States to discuss Europe's ambitions in low Earth orbit, around the Moon and beyond. The day also saw ESA Director of Space Transportation Géraldine Naja receive the 2026 WIA-Europe Outstanding Achievement Award in recognition of her contribution to the European space sector.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/iac_2026_europe_s_exploration_ambition/27561963-1-eng-GB/IAC_2026_Europe_s_exploration_ambition_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T14:54:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3"
+  },
+  {
     "id": 40292,
     "title": "Géraldine Naja with the WIA-Europe award",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T07:33:00Z",
     "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal"
-  },
-  {
-    "id": 40273,
-    "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
-    "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-07T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/"
   }
 ]

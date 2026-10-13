@@ -1,5 +1,14 @@
 [
   {
+    "id": 40358,
+    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-13T01:19:30Z",
+    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
+  },
+  {
     "id": 40357,
     "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
     "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
@@ -27,15 +36,6 @@
     "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
   },
   {
-    "id": 40353,
-    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-    "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-12T13:00:00Z",
-    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
-  },
-  {
     "id": 40354,
     "title": "Welcome home, Sophie Adenot",
     "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
@@ -43,6 +43,15 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-12T13:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"
+  },
+  {
+    "id": 40353,
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-12T13:00:00Z",
+    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
   },
   {
     "id": 40350,
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-12T07:38:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch"
-  },
-  {
-    "id": 40352,
-    "title": "Introducing NovaMoon",
-    "summary": "The European Space Agency’s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T07:11:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon"
   }
 ]
