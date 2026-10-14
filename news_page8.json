@@ -1,5 +1,14 @@
 [
   {
+    "id": 40280,
+    "title": "Mars’s oddest cloud may be even odder than we thought",
+    "summary": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-07T15:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought"
+  },
+  {
     "id": 40281,
     "title": "ESA at IAC 2026 – Day 3",
     "summary": "The future of European exploration and the decisions ahead took centre stage during ESA’s third day at IAC 2026. ESA Director General Josef Aschbacher joined representatives of ESA Member States to discuss Europe's ambitions in low Earth orbit, around the Moon and beyond. The day also saw ESA Director of Space Transportation Géraldine Naja receive the 2026 WIA-Europe Outstanding Achievement Award in recognition of her contribution to the European space sector.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-07T08:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black"
-  },
-  {
-    "id": 40291,
-    "title": "Themis completes second fuelling rehearsal",
-    "summary": "ESA’s Themis reusable rocket stage demonstrator successfully completed its second ‘wet dress rehearsal’ at Esrange Space Center in Sweden on 29 September, testing the vehicle and ground procedures under representative cryogenic conditions.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/themis_during_second_wet_dress_rehearsal/27560446-3-eng-GB/Themis_during_second_wet_dress_rehearsal_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-07T07:33:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_completes_second_fuelling_rehearsal"
   }
 ]

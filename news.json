@@ -1,5 +1,14 @@
 [
   {
+    "id": 40369,
+    "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
+    "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-14T00:40:42Z",
+    "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/"
+  },
+  {
     "id": 40368,
     "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
     "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/"
-  },
-  {
-    "id": 40359,
-    "title": "An Impact Structure With Legs",
-    "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/"
   }
 ]
