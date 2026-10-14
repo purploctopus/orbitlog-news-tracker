@@ -1,5 +1,23 @@
 [
   {
+    "id": 40338,
+    "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
+    "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-09T21:41:30Z",
+    "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/"
+  },
+  {
+    "id": 40337,
+    "title": "NASA issues long-awaited call to industry for private space stations",
+    "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-09T21:34:09Z",
+    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
+  },
+  {
     "id": 40321,
     "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
     "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-09T10:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit"
-  },
-  {
-    "id": 40313,
-    "title": "Earth from Space: Namibia’s biggest salt pan",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-09T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan"
-  },
-  {
-    "id": 40311,
-    "title": "APOD: 2026 October 9 – Stickney Crater",
-    "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/"
   }
 ]
