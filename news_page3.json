@@ -1,5 +1,23 @@
 [
   {
+    "id": 40387,
+    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+    "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T20:13:29Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
+  },
+  {
+    "id": 40386,
+    "title": "NASA Astronauts to Answer Questions from Florida Students",
+    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T19:12:51Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/"
+  },
+  {
     "id": 40385,
     "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
     "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-14T08:25:00Z",
     "url": "https://www.esa.int/Enabling_Support/Operations/Earth_today_Jupiter_tomorrow_An_insight_into_Juice_s_recent_Earth_flyby"
-  },
-  {
-    "id": 40378,
-    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-    "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesli%C4%8Dky_01_1500px.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
-  },
-  {
-    "id": 40379,
-    "title": "Hurricane Simon Lurks Off the Mexican Coast",
-    "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40378,
+    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesli%C4%8Dky_01_1500px.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
+  },
+  {
+    "id": 40379,
+    "title": "Hurricane Simon Lurks Off the Mexican Coast",
+    "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/"
+  },
+  {
     "id": 40369,
     "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
     "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T15:02:21Z",
     "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/"
-  },
-  {
-    "id": 40366,
-    "title": "SpaceX launches NASA science and cargo to the International Space Station",
-    "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-13T14:07:50Z",
-    "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
-  },
-  {
-    "id": 40365,
-    "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-    "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T13:00:00Z",
-    "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
   }
 ]
