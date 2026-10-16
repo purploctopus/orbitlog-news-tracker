@@ -1,5 +1,41 @@
 [
   {
+    "id": 40361,
+    "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+    "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-13T06:32:20Z",
+    "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/"
+  },
+  {
+    "id": 40360,
+    "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+    "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-13T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/"
+  },
+  {
+    "id": 40359,
+    "title": "An Impact Structure With Legs",
+    "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-13T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/"
+  },
+  {
+    "id": 40358,
+    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-13T01:19:30Z",
+    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
+  },
+  {
     "id": 40357,
     "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
     "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
@@ -27,15 +63,6 @@
     "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
   },
   {
-    "id": 40353,
-    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-    "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-12T13:00:00Z",
-    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
-  },
-  {
     "id": 40354,
     "title": "Welcome home, Sophie Adenot",
     "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
@@ -45,6 +72,15 @@
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"
   },
   {
+    "id": 40353,
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-12T13:00:00Z",
+    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
+  },
+  {
     "id": 40350,
     "title": "ExoMars rover twin rehearses first drive",
     "summary": "Before the Rosalind Franklin rover can explore Mars, it must first get off its lander.",
@@ -52,41 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-12T09:30:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
-  },
-  {
-    "id": 40348,
-    "title": "Rolling onto Mars - testing a rover’s lander",
-    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander"
-  },
-  {
-    "id": 40349,
-    "title": "Preparing for a first drive on Mars",
-    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars"
-  },
-  {
-    "id": 40351,
-    "title": "NovaMoon mission patch",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T07:38:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch"
-  },
-  {
-    "id": 40352,
-    "title": "Introducing NovaMoon",
-    "summary": "The European Space Agency’s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T07:11:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon"
   }
 ]

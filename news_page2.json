@@ -1,5 +1,41 @@
 [
   {
+    "id": 40402,
+    "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+    "summary": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T16:42:10Z",
+    "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
+  },
+  {
+    "id": 40401,
+    "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
+    "summary": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T16:13:08Z",
+    "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/"
+  },
+  {
+    "id": 40400,
+    "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
+    "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/01/taking-in-the-view-surface-from-hls.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T15:57:47Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/"
+  },
+  {
+    "id": 40399,
+    "title": "How NASA is thinking about a moon base",
+    "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]\nThe post How NASA is thinking about a moon base appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-15T15:14:24Z",
+    "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/"
+  },
+  {
     "id": 40398,
     "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
     "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
@@ -52,41 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-15T09:24:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon"
-  },
-  {
-    "id": 40396,
-    "title": "Act for more sustainable space",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/08/vega_soars_to_space2/23431752-2-eng-GB/Vega_soars_to_space_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:57:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space"
-  },
-  {
-    "id": 40391,
-    "title": "Swarming robots to tackle space debris",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:50:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris"
-  },
-  {
-    "id": 40390,
-    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-    "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
-  },
-  {
-    "id": 40389,
-    "title": "Fires Arrive in the Amazon Rainforest",
-    "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
   }
 ]
