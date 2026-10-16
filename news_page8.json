@@ -1,5 +1,59 @@
 [
   {
+    "id": 40347,
+    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+    "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
+  },
+  {
+    "id": 40346,
+    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+  },
+  {
+    "id": 40345,
+    "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
+    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\r\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-11T21:47:31Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
+  },
+  {
+    "id": 40344,
+    "title": "What’s Happening in Space Policy October 11-17, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 11-17, 2026 and any insight we can offer about them. The House and Senate are in recess, […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Meir-Adenot-day-before-EVA-300x200.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-11T19:37:35Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-11-17-2026/"
+  },
+  {
+    "id": 40343,
+    "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+    "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company…\r\nThe post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-11-15-28-41-818.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-11T14:29:52Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"
+  },
+  {
+    "id": 40342,
+    "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+    "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-11T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+  },
+  {
     "id": 40341,
     "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
     "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]",
@@ -34,59 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-09T21:41:30Z",
     "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/"
-  },
-  {
-    "id": 40337,
-    "title": "NASA issues long-awaited call to industry for private space stations",
-    "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-09T21:34:09Z",
-    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
-  },
-  {
-    "id": 40321,
-    "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T18:11:44Z",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-  },
-  {
-    "id": 40320,
-    "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-    "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T16:59:24Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
-  },
-  {
-    "id": 40319,
-    "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
-    "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…\r\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-09T14:36:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
-  },
-  {
-    "id": 40317,
-    "title": "Cosmic House of Mirrors",
-    "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T13:57:24Z",
-    "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
-  },
-  {
-    "id": 40316,
-    "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
-    "summary": "The Italian Space Agency (ASI) is exploring the development of a dedicated orbital platform capable of generating artificial gravity to support scientific research and technology development. ASI announced the initiative on 8 October and expects to open a consultation with the scientific and technological community later this month to gather research requirements, ideas and potential […]\nThe post Italy Explores Building an Artificial Gravity Research Platform in Orbit appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Italy-Explores-Building-Artificial-Gravity-Research-Platform-in-Orbit-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-09T13:46:21Z",
-    "url": "https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/"
   }
 ]
