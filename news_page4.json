@@ -1,5 +1,14 @@
 [
   {
+    "id": 40390,
+    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+    "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
+  },
+  {
     "id": 40389,
     "title": "Fires Arrive in the Amazon Rainforest",
     "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-14T13:10:12Z",
     "url": "https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/"
-  },
-  {
-    "id": 40374,
-    "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-    "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […]\nThe post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/1200x930-Space-Inventor-1.png?fit=1024%2C794&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-14T13:09:21Z",
-    "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40340,
+    "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+    "summary": "ESA astronaut Sophie Adenot has arrived back in Europe, landing in Cologne, Germany, following her return to Earth with Crew-12 after 237 days, nearly eight months, aboard the International Space Station for her εpsilon mission.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sophie_is_back_in_europe2/27568712-2-eng-GB/Sophie_is_back_in_Europe_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-10T09:01:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station"
+  },
+  {
     "id": 40339,
     "title": "APOD: 2026 October 10 – Lunar Farside",
     "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-09T13:15:00Z",
     "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026"
-  },
-  {
-    "id": 40314,
-    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-    "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-09T11:00:57Z",
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
   }
 ]
