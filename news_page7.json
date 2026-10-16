@@ -1,5 +1,23 @@
 [
   {
+    "id": 40359,
+    "title": "An Impact Structure With Legs",
+    "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-13T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/"
+  },
+  {
+    "id": 40358,
+    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-13T01:19:30Z",
+    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
+  },
+  {
     "id": 40357,
     "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
     "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-12T09:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander"
-  },
-  {
-    "id": 40351,
-    "title": "NovaMoon mission patch",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T07:38:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch"
-  },
-  {
-    "id": 40352,
-    "title": "Introducing NovaMoon",
-    "summary": "The European Space Agency’s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T07:11:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon"
   }
 ]
