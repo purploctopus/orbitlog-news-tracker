@@ -1,5 +1,14 @@
 [
   {
+    "id": 40408,
+    "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+    "summary": "The Japan Aerospace Exploration Agency (JAXA) is getting ready to launch its Martian Moons eXploration mission early next week. The spacecraft will collect samples of Phobos, one of the moons […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-16T00:14:30Z",
+    "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/"
+  },
+  {
     "id": 40407,
     "title": "Oct. 29: Applying AI to the GEOINT Mission",
     "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-15T15:14:24Z",
     "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/"
-  },
-  {
-    "id": 40398,
-    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T14:57:21Z",
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
   }
 ]

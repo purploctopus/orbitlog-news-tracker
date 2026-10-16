@@ -1,5 +1,14 @@
 [
   {
+    "id": 40398,
+    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T14:57:21Z",
+    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
+  },
+  {
     "id": 40397,
     "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
     "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
-  },
-  {
-    "id": 40388,
-    "title": "Artemis III SLS teams prepare short stack for pad tanking test",
-    "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…\r\nThe post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-14T22:36:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"
   }
 ]

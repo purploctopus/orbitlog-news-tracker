@@ -1,5 +1,14 @@
 [
   {
+    "id": 40373,
+    "title": "Earth today, Jupiter tomorrow: An insight into Juice’s recent Earth flyby",
+    "summary": "On 28 September, ESA’s Juice mission reached another important Jupiter-bound milestone with its penultimate gravity assist manoeuvre: a flyby of Earth. This encounter, however, was not only an essential step on the road to Jupiter, but an opportunity to rehearse the observations and operations that will define Juice’s exploration of the Jovian system.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/juice_navigation_camera_images_of_the_moon/27577031-1-eng-GB/Juice_navigation_camera_images_of_the_Moon_card_full.gif",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-14T08:25:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Operations/Earth_today_Jupiter_tomorrow_An_insight_into_Juice_s_recent_Earth_flyby"
+  },
+  {
     "id": 40378,
     "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
     "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T17:38:37Z",
     "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/"
-  },
-  {
-    "id": 40367,
-    "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
-    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T15:02:21Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/"
   }
 ]
