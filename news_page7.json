@@ -1,5 +1,14 @@
 [
   {
+    "id": 40361,
+    "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
+    "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-13T06:32:20Z",
+    "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/"
+  },
+  {
     "id": 40360,
     "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
     "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-12T09:30:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
-  },
-  {
-    "id": 40349,
-    "title": "Preparing for a first drive on Mars",
-    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars"
   }
 ]

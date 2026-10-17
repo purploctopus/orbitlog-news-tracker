@@ -1,5 +1,14 @@
 [
   {
+    "id": 40400,
+    "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
+    "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/01/taking-in-the-view-surface-from-hls.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T15:57:47Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/"
+  },
+  {
     "id": 40414,
     "title": "New NAVISP activities support resilient transportation in Europe",
     "summary": "On 14 October, at the NAVISP Industry Days in Rome, Italy, the European Space Agency (ESA) signed new contracts with three European companies that will support the development of innovative technologies for resilient rail transportation and aviation.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-15T07:57:00Z",
     "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space"
-  },
-  {
-    "id": 40391,
-    "title": "Swarming robots to tackle space debris",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:50:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris"
   }
 ]

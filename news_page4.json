@@ -1,5 +1,14 @@
 [
   {
+    "id": 40391,
+    "title": "Swarming robots to tackle space debris",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-15T07:50:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris"
+  },
+  {
     "id": 40390,
     "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
     "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-14T13:32:25Z",
     "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-  },
-  {
-    "id": 40372,
-    "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
-    "summary": "The Spanish government has approved a request from satellite operator Hisdesat to bring forward €65.8 million of a €1 billion loan for the PAZ 2 spy satellite programme to cover payments due earlier than originally anticipated. Published in Spain’s official gazette on 3 September, the adjustment increases the funding scheduled for 2026 from €179.8 million […]\r\nThe post Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Spain-Approves-Early-Release-of-65.8-Million-Euros-in-PAZ-2-Spy-Satellite-Funding-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-14T13:10:12Z",
-    "url": "https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40411,
+    "title": "Isaias Dims the Gulf Coast",
+    "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
+  },
+  {
     "id": 40409,
     "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
     "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\r\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T16:13:08Z",
     "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/"
-  },
-  {
-    "id": 40400,
-    "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
-    "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/01/taking-in-the-view-surface-from-hls.webp",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T15:57:47Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/"
   }
 ]
