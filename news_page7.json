@@ -1,5 +1,14 @@
 [
   {
+    "id": 40362,
+    "title": "Press conference: ESA astronaut Sophie Adenot returns to Europe",
+    "summary": "ESA astronaut Sophie Adenot has returned to Europe following her 237-day εpsilon mission aboard the International Space Station. A press conference with Sophie and Director of Human and Robotic Exploration Daniel Neuenschwander took place on 13 October 2026 at 11:00 CEST in Cologne, Germany.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-13T10:20:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe"
+  },
+  {
     "id": 40361,
     "title": "Norway Details Funding Allocation for Second Andøya Launch Pad",
     "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at Andøya Spaceport, an initiative the country’s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (€30 million) towards the project in 2027. NOK 223.5 million […]\nThe post Norway Details Funding Allocation for Second Andøya Launch Pad appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-12T13:00:00Z",
     "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
-  },
-  {
-    "id": 40350,
-    "title": "ExoMars rover twin rehearses first drive",
-    "summary": "Before the Rosalind Franklin rover can explore Mars, it must first get off its lander.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_rover_rolls_down_the_ramp/27567393-1-eng-GB/Mars_rover_rolls_down_the_ramp_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-12T09:30:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
   }
 ]

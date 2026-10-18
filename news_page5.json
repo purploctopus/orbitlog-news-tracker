@@ -1,5 +1,14 @@
 [
   {
+    "id": 40377,
+    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+    "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T13:32:25Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+  },
+  {
     "id": 40372,
     "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
     "summary": "The Spanish government has approved a request from satellite operator Hisdesat to bring forward €65.8 million of a €1 billion loan for the PAZ 2 spy satellite programme to cover payments due earlier than originally anticipated. Published in Spain’s official gazette on 3 September, the adjustment increases the funding scheduled for 2026 from €179.8 million […]\r\nThe post Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T20:41:11Z",
     "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/"
-  },
-  {
-    "id": 40381,
-    "title": "Comparing Off-World Rover Driving Distances",
-    "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026. As of that date, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26814/PIA26814.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T17:56:08Z",
-    "url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/"
   }
 ]

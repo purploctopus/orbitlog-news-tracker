@@ -1,5 +1,14 @@
 [
   {
+    "id": 40396,
+    "title": "Act for more sustainable space",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/08/vega_soars_to_space2/23431752-2-eng-GB/Vega_soars_to_space_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-15T07:57:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space"
+  },
+  {
     "id": 40391,
     "title": "Swarming robots to tackle space debris",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-14T14:41:21Z",
     "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/"
-  },
-  {
-    "id": 40377,
-    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-    "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T13:32:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
   }
 ]

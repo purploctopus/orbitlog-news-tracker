@@ -1,5 +1,14 @@
 [
   {
+    "id": 40401,
+    "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
+    "summary": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T16:13:08Z",
+    "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/"
+  },
+  {
     "id": 40400,
     "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
     "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-15T09:24:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon"
-  },
-  {
-    "id": 40396,
-    "title": "Act for more sustainable space",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/08/vega_soars_to_space2/23431752-2-eng-GB/Vega_soars_to_space_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:57:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space"
   }
 ]
