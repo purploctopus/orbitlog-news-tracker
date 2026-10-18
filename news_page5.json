@@ -1,5 +1,23 @@
 [
   {
+    "id": 40375,
+    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+    "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T15:18:38Z",
+    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/"
+  },
+  {
+    "id": 40376,
+    "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+    "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03142.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T14:41:21Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/"
+  },
+  {
     "id": 40377,
     "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
     "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-14T00:40:42Z",
     "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/"
-  },
-  {
-    "id": 40368,
-    "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
-    "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-13T22:09:39Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/"
-  },
-  {
-    "id": 40380,
-    "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-    "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead NASA’s engineering community, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T20:41:11Z",
-    "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/"
   }
 ]

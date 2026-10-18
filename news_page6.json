@@ -1,5 +1,23 @@
 [
   {
+    "id": 40368,
+    "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
+    "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/IMG_2367-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-13T22:09:39Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/"
+  },
+  {
+    "id": 40380,
+    "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+    "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead NASA’s engineering community, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-13T20:41:11Z",
+    "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/"
+  },
+  {
     "id": 40381,
     "title": "Comparing Off-World Rover Driving Distances",
     "summary": "Description This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers Perseverance and Curiosity are still operational and moving across the surface; the figures shown for those two are distances driven as of Oct. 11, 2026. As of that date, […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T13:00:00Z",
     "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
-  },
-  {
-    "id": 40364,
-    "title": "Mars moon lander set to launch on 19 October",
-    "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-13T12:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October"
-  },
-  {
-    "id": 40363,
-    "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-    "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T11:12:18Z",
-    "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/"
   }
 ]

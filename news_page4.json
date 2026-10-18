@@ -1,5 +1,23 @@
 [
   {
+    "id": 40393,
+    "title": "Trace Gas Orbiter — Facts and figures",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/trace_gas_orbiter_facts_and_figures/27578650-1-eng-GB/Trace_Gas_Orbiter_Facts_and_figures_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-15T09:49:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
+  },
+  {
+    "id": 40392,
+    "title": "Drilling down for the Moon",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-15T09:24:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon"
+  },
+  {
     "id": 40396,
     "title": "Act for more sustainable space",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-14T16:46:58Z",
     "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
-  },
-  {
-    "id": 40375,
-    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-    "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T15:18:38Z",
-    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/"
-  },
-  {
-    "id": 40376,
-    "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-    "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03142.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T14:41:21Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/"
   }
 ]
