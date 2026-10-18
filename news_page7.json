@@ -1,5 +1,23 @@
 [
   {
+    "id": 40417,
+    "title": "Week in images: 12-16 October 2026",
+    "summary": "Week in images: 12-16 October 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-13T13:10:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026"
+  },
+  {
+    "id": 40365,
+    "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+    "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-13T13:00:00Z",
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
+  },
+  {
     "id": 40364,
     "title": "Mars moon lander set to launch on 19 October",
     "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-12T22:21:40Z",
     "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/"
-  },
-  {
-    "id": 40356,
-    "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
-    "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\r\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-12T21:08:32Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/"
-  },
-  {
-    "id": 40355,
-    "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-    "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-12T17:45:27Z",
-    "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
   }
 ]

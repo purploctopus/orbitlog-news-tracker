@@ -1,5 +1,23 @@
 [
   {
+    "id": 40356,
+    "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
+    "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\r\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-12T21:08:32Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/"
+  },
+  {
+    "id": 40355,
+    "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+    "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T17:45:27Z",
+    "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
+  },
+  {
     "id": 40354,
     "title": "Welcome home, Sophie Adenot",
     "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-12T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
-  },
-  {
-    "id": 40346,
-    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-12T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
-  },
-  {
-    "id": 40345,
-    "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
-    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\r\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-11T21:47:31Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
   }
 ]

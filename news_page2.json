@@ -1,5 +1,23 @@
 [
   {
+    "id": 40416,
+    "title": "UK to Award £25M Space Surveillance Radar Contract in July 2027",
+    "summary": "The UK Space Agency (UKSA) is expected to award a £25 million contract for a ground-based space surveillance radar in July 2027. The call, published in late September, follows several changes to the government’s procurement plans for the installation. According to the call, the contract will cover the development and manufacture of a high-power radar […]\nThe post UK to Award £25M Space Surveillance Radar Contract in July 2027 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-to-Award-25M-Space-Surveillance-Radar-Contract-in-July-2027.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-16T12:54:52Z",
+    "url": "https://europeanspaceflight.com/uk-to-award-25m-space-surveillance-radar-contract-in-july-2027/"
+  },
+  {
+    "id": 40419,
+    "title": "NASA’s Hubble Spies Spiral’s Edge",
+    "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T12:42:08Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
+  },
+  {
     "id": 40413,
     "title": "Blue Origin is going all in on the New Glenn rocket",
     "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T19:58:08Z",
     "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
-  },
-  {
-    "id": 40405,
-    "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
-    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-15T19:11:45Z",
-    "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/"
-  },
-  {
-    "id": 40404,
-    "title": "NASA Satellites Observe Historic 2026 El Niño",
-    "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T17:59:22Z",
-    "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/"
   }
 ]

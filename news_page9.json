@@ -1,5 +1,23 @@
 [
   {
+    "id": 40346,
+    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-12T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+  },
+  {
+    "id": 40345,
+    "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
+    "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly…\r\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-11T21:47:31Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/"
+  },
+  {
     "id": 40344,
     "title": "What’s Happening in Space Policy October 11-17, 2026",
     "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of October 11-17, 2026 and any insight we can offer about them. The House and Senate are in recess, […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-09T21:34:09Z",
     "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
-  },
-  {
-    "id": 40321,
-    "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T18:11:44Z",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-  },
-  {
-    "id": 40320,
-    "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-    "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T16:59:24Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
   }
 ]
