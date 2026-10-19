@@ -72,6 +72,15 @@
     "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/"
   },
   {
+    "id": 40429,
+    "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+    "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-15T20:41:50Z",
+    "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/"
+  },
+  {
     "id": 40407,
     "title": "Oct. 29: Applying AI to the GEOINT Mission",
     "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-15T20:41:50Z",
     "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/"
-  },
-  {
-    "id": 40406,
-    "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-    "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T19:58:08Z",
-    "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
   }
 ]

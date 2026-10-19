@@ -1,5 +1,14 @@
 [
   {
+    "id": 40397,
+    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+    "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T14:19:06Z",
+    "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
+  },
+  {
     "id": 40395,
     "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
     "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […]\nThe post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-14T22:36:14Z",
     "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"
-  },
-  {
-    "id": 40387,
-    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-    "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T20:13:29Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
   }
 ]

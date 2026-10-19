@@ -1,5 +1,14 @@
 [
   {
+    "id": 40378,
+    "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+    "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesli%C4%8Dky_01_1500px.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
+  },
+  {
     "id": 40379,
     "title": "Hurricane Simon Lurks Off the Mexican Coast",
     "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-13T15:02:21Z",
     "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/"
-  },
-  {
-    "id": 40366,
-    "title": "SpaceX launches NASA science and cargo to the International Space Station",
-    "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-13T14:07:50Z",
-    "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
   }
 ]

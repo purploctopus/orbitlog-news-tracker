@@ -1,5 +1,14 @@
 [
   {
+    "id": 40406,
+    "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+    "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T19:58:08Z",
+    "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
+  },
+  {
     "id": 40405,
     "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC).",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T14:57:21Z",
     "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
-  },
-  {
-    "id": 40397,
-    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
-    "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T14:19:06Z",
-    "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
   }
 ]

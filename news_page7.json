@@ -1,5 +1,14 @@
 [
   {
+    "id": 40366,
+    "title": "SpaceX launches NASA science and cargo to the International Space Station",
+    "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-13T14:07:50Z",
+    "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
+  },
+  {
     "id": 40417,
     "title": "Week in images: 12-16 October 2026",
     "summary": "Week in images: 12-16 October 2026",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-13T01:19:30Z",
     "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
-  },
-  {
-    "id": 40357,
-    "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
-    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-12T22:21:40Z",
-    "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/"
   }
 ]
