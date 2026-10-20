@@ -1,92 +1,92 @@
 [
   {
-    "id": 40339,
-    "title": "APOD: 2026 October 10 – Lunar Farside",
-    "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-10T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
-  },
-  {
-    "id": 40338,
-    "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
-    "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg",
+    "id": 40358,
+    "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+    "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
     "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-09T21:41:30Z",
-    "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/"
+    "publishedAt": "2026-10-13T01:19:30Z",
+    "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/"
   },
   {
-    "id": 40337,
-    "title": "NASA issues long-awaited call to industry for private space stations",
-    "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-09T21:34:09Z",
-    "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/"
+    "id": 40357,
+    "title": "SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California",
+    "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East is scheduled for 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-12T22:21:40Z",
+    "url": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/"
   },
   {
-    "id": 40321,
-    "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T18:11:44Z",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
-  },
-  {
-    "id": 40320,
-    "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-    "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-09T16:59:24Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
-  },
-  {
-    "id": 40319,
-    "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
-    "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing…\r\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
+    "id": 40356,
+    "title": "CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items",
+    "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to…\r\nThe post CRS-35 set to launch to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/HUc3hl1WYAERB6z-scaled.jpeg",
     "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-09T14:36:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
+    "publishedAt": "2026-10-12T21:08:32Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/"
   },
   {
-    "id": 40317,
-    "title": "Cosmic House of Mirrors",
-    "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+    "id": 40355,
+    "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+    "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
     "newsSite": "NASA",
-    "publishedAt": "2026-10-09T13:57:24Z",
-    "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+    "publishedAt": "2026-10-12T17:45:27Z",
+    "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
   },
   {
-    "id": 40316,
-    "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
-    "summary": "The Italian Space Agency (ASI) is exploring the development of a dedicated orbital platform capable of generating artificial gravity to support scientific research and technology development. ASI announced the initiative on 8 October and expects to open a consultation with the scientific and technological community later this month to gather research requirements, ideas and potential […]\nThe post Italy Explores Building an Artificial Gravity Research Platform in Orbit appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Italy-Explores-Building-Artificial-Gravity-Research-Platform-in-Orbit-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-09T13:46:21Z",
-    "url": "https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/"
-  },
-  {
-    "id": 40315,
-    "title": "Week in images: 05-09 October 2026",
-    "summary": "Week in images: 05-09 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+    "id": 40354,
+    "title": "Welcome home, Sophie Adenot",
+    "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/welcome_home_sophie_adenot/27571908-1-eng-GB/Welcome_home_Sophie_Adenot_card_full.png",
     "newsSite": "ESA",
-    "publishedAt": "2026-10-09T13:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026"
+    "publishedAt": "2026-10-12T13:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot"
   },
   {
-    "id": 40314,
-    "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-    "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-09T11:00:57Z",
-    "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/"
+    "id": 40353,
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "summary": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik’s ASTRO HP star sensor on a LEO mission. This milestone underscores […]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-12T13:00:00Z",
+    "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/"
+  },
+  {
+    "id": 40350,
+    "title": "ExoMars rover twin rehearses first drive",
+    "summary": "Before the Rosalind Franklin rover can explore Mars, it must first get off its lander.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_rover_rolls_down_the_ramp/27567393-1-eng-GB/Mars_rover_rolls_down_the_ramp_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-12T09:30:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
+  },
+  {
+    "id": 40349,
+    "title": "Preparing for a first drive on Mars",
+    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-12T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars"
+  },
+  {
+    "id": 40348,
+    "title": "Rolling onto Mars - testing a rover’s lander",
+    "summary": "Before Rosalind Franklin can explore Mars, it has to get off its lander.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-12T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander"
+  },
+  {
+    "id": 40351,
+    "title": "NovaMoon mission patch",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-12T07:38:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch"
   }
 ]

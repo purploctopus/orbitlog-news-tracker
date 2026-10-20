@@ -1,92 +1,92 @@
 [
   {
-    "id": 40399,
-    "title": "How NASA is thinking about a moon base",
-    "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]\r\nThe post How NASA is thinking about a moon base appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "id": 40419,
+    "title": "NASA’s Hubble Spies Spiral’s Edge",
+    "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T12:42:08Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/"
+  },
+  {
+    "id": 40413,
+    "title": "Blue Origin is going all in on the New Glenn rocket",
+    "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Blue-Origin-Upper-Stage-Facility-Still-Render.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-16T10:00:54Z",
+    "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
+  },
+  {
+    "id": 40434,
+    "title": "Small lunar missions, big ambitions",
+    "summary": "Europe is preparing for a future in which astronauts, robots and scientific instruments work on and around the Moon. While major missions often capture the headlines, smaller missions can move faster, test new ideas and provide essential support to larger missions.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_from_lunar_orbit/27197969-1-eng-GB/Earthset_from_lunar_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-16T08:05:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Small_lunar_missions_big_ambitions"
+  },
+  {
+    "id": 40412,
+    "title": "Earth from Space: West Antarctica",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-16T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica"
+  },
+  {
+    "id": 40410,
+    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
+    "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
+  },
+  {
+    "id": 40411,
+    "title": "Isaias Dims the Gulf Coast",
+    "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
+  },
+  {
+    "id": 40409,
+    "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
+    "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\r\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-16-04-46-59-168.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-16T03:49:06Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/carbon-fibre-force-rocket-lab-delay-neutron-debut/"
+  },
+  {
+    "id": 40408,
+    "title": "JAXA’S MMX Mars Mission Readies for Launch with Two NASA Instruments",
+    "summary": "The Japan Aerospace Exploration Agency (JAXA) is getting ready to launch its Martian Moons eXploration mission early next week. The spacecraft will collect samples of Phobos, one of the moons […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Mars-Phobos-Deimos-NASA-300x154.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-16T00:14:30Z",
+    "url": "https://spacepolicyonline.com/news/jaxas-mmx-mars-mission-readies-for-launch-with-two-nasa-instruments/"
+  },
+  {
+    "id": 40407,
+    "title": "Oct. 29: Applying AI to the GEOINT Mission",
+    "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
     "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-15T15:14:24Z",
-    "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/"
+    "publishedAt": "2026-10-15T20:41:50Z",
+    "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/"
   },
   {
-    "id": 40398,
-    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T14:57:21Z",
-    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
-  },
-  {
-    "id": 40397,
-    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
-    "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T14:19:06Z",
-    "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
-  },
-  {
-    "id": 40395,
-    "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
-    "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […]\nThe post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "id": 40429,
+    "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+    "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
     "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-15T12:00:00Z",
-    "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/"
-  },
-  {
-    "id": 40394,
-    "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
-    "summary": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after ground testing reportedly revealed an issue with one of its turbopumps. The flight will carry 36 Amazon Leo satellites aboard an Ariane 64, the rocket’s four-booster configuration. It will be the […]\r\nThe post Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-15T10:50:18Z",
-    "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/"
-  },
-  {
-    "id": 40393,
-    "title": "Trace Gas Orbiter — Facts and figures",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/trace_gas_orbiter_facts_and_figures/27578650-1-eng-GB/Trace_Gas_Orbiter_Facts_and_figures_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T09:49:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
-  },
-  {
-    "id": 40392,
-    "title": "Drilling down for the Moon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T09:24:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Drilling_down_for_the_Moon"
-  },
-  {
-    "id": 40396,
-    "title": "Act for more sustainable space",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/08/vega_soars_to_space2/23431752-2-eng-GB/Vega_soars_to_space_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:57:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Act_for_more_sustainable_space"
-  },
-  {
-    "id": 40391,
-    "title": "Swarming robots to tackle space debris",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-15T07:50:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris"
-  },
-  {
-    "id": 40390,
-    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
-    "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
+    "publishedAt": "2026-10-15T20:41:50Z",
+    "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/"
   }
 ]
