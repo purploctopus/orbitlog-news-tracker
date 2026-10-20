@@ -1,5 +1,23 @@
 [
   {
+    "id": 40490,
+    "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+    "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]\nThe post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-20T13:00:00Z",
+    "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/"
+  },
+  {
+    "id": 40489,
+    "title": "Lunar Link complete and ready for a new adventure",
+    "summary": "ESA’s Lunar Link telecommunications element has completed its final major integration and testing campaign at Thales Alenia Space in Cannes, France.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/lunar_link_team/27579203-1-eng-GB/Lunar_Link_team_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-20T12:00:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure"
+  },
+  {
     "id": 40488,
     "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
     "summary": "French lawmakers have proposed allocating a symbolic €1 for Dassault Aviation’s VORTEX spaceplane programme in an effort to compel the government to clarify its financial commitments to the project. In a 16 October amendment to France’s proposed 2027 budget, 71 MPs from the La France Insoumise party proposed creating a dedicated budget line for VORTEX […]\nThe post French MPs propose symbolic €1 budget line for VORTEX spaceplane appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T19:28:32Z",
     "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
-  },
-  {
-    "id": 40447,
-    "title": "Software",
-    "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T18:11:40Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
-  },
-  {
-    "id": 40448,
-    "title": "Experimental Facilities",
-    "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T18:08:52Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
   }
 ]

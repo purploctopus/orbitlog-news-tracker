@@ -1,5 +1,23 @@
 [
   {
+    "id": 40379,
+    "title": "Hurricane Simon Lurks Off the Mexican Coast",
+    "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-14T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/"
+  },
+  {
+    "id": 40369,
+    "title": "Ship 40 Back At Starbase After Surprise Reentry Survival",
+    "summary": "The Starship second stage of SpaceX’s Integrated Flight Test-13 is back at Starbase, TX after surprisingly surviving splashdown in the Indian Ocean in July. To date, it is the only […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-intact-ocean-July-24-26-300x173.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-14T00:40:42Z",
+    "url": "https://spacepolicyonline.com/news/ship-40-back-at-starbase-after-surprise-reentry-survival/"
+  },
+  {
     "id": 40368,
     "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
     "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much…\r\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-13T14:07:50Z",
     "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/"
-  },
-  {
-    "id": 40417,
-    "title": "Week in images: 12-16 October 2026",
-    "summary": "Week in images: 12-16 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-13T13:10:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026"
-  },
-  {
-    "id": 40365,
-    "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-    "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-13T13:00:00Z",
-    "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/"
   }
 ]

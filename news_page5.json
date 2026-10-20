@@ -1,5 +1,23 @@
 [
   {
+    "id": 40425,
+    "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+    "summary": "SpaceX is advancing toward its next two Starship missions as the company looks to close…\r\nThe post SpaceX working through Starship Flight 15 and 16 milestones appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-18-17-03-53-605.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-18T16:31:04Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/"
+  },
+  {
+    "id": 40424,
+    "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+    "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-18T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+  },
+  {
     "id": 40423,
     "title": "APOD: 2026 October 17 – 3D 67P",
     "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-16T10:00:54Z",
     "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/"
-  },
-  {
-    "id": 40434,
-    "title": "Small lunar missions, big ambitions",
-    "summary": "Europe is preparing for a future in which astronauts, robots and scientific instruments work on and around the Moon. While major missions often capture the headlines, smaller missions can move faster, test new ideas and provide essential support to larger missions.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_from_lunar_orbit/27197969-1-eng-GB/Earthset_from_lunar_orbit_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-16T08:05:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Small_lunar_missions_big_ambitions"
-  },
-  {
-    "id": 40412,
-    "title": "Earth from Space: West Antarctica",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-16T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica"
   }
 ]

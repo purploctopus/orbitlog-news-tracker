@@ -1,5 +1,23 @@
 [
   {
+    "id": 40394,
+    "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
+    "summary": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after ground testing reportedly revealed an issue with one of its turbopumps. The flight will carry 36 Amazon Leo satellites aboard an Ariane 64, the rocket’s four-booster configuration. It will be the […]\r\nThe post Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Arianespace-Targets-23-Nov-Ariane-6-Return-Following-Reported-Turbopump-Fix.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-15T10:50:18Z",
+    "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/"
+  },
+  {
+    "id": 40393,
+    "title": "Trace Gas Orbiter — Facts and figures",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/trace_gas_orbiter_facts_and_figures/27578650-1-eng-GB/Trace_Gas_Orbiter_Facts_and_figures_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-15T09:49:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
+  },
+  {
     "id": 40392,
     "title": "Drilling down for the Moon",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-14T19:12:51Z",
     "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/"
-  },
-  {
-    "id": 40385,
-    "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-    "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/trebleclef.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T16:46:58Z",
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
-  },
-  {
-    "id": 40375,
-    "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-    "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T15:18:38Z",
-    "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/"
   }
 ]
