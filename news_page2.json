@@ -1,5 +1,23 @@
 [
   {
+    "id": 40509,
+    "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+    "summary": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […]\nThe post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Space_Nukes_Logo.jpg?fit=703%2C368&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-21T14:29:57Z",
+    "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/"
+  },
+  {
+    "id": 40508,
+    "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+    "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-21T12:17:58Z",
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
+  },
+  {
     "id": 40507,
     "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
     "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […]\nThe post Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-20T22:04:54Z",
     "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
-  },
-  {
-    "id": 40499,
-    "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-    "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:10 p.m. PDT (7:10 p.m. EDT / 2310 UTC).",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-20T21:18:11Z",
-    "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
-  },
-  {
-    "id": 40498,
-    "title": "Does anyone actually want to win the medium-lift race in the United States?",
-    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-20T19:13:31Z",
-    "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
   }
 ]
