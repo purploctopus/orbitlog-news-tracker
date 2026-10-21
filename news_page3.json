@@ -1,5 +1,68 @@
 [
   {
+    "id": 40497,
+    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+    "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T18:11:33Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
+  },
+  {
+    "id": 40496,
+    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\r\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-20T17:22:03Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"
+  },
+  {
+    "id": 40495,
+    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+    "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T16:02:35Z",
+    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+  },
+  {
+    "id": 40494,
+    "title": "NASA Provides Progress Update on Moon Base Rovers",
+    "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T15:00:10Z",
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
+  },
+  {
+    "id": 40493,
+    "title": "Space Rider test model lost following failed drop test",
+    "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […]\r\nThe post Space Rider test model lost following failed drop test appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Space-Rider-Test-Model-Lost-Following-Failed-Drop-Test.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-20T14:52:57Z",
+    "url": "https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/"
+  },
+  {
+    "id": 40492,
+    "title": "Webb Captures Stellar Jets",
+    "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T14:44:09Z",
+    "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/"
+  },
+  {
+    "id": 40491,
+    "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T14:21:42Z",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
+  },
+  {
     "id": 40490,
     "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
     "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]\nThe post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews.",
@@ -25,68 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-20T10:15:39Z",
     "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/"
-  },
-  {
-    "id": 40487,
-    "title": "New brain for Galileo",
-    "summary": "Twelve Galileo Second Generation (G2) satellites will join the current fleet in the coming years. They will deliver unprecedented positioning, navigation and timing capabilities thanks to an array of new features, including a new signal generation module, the ‘brain' of the spacecraft.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_second_generation_radiofrequency_output_module/27582093-1-eng-GB/Galileo_Second_Generation_radiofrequency_output_module_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-20T08:11:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo"
-  },
-  {
-    "id": 40486,
-    "title": "MMX lifts off to Mars’s moon Phobos",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-20T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos"
-  },
-  {
-    "id": 40483,
-    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-    "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
-  },
-  {
-    "id": 40484,
-    "title": "The Human Fingerprint on Earth’s Water Cycle",
-    "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
-  },
-  {
-    "id": 40482,
-    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T01:21:38Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
-  },
-  {
-    "id": 40481,
-    "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
-    "summary": "The Japan Aerospace Exploration Agency successfully launch the Martian Moons eXploration (MMX) mission this afternoon EDT. MMX will not land on Mars, but instead explore its two moons, Phobos and […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-20T00:12:19Z",
-    "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/"
-  },
-  {
-    "id": 40480,
-    "title": "NASA Improves Shock, Vibration Analysis",
-    "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T19:28:32Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
   }
 ]
