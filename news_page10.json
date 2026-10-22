@@ -1,5 +1,41 @@
 [
   {
+    "id": 40399,
+    "title": "How NASA is thinking about a moon base",
+    "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […]\r\nThe post How NASA is thinking about a moon base appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-NASA-moon-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-15T15:14:24Z",
+    "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/"
+  },
+  {
+    "id": 40398,
+    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+    "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T14:57:21Z",
+    "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/"
+  },
+  {
+    "id": 40397,
+    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+    "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-15T14:19:06Z",
+    "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/"
+  },
+  {
+    "id": 40395,
+    "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+    "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […]\nThe post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/agile-space-industries-square-logo-scaled.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-15T12:00:00Z",
+    "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/"
+  },
+  {
     "id": 40394,
     "title": "Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix",
     "summary": "Arianespace has announced that the next Ariane 6 launch will take place no earlier than 23 November, marking the rocket’s return to flight after ground testing reportedly revealed an issue with one of its turbopumps. The flight will carry 36 Amazon Leo satellites aboard an Ariane 64, the rocket’s four-booster configuration. It will be the […]\r\nThe post Arianespace Targets 23 Nov Ariane 6 Return Following Reported Turbopump Fix appeared first on European Spaceflight.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/"
-  },
-  {
-    "id": 40389,
-    "title": "Fires Arrive in the Amazon Rainforest",
-    "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/"
-  },
-  {
-    "id": 40388,
-    "title": "Artemis III SLS teams prepare short stack for pad tanking test",
-    "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on…\r\nThe post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-14-23-01-17-060.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-14T22:36:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/"
-  },
-  {
-    "id": 40387,
-    "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
-    "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T20:13:29Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
-  },
-  {
-    "id": 40386,
-    "title": "NASA Astronauts to Answer Questions from Florida Students",
-    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-14T19:12:51Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/"
   }
 ]
