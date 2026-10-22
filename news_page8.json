@@ -1,5 +1,14 @@
 [
   {
+    "id": 40434,
+    "title": "Small lunar missions, big ambitions",
+    "summary": "Europe is preparing for a future in which astronauts, robots and scientific instruments work on and around the Moon. While major missions often capture the headlines, smaller missions can move faster, test new ideas and provide essential support to larger missions.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earthset_from_lunar_orbit/27197969-1-eng-GB/Earthset_from_lunar_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-16T08:05:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Small_lunar_missions_big_ambitions"
+  },
+  {
     "id": 40412,
     "title": "Earth from Space: West Antarctica",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-15T19:11:45Z",
     "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/"
-  },
-  {
-    "id": 40404,
-    "title": "NASA Satellites Observe Historic 2026 El Niño",
-    "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608_th.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T17:59:22Z",
-    "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/"
   }
 ]

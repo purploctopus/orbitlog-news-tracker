@@ -1,5 +1,14 @@
 [
   {
+    "id": 40447,
+    "title": "Software",
+    "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T18:11:40Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
+  },
+  {
     "id": 40448,
     "title": "Experimental Facilities",
     "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). […]",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-19T14:49:20Z",
     "url": "https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/"
-  },
-  {
-    "id": 40436,
-    "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
-    "summary": "PLD Space has entered a new phase ahead of the first demonstration flight of its…\r\nThe post PLD Space begins system-level testing of Miura 5 as first three vehicles take shape appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-19T13:35:12Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40500,
+    "title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says",
+    "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-20T22:04:54Z",
+    "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+  },
+  {
     "id": 40499,
     "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
     "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:10 p.m. PDT (7:10 p.m. EDT / 2310 UTC).",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-20T14:21:42Z",
     "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/"
-  },
-  {
-    "id": 40490,
-    "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-    "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […]\nThe post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/AnySignal_GoogleBusinessProfile.png?fit=720%2C720&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-20T13:00:00Z",
-    "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/"
   }
 ]

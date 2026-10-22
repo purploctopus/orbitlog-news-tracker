@@ -1,5 +1,14 @@
 [
   {
+    "id": 40520,
+    "title": "Faster to Science: A Letter to the Science Community",
+    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T00:00:16Z",
+    "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+  },
+  {
     "id": 40519,
     "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-21T15:00:22Z",
     "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/"
-  },
-  {
-    "id": 40510,
-    "title": "Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2",
-    "summary": "Airbus Netherlands has delivered the first lightweight Vulcain Aft Bay for Ariane 6 as part of the rocket’s Block 2 upgrades. The total weight reduction, however, appears to be more modest than originally anticipated. In a 21 October LinkedIn post, Airbus Netherlands President Rob Postma announced that the upgraded structure, designated Flight Model 16 (FM16), […]\nThe post Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2 appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Airbus-Ships-First-Lightweight-Vulcain-Aft-Bay-for-Ariane-6-Block-2.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-21T14:34:27Z",
-    "url": "https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/"
   }
 ]
