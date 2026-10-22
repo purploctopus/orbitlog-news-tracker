@@ -1,5 +1,32 @@
 [
   {
+    "id": 40483,
+    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+    "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
+  },
+  {
+    "id": 40484,
+    "title": "The Human Fingerprint on Earth’s Water Cycle",
+    "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
+  },
+  {
+    "id": 40482,
+    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T01:21:38Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+  },
+  {
     "id": 40481,
     "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
     "summary": "The Japan Aerospace Exploration Agency successfully launch the Martian Moons eXploration (MMX) mission this afternoon EDT. MMX will not land on Mars, but instead explore its two moons, Phobos and […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T16:37:45Z",
     "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/"
-  },
-  {
-    "id": 40445,
-    "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-    "summary": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least […]\nThe post UARX Space troubleshoots anomalies on maiden OTV Flight appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png?fit=879%2C628&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-19T16:31:12Z",
-    "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/"
-  },
-  {
-    "id": 40441,
-    "title": "Martian Dawn",
-    "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T16:03:51Z",
-    "url": "https://www.nasa.gov/image-article/martian-dawn/"
-  },
-  {
-    "id": 40439,
-    "title": "Japanese MMX mission set for launch to study Martian moons",
-    "summary": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\r\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-19T15:44:41Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40495,
+    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+    "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T16:02:35Z",
+    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+  },
+  {
+    "id": 40494,
+    "title": "NASA Provides Progress Update on Moon Base Rovers",
+    "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T15:00:10Z",
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
+  },
+  {
+    "id": 40493,
+    "title": "Space Rider test model lost following failed drop test",
+    "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […]\r\nThe post Space Rider test model lost following failed drop test appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Space-Rider-Test-Model-Lost-Following-Failed-Drop-Test.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-20T14:52:57Z",
+    "url": "https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/"
+  },
+  {
     "id": 40492,
     "title": "Webb Captures Stellar Jets",
     "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-20T07:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos"
-  },
-  {
-    "id": 40483,
-    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-    "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
-  },
-  {
-    "id": 40484,
-    "title": "The Human Fingerprint on Earth’s Water Cycle",
-    "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
-  },
-  {
-    "id": 40482,
-    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T01:21:38Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
   }
 ]
