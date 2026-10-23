@@ -1,5 +1,14 @@
 [
   {
+    "id": 40516,
+    "title": "SpaceX will attempt to reach weekly Starship launches by early 2027",
+    "summary": "\"We have had significant constructive engagement with the FAA.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-21T16:46:19Z",
+    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
+  },
+  {
     "id": 40514,
     "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
     "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-21T12:00:00Z",
     "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/"
-  },
-  {
-    "id": 40506,
-    "title": "Summer of Quantum: Building momentum for space-based QKD",
-    "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-21T11:54:30Z",
-    "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/"
   }
 ]
