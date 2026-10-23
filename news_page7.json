@@ -1,5 +1,41 @@
 [
   {
+    "id": 40480,
+    "title": "NASA Improves Shock, Vibration Analysis",
+    "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T19:28:32Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
+  },
+  {
+    "id": 40447,
+    "title": "Software",
+    "summary": "Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T18:11:40Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/"
+  },
+  {
+    "id": 40448,
+    "title": "Experimental Facilities",
+    "summary": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T18:08:52Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
+  },
+  {
+    "id": 40446,
+    "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+    "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/chapea-one-year.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T18:01:51Z",
+    "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
+  },
+  {
     "id": 40443,
     "title": "Instrumentation",
     "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
@@ -52,41 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-19T15:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time"
-  },
-  {
-    "id": 40438,
-    "title": "US political uncertainty complicates long-term Artemis commitments, Polish minister says",
-    "summary": "Political and budgetary uncertainty in the United States poses a risk to long-term planning for space exploration programmes, according to a Polish government minister. In a 13 October response to a parliamentary question, Polish Deputy Minister of Development and Technology Michał Jaros said Poland remained interested in participating in NASA’s Artemis programme but raised concerns […]\nThe post US political uncertainty complicates long-term Artemis commitments, Polish minister says appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/US-political-uncertainty-complicates-long-term-Artemis-commitments-Polish-minister-says.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-19T14:49:20Z",
-    "url": "https://europeanspaceflight.com/us-political-uncertainty-complicates-long-term-artemis-commitments-polish-minister-says/"
-  },
-  {
-    "id": 40436,
-    "title": "PLD Space begins system-level testing of Miura 5 as first three vehicles take shape",
-    "summary": "PLD Space has entered a new phase ahead of the first demonstration flight of its…\r\nThe post PLD Space begins system-level testing of Miura 5 as first three vehicles take shape appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-10-19-14-23-42-068.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-19T13:35:12Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/pld-system-level-testing-miura-5-three-vehicles/"
-  },
-  {
-    "id": 40442,
-    "title": "A Mars-velous decade: Celebrating ten years of TGO",
-    "summary": "Ten years after arriving at Mars, ESA’s ExoMars Trace Gas Orbiter (TGO) has grown far beyond its original ambitions. From revealing the martian atmosphere to becoming a vital communications link with the surface, the mission’s story is also one of adaptability, resilience and the people behind it.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/tgo_s_ten_year_mars_arrival_anniversary/27584180-1-eng-GB/TGO_s_ten_year_Mars_arrival_anniversary_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-19T13:08:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Operations/A_Mars-velous_decade_Celebrating_ten_years_of_TGO"
-  },
-  {
-    "id": 40435,
-    "title": "Euclid discovers new comet",
-    "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-19T12:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet"
   }
 ]
