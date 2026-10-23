@@ -1,5 +1,23 @@
 [
   {
+    "id": 40482,
+    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+    "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T01:21:38Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+  },
+  {
+    "id": 40481,
+    "title": "JAXA’s MMX Enroute to Mars To Return Samples of Phobos",
+    "summary": "The Japan Aerospace Exploration Agency successfully launch the Martian Moons eXploration (MMX) mission this afternoon EDT. MMX will not land on Mars, but instead explore its two moons, Phobos and […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/MMX-liftoff-300x169.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-20T00:12:19Z",
+    "url": "https://spacepolicyonline.com/news/jaxas-mmx-enroute-to-mars-to-return-samples-of-phobos/"
+  },
+  {
     "id": 40480,
     "title": "NASA Improves Shock, Vibration Analysis",
     "summary": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T16:03:51Z",
     "url": "https://www.nasa.gov/image-article/martian-dawn/"
-  },
-  {
-    "id": 40439,
-    "title": "Japanese MMX mission set for launch to study Martian moons",
-    "summary": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\r\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/image-3.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-19T15:44:41Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/mmx-launch/"
-  },
-  {
-    "id": 40485,
-    "title": "Celebrating BepiColombo, three words at a time",
-    "summary": "BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-19T15:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time"
   }
 ]
