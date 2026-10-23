@@ -1,5 +1,14 @@
 [
   {
+    "id": 40422,
+    "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+    "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T20:14:39Z",
+    "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+  },
+  {
     "id": 40421,
     "title": "Artemis II Heat Shield After Splashdown",
     "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-16T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
-  },
-  {
-    "id": 40411,
-    "title": "Isaias Dims the Gulf Coast",
-    "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-16T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
   }
 ]

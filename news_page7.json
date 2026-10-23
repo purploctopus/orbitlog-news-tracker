@@ -1,5 +1,14 @@
 [
   {
+    "id": 40443,
+    "title": "Instrumentation",
+    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T16:37:45Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/"
+  },
+  {
     "id": 40444,
     "title": "Instrumentation",
     "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-19T12:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet"
-  },
-  {
-    "id": 40432,
-    "title": "Space materials lab marks 10 years of innovation",
-    "summary": "Space materials lab marks 10 years of innovation",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_esa-ral_advanced_manufacturing_lab_marks_10_years_of_operations/27580847-1-eng-GB/The_ESA-RAL_Advanced_Manufacturing_Lab_marks_10_years_of_operations_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-19T09:48:00Z",
-    "url": "https://www.esa.int/Space_in_Member_States/United_Kingdom/Space_materials_lab_marks_10_years_of_innovation"
   }
 ]

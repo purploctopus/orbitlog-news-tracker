@@ -1,5 +1,14 @@
 [
   {
+    "id": 40537,
+    "title": "Earth from Space: The pink city",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-23T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city"
+  },
+  {
     "id": 40536,
     "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
     "summary": "NASA’s Aerospace Safety Advisory Panel will soon open a formal recommendation that NASA re-examine plans for the Artemis IV mission.  Currently that will be a landing at the Moon’s South […]",
@@ -11,7 +20,7 @@
   {
     "id": 40535,
     "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-    "summary": "Expedition 75 aboard the International Space Station gained four new crew members at the beginning…\nThe post ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 appeared first on NASASpaceFlight.com.",
+    "summary": "Expedition 75 aboard the International Space Station gained four new crew members at the beginning…\r\nThe post ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 appeared first on NASASpaceFlight.com.",
     "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-scaled.jpg",
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-22T21:55:02Z",
@@ -47,7 +56,7 @@
   {
     "id": 40530,
     "title": "ESA Provides New Details on Failed Space Rider Drop Test",
-    "summary": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle’s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, Géraldine Naja, the agency’s Director of Space Transportation, provided […]\nThe post ESA Provides New Details on Failed Space Rider Drop Test appeared first on European Spaceflight.",
+    "summary": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle’s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, Géraldine Naja, the agency’s Director of Space Transportation, provided […]\r\nThe post ESA Provides New Details on Failed Space Rider Drop Test appeared first on European Spaceflight.",
     "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Provides-New-Details-on-Failed-Space-Rider-Drop-Test.webp",
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-22T15:02:37Z",
@@ -79,14 +88,5 @@
     "newsSite": "Space Scout",
     "publishedAt": "2026-10-22T12:08:43Z",
     "url": "https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/"
-  },
-  {
-    "id": 40526,
-    "title": "Help a lost lunar rover find its way in new ESA competition",
-    "summary": "A small rover is alone on the Moon, with no signal and no idea of its position. All it has is a panoramic camera and an aerial map of the Moon’s surface. The lunar night is fast approaching… can you help the rover find its way before it’s too late?",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/panorama_of_the_moon_for_lunar_x-view_competition/27586136-1-eng-GB/Panorama_of_the_Moon_for_Lunar_X-view_competition_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T11:10:00Z",
-    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition"
   }
 ]

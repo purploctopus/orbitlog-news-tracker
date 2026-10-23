@@ -1,5 +1,14 @@
 [
   {
+    "id": 40411,
+    "title": "Isaias Dims the Gulf Coast",
+    "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-16T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/"
+  },
+  {
     "id": 40409,
     "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
     "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems…\r\nThe post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-15T16:42:10Z",
     "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
-  },
-  {
-    "id": 40401,
-    "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
-    "summary": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-15T16:13:08Z",
-    "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/"
   }
 ]
