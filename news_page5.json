@@ -1,5 +1,14 @@
 [
   {
+    "id": 40503,
+    "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
+    "summary": "It started with a bold idea: Europe should find its own way. Finding Our Way: Inside the Galileo Project tells the story of the vision, perseverance and people behind Galileo, Europe’s global navigation satellite system, and the decades-long journey that turned an idea into the signal that guides us all.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_1_a_european_vision/27585539-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-21T08:03:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision"
+  },
+  {
     "id": 40505,
     "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
     "summary": "Galileo is a system in perfect synchronisation: satellites orbiting above, atomic clocks setting the tempo, and ground stations listening and refining below. Each plays its part. Together, they create the precision behind the signal that guides us all. See how it all comes together in Finding Our Way: Inside the Galileo Project.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-20T16:02:35Z",
     "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-  },
-  {
-    "id": 40494,
-    "title": "NASA Provides Progress Update on Moon Base Rovers",
-    "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T15:00:10Z",
-    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40534,
+    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-22T21:52:31Z",
+    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+  },
+  {
     "id": 40533,
     "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
     "summary": "A new report from the National Academies of Sciences, Engineering, and Medicine identifies four locations on the Moon separate from the South Pole where human exploration could yield valuable scientific […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-22T08:26:00Z",
     "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors"
-  },
-  {
-    "id": 40523,
-    "title": "Stars brewing in a nebulous cauldron",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40441,
+    "title": "Martian Dawn",
+    "summary": "NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T16:03:51Z",
+    "url": "https://www.nasa.gov/image-article/martian-dawn/"
+  },
+  {
     "id": 40439,
     "title": "Japanese MMX mission set for launch to study Martian moons",
     "summary": "The Japanese Aerospace Exploration Agency (JAXA) is poised to launch a planetary probe to Mars’s…\r\nThe post Japanese MMX mission set for launch to study Martian moons appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/"
-  },
-  {
-    "id": 40431,
-    "title": "Autumn Paints Poland’s Bieszczady Mountains",
-    "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland's-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/"
   }
 ]

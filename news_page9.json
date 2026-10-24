@@ -1,5 +1,14 @@
 [
   {
+    "id": 40431,
+    "title": "Autumn Paints Poland’s Bieszczady Mountains",
+    "summary": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland's-bieszczady-mountains/poland_bieszczady_oli2_20261008.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-19T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/"
+  },
+  {
     "id": 40428,
     "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
     "summary": "Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s…\r\nThe post Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-16T14:24:29Z",
     "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/"
-  },
-  {
-    "id": 40418,
-    "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
-    "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
-    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261016-Blue-Origin-Map-of-Key-Facilities.png",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-16T13:17:28Z",
-    "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40494,
+    "title": "NASA Provides Progress Update on Moon Base Rovers",
+    "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-20T15:00:10Z",
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
+  },
+  {
     "id": 40493,
     "title": "Space Rider test model lost following failed drop test",
     "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […]\r\nThe post Space Rider test model lost following failed drop test appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-20T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
-  },
-  {
-    "id": 40484,
-    "title": "The Human Fingerprint on Earth’s Water Cycle",
-    "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth%E2%80%99s-water-cycle/terrestrialwaterstorage_trends.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
   }
 ]
