@@ -1,5 +1,14 @@
 [
   {
+    "id": 40536,
+    "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
+    "summary": "NASA’s Aerospace Safety Advisory Panel will soon open a formal recommendation that NASA re-examine plans for the Artemis IV mission.  Currently that will be a landing at the Moon’s South […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-1-300x200.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-23T03:23:10Z",
+    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/"
+  },
+  {
     "id": 40535,
     "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
     "summary": "Expedition 75 aboard the International Space Station gained four new crew members at the beginning…\r\nThe post ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-22T12:23:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/Resilience_takes_centre_stage_at_the_NAVISP_Industry_Days"
-  },
-  {
-    "id": 40528,
-    "title": "MMX Lifts Off on Mission to Explore Moons of Mars",
-    "summary": "The five-year mission will return samples from Mars’ moon Phobos and answer long-standing questions about the moon’s origin.",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-4.png",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-10-22T12:08:43Z",
-    "url": "https://www.spacescout.info/2026/10/mmx-lifts-off-on-mission-to-explore-moons-of-mars/"
   }
 ]

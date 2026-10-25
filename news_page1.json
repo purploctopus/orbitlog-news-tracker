@@ -1,5 +1,14 @@
 [
   {
+    "id": 40558,
+    "title": "What’s Happening in Space Policy October 25-November 1, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of October 25-November 1, 2026 and any insight we can offer about them. The House and […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Nicky-Fox-2026-240x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-25T20:35:16Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/"
+  },
+  {
     "id": 40557,
     "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
     "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-23T21:51:19Z",
     "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-  },
-  {
-    "id": 40542,
-    "title": "Nov. 5: Satellite Mission Management at the Edge",
-    "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-23T19:53:25Z",
-    "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40518,
+    "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
+    "summary": "As its launch cadence continues to grow, China is stepping further towards reusable rockets as…\r\nThe post China readies first commercial resupply craft, first booster reflight, and next landing attempt appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/The-Long-March-10B-Y1-vehicle-lifting-off-from-the-Wenchang-Commercial-Space-Launch-Site-on-July-10th-2026-CASC.webp",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-21T20:25:50Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/"
+  },
+  {
     "id": 40517,
     "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
     "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-21T14:29:57Z",
     "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/"
-  },
-  {
-    "id": 40508,
-    "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-    "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T12:17:58Z",
-    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
   }
 ]

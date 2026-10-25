@@ -1,5 +1,14 @@
 [
   {
+    "id": 40498,
+    "title": "Does anyone actually want to win the medium-lift race in the United States?",
+    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-20T19:13:31Z",
+    "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
+  },
+  {
     "id": 40497,
     "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
     "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-20T12:00:00Z",
     "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lunar_Link_complete_and_ready_for_a_new_adventure"
-  },
-  {
-    "id": 40488,
-    "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
-    "summary": "French lawmakers have proposed allocating a symbolic €1 for Dassault Aviation’s VORTEX spaceplane programme in an effort to compel the government to clarify its financial commitments to the project. In a 16 October amendment to France’s proposed 2027 budget, 71 MPs from the La France Insoumise party proposed creating a dedicated budget line for VORTEX […]\nThe post French MPs propose symbolic €1 budget line for VORTEX spaceplane appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-20T10:15:39Z",
-    "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/"
   }
 ]

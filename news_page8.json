@@ -1,5 +1,14 @@
 [
   {
+    "id": 40488,
+    "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
+    "summary": "French lawmakers have proposed allocating a symbolic €1 for Dassault Aviation’s VORTEX spaceplane programme in an effort to compel the government to clarify its financial commitments to the project. In a 16 October amendment to France’s proposed 2027 budget, 71 MPs from the La France Insoumise party proposed creating a dedicated budget line for VORTEX […]\nThe post French MPs propose symbolic €1 budget line for VORTEX spaceplane appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/French-MPs-propose-symbolic-E1-budget-line-for-VORTEX-spaceplane.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-20T10:15:39Z",
+    "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/"
+  },
+  {
     "id": 40487,
     "title": "New brain for Galileo",
     "summary": "Twelve Galileo Second Generation (G2) satellites will join the current fleet in the coming years. They will deliver unprecedented positioning, navigation and timing capabilities thanks to an array of new features, including a new signal generation module, the ‘brain' of the spacecraft.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T18:08:52Z",
     "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/"
-  },
-  {
-    "id": 40446,
-    "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
-    "summary": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/chapea-one-year.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T18:01:51Z",
-    "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
   }
 ]
