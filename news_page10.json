@@ -1,5 +1,14 @@
 [
   {
+    "id": 40433,
+    "title": "Science and technology for the Moon",
+    "summary": "Returning to the Moon is about more than reaching the surface. Before we can live and work there long-term, we need to learn how to operate safely and sustainably in the lunar environment, understand its resources and develop the technologies that future explorers will depend on.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/moonset_1_of_6/27385453-2-eng-GB/Moonset_1_of_6_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-19T09:12:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Science_and_technology_for_the_Moon"
+  },
+  {
     "id": 40430,
     "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
     "summary": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-16T20:14:39Z",
     "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
-  },
-  {
-    "id": 40421,
-    "title": "Artemis II Heat Shield After Splashdown",
-    "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-16T16:28:01Z",
-    "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40496,
+    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\r\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-20T17:22:03Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"
+  },
+  {
     "id": 40495,
     "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
     "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-20T08:11:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo"
-  },
-  {
-    "id": 40486,
-    "title": "MMX lifts off to Mars’s moon Phobos",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-20T07:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos"
   }
 ]
