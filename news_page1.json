@@ -1,5 +1,14 @@
 [
   {
+    "id": 40557,
+    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+    "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-25T18:21:44Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
+  },
+  {
     "id": 40556,
     "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
     "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-23T19:53:25Z",
     "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/"
-  },
-  {
-    "id": 40550,
-    "title": "RS-25 Engine Tests at NASA Stennis",
-    "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-23T18:57:04Z",
-    "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
   }
 ]

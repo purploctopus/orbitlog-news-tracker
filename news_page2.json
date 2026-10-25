@@ -1,5 +1,14 @@
 [
   {
+    "id": 40550,
+    "title": "RS-25 Engine Tests at NASA Stennis",
+    "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T18:57:04Z",
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
+  },
+  {
     "id": 40551,
     "title": "NASA, Virginia Launch Power Partnership for Energy Security",
     "summary": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-23T03:23:10Z",
     "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/"
-  },
-  {
-    "id": 40535,
-    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-    "summary": "Expedition 75 aboard the International Space Station gained four new crew members at the beginning…\r\nThe post ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-22T21:55:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/"
   }
 ]

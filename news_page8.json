@@ -1,5 +1,14 @@
 [
   {
+    "id": 40487,
+    "title": "New brain for Galileo",
+    "summary": "Twelve Galileo Second Generation (G2) satellites will join the current fleet in the coming years. They will deliver unprecedented positioning, navigation and timing capabilities thanks to an array of new features, including a new signal generation module, the ‘brain' of the spacecraft.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_second_generation_radiofrequency_output_module/27582093-1-eng-GB/Galileo_Second_Generation_radiofrequency_output_module_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-20T08:11:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo"
+  },
+  {
     "id": 40486,
     "title": "MMX lifts off to Mars’s moon Phobos",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-19T18:01:51Z",
     "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
-  },
-  {
-    "id": 40443,
-    "title": "Instrumentation",
-    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-19T16:37:45Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/"
   }
 ]
