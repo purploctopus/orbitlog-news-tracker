@@ -1,5 +1,23 @@
 [
   {
+    "id": 40594,
+    "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+    "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E is currently scheduled for 10:46 p.m. PDT (1:46 a.m. EDT / 0546 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-27T00:50:37Z",
+    "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/"
+  },
+  {
+    "id": 40593,
+    "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+    "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T22:48:12Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
+  },
+  {
     "id": 40590,
     "title": "Tinga’s Tale",
     "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-26T17:13:44Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
-  },
-  {
-    "id": 40567,
-    "title": "NASA’s X-59 Aircraft and Test Pilot",
-    "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T15:25:47Z",
-    "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
-  },
-  {
-    "id": 40566,
-    "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-    "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T13:54:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40508,
+    "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+    "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-21T12:17:58Z",
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/"
+  },
+  {
+    "id": 40507,
+    "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+    "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […]\nThe post Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_nasa_solstar_momentus_iridium_proximity_operation_render_no_logos.png?fit=879%2C494&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-21T12:00:00Z",
+    "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/"
+  },
+  {
     "id": 40506,
     "title": "Summer of Quantum: Building momentum for space-based QKD",
     "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-20T21:18:11Z",
     "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
-  },
-  {
-    "id": 40498,
-    "title": "Does anyone actually want to win the medium-lift race in the United States?",
-    "summary": "Ars Technica is here to help with a guide to the medium-lift space race.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/428da033c0ad14482819d3e20c503b86ad29b17f-9504x6336-1.avif",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-20T19:13:31Z",
-    "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
-  },
-  {
-    "id": 40497,
-    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-    "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T18:11:33Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
   }
 ]

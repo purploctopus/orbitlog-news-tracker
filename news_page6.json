@@ -1,5 +1,23 @@
 [
   {
+    "id": 40526,
+    "title": "Help a lost lunar rover find its way in new ESA competition",
+    "summary": "A small rover is alone on the Moon, with no signal and no idea of its position. All it has is a panoramic camera and an aerial map of the Moon’s surface. The lunar night is fast approaching… can you help the rover find its way before it’s too late?",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/panorama_of_the_moon_for_lunar_x-view_competition/27586136-1-eng-GB/Panorama_of_the_Moon_for_Lunar_X-view_competition_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T11:10:00Z",
+    "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Help_a_lost_lunar_rover_find_its_way_in_new_ESA_competition"
+  },
+  {
+    "id": 40525,
+    "title": "ESA Open Days 2026",
+    "summary": "ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026"
+  },
+  {
     "id": 40527,
     "title": "ESA Council approves appointment of two new directors",
     "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-21T20:25:50Z",
     "url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/"
-  },
-  {
-    "id": 40517,
-    "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-    "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T18:35:56Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/"
-  },
-  {
-    "id": 40569,
-    "title": "The coastwide Atlantic sturgeon abundance index has risen steadily since 2013, while the Hudson’s own Atlantic juvenile index has declined in recent years.",
-    "summary": "ASMFC's 2024 update finds the coastwide Atlantic sturgeon index rising since 2013, while New York's Hudson juvenile index has declined in recent years.\nThe post The coastwide Atlantic sturgeon abundance index has risen steadily since 2013, while the Hudson’s own Atlantic juvenile index has declined in recent years. appeared first on Space Daily.",
-    "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/atlantic-sturgeon-usfws-public-domain.jpg",
-    "newsSite": "SpaceDaily",
-    "publishedAt": "2026-10-21T17:00:00Z",
-    "url": "https://spacedaily.com/atlantic-sturgeon-coastwide-index-hudson-juveniles/"
   }
 ]
