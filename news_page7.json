@@ -1,5 +1,59 @@
 [
   {
+    "id": 40525,
+    "title": "ESA Open Days 2026",
+    "summary": "ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026"
+  },
+  {
+    "id": 40527,
+    "title": "ESA Council approves appointment of two new directors",
+    "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T08:26:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors"
+  },
+  {
+    "id": 40523,
+    "title": "Stars brewing in a nebulous cauldron",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
+  },
+  {
+    "id": 40524,
+    "title": "Moon crane to take a load off lunar landers",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/moon_crane_to_take_a_load_off_lunar_landers/27582872-2-eng-GB/Moon_crane_to_take_a_load_off_lunar_landers_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T07:45:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers"
+  },
+  {
+    "id": 40522,
+    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+    "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"
+  },
+  {
+    "id": 40521,
+    "title": "Fires Char New Guinea",
+    "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
+  },
+  {
     "id": 40520,
     "title": "Faster to Science: A Letter to the Science Community",
     "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-21T18:35:56Z",
     "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/"
-  },
-  {
-    "id": 40569,
-    "title": "The coastwide Atlantic sturgeon abundance index has risen steadily since 2013, while the Hudson’s own Atlantic juvenile index has declined in recent years.",
-    "summary": "ASMFC's 2024 update finds the coastwide Atlantic sturgeon index rising since 2013, while New York's Hudson juvenile index has declined in recent years.\nThe post The coastwide Atlantic sturgeon abundance index has risen steadily since 2013, while the Hudson’s own Atlantic juvenile index has declined in recent years. appeared first on Space Daily.",
-    "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/atlantic-sturgeon-usfws-public-domain.jpg",
-    "newsSite": "SpaceDaily",
-    "publishedAt": "2026-10-21T17:00:00Z",
-    "url": "https://spacedaily.com/atlantic-sturgeon-coastwide-index-hudson-juveniles/"
-  },
-  {
-    "id": 40516,
-    "title": "SpaceX will attempt to reach weekly Starship launches by early 2027",
-    "summary": "\"We have had significant constructive engagement with the FAA.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-21T16:46:19Z",
-    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
-  },
-  {
-    "id": 40514,
-    "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-    "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T16:31:11Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/"
-  },
-  {
-    "id": 40515,
-    "title": "Tracks Along the Longest Drive on Another World",
-    "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T15:50:44Z",
-    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/"
-  },
-  {
-    "id": 40513,
-    "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-    "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […]\nThe post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-21T15:26:29Z",
-    "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/"
-  },
-  {
-    "id": 40511,
-    "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-    "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T15:05:08Z",
-    "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/"
   }
 ]

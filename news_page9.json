@@ -1,5 +1,59 @@
 [
   {
+    "id": 40507,
+    "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+    "summary": "SAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar […]\nThe post Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_nasa_solstar_momentus_iridium_proximity_operation_render_no_logos.png?fit=879%2C494&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-21T12:00:00Z",
+    "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/"
+  },
+  {
+    "id": 40506,
+    "title": "Summer of Quantum: Building momentum for space-based QKD",
+    "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-21T11:54:30Z",
+    "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/"
+  },
+  {
+    "id": 40504,
+    "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
+    "summary": "At its heart, Galileo is a story about people: engineers, operators and programme leaders working across Europe, united by a shared mission to strengthen Europe’s technological sovereignty while delivering a secure, resilient signal that supports safety, innovation and economic growth across the globe. Finding Our Way: Inside the Galileo Project celebrates the unseen work behind the signal that guides us forward.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_2_-_the_people_behind_the_signal/27585629-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-21T08:04:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal"
+  },
+  {
+    "id": 40503,
+    "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
+    "summary": "It started with a bold idea: Europe should find its own way. Finding Our Way: Inside the Galileo Project tells the story of the vision, perseverance and people behind Galileo, Europe’s global navigation satellite system, and the decades-long journey that turned an idea into the signal that guides us all.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_1_a_european_vision/27585539-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-21T08:03:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision"
+  },
+  {
+    "id": 40505,
+    "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
+    "summary": "Galileo is a system in perfect synchronisation: satellites orbiting above, atomic clocks setting the tempo, and ground stations listening and refining below. Each plays its part. Together, they create the precision behind the signal that guides us all. See how it all comes together in Finding Our Way: Inside the Galileo Project.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_3_-_a_symphony_of_precision/27585719-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-21T08:03:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision"
+  },
+  {
+    "id": 40501,
+    "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+    "summary": "APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-21T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
+  },
+  {
     "id": 40502,
     "title": "Extratropical Cyclone Whips Past Iceland",
     "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
@@ -34,59 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-20T19:13:31Z",
     "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
-  },
-  {
-    "id": 40497,
-    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
-    "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T18:11:33Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
-  },
-  {
-    "id": 40496,
-    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\r\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-20T17:22:03Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"
-  },
-  {
-    "id": 40570,
-    "title": "Astronauts on the Moon could shelter from radiation, micrometeoroids and extreme temperatures inside a lava tube, and NASA is sending a suite called GIMLI to scan beneath the Marius Hills Pit to see whether the pit opens into one",
-    "summary": "Underground caverns could offer lunar explorers their first true shelter, if a buried tunnel system actually exists beneath the volcanic landscape where NASA is about to look.\nThe post Astronauts on the Moon could shelter from radiation, micrometeoroids and extreme temperatures inside a lava tube, and NASA is sending a suite called GIMLI to scan beneath the Marius Hills Pit to see whether the pit opens into one appeared first on Space Daily.",
-    "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/marius-hills-pit-nasa-lroc-asu-public-domain.png",
-    "newsSite": "SpaceDaily",
-    "publishedAt": "2026-10-20T17:00:00Z",
-    "url": "https://spacedaily.com/marius-hills-pit-gimli-lava-tube/"
-  },
-  {
-    "id": 40495,
-    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-    "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T16:02:35Z",
-    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-  },
-  {
-    "id": 40494,
-    "title": "NASA Provides Progress Update on Moon Base Rovers",
-    "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/moon-base-update-oct-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-20T15:00:10Z",
-    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/"
-  },
-  {
-    "id": 40493,
-    "title": "Space Rider test model lost following failed drop test",
-    "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […]\r\nThe post Space Rider test model lost following failed drop test appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Space-Rider-Test-Model-Lost-Following-Failed-Drop-Test.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-20T14:52:57Z",
-    "url": "https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/"
   }
 ]
