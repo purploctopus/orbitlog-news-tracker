@@ -1,5 +1,23 @@
 [
   {
+    "id": 40541,
+    "title": "Week in images: 19-23 October 2026",
+    "summary": "Week in images: 19-23 October 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-23T13:15:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026"
+  },
+  {
+    "id": 40539,
+    "title": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
+    "summary": "The European Space Agency’s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing following ESA’s 350th Council meeting in Paris, Naja […]\r\nThe post ESA Director “Not Sure” Themis Will Make Its First Flight in 2026 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-23T11:06:47Z",
+    "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/"
+  },
+  {
     "id": 40538,
     "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
     "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-10-22T21:52:31Z",
     "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
-  },
-  {
-    "id": 40554,
-    "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-    "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T21:39:58Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
-  },
-  {
-    "id": 40555,
-    "title": "Spiral’s Edge",
-    "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T21:35:38Z",
-    "url": "https://www.nasa.gov/image-article/spirals-edge/"
   }
 ]

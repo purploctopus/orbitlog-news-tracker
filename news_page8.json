@@ -1,5 +1,23 @@
 [
   {
+    "id": 40527,
+    "title": "ESA Council approves appointment of two new directors",
+    "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T08:26:00Z",
+    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors"
+  },
+  {
+    "id": 40523,
+    "title": "Stars brewing in a nebulous cauldron",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T08:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
+  },
+  {
     "id": 40524,
     "title": "Moon crane to take a load off lunar landers",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceDaily",
     "publishedAt": "2026-10-21T17:00:00Z",
     "url": "https://spacedaily.com/atlantic-sturgeon-coastwide-index-hudson-juveniles/"
-  },
-  {
-    "id": 40516,
-    "title": "SpaceX will attempt to reach weekly Starship launches by early 2027",
-    "summary": "\"We have had significant constructive engagement with the FAA.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-21T16:46:19Z",
-    "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
-  },
-  {
-    "id": 40514,
-    "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-    "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-21T16:31:11Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/"
   }
 ]

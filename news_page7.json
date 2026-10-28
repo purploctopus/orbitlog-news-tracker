@@ -1,5 +1,23 @@
 [
   {
+    "id": 40554,
+    "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+    "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T21:39:58Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+  },
+  {
+    "id": 40555,
+    "title": "Spiral’s Edge",
+    "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T21:35:38Z",
+    "url": "https://www.nasa.gov/image-article/spirals-edge/"
+  },
+  {
     "id": 40533,
     "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
     "summary": "A new report from the National Academies of Sciences, Engineering, and Medicine identifies four locations on the Moon separate from the South Pole where human exploration could yield valuable scientific […]",
@@ -70,23 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-22T09:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026"
-  },
-  {
-    "id": 40527,
-    "title": "ESA Council approves appointment of two new directors",
-    "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T08:26:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors"
-  },
-  {
-    "id": 40523,
-    "title": "Stars brewing in a nebulous cauldron",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
   }
 ]

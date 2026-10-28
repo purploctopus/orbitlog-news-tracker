@@ -1,5 +1,23 @@
 [
   {
+    "id": 40506,
+    "title": "Summer of Quantum: Building momentum for space-based QKD",
+    "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-21T11:54:30Z",
+    "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/"
+  },
+  {
+    "id": 40504,
+    "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
+    "summary": "At its heart, Galileo is a story about people: engineers, operators and programme leaders working across Europe, united by a shared mission to strengthen Europe’s technological sovereignty while delivering a secure, resilient signal that supports safety, innovation and economic growth across the globe. Finding Our Way: Inside the Galileo Project celebrates the unseen work behind the signal that guides us forward.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_2_-_the_people_behind_the_signal/27585629-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-21T08:04:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal"
+  },
+  {
     "id": 40503,
     "title": "Finding Our Way: Inside the Galileo Project: 1 – A European vision",
     "summary": "It started with a bold idea: Europe should find its own way. Finding Our Way: Inside the Galileo Project tells the story of the vision, perseverance and people behind Galileo, Europe’s global navigation satellite system, and the decades-long journey that turned an idea into the signal that guides us all.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-20T18:11:33Z",
     "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/"
-  },
-  {
-    "id": 40496,
-    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
-    "summary": "Nine rockets are set to launch this week from California, Florida, New Zealand, Japan, and…\r\nThe post Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-20T17:22:03Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/"
-  },
-  {
-    "id": 40570,
-    "title": "Astronauts on the Moon could shelter from radiation, micrometeoroids and extreme temperatures inside a lava tube, and NASA is sending a suite called GIMLI to scan beneath the Marius Hills Pit to see whether the pit opens into one",
-    "summary": "Underground caverns could offer lunar explorers their first true shelter, if a buried tunnel system actually exists beneath the volcanic landscape where NASA is about to look.\nThe post Astronauts on the Moon could shelter from radiation, micrometeoroids and extreme temperatures inside a lava tube, and NASA is sending a suite called GIMLI to scan beneath the Marius Hills Pit to see whether the pit opens into one appeared first on Space Daily.",
-    "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/marius-hills-pit-nasa-lroc-asu-public-domain.png",
-    "newsSite": "SpaceDaily",
-    "publishedAt": "2026-10-20T17:00:00Z",
-    "url": "https://spacedaily.com/marius-hills-pit-gimli-lava-tube/"
   }
 ]
