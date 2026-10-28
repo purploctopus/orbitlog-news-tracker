@@ -1,5 +1,32 @@
 [
   {
+    "id": 40561,
+    "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+    "summary": "The Australian government has submitted a counteroffer to the European Space Agency (ESA) to secure a flight to the International Space Station for Australian astronaut Katherine Bennell-Pegg. Support for the mission is not universal in Australia, with one government official calling the spending “reckless.” Australian Minister for Science Tim Ayres confirmed on 23 October that […]\nThe post Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Australia-Counters-ESAs-Offer-for-Mission-to-ISS-for-Bennell-Pegg.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-26T10:53:24Z",
+    "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/"
+  },
+  {
+    "id": 40562,
+    "title": "Ice mission CRISTAL opens its wings",
+    "summary": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of launch and life in orbit.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-26T10:00:00Z",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings"
+  },
+  {
+    "id": 40560,
+    "title": "2026 October 26 – M42: The Great Nebula in Orion",
+    "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/"
+  },
+  {
     "id": 40564,
     "title": "2026 October 26 – M42: The Great Nebula in Orion",
     "summary": "APOD Science APOD 2026 October 26 – M42: The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. M42: The […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-24T03:25:36Z",
     "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"
-  },
-  {
-    "id": 40544,
-    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-    "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-23T22:48:25Z",
-    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
-  },
-  {
-    "id": 40543,
-    "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
-    "summary": "NASA officials projected confidence today in their plans to launch the Artemis III earth-orbital test flight in mid-2027 and land American astronauts on the Moon in 2028.  Whether SpaceX’s Starship […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-23T22:39:54Z",
-    "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/"
-  },
-  {
-    "id": 40547,
-    "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-    "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-23T22:39:39Z",
-    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
   }
 ]

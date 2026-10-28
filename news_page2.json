@@ -1,5 +1,32 @@
 [
   {
+    "id": 40601,
+    "title": "Starliner to Return to Flight by January, Fly Crew in 2028",
+    "summary": "On September 28, NASA and Boeing provided an update on the Starliner spacecraft’s Return to Flight, progress made since the",
+    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-14.png",
+    "newsSite": "Space Scout",
+    "publishedAt": "2026-10-27T12:08:51Z",
+    "url": "https://www.spacescout.info/2026/10/starliner-to-return-to-flight-by-january-fly-crew-in-2028/"
+  },
+  {
+    "id": 40600,
+    "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+    "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […]\nThe post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Logos.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-27T12:00:00Z",
+    "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/"
+  },
+  {
+    "id": 40599,
+    "title": "ESA procures four new Galileo Second Generation satellites",
+    "summary": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-27T10:00:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites"
+  },
+  {
     "id": 40597,
     "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
     "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-10-26T21:11:56Z",
     "url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/"
-  },
-  {
-    "id": 40588,
-    "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-    "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T21:07:28Z",
-    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
-  },
-  {
-    "id": 40591,
-    "title": "NEO Surveyor’s Sunshade Gets Inspected",
-    "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T20:53:13Z",
-    "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
-  },
-  {
-    "id": 40592,
-    "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-    "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T20:52:24Z",
-    "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/"
   }
 ]
