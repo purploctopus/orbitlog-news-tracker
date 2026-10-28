@@ -1,5 +1,50 @@
 [
   {
+    "id": 40548,
+    "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+    "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T22:37:53Z",
+    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+  },
+  {
+    "id": 40549,
+    "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+    "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T21:51:19Z",
+    "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+  },
+  {
+    "id": 40542,
+    "title": "Nov. 5: Satellite Mission Management at the Edge",
+    "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-23T19:53:25Z",
+    "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/"
+  },
+  {
+    "id": 40550,
+    "title": "RS-25 Engine Tests at NASA Stennis",
+    "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T18:57:04Z",
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
+  },
+  {
+    "id": 40551,
+    "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+    "summary": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T17:50:21Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+  },
+  {
     "id": 40541,
     "title": "Week in images: 19-23 October 2026",
     "summary": "Week in images: 19-23 October 2026",
@@ -43,50 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-23T07:17:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters"
-  },
-  {
-    "id": 40552,
-    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-    "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-23T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/"
-  },
-  {
-    "id": 40553,
-    "title": "El Niño Then and Now",
-    "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-then-and-now/elninocomp_sen6_19971013.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-23T04:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
-  },
-  {
-    "id": 40536,
-    "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
-    "summary": "NASA’s Aerospace Safety Advisory Panel will soon open a formal recommendation that NASA re-examine plans for the Artemis IV mission.  Currently that will be a landing at the Moon’s South […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-1-300x200.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-23T03:23:10Z",
-    "url": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo/"
-  },
-  {
-    "id": 40535,
-    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
-    "summary": "Expedition 75 aboard the International Space Station gained four new crew members at the beginning…\r\nThe post ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/iss075e0226575orig-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-22T21:55:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/"
-  },
-  {
-    "id": 40534,
-    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-22T21:52:31Z",
-    "url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
   }
 ]
