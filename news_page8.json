@@ -1,5 +1,14 @@
 [
   {
+    "id": 40520,
+    "title": "Faster to Science: A Letter to the Science Community",
+    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T00:00:16Z",
+    "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
+  },
+  {
     "id": 40519,
     "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-21T15:05:08Z",
     "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/"
-  },
-  {
-    "id": 40512,
-    "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-    "summary": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […]\nThe post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-21T15:00:22Z",
-    "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/"
   }
 ]

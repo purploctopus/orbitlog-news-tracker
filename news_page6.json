@@ -1,5 +1,14 @@
 [
   {
+    "id": 40552,
+    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+    "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/"
+  },
+  {
     "id": 40553,
     "title": "El Niño Then and Now",
     "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-10-22T15:02:37Z",
     "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
-  },
-  {
-    "id": 40531,
-    "title": "350th ESA Council: Media information session",
-    "summary": "Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T14:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session"
   }
 ]

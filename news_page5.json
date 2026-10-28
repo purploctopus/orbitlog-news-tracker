@@ -1,5 +1,14 @@
 [
   {
+    "id": 40548,
+    "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+    "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-23T22:37:53Z",
+    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+  },
+  {
     "id": 40549,
     "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
     "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-23T07:17:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Spot_the_craters"
-  },
-  {
-    "id": 40552,
-    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-    "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-23T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/"
   }
 ]

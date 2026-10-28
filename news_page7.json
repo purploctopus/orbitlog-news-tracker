@@ -1,5 +1,14 @@
 [
   {
+    "id": 40531,
+    "title": "350th ESA Council: Media information session",
+    "summary": "Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session"
+  },
+  {
     "id": 40529,
     "title": "Resilience takes centre stage at the NAVISP Industry Days",
     "summary": "Resilience, maritime and drone applications, and alternative navigation technologies were on the menu of the sixth edition of the European Space Agency's (ESA) NAVISP Industry Days, which brought together over 350 participants in Rome, Italy for two days of discussions, networking and collaboration.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-22T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
-  },
-  {
-    "id": 40520,
-    "title": "Faster to Science: A Letter to the Science Community",
-    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T00:00:16Z",
-    "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
   }
 ]
