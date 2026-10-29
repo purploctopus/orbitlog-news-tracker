@@ -1,5 +1,50 @@
 [
   {
+    "id": 40586,
+    "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+    "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T19:28:08Z",
+    "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
+  },
+  {
+    "id": 40568,
+    "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+    "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+    "imageUrl": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T17:13:44Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
+  },
+  {
+    "id": 40567,
+    "title": "NASA’s X-59 Aircraft and Test Pilot",
+    "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T15:25:47Z",
+    "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
+  },
+  {
+    "id": 40566,
+    "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+    "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T13:54:25Z",
+    "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
+  },
+  {
+    "id": 40565,
+    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+    "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […]\r\nThe post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-26T13:00:00Z",
+    "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"
+  },
+  {
     "id": 40563,
     "title": "A New Era for Space Launch? The Coming Falcon 9 Retirement",
     "summary": "Falcon 9’s retirement could leave the market up for grabs, as SpaceX finds themselves still in the process of developing and marketing Starship as a worthy successor.",
@@ -43,50 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-26T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/"
-  },
-  {
-    "id": 40559,
-    "title": "Hunting Red Leaves with Satellites",
-    "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/"
-  },
-  {
-    "id": 40558,
-    "title": "What’s Happening in Space Policy October 25-November 1, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of October 25-November 1, 2026 and any insight we can offer about them. The House and […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Nicky-Fox-2026-240x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-25T20:35:16Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026/"
-  },
-  {
-    "id": 40557,
-    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-    "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test…\r\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-25T18:21:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
-  },
-  {
-    "id": 40556,
-    "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-    "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-25T08:19:48Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
-  },
-  {
-    "id": 40546,
-    "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-    "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-24T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"
   }
 ]

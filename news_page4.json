@@ -1,5 +1,50 @@
 [
   {
+    "id": 40596,
+    "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+    "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-27T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/"
+  },
+  {
+    "id": 40595,
+    "title": "A-81 Reaches South Georgia",
+    "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-27T04:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/"
+  },
+  {
+    "id": 40594,
+    "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
+    "summary": "Liftoff of the Starlink 15-16 mission from Space Launch Complex 4E is currently scheduled for 10:46 p.m. PDT (1:46 a.m. EDT / 0546 UTC).",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2025/04/20250401_Starlink_G9_10_Vertical_Sunset.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-27T00:50:37Z",
+    "url": "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/"
+  },
+  {
+    "id": 40593,
+    "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+    "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T22:48:12Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
+  },
+  {
+    "id": 40590,
+    "title": "Tinga’s Tale",
+    "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T21:17:02Z",
+    "url": "https://science.nasa.gov/blog/tingas-tale/"
+  },
+  {
     "id": 40589,
     "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
     "summary": "Four rockets are set to launch this week from the United States and India. SpaceX…\r\nThe post Launch Preview: Falcon 9 and GSLV rockets scheduled to launch appeared first on NASASpaceFlight.com.",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-26T20:00:00Z",
     "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/"
-  },
-  {
-    "id": 40586,
-    "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-    "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T19:28:08Z",
-    "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/"
-  },
-  {
-    "id": 40568,
-    "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-    "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-    "imageUrl": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T17:13:44Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/"
-  },
-  {
-    "id": 40567,
-    "title": "NASA’s X-59 Aircraft and Test Pilot",
-    "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T15:25:47Z",
-    "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
-  },
-  {
-    "id": 40566,
-    "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-    "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T13:54:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
-  },
-  {
-    "id": 40565,
-    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-    "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […]\r\nThe post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/astranis-square.png?fit=1024%2C1014&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-26T13:00:00Z",
-    "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/"
   }
 ]
