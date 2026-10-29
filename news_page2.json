@@ -1,5 +1,77 @@
 [
   {
+    "id": 40628,
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/"
+  },
+  {
+    "id": 40627,
+    "title": "Arnab Strikes India",
+    "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/"
+  },
+  {
+    "id": 40626,
+    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+    "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T02:49:59Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/"
+  },
+  {
+    "id": 40629,
+    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-28T22:46:41Z",
+    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+  },
+  {
+    "id": 40624,
+    "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+    "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-28T21:50:01Z",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
+  },
+  {
+    "id": 40622,
+    "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+    "summary": "In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…\nThe post Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-28T21:12:08Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/"
+  },
+  {
+    "id": 40623,
+    "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
+    "summary": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-28T21:03:33Z",
+    "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
+  },
+  {
+    "id": 40621,
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "summary": "It has been nearly a year since any space tourism flights occurred.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-28T19:20:36Z",
+    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
+  },
+  {
     "id": 40620,
     "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
     "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
@@ -9,84 +81,12 @@
     "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
   },
   {
-    "id": 40619,
-    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-    "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T18:00:28Z",
-    "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
-  },
-  {
-    "id": 40618,
-    "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-    "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T16:25:29Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
-  },
-  {
-    "id": 40617,
-    "title": "Webb Sees Turbulent Star Nursery",
-    "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T15:33:10Z",
-    "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
-  },
-  {
-    "id": 40616,
-    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-    "summary": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […]\nThe post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/LOGO_FLEXELLBlack.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-28T14:43:08Z",
-    "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/"
-  },
-  {
-    "id": 40615,
-    "title": "New contracts to modernise Galileo ground segment for next generation",
-    "summary": "On 27 October 2026, Indra Space celebrated the signature of two contracts with the European Space Agency, European Commission and EU Agency for the Space Programme to develop new ground stations for the second generation of Galileo, Europe’s satellite navigation system.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_ground_segment_to_be_modernised_for_next_generation/27593327-1-eng-GB/Galileo_ground_segment_to_be_modernised_for_next_generation_card_full.jpg",
+    "id": 40631,
+    "title": "ESA at Spaceport Norway 2026",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_at_spaceport_norway_2026/27593906-1-eng-GB/ESA_at_Spaceport_Norway_2026_card_full.jpg",
     "newsSite": "ESA",
-    "publishedAt": "2026-10-28T07:09:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation"
-  },
-  {
-    "id": 40614,
-    "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-    "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T05:39:46Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
-  },
-  {
-    "id": 40613,
-    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-    "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
-  },
-  {
-    "id": 40612,
-    "title": "The Land of the Standing-Up Rocks",
-    "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
-  },
-  {
-    "id": 40611,
-    "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-    "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-27T20:21:30Z",
-    "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
+    "publishedAt": "2026-10-28T18:14:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/ESA_at_Spaceport_Norway_2026"
   }
 ]
