@@ -1,5 +1,59 @@
 [
   {
+    "id": 40554,
+    "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+    "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T21:39:58Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+  },
+  {
+    "id": 40555,
+    "title": "Spiral’s Edge",
+    "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-22T21:35:38Z",
+    "url": "https://www.nasa.gov/image-article/spirals-edge/"
+  },
+  {
+    "id": 40533,
+    "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
+    "summary": "A new report from the National Academies of Sciences, Engineering, and Medicine identifies four locations on the Moon separate from the South Pole where human exploration could yield valuable scientific […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/NASEM-full-chart-228x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-10-22T20:44:04Z",
+    "url": "https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration/"
+  },
+  {
+    "id": 40532,
+    "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+    "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […]\nThe post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Aalyria-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-22T18:13:38Z",
+    "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/"
+  },
+  {
+    "id": 40530,
+    "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+    "summary": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle’s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, Géraldine Naja, the agency’s Director of Space Transportation, provided […]\r\nThe post ESA Provides New Details on Failed Space Rider Drop Test appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Provides-New-Details-on-Failed-Space-Rider-Drop-Test.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-22T15:02:37Z",
+    "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/"
+  },
+  {
+    "id": 40531,
+    "title": "350th ESA Council: Media information session",
+    "summary": "Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-22T14:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session"
+  },
+  {
     "id": 40529,
     "title": "Resilience takes centre stage at the NAVISP Industry Days",
     "summary": "Resilience, maritime and drone applications, and alternative navigation technologies were on the menu of the sixth edition of the European Space Agency's (ESA) NAVISP Industry Days, which brought together over 350 participants in Rome, Italy for two days of discussions, networking and collaboration.",
@@ -34,59 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-22T09:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026"
-  },
-  {
-    "id": 40527,
-    "title": "ESA Council approves appointment of two new directors",
-    "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T08:26:00Z",
-    "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors"
-  },
-  {
-    "id": 40523,
-    "title": "Stars brewing in a nebulous cauldron",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T08:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron"
-  },
-  {
-    "id": 40524,
-    "title": "Moon crane to take a load off lunar landers",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/moon_crane_to_take_a_load_off_lunar_landers/27582872-2-eng-GB/Moon_crane_to_take_a_load_off_lunar_landers_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-22T07:45:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Moon_crane_to_take_a_load_off_lunar_landers"
-  },
-  {
-    "id": 40522,
-    "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
-    "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The First […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/"
-  },
-  {
-    "id": 40521,
-    "title": "Fires Char New Guinea",
-    "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/"
-  },
-  {
-    "id": 40520,
-    "title": "Faster to Science: A Letter to the Science Community",
-    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-22T00:00:16Z",
-    "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/"
   }
 ]
