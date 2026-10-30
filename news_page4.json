@@ -1,5 +1,59 @@
 [
   {
+    "id": 40622,
+    "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+    "summary": "In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and…\nThe post Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/kscvsstarbasecomparison.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-28T21:12:08Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/"
+  },
+  {
+    "id": 40623,
+    "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
+    "summary": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030.",
+    "imageUrl": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261028-IROSA-Install-3.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-28T21:03:33Z",
+    "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
+  },
+  {
+    "id": 40621,
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "summary": "It has been nearly a year since any space tourism flights occurred.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-28T19:20:36Z",
+    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
+  },
+  {
+    "id": 40620,
+    "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+    "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-28T18:59:44Z",
+    "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+  },
+  {
+    "id": 40631,
+    "title": "ESA at Spaceport Norway 2026",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_at_spaceport_norway_2026/27593906-1-eng-GB/ESA_at_Spaceport_Norway_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-28T18:14:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/ESA_at_Spaceport_Norway_2026"
+  },
+  {
+    "id": 40632,
+    "title": "ESA and Norway pen projects for resilient satellite navigation",
+    "summary": "On 27 October at Spaceport Norway in Oslo, the European Space Agency (ESA) signed new contracts with three Norwegian companies under ESA’s Navigation Innovation and Support Program (NAVISP). The projects follow a call for projects via NAVISP funding by the Norwegian Space Agency to support the development of resilient positioning, navigation and timing (PNT) solutions.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gnss-based_electronic_aids_to_navigation_solutions/27593953-1-eng-GB/GNSS-Based_Electronic_Aids_To_Navigation_Solutions_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-28T18:11:00Z",
+    "url": "https://www.esa.int/Applications/Satellite_navigation/NAVISP/ESA_and_Norway_pen_projects_for_resilient_satellite_navigation"
+  },
+  {
     "id": 40619,
     "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
     "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
@@ -34,59 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-10-28T14:43:08Z",
     "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/"
-  },
-  {
-    "id": 40615,
-    "title": "New contracts to modernise Galileo ground segment for next generation",
-    "summary": "On 27 October 2026, Indra Space celebrated the signature of two contracts with the European Space Agency, European Commission and EU Agency for the Space Programme to develop new ground stations for the second generation of Galileo, Europe’s satellite navigation system.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/galileo_ground_segment_to_be_modernised_for_next_generation/27593327-1-eng-GB/Galileo_ground_segment_to_be_modernised_for_next_generation_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-28T07:09:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/New_contracts_to_modernise_Galileo_ground_segment_for_next_generation"
-  },
-  {
-    "id": 40614,
-    "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-    "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05048_mhli_5048MH0009170001804540R00_DXXX.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T05:39:46Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
-  },
-  {
-    "id": 40613,
-    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-    "summary": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/"
-  },
-  {
-    "id": 40612,
-    "title": "The Land of the Standing-Up Rocks",
-    "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
-  },
-  {
-    "id": 40611,
-    "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-    "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-27T20:21:30Z",
-    "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
-  },
-  {
-    "id": 40610,
-    "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-    "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-27T19:27:22Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
   }
 ]
