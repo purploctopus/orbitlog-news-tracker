@@ -1,5 +1,32 @@
 [
   {
+    "id": 40640,
+    "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+    "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T15:10:18Z",
+    "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
+  },
+  {
+    "id": 40638,
+    "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+    "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/isam-state-of-play.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T15:06:40Z",
+    "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
+  },
+  {
+    "id": 40639,
+    "title": "Advice for optimizing the space industry with Laura Crabtree",
+    "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […]\nThe post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Epsilon3-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-29T15:01:09Z",
+    "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
+  },
+  {
     "id": 40637,
     "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
     "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/"
-  },
-  {
-    "id": 40627,
-    "title": "Arnab Strikes India",
-    "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/"
-  },
-  {
-    "id": 40626,
-    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-    "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T02:49:59Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/"
-  },
-  {
-    "id": 40629,
-    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
-    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-28T22:46:41Z",
-    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
   }
 ]

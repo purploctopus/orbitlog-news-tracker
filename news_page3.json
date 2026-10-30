@@ -1,5 +1,32 @@
 [
   {
+    "id": 40627,
+    "title": "Arnab Strikes India",
+    "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/"
+  },
+  {
+    "id": 40626,
+    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+    "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T02:49:59Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/"
+  },
+  {
+    "id": 40629,
+    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-28T22:46:41Z",
+    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+  },
+  {
     "id": 40624,
     "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
     "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-28T18:11:00Z",
     "url": "https://www.esa.int/Applications/Satellite_navigation/NAVISP/ESA_and_Norway_pen_projects_for_resilient_satellite_navigation"
-  },
-  {
-    "id": 40619,
-    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-    "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T18:00:28Z",
-    "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
-  },
-  {
-    "id": 40618,
-    "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-    "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T16:25:29Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
-  },
-  {
-    "id": 40617,
-    "title": "Webb Sees Turbulent Star Nursery",
-    "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T15:33:10Z",
-    "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
   }
 ]
