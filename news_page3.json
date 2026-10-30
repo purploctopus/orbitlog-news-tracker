@@ -1,5 +1,41 @@
 [
   {
+    "id": 40646,
+    "title": "Halloween Aboard the International Space Station",
+    "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T21:44:23Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/"
+  },
+  {
+    "id": 40645,
+    "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
+    "summary": "With Blue Origin moving towards a potential return to flight by late 2026, NASA has…\nThe post Blue Origin attempts end of year return and eyes Artemis IV selection appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-29T21:02:54Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"
+  },
+  {
+    "id": 40644,
+    "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+    "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T18:18:09Z",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+  },
+  {
+    "id": 40643,
+    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T18:00:35Z",
+    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+  },
+  {
     "id": 40642,
     "title": "NIH–NASA QuSAFE Challenge",
     "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T14:49:27Z",
     "url": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/"
-  },
-  {
-    "id": 40636,
-    "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
-    "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M4BZ6G5147CKYXY9C9SY3D9F.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T14:01:01Z",
-    "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/"
-  },
-  {
-    "id": 40635,
-    "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-    "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-29T14:00:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
-  },
-  {
-    "id": 40634,
-    "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
-    "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduating high school, he knew […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/s26-012-jared-spiers.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T13:27:34Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/"
-  },
-  {
-    "id": 40653,
-    "title": "Exploring the Moon",
-    "summary": "The Moon being so visible has always inspired explorers, scientists and dreamers. Today, it is a destination for discovery, innovation, international cooperation and developing the knowledge and technologies needed to live and work beyond Earth. Across science, robotics, infrastructure and human spaceflight, ESA is helping to shape that future, ensuring that Europe plays a leading role in humankind’s next great adventure.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/mars_plays_hide_and_seek_with_wolf_moon/26539325-1-eng-GB/Mars_plays_hide_and_seek_with_Wolf_Moon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-29T12:50:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploring_the_Moon"
   }
 ]

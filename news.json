@@ -1,5 +1,41 @@
 [
   {
+    "id": 40667,
+    "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-30T22:46:02Z",
+    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+  },
+  {
+    "id": 40666,
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-30T21:53:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
+  },
+  {
+    "id": 40665,
+    "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+    "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T19:31:02Z",
+    "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+  },
+  {
+    "id": 40664,
+    "title": "ESI supplying solar array components to missile defense programs",
+    "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […]\nThe post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-10-30T18:54:34Z",
+    "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
+  },
+  {
     "id": 40663,
     "title": "Government Spending on Civil Space Topped $42 Billion in FY2026",
     "summary": "Government spending on civil space activities is more than just NASA. A new Aerospace Corporation report details the $42.6 billion allocated for civil space in FY2026 and compares it to […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T14:51:21Z",
     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-  },
-  {
-    "id": 40657,
-    "title": "Week in images: 26-30 October 2026",
-    "summary": "Week in images: 26-30 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T14:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
-  },
-  {
-    "id": 40656,
-    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
-    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-30T11:02:56Z",
-    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
-  },
-  {
-    "id": 40655,
-    "title": "November’s Night Sky Notes: Light-Day Away",
-    "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
-  },
-  {
-    "id": 40654,
-    "title": "Earth from Space: Champi’s eerie eye",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T09:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 40657,
+    "title": "Week in images: 26-30 October 2026",
+    "summary": "Week in images: 26-30 October 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-30T14:15:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
+  },
+  {
+    "id": 40656,
+    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
+    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-30T11:02:56Z",
+    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
+  },
+  {
+    "id": 40655,
+    "title": "November’s Night Sky Notes: Light-Day Away",
+    "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T10:00:00Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+  },
+  {
+    "id": 40654,
+    "title": "Earth from Space: Champi’s eerie eye",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-30T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye"
+  },
+  {
     "id": 40651,
     "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
     "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
@@ -52,41 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-29T21:57:22Z",
     "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
-  },
-  {
-    "id": 40646,
-    "title": "Halloween Aboard the International Space Station",
-    "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T21:44:23Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/"
-  },
-  {
-    "id": 40645,
-    "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
-    "summary": "With Blue Origin moving towards a potential return to flight by late 2026, NASA has…\nThe post Blue Origin attempts end of year return and eyes Artemis IV selection appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-29T21:02:54Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"
-  },
-  {
-    "id": 40644,
-    "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-    "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T18:18:09Z",
-    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-  },
-  {
-    "id": 40643,
-    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T18:00:35Z",
-    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
   }
 ]
