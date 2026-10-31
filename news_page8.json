@@ -1,5 +1,14 @@
 [
   {
+    "id": 40593,
+    "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+    "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-26T22:48:12Z",
+    "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
+  },
+  {
     "id": 40590,
     "title": "Tinga’s Tale",
     "summary": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-26T15:25:47Z",
     "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/"
-  },
-  {
-    "id": 40566,
-    "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-    "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-26T13:54:25Z",
-    "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/"
   }
 ]

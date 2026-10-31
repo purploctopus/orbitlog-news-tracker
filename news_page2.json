@@ -1,5 +1,14 @@
 [
   {
+    "id": 40659,
+    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+    "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T14:51:21Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+  },
+  {
     "id": 40657,
     "title": "Week in images: 26-30 October 2026",
     "summary": "Week in images: 26-30 October 2026",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T23:32:35Z",
     "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
-  },
-  {
-    "id": 40647,
-    "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
-    "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-29T21:57:22Z",
-    "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
   }
 ]

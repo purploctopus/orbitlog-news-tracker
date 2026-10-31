@@ -1,5 +1,14 @@
 [
   {
+    "id": 40629,
+    "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+    "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-28T22:46:41Z",
+    "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+  },
+  {
     "id": 40624,
     "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
     "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-28T16:25:29Z",
     "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
-  },
-  {
-    "id": 40617,
-    "title": "Webb Sees Turbulent Star Nursery",
-    "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T15:33:10Z",
-    "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/"
   }
 ]
