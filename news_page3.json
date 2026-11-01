@@ -1,5 +1,32 @@
 [
   {
+    "id": 40650,
+    "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+    "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T00:07:39Z",
+    "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
+  },
+  {
+    "id": 40649,
+    "title": "As it happened: spacewalkers install new solar array",
+    "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-29T23:45:33Z",
+    "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/"
+  },
+  {
+    "id": 40648,
+    "title": "Slice of Martian Meteorite Teghaza 001",
+    "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T23:32:35Z",
+    "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
+  },
+  {
     "id": 40647,
     "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
     "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T15:21:23Z",
     "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
-  },
-  {
-    "id": 40640,
-    "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-    "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T15:10:18Z",
-    "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
-  },
-  {
-    "id": 40638,
-    "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-    "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/03/isam-state-of-play.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T15:06:40Z",
-    "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
-  },
-  {
-    "id": 40639,
-    "title": "Advice for optimizing the space industry with Laura Crabtree",
-    "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […]\nThe post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Epsilon3-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-29T15:01:09Z",
-    "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
   }
 ]

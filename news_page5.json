@@ -1,5 +1,32 @@
 [
   {
+    "id": 40628,
+    "title": "APOD: 29 October 2026 – The Horns of Venus",
+    "summary": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/"
+  },
+  {
+    "id": 40627,
+    "title": "Arnab Strikes India",
+    "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T04:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/"
+  },
+  {
+    "id": 40626,
+    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+    "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T02:49:59Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/"
+  },
+  {
     "id": 40629,
     "title": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
     "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-28T18:14:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/ESA_at_Spaceport_Norway_2026"
-  },
-  {
-    "id": 40632,
-    "title": "ESA and Norway pen projects for resilient satellite navigation",
-    "summary": "On 27 October at Spaceport Norway in Oslo, the European Space Agency (ESA) signed new contracts with three Norwegian companies under ESA’s Navigation Innovation and Support Program (NAVISP). The projects follow a call for projects via NAVISP funding by the Norwegian Space Agency to support the development of resilient positioning, navigation and timing (PNT) solutions.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/gnss-based_electronic_aids_to_navigation_solutions/27593953-1-eng-GB/GNSS-Based_Electronic_Aids_To_Navigation_Solutions_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-28T18:11:00Z",
-    "url": "https://www.esa.int/Applications/Satellite_navigation/NAVISP/ESA_and_Norway_pen_projects_for_resilient_satellite_navigation"
-  },
-  {
-    "id": 40619,
-    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
-    "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T18:00:28Z",
-    "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/"
-  },
-  {
-    "id": 40618,
-    "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-    "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T16:25:29Z",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40660,
+    "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+    "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T15:56:26Z",
+    "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+  },
+  {
+    "id": 40661,
+    "title": "Turkey aims for first Moon-orbiting mission in 2027",
+    "summary": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-30T15:50:37Z",
+    "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
+  },
+  {
+    "id": 40658,
+    "title": "What happened this month at the European Space Agency? (October 2026)",
+    "summary": "October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission captured the full ring of northern lights around Earth, while Mars Express uncovered new clues about a giant Martian cloud. ESA astronaut Sophie Adenot returned to Earth after 237 days in space, and Hera captured its first images of the asteroids it will study to help protect our planet. Meanwhile, ESA welcomed thousands of visitors for Open Days and teamed up with Pokémon to bring space science to new audiences.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-30T15:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
+  },
+  {
     "id": 40659,
     "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
     "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/"
-  },
-  {
-    "id": 40650,
-    "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-    "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T00:07:39Z",
-    "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
-  },
-  {
-    "id": 40649,
-    "title": "As it happened: spacewalkers install new solar array",
-    "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are performing a spacewalk to install the 7th of 8 ISS Roll-Out Solar Arrays (iROSA) to upgrade the orbiting outpost's power system.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029_US_EVA_100-2.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-29T23:45:33Z",
-    "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/"
-  },
-  {
-    "id": 40648,
-    "title": "Slice of Martian Meteorite Teghaza 001",
-    "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T23:32:35Z",
-    "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
   }
 ]
