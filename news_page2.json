@@ -1,5 +1,77 @@
 [
   {
+    "id": 40672,
+    "title": "What’s Happening in Space Policy November 1-8, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-01T22:31:25Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
+  },
+  {
+    "id": 40671,
+    "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+    "summary": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union’s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore Canadian participation in the programme. In a 30 October […]\nThe post Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-01T08:16:51Z",
+    "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
+  },
+  {
+    "id": 40670,
+    "title": "APOD: 2026 November 1 – Colors of the Moon",
+    "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-01T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+  },
+  {
+    "id": 40669,
+    "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+    "summary": "NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…\r\nThe post Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-01T03:36:55Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"
+  },
+  {
+    "id": 40668,
+    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+    "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-31T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
+  },
+  {
+    "id": 40667,
+    "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-30T22:46:02Z",
+    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+  },
+  {
+    "id": 40666,
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…\r\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-30T21:53:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
+  },
+  {
+    "id": 40665,
+    "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+    "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T19:31:02Z",
+    "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+  },
+  {
     "id": 40664,
     "title": "ESI supplying solar array components to missile defense programs",
     "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […]\nThe post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
@@ -16,77 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-30T18:46:54Z",
     "url": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/"
-  },
-  {
-    "id": 40662,
-    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-30T16:12:59Z",
-    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
-  },
-  {
-    "id": 40660,
-    "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-    "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T15:56:26Z",
-    "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
-  },
-  {
-    "id": 40661,
-    "title": "Turkey aims for first Moon-orbiting mission in 2027",
-    "summary": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-30T15:50:37Z",
-    "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
-  },
-  {
-    "id": 40658,
-    "title": "What happened this month at the European Space Agency? (October 2026)",
-    "summary": "October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission captured the full ring of northern lights around Earth, while Mars Express uncovered new clues about a giant Martian cloud. ESA astronaut Sophie Adenot returned to Earth after 237 days in space, and Hera captured its first images of the asteroids it will study to help protect our planet. Meanwhile, ESA welcomed thousands of visitors for Open Days and teamed up with Pokémon to bring space science to new audiences.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T15:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
-  },
-  {
-    "id": 40659,
-    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-    "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T14:51:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-  },
-  {
-    "id": 40657,
-    "title": "Week in images: 26-30 October 2026",
-    "summary": "Week in images: 26-30 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T14:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
-  },
-  {
-    "id": 40656,
-    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
-    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\r\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-30T11:02:56Z",
-    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
-  },
-  {
-    "id": 40655,
-    "title": "November’s Night Sky Notes: Light-Day Away",
-    "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
   }
 ]

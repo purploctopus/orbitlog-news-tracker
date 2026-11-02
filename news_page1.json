@@ -1,5 +1,77 @@
 [
   {
+    "id": 40682,
+    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+    "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T18:50:42Z",
+    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
+  },
+  {
+    "id": 40681,
+    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+    "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T18:19:58Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
+  },
+  {
+    "id": 40680,
+    "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T17:33:22Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
+  },
+  {
+    "id": 40679,
+    "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
+    "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-02T17:09:13Z",
+    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+  },
+  {
+    "id": 40678,
+    "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+    "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T15:00:39Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
+  },
+  {
+    "id": 40677,
+    "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+    "summary": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstrations initiative, which is intended to “accelerate the development and […]\nThe post ESA to Support Industry-Led Reusable Booster Flight Demonstrations appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-02T14:13:02Z",
+    "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/"
+  },
+  {
+    "id": 40676,
+    "title": "How to Expand Reliable, Flexible Access to Space",
+    "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-02T14:00:00Z",
+    "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
+  },
+  {
+    "id": 40675,
+    "title": "CubeSat achieves challenging laser link to ground",
+    "summary": "Despite it being a complex operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites. The demonstration, supported by the European Space Agency (ESA) and achieved using optical terminals developed by Lithuanian company Astrolight, happened only weeks after the satellite’s commissioning.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-02T08:55:00Z",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground"
+  },
+  {
     "id": 40674,
     "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
     "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]",
@@ -16,77 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-02T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/"
-  },
-  {
-    "id": 40672,
-    "title": "What’s Happening in Space Policy November 1-8, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-01T22:31:25Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
-  },
-  {
-    "id": 40671,
-    "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
-    "summary": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union’s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore Canadian participation in the programme. In a 30 October […]\nThe post Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-01T08:16:51Z",
-    "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
-  },
-  {
-    "id": 40670,
-    "title": "APOD: 2026 November 1 – Colors of the Moon",
-    "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-01T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
-  },
-  {
-    "id": 40669,
-    "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-    "summary": "NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…\r\nThe post Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-01T03:36:55Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"
-  },
-  {
-    "id": 40668,
-    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-    "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-31T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
-  },
-  {
-    "id": 40667,
-    "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-30T22:46:02Z",
-    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
-  },
-  {
-    "id": 40666,
-    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…\r\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-30T21:53:38Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
-  },
-  {
-    "id": 40665,
-    "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-    "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T19:31:02Z",
-    "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
   }
 ]
