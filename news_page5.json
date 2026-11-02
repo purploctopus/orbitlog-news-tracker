@@ -1,5 +1,23 @@
 [
   {
+    "id": 40653,
+    "title": "Exploring the Moon",
+    "summary": "The Moon being so visible has always inspired explorers, scientists and dreamers. Today, it is a destination for discovery, innovation, international cooperation and developing the knowledge and technologies needed to live and work beyond Earth. Across science, robotics, infrastructure and human spaceflight, ESA is helping to shape that future, ensuring that Europe plays a leading role in humankind’s next great adventure.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/mars_plays_hide_and_seek_with_wolf_moon/26539325-1-eng-GB/Mars_plays_hide_and_seek_with_Wolf_Moon_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-29T12:50:00Z",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploring_the_Moon"
+  },
+  {
+    "id": 40633,
+    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+    "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-29T11:00:08Z",
+    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
+  },
+  {
     "id": 40630,
     "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
     "summary": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Ministry of Defence contract for Project LEDA. While few details about the initiative were shared, an MoD official said it would “form part of the permanent pathway for UK’s understanding of orbital warfare.” Although the […]\nThe post UK MOD Awards £15 Million Orbital Warfare Project to Astroscale appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-28T21:03:33Z",
     "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
-  },
-  {
-    "id": 40621,
-    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-    "summary": "It has been nearly a year since any space tourism flights occurred.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-28T19:20:36Z",
-    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
-  },
-  {
-    "id": 40620,
-    "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-    "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-28T18:59:44Z",
-    "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
   }
 ]

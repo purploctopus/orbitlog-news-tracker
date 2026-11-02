@@ -1,5 +1,23 @@
 [
   {
+    "id": 40643,
+    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T18:00:35Z",
+    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+  },
+  {
+    "id": 40642,
+    "title": "NIH–NASA QuSAFE Challenge",
+    "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T17:44:37Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
+  },
+  {
     "id": 40641,
     "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
     "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T13:27:34Z",
     "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/"
-  },
-  {
-    "id": 40653,
-    "title": "Exploring the Moon",
-    "summary": "The Moon being so visible has always inspired explorers, scientists and dreamers. Today, it is a destination for discovery, innovation, international cooperation and developing the knowledge and technologies needed to live and work beyond Earth. Across science, robotics, infrastructure and human spaceflight, ESA is helping to shape that future, ensuring that Europe plays a leading role in humankind’s next great adventure.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/mars_plays_hide_and_seek_with_wolf_moon/26539325-1-eng-GB/Mars_plays_hide_and_seek_with_Wolf_Moon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-29T12:50:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploring_the_Moon"
-  },
-  {
-    "id": 40633,
-    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-    "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-29T11:00:08Z",
-    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40654,
+    "title": "Earth from Space: Champi’s eerie eye",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-30T09:00:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye"
+  },
+  {
+    "id": 40651,
+    "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+    "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/"
+  },
+  {
     "id": 40652,
     "title": "Vega Island Frozen in Fright",
     "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T18:18:09Z",
     "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-  },
-  {
-    "id": 40643,
-    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T18:00:35Z",
-    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
-  },
-  {
-    "id": 40642,
-    "title": "NIH–NASA QuSAFE Challenge",
-    "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T17:44:37Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
   }
 ]
