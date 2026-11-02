@@ -1,5 +1,14 @@
 [
   {
+    "id": 40672,
+    "title": "What’s Happening in Space Policy November 1-8, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-01T22:31:25Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
+  },
+  {
     "id": 40671,
     "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
     "summary": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union’s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore Canadian participation in the programme. In a 30 October […]\nThe post Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-10-30T18:46:54Z",
     "url": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/"
-  },
-  {
-    "id": 40662,
-    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-30T16:12:59Z",
-    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
   }
 ]

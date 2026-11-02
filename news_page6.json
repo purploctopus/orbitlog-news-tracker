@@ -1,5 +1,14 @@
 [
   {
+    "id": 40631,
+    "title": "ESA at Spaceport Norway 2026",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_at_spaceport_norway_2026/27593906-1-eng-GB/ESA_at_Spaceport_Norway_2026_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-28T18:14:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/ESA_at_Spaceport_Norway_2026"
+  },
+  {
     "id": 40632,
     "title": "ESA and Norway pen projects for resilient satellite navigation",
     "summary": "On 27 October at Spaceport Norway in Oslo, the European Space Agency (ESA) signed new contracts with three Norwegian companies under ESA’s Navigation Innovation and Support Program (NAVISP). The projects follow a call for projects via NAVISP funding by the Norwegian Space Agency to support the development of resilient positioning, navigation and timing (PNT) solutions.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-28T04:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/"
-  },
-  {
-    "id": 40611,
-    "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-    "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-27T20:21:30Z",
-    "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40662,
+    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-30T16:12:59Z",
+    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
+  },
+  {
     "id": 40660,
     "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
     "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/"
-  },
-  {
-    "id": 40652,
-    "title": "Vega Island Frozen in Fright",
-    "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/"
   }
 ]
