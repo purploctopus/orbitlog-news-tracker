@@ -1,5 +1,32 @@
 [
   {
+    "id": 40668,
+    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+    "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-31T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
+  },
+  {
+    "id": 40667,
+    "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-30T22:46:02Z",
+    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+  },
+  {
+    "id": 40666,
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…\r\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-30T21:53:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
+  },
+  {
     "id": 40665,
     "title": "NASA Releases MAX POWER Key Events for Media, Participants",
     "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-30T15:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
-  },
-  {
-    "id": 40659,
-    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-    "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T14:51:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-  },
-  {
-    "id": 40657,
-    "title": "Week in images: 26-30 October 2026",
-    "summary": "Week in images: 26-30 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T14:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
-  },
-  {
-    "id": 40656,
-    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
-    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\r\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-30T11:02:56Z",
-    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
   }
 ]

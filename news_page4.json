@@ -1,5 +1,32 @@
 [
   {
+    "id": 40659,
+    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+    "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T14:51:21Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+  },
+  {
+    "id": 40657,
+    "title": "Week in images: 26-30 October 2026",
+    "summary": "Week in images: 26-30 October 2026",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-30T14:15:00Z",
+    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
+  },
+  {
+    "id": 40656,
+    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
+    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\r\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-10-30T11:02:56Z",
+    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
+  },
+  {
     "id": 40655,
     "title": "November’s Night Sky Notes: Light-Day Away",
     "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T23:32:35Z",
     "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
-  },
-  {
-    "id": 40647,
-    "title": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
-    "summary": "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk successfully installed and unfurled the seventh of eight new solar panels designed to power the outpost through its retirement in 2030.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-10-29T21:57:22Z",
-    "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
-  },
-  {
-    "id": 40646,
-    "title": "Halloween Aboard the International Space Station",
-    "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-29T21:44:23Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/"
-  },
-  {
-    "id": 40645,
-    "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
-    "summary": "With Blue Origin moving towards a potential return to flight by late 2026, NASA has…\nThe post Blue Origin attempts end of year return and eyes Artemis IV selection appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/IMG_2494-2.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-10-29T21:02:54Z",
-    "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/"
   }
 ]
