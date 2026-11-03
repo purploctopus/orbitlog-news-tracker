@@ -1,5 +1,32 @@
 [
   {
+    "id": 40644,
+    "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+    "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T18:18:09Z",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
+  },
+  {
+    "id": 40643,
+    "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+    "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T18:00:35Z",
+    "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+  },
+  {
+    "id": 40642,
+    "title": "NIH–NASA QuSAFE Challenge",
+    "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-29T17:44:37Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/"
+  },
+  {
     "id": 40640,
     "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
     "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-29T13:27:34Z",
     "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/"
-  },
-  {
-    "id": 40653,
-    "title": "Exploring the Moon",
-    "summary": "The Moon being so visible has always inspired explorers, scientists and dreamers. Today, it is a destination for discovery, innovation, international cooperation and developing the knowledge and technologies needed to live and work beyond Earth. Across science, robotics, infrastructure and human spaceflight, ESA is helping to shape that future, ensuring that Europe plays a leading role in humankind’s next great adventure.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/mars_plays_hide_and_seek_with_wolf_moon/26539325-1-eng-GB/Mars_plays_hide_and_seek_with_Wolf_Moon_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-29T12:50:00Z",
-    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploring_the_Moon"
-  },
-  {
-    "id": 40633,
-    "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-    "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-29T11:00:08Z",
-    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
-  },
-  {
-    "id": 40630,
-    "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
-    "summary": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Ministry of Defence contract for Project LEDA. While few details about the initiative were shared, an MoD official said it would “form part of the permanent pathway for UK’s understanding of orbital warfare.” Although the […]\nThe post UK MOD Awards £15 Million Orbital Warfare Project to Astroscale appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-29T07:31:25Z",
-    "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/"
   }
 ]
