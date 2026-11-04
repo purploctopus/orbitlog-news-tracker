@@ -1,5 +1,23 @@
 [
   {
+    "id": 40699,
+    "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+    "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+  },
+  {
+    "id": 40700,
+    "title": "Before the Dawn in America’s Heartland",
+    "summary": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america%E2%80%99s-heartland/ISS075-E-226709.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/"
+  },
+  {
     "id": 40698,
     "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
     "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-03T13:30:00Z",
     "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/"
-  },
-  {
-    "id": 40689,
-    "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
-    "summary": "NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…\nThe post Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-03T13:05:40Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"
-  },
-  {
-    "id": 40690,
-    "title": "10 asteroid mysteries that Hera will explore",
-    "summary": "Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-03T09:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
   }
 ]
