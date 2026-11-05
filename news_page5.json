@@ -1,5 +1,50 @@
 [
   {
+    "id": 40720,
+    "title": "ESA investigates potential future European-led orbital outpost",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-03T13:34:35Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/esa-investigates-potential-future-european-led-orbital-outpost"
+  },
+  {
+    "id": 40719,
+    "title": "Shaping Europe’s future in low Earth orbit",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-03T13:34:20Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/shaping-europe-s-future-in-low-earth-orbit"
+  },
+  {
+    "id": 40691,
+    "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+    "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]\nThe post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-03T13:30:00Z",
+    "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/"
+  },
+  {
+    "id": 40689,
+    "title": "Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman",
+    "summary": "NASA Administrator Jared Isaacman has addressed the ongoing debate about the Hubble Space Telescope’s long-term…\r\nThe post Avoiding an uncontrolled reentry; boost Hubble and keep the science – Isaacman appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-03-03-55-27-762.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-03T13:05:40Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"
+  },
+  {
+    "id": 40690,
+    "title": "10 asteroid mysteries that Hera will explore",
+    "summary": "Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas.",
+    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-03T09:30:00Z",
+    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
+  },
+  {
     "id": 40687,
     "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
     "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]",
@@ -43,50 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-02T21:35:59Z",
     "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
-  },
-  {
-    "id": 40683,
-    "title": "TB 26-09 Measured Hammer-Tap Inputs",
-    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T20:47:41Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/"
-  },
-  {
-    "id": 40682,
-    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-    "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T18:50:42Z",
-    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
-  },
-  {
-    "id": 40681,
-    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-    "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
-    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T18:19:58Z",
-    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
-  },
-  {
-    "id": 40680,
-    "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-    "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T17:33:22Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
-  },
-  {
-    "id": 40679,
-    "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
-    "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-02T17:09:13Z",
-    "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
   }
 ]
