@@ -1,5 +1,59 @@
 [
   {
+    "id": 40713,
+    "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
+    "summary": "\"Data centers in space looking pretty appealing right now.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-04T20:36:05Z",
+    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+  },
+  {
+    "id": 40711,
+    "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+    "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T20:17:07Z",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+  },
+  {
+    "id": 40712,
+    "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+    "summary": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-04T20:14:59Z",
+    "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
+  },
+  {
+    "id": 40710,
+    "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+    "summary": "Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…\r\nThe post Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-04T19:06:36Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+  },
+  {
+    "id": 40709,
+    "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+    "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T18:00:02Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+  },
+  {
+    "id": 40708,
+    "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
+    "summary": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the country. The final tally is not […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Jeffries-Nov-3-2026-CSPAN-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-04T17:13:37Z",
+    "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/"
+  },
+  {
     "id": 40707,
     "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
     "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-04T15:59:36Z",
     "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
-  },
-  {
-    "id": 40703,
-    "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-    "summary": "Weather provided ideal conditions for enhanced ozone depletion",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T15:00:14Z",
-    "url": "https://science.nasa.gov/earth/2026-ozone-hole/"
-  },
-  {
-    "id": 40714,
-    "title": "One geology step closer to the Moon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T12:36:26Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/astronaut-training/one-geology-step-closer-to-the-moon"
-  },
-  {
-    "id": 40715,
-    "title": "ExoMars rover twin rehearses first drive",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T12:35:48Z",
-    "url": "https://www.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive"
-  },
-  {
-    "id": 40716,
-    "title": "European rover trains for Mars in the desert",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T12:29:19Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/mars/european-rover-trains-for-mars-in-the-desert"
-  },
-  {
-    "id": 40701,
-    "title": "PLD Space Completes MIURA 5 Flight Termination System Test",
-    "summary": "Spanish launch services provider PLD Space has completed an explosive test of the flight termination system for its MIURA 5 rocket ahead of the vehicle’s inaugural flight, which is now expected in the first half of 2027. On 30 October, PLD Space announced it had successfully completed the test to validate the performance of its […]\r\nThe post PLD Space Completes MIURA 5 Flight Termination System Test appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-04T10:04:11Z",
-    "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"
-  },
-  {
-    "id": 40717,
-    "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T09:38:31Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/low-earth-orbit/international-space-station/columbus/farewell-to-the-fluid-science-laboratory-after-18-years-in-orbit"
   }
 ]
