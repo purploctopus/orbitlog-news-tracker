@@ -1,5 +1,32 @@
 [
   {
+    "id": 40678,
+    "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+    "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T15:00:39Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
+  },
+  {
+    "id": 40677,
+    "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+    "summary": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstrations initiative, which is intended to “accelerate the development and […]\nThe post ESA to Support Industry-Led Reusable Booster Flight Demonstrations appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-02T14:13:02Z",
+    "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/"
+  },
+  {
+    "id": 40676,
+    "title": "How to Expand Reliable, Flexible Access to Space",
+    "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-02T14:00:00Z",
+    "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
+  },
+  {
     "id": 40675,
     "title": "CubeSat achieves challenging laser link to ground",
     "summary": "Despite it being a complex operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites. The demonstration, supported by the European Space Agency (ESA) and achieved using optical terminals developed by Lithuanian company Astrolight, happened only weeks after the satellite’s commissioning.",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-01T03:36:55Z",
     "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"
-  },
-  {
-    "id": 40668,
-    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-    "summary": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-31T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
-  },
-  {
-    "id": 40728,
-    "title": "Watch Sophie Adenot’s second spacewalk live",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-31T00:32:57Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/watch-sophie-adenot-s-second-spacewalk-live"
-  },
-  {
-    "id": 40723,
-    "title": "Third spacewalk completed for Sophie Adenot",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-31T00:32:34Z",
-    "url": "https://www.esa.int/articles/third-spacewalk-completed-for-sophie-adenot"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40696,
+    "title": "Astronaut and Earth",
+    "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T16:37:42Z",
+    "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
+  },
+  {
+    "id": 40695,
+    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T15:35:14Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
+  },
+  {
+    "id": 40694,
+    "title": "Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine",
+    "summary": "Swiss space startup Stellar Alpina has unveiled plans to develop a lunar lander powered by the company’s rotating detonation rocket engine. In a 2 November announcement, the company unveiled its planned Morpho lunar lander and an orbital transfer vehicle called Monarch. According to the company, it intends to initially focus on Monarch, using the spacecraft […]\nThe post Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Swiss-Startup-Plans-Lunar-Lander-Powered-by-Rotating-Detonation-Engine.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-03T15:26:46Z",
+    "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/"
+  },
+  {
     "id": 40693,
     "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
     "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]",
@@ -61,32 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-11-03T09:30:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
-  },
-  {
-    "id": 40687,
-    "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-    "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-03T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/"
-  },
-  {
-    "id": 40688,
-    "title": "The Pacific’s Busy Storm Season",
-    "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storm_infa_epic_20261029.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-03T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/"
-  },
-  {
-    "id": 40686,
-    "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
-    "summary": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Mengzhou-launch-abort-test-wikimedia-300x168.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-03T04:51:09Z",
-    "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/"
   }
 ]

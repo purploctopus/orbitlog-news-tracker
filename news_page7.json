@@ -1,5 +1,32 @@
 [
   {
+    "id": 40687,
+    "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+    "summary": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/"
+  },
+  {
+    "id": 40688,
+    "title": "The Pacific’s Busy Storm Season",
+    "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storm_infa_epic_20261029.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/"
+  },
+  {
+    "id": 40686,
+    "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
+    "summary": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Mengzhou-launch-abort-test-wikimedia-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-03T04:51:09Z",
+    "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/"
+  },
+  {
     "id": 40685,
     "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
     "summary": "Eight launches are expected this week, from launch sites in the United States, China, New…\r\nThe post Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites appeared first on NASASpaceFlight.com.",
@@ -61,32 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-02T17:09:13Z",
     "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
-  },
-  {
-    "id": 40678,
-    "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-    "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T15:00:39Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
-  },
-  {
-    "id": 40677,
-    "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
-    "summary": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstrations initiative, which is intended to “accelerate the development and […]\nThe post ESA to Support Industry-Led Reusable Booster Flight Demonstrations appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-02T14:13:02Z",
-    "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/"
-  },
-  {
-    "id": 40676,
-    "title": "How to Expand Reliable, Flexible Access to Space",
-    "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-02T14:00:00Z",
-    "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
   }
 ]
