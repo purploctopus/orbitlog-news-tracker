@@ -1,5 +1,32 @@
 [
   {
+    "id": 40672,
+    "title": "What’s Happening in Space Policy November 1-8, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-01T22:31:25Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
+  },
+  {
+    "id": 40671,
+    "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+    "summary": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union’s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore Canadian participation in the programme. In a 30 October […]\nThe post Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-01T08:16:51Z",
+    "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
+  },
+  {
+    "id": 40670,
+    "title": "APOD: 2026 November 1 – Colors of the Moon",
+    "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-01T04:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+  },
+  {
     "id": 40669,
     "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
     "summary": "NASA Administrator Jared Isaacman has spoken on the planned architecture and contingencies for the Artemis…\r\nThe post Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority appeared first on NASASpaceFlight.com.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T19:31:02Z",
     "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
-  },
-  {
-    "id": 40664,
-    "title": "ESI supplying solar array components to missile defense programs",
-    "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […]\nThe post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-10-30T18:54:34Z",
-    "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
-  },
-  {
-    "id": 40663,
-    "title": "Government Spending on Civil Space Topped $42 Billion in FY2026",
-    "summary": "Government spending on civil space activities is more than just NASA. A new Aerospace Corporation report details the $42.6 billion allocated for civil space in FY2026 and compares it to […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Lindsay-1-300x256.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-10-30T18:46:54Z",
-    "url": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/"
-  },
-  {
-    "id": 40662,
-    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-10-30T16:12:59Z",
-    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
   }
 ]
