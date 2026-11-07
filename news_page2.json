@@ -1,5 +1,14 @@
 [
   {
+    "id": 40762,
+    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-06T15:31:51Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+  },
+  {
     "id": 40761,
     "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
     "summary": "Italian rocket manufacturer Avio has scaled back plans to develop two liquid-fuelled rocket demonstrators intended to validate technologies for a future reusable launch vehicle. In its half-year financial report published on 10 September, Avio disclosed that it had agreed to revise the scope and funding of its Space Transportation System (STS) programme, which originally aimed […]\nThe post Avio Scales Back Demonstrator Programme Amid Technical Challenges appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-05T21:45:00Z",
     "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
-  },
-  {
-    "id": 40752,
-    "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
-    "summary": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…\nThe post Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-05T20:51:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
   }
 ]

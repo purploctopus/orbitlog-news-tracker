@@ -1,5 +1,14 @@
 [
   {
+    "id": 40665,
+    "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+    "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T19:31:02Z",
+    "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+  },
+  {
     "id": 40664,
     "title": "ESI supplying solar array components to missile defense programs",
     "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […]\nThe post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-30T13:08:42Z",
     "url": "https://www.esa.int/articles/about-us/who-we-are/member-states/greece/adrianos-golemes"
-  },
-  {
-    "id": 40656,
-    "title": "Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator",
-    "summary": "The French space agency CNES has announced the start of ground qualification testing for the Callisto reusable rocket demonstrator at the Guiana Space Centre. A full-scale mockup of the vehicle has been erected at the space centre’s former Diamant launch facility, which is being redeveloped to support the programme. In a 29 October announcement, CNES […]\r\nThe post Ground Qualification Testing Begins for Callisto Reusable Rocket Demonstrator appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Callisto-Ground-Qualification-Begins-at-Old-Diamant-Launch-Facility.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-10-30T11:02:56Z",
-    "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator/"
   }
 ]

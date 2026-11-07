@@ -1,5 +1,14 @@
 [
   {
+    "id": 40683,
+    "title": "TB 26-09 Measured Hammer-Tap Inputs",
+    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T20:47:41Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/"
+  },
+  {
     "id": 40682,
     "title": "NASA’s CHAPEA Crew “Returns” to Earth",
     "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-02T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/"
-  },
-  {
-    "id": 40673,
-    "title": "Pennsylvania’s Grand Canyon",
-    "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania%E2%80%99s-grand-canyon/pinecreekgorge_oli_20261025.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-02T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/"
   }
 ]
