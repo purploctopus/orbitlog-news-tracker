@@ -1,5 +1,23 @@
 [
   {
+    "id": 40682,
+    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+    "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T18:50:42Z",
+    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
+  },
+  {
+    "id": 40681,
+    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+    "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
+    "imageUrl": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-02T18:19:58Z",
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
+  },
+  {
     "id": 40680,
     "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
     "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-02T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/"
-  },
-  {
-    "id": 40672,
-    "title": "What’s Happening in Space Policy November 1-8, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-01T22:31:25Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
-  },
-  {
-    "id": 40671,
-    "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
-    "summary": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union’s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore Canadian participation in the programme. In a 30 October […]\nThe post Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-01T08:16:51Z",
-    "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
   }
 ]
