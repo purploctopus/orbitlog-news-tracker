@@ -1,5 +1,14 @@
 [
   {
+    "id": 40750,
+    "title": "NASA Astronauts to Answer Questions from Florida Students",
+    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-05T15:11:25Z",
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+  },
+  {
     "id": 40748,
     "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
     "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […]\nThe post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-05T00:16:40Z",
     "url": "https://spacepolicyonline.com/news/farewell-swift/"
-  },
-  {
-    "id": 40729,
-    "title": "Trump Issues “American Declaration of Freedom in Space”",
-    "summary": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/A3-crew-all-5-Shiflett-Sept-2-26-300x156.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-04T22:34:11Z",
-    "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
   }
 ]

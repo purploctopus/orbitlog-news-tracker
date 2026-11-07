@@ -1,5 +1,14 @@
 [
   {
+    "id": 40662,
+    "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+    "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-10-30T16:12:59Z",
+    "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
+  },
+  {
     "id": 40660,
     "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
     "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-30T09:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye"
-  },
-  {
-    "id": 40651,
-    "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-    "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T04:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/"
   }
 ]

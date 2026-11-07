@@ -1,5 +1,14 @@
 [
   {
+    "id": 40704,
+    "title": "Hubble Reveals Cosmic Mystery",
+    "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T15:59:36Z",
+    "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
+  },
+  {
     "id": 40703,
     "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
     "summary": "Weather provided ideal conditions for enhanced ozone depletion",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-04T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/"
-  },
-  {
-    "id": 40698,
-    "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-    "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-03T16:59:43Z",
-    "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
   }
 ]
