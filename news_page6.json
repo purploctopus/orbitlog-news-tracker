@@ -1,5 +1,14 @@
 [
   {
+    "id": 40697,
+    "title": "This space company is betting its future on a propellant available everywhere",
+    "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-03T16:50:32Z",
+    "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
+  },
+  {
     "id": 40696,
     "title": "Astronaut and Earth",
     "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-03T13:05:40Z",
     "url": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"
-  },
-  {
-    "id": 40690,
-    "title": "10 asteroid mysteries that Hera will explore",
-    "summary": "Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-03T09:30:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
   }
 ]

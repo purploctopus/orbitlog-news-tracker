@@ -1,5 +1,14 @@
 [
   {
+    "id": 40748,
+    "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+    "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […]\nThe post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-05T14:15:38Z",
+    "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
+  },
+  {
     "id": 40747,
     "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
     "summary": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union’s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the European industrial consortium developing the first next-generation Sentinel-3 satellite, with the […]\nThe post OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-04T22:34:11Z",
     "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
-  },
-  {
-    "id": 40713,
-    "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
-    "summary": "\"Data centers in space looking pretty appealing right now.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-04T20:36:05Z",
-    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
   }
 ]

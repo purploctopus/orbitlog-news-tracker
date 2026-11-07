@@ -1,5 +1,14 @@
 [
   {
+    "id": 40713,
+    "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
+    "summary": "\"Data centers in space looking pretty appealing right now.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-04T20:36:05Z",
+    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+  },
+  {
     "id": 40711,
     "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
     "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-04T15:59:36Z",
     "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
-  },
-  {
-    "id": 40703,
-    "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-    "summary": "Weather provided ideal conditions for enhanced ozone depletion",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T15:00:14Z",
-    "url": "https://science.nasa.gov/earth/2026-ozone-hole/"
   }
 ]

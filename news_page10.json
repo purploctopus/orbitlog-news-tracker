@@ -1,5 +1,14 @@
 [
   {
+    "id": 40660,
+    "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+    "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-10-30T15:56:26Z",
+    "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+  },
+  {
     "id": 40661,
     "title": "Turkey aims for first Moon-orbiting mission in 2027",
     "summary": "This is the first of a pair of Turkish flights to the Moon. The first will be an orbiter with several scientific instruments and the second will be a lander.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T04:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/"
-  },
-  {
-    "id": 40652,
-    "title": "Vega Island Frozen in Fright",
-    "summary": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T04:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/"
   }
 ]

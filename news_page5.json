@@ -1,5 +1,14 @@
 [
   {
+    "id": 40703,
+    "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
+    "summary": "Weather provided ideal conditions for enhanced ozone depletion",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T15:00:14Z",
+    "url": "https://science.nasa.gov/earth/2026-ozone-hole/"
+  },
+  {
     "id": 40714,
     "title": "One geology step closer to the Moon",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-03T16:59:43Z",
     "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
-  },
-  {
-    "id": 40697,
-    "title": "This space company is betting its future on a propellant available everywhere",
-    "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-03T16:50:32Z",
-    "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/"
   }
 ]
