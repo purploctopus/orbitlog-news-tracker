@@ -1,5 +1,14 @@
 [
   {
+    "id": 40723,
+    "title": "Third spacewalk completed for Sophie Adenot",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-31T00:32:34Z",
+    "url": "https://www.esa.int/articles/third-spacewalk-completed-for-sophie-adenot"
+  },
+  {
     "id": 40667,
     "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
     "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-10-30T15:00:00Z",
     "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
-  },
-  {
-    "id": 40659,
-    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-    "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-10-30T14:51:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
   }
 ]

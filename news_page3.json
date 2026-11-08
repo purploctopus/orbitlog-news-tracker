@@ -1,5 +1,14 @@
 [
   {
+    "id": 40756,
+    "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+    "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:30:36Z",
+    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
+  },
+  {
     "id": 40754,
     "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
     "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-05T12:56:21Z",
     "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
-  },
-  {
-    "id": 40745,
-    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-    "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
   }
 ]

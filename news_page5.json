@@ -1,5 +1,14 @@
 [
   {
+    "id": 40710,
+    "title": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+    "summary": "Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an…\r\nThe post Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-04T19:06:36Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+  },
+  {
     "id": 40709,
     "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
     "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
@@ -79,14 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-11-04T12:35:48Z",
     "url": "https://www.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive"
-  },
-  {
-    "id": 40716,
-    "title": "European rover trains for Mars in the desert",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T12:29:19Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/mars/european-rover-trains-for-mars-in-the-desert"
   }
 ]

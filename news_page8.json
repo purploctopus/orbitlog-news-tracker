@@ -1,5 +1,14 @@
 [
   {
+    "id": 40686,
+    "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
+    "summary": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Mengzhou-launch-abort-test-wikimedia-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-03T04:51:09Z",
+    "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/"
+  },
+  {
     "id": 40685,
     "title": "Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites",
     "summary": "Eight launches are expected this week, from launch sites in the United States, China, New…\r\nThe post Launch Preview: Falcon 9 to launch USSF missions, China to launch internet satellites appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-02T14:13:02Z",
     "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/"
-  },
-  {
-    "id": 40676,
-    "title": "How to Expand Reliable, Flexible Access to Space",
-    "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-02T14:00:00Z",
-    "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
   }
 ]
