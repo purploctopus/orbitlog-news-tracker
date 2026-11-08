@@ -1,5 +1,14 @@
 [
   {
+    "id": 40728,
+    "title": "Watch Sophie Adenot’s second spacewalk live",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-10-31T00:32:57Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/watch-sophie-adenot-s-second-spacewalk-live"
+  },
+  {
     "id": 40723,
     "title": "Third spacewalk completed for Sophie Adenot",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-10-30T15:50:37Z",
     "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
-  },
-  {
-    "id": 40658,
-    "title": "What happened this month at the European Space Agency? (October 2026)",
-    "summary": "October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission captured the full ring of northern lights around Earth, while Mars Express uncovered new clues about a giant Martian cloud. ESA astronaut Sophie Adenot returned to Earth after 237 days in space, and Hera captured its first images of the asteroids it will study to help protect our planet. Meanwhile, ESA welcomed thousands of visitors for Open Days and teamed up with Pokémon to bring space science to new audiences.",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T15:00:00Z",
-    "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
   }
 ]

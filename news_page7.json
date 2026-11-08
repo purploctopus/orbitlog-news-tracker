@@ -1,5 +1,14 @@
 [
   {
+    "id": 40695,
+    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T15:35:14Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
+  },
+  {
     "id": 40694,
     "title": "Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine",
     "summary": "Swiss space startup Stellar Alpina has unveiled plans to develop a lunar lander powered by the company’s rotating detonation rocket engine. In a 2 November announcement, the company unveiled its planned Morpho lunar lander and an orbital transfer vehicle called Monarch. According to the company, it intends to initially focus on Monarch, using the spacecraft […]\nThe post Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-03T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/"
-  },
-  {
-    "id": 40688,
-    "title": "The Pacific’s Busy Storm Season",
-    "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storm_infa_epic_20261029.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-03T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/"
   }
 ]

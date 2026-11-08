@@ -1,5 +1,14 @@
 [
   {
+    "id": 40688,
+    "title": "The Pacific’s Busy Storm Season",
+    "summary": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storm_infa_epic_20261029.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-03T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/"
+  },
+  {
     "id": 40686,
     "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
     "summary": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-02T15:00:39Z",
     "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
-  },
-  {
-    "id": 40677,
-    "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
-    "summary": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstrations initiative, which is intended to “accelerate the development and […]\nThe post ESA to Support Industry-Led Reusable Booster Flight Demonstrations appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-02T14:13:02Z",
-    "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/"
   }
 ]
