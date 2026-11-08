@@ -1,5 +1,23 @@
 [
   {
+    "id": 40754,
+    "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
+    "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:28:40Z",
+    "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
+  },
+  {
+    "id": 40753,
+    "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+    "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […]\nThe post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-05T21:45:00Z",
+    "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+  },
+  {
     "id": 40752,
     "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
     "summary": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…\nThe post Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-05T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
-  },
-  {
-    "id": 40744,
-    "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-    "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
-  },
-  {
-    "id": 40743,
-    "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
-    "summary": "Alexander MacDonald is the new President of the Canadian Space Agency. Canadian-born MacDonald was NASA’s Chief Economist until December 2024. The Canadian Government announced MacDonald’s selection this evening. He succeeds […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Alex-MacDonald-300x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-05T02:53:28Z",
-    "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/"
   }
 ]

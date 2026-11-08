@@ -1,5 +1,23 @@
 [
   {
+    "id": 40667,
+    "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+    "summary": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:02 p.m. PDT (12:02 a.m. EDT / 0402 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-10-30T22:46:02Z",
+    "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+  },
+  {
+    "id": 40666,
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch…\r\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-10-30T21:53:38Z",
+    "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
+  },
+  {
     "id": 40665,
     "title": "NASA Releases MAX POWER Key Events for Media, Participants",
     "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-10-30T14:51:21Z",
     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-  },
-  {
-    "id": 40657,
-    "title": "Week in images: 26-30 October 2026",
-    "summary": "Week in images: 26-30 October 2026",
-    "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T14:15:00Z",
-    "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026"
-  },
-  {
-    "id": 40718,
-    "title": "Adrianos Golemis",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-10-30T13:08:42Z",
-    "url": "https://www.esa.int/articles/about-us/who-we-are/member-states/greece/adrianos-golemes"
   }
 ]
