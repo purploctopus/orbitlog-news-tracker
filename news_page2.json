@@ -1,5 +1,59 @@
 [
   {
+    "id": 40772,
+    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-07T22:47:03Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+  },
+  {
+    "id": 40771,
+    "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-07T18:11:57Z",
+    "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+  },
+  {
+    "id": 40770,
+    "title": "NASA announces search for new astronauts",
+    "summary": "For the first time in two years, NASA is opening applications for its next astronaut…\nThe post NASA announces search for new astronauts appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/jsc2025e075919_altlarge.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-07T18:00:32Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+  },
+  {
+    "id": 40769,
+    "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+    "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-07T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+  },
+  {
+    "id": 40768,
+    "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+    "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-07T02:18:04Z",
+    "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
+  },
+  {
+    "id": 40767,
+    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-06T22:00:39Z",
+    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
+  },
+  {
     "id": 40766,
     "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
     "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-06T16:03:52Z",
     "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/"
-  },
-  {
-    "id": 40762,
-    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-06T15:31:51Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
-  },
-  {
-    "id": 40761,
-    "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
-    "summary": "Italian rocket manufacturer Avio has scaled back plans to develop two liquid-fuelled rocket demonstrators intended to validate technologies for a future reusable launch vehicle. In its half-year financial report published on 10 September, Avio disclosed that it had agreed to revise the scope and funding of its Space Transportation System (STS) programme, which originally aimed […]\nThe post Avio Scales Back Demonstrator Programme Amid Technical Challenges appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Avio-Scales-Back-Demonstrator-Programme-Amid-Technical-Challenges.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-06T07:39:17Z",
-    "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges/"
-  },
-  {
-    "id": 40760,
-    "title": "APOD: 2026 November 6 – A Farewell to Swift",
-    "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-06T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/"
-  },
-  {
-    "id": 40759,
-    "title": "Taking a Gander at Utah’s Goosenecks",
-    "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-06T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
-  },
-  {
-    "id": 40758,
-    "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
-    "summary": "The International Space Station program completed a critical power upgrade that had been ongoing for…\nThe post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-06T01:15:08Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
-  },
-  {
-    "id": 40757,
-    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
-    "summary": "\"This is going to be a game-changer.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T00:17:06Z",
-    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
   }
 ]
