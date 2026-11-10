@@ -1,5 +1,50 @@
 [
   {
+    "id": 40788,
+    "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+    "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T17:42:42Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+  },
+  {
+    "id": 40787,
+    "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+    "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T17:36:33Z",
+    "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/"
+  },
+  {
+    "id": 40786,
+    "title": "Astronauts Across Generations Share the Stage",
+    "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T16:56:29Z",
+    "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
+  },
+  {
+    "id": 40784,
+    "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+    "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T16:07:10Z",
+    "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
+  },
+  {
+    "id": 40785,
+    "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+    "summary": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T16:01:47Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+  },
+  {
     "id": 40783,
     "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
     "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
@@ -43,50 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-09T07:00:49Z",
     "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/"
-  },
-  {
-    "id": 40778,
-    "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-    "summary": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/"
-  },
-  {
-    "id": 40777,
-    "title": "Ozone Hole Reaches Its 2026 Maximum",
-    "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T05:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
-  },
-  {
-    "id": 40776,
-    "title": "What’s Happening in Space Policy November 8-14, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/IFT14-liftoff-Sep-28-26-300x169.png",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-08T22:27:24Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"
-  },
-  {
-    "id": 40775,
-    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-08T15:26:38Z",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
-  },
-  {
-    "id": 40774,
-    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-    "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-08T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
   }
 ]

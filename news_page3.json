@@ -1,5 +1,50 @@
 [
   {
+    "id": 40778,
+    "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+    "summary": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/"
+  },
+  {
+    "id": 40777,
+    "title": "Ozone Hole Reaches Its 2026 Maximum",
+    "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
+  },
+  {
+    "id": 40776,
+    "title": "What’s Happening in Space Policy November 8-14, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/IFT14-liftoff-Sep-28-26-300x169.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-08T22:27:24Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"
+  },
+  {
+    "id": 40775,
+    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T15:26:38Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+  },
+  {
+    "id": 40774,
+    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+    "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+  },
+  {
     "id": 40773,
     "title": "NASA’s Moon Base plan gains a PROMISE",
     "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…\r\nThe post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com.",
@@ -43,50 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-07T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
-  },
-  {
-    "id": 40768,
-    "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-    "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-07T02:18:04Z",
-    "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
-  },
-  {
-    "id": 40767,
-    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-06T22:00:39Z",
-    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
-  },
-  {
-    "id": 40766,
-    "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-    "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-06T21:19:28Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
-  },
-  {
-    "id": 40765,
-    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T18:20:47Z",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
-  },
-  {
-    "id": 40763,
-    "title": "M30’s Sparkling Stars",
-    "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-06T16:23:41Z",
-    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
   }
 ]
