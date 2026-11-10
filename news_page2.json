@@ -1,5 +1,41 @@
 [
   {
+    "id": 40793,
+    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to…\r\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-09T22:37:05Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
+  },
+  {
+    "id": 40791,
+    "title": "Rubies on Mars?",
+    "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T22:27:12Z",
+    "url": "https://science.nasa.gov/blog/rubies-on-mars/"
+  },
+  {
+    "id": 40792,
+    "title": "Newest Sample, Oldest Rock?",
+    "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T22:25:52Z",
+    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
+  },
+  {
+    "id": 40790,
+    "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+    "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T18:55:50Z",
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+  },
+  {
     "id": 40788,
     "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
     "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
@@ -7,15 +43,6 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T17:42:42Z",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
-  },
-  {
-    "id": 40787,
-    "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
-    "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T17:36:33Z",
-    "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/"
   },
   {
     "id": 40786,
@@ -61,32 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-09T14:29:42Z",
     "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
-  },
-  {
-    "id": 40781,
-    "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-    "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […]\nThe post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-09T14:00:00Z",
-    "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
-  },
-  {
-    "id": 40780,
-    "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-    "summary": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.  Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T11:00:00Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
-  },
-  {
-    "id": 40779,
-    "title": "RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027",
-    "summary": "German launch company Rocket Factory Augsburg (RFA) has confirmed that it is now targeting 2027 for the inaugural flight of its RFA ONE rocket from a Scottish launch facility. The revised target for the rocket’s inaugural flight was announced in a post published on the company’s LinkedIn page on 3 November. The post detailed a […]\r\nThe post RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027 appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/RFA-Confirms-Inaugural-RFA-ONE-Launch-Has-Slipped-to-2027.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-09T07:00:49Z",
-    "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/"
   }
 ]
