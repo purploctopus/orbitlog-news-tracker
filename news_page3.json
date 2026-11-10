@@ -1,5 +1,41 @@
 [
   {
+    "id": 40784,
+    "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+    "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T16:07:10Z",
+    "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
+  },
+  {
+    "id": 40785,
+    "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+    "summary": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T16:01:47Z",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+  },
+  {
+    "id": 40783,
+    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-09T15:39:21Z",
+    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+  },
+  {
+    "id": 40782,
+    "title": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
+    "summary": "The UK Government has secured a stake of more than 25% in SaxaVord Spaceport following the completion of a £60 million public-private investment agreement in late October. According to a filing submitted to Companies House on 6 November, the Department for Science, Innovation and Technology (DSIT) became a “person” with significant control of Shetland Space […]\nThe post UK Government Investment Secures More Than 25% Stake in SaxaVord appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-Government-Investment-Secures-More-Than-25-Percent-Stake-in-SaxaVord.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-09T14:29:42Z",
+    "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
+  },
+  {
     "id": 40781,
     "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
     "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […]\nThe post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews.",
@@ -52,41 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-08T22:27:24Z",
     "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"
-  },
-  {
-    "id": 40775,
-    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-08T15:26:38Z",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
-  },
-  {
-    "id": 40774,
-    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-    "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-08T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
-  },
-  {
-    "id": 40773,
-    "title": "NASA’s Moon Base plan gains a PROMISE",
-    "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…\r\nThe post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-08T04:43:57Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
-  },
-  {
-    "id": 40772,
-    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-    "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-07T22:47:03Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
   }
 ]

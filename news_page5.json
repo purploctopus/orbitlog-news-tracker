@@ -1,5 +1,41 @@
 [
   {
+    "id": 40765,
+    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
+    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T18:20:47Z",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+  },
+  {
+    "id": 40763,
+    "title": "M30’s Sparkling Stars",
+    "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-06T16:23:41Z",
+    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+  },
+  {
+    "id": 40764,
+    "title": "Supercomputing Tech Demo Schedule",
+    "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-06T16:03:52Z",
+    "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/"
+  },
+  {
+    "id": 40762,
+    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…\r\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-06T15:31:51Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+  },
+  {
     "id": 40761,
     "title": "Avio Scales Back Demonstrator Programme Amid Technical Challenges",
     "summary": "Italian rocket manufacturer Avio has scaled back plans to develop two liquid-fuelled rocket demonstrators intended to validate technologies for a future reusable launch vehicle. In its half-year financial report published on 10 September, Avio disclosed that it had agreed to revise the scope and funding of its Space Transportation System (STS) programme, which originally aimed […]\nThe post Avio Scales Back Demonstrator Programme Amid Technical Challenges appeared first on European Spaceflight.",
@@ -52,41 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-05T22:34:58Z",
     "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
-  },
-  {
-    "id": 40756,
-    "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
-    "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-05T22:30:36Z",
-    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
-  },
-  {
-    "id": 40754,
-    "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
-    "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/irosa-wings-3-4-delivery.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-05T22:28:40Z",
-    "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
-  },
-  {
-    "id": 40753,
-    "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-    "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […]\nThe post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-05T21:45:00Z",
-    "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
-  },
-  {
-    "id": 40752,
-    "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
-    "summary": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…\r\nThe post Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-05T20:51:14Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
   }
 ]

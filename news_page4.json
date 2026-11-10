@@ -1,5 +1,41 @@
 [
   {
+    "id": 40775,
+    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T15:26:38Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+  },
+  {
+    "id": 40774,
+    "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+    "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+  },
+  {
+    "id": 40773,
+    "title": "NASA’s Moon Base plan gains a PROMISE",
+    "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…\r\nThe post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render.png",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-08T04:43:57Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
+  },
+  {
+    "id": 40772,
+    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-07T22:47:03Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+  },
+  {
     "id": 40771,
     "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
     "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-06T21:19:28Z",
     "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
-  },
-  {
-    "id": 40765,
-    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T18:20:47Z",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
-  },
-  {
-    "id": 40763,
-    "title": "M30’s Sparkling Stars",
-    "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-06T16:23:41Z",
-    "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
-  },
-  {
-    "id": 40764,
-    "title": "Supercomputing Tech Demo Schedule",
-    "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-06T16:03:52Z",
-    "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/"
-  },
-  {
-    "id": 40762,
-    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch…\r\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-06T15:31:51Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
   }
 ]
