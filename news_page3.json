@@ -1,5 +1,23 @@
 [
   {
+    "id": 40795,
+    "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+    "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T01:05:48Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
+  },
+  {
+    "id": 40793,
+    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to…\r\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-09T22:37:05Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
+  },
+  {
     "id": 40791,
     "title": "Rubies on Mars?",
     "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-09T15:39:21Z",
     "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
-  },
-  {
-    "id": 40782,
-    "title": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
-    "summary": "The UK Government has secured a stake of more than 25% in SaxaVord Spaceport following the completion of a £60 million public-private investment agreement in late October. According to a filing submitted to Companies House on 6 November, the Department for Science, Innovation and Technology (DSIT) became a “person” with significant control of Shetland Space […]\nThe post UK Government Investment Secures More Than 25% Stake in SaxaVord appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-Government-Investment-Secures-More-Than-25-Percent-Stake-in-SaxaVord.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-09T14:29:42Z",
-    "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
-  },
-  {
-    "id": 40781,
-    "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-    "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […]\nThe post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/ccia-logo-square.png?fit=929%2C927&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-09T14:00:00Z",
-    "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
   }
 ]
