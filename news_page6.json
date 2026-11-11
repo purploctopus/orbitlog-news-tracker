@@ -1,5 +1,14 @@
 [
   {
+    "id": 40755,
+    "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+    "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:34:58Z",
+    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
+  },
+  {
     "id": 40756,
     "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
     "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-05T13:52:57Z",
     "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
-  },
-  {
-    "id": 40746,
-    "title": "Hubble Learns Galactic History From Stars",
-    "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T12:56:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
   }
 ]

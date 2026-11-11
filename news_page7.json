@@ -1,5 +1,14 @@
 [
   {
+    "id": 40746,
+    "title": "Hubble Learns Galactic History From Stars",
+    "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-05T12:56:21Z",
+    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+  },
+  {
     "id": 40745,
     "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
     "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-04T20:17:07Z",
     "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-  },
-  {
-    "id": 40712,
-    "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
-    "summary": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-04T20:14:59Z",
-    "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
   }
 ]

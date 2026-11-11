@@ -1,5 +1,14 @@
 [
   {
+    "id": 40715,
+    "title": "ExoMars rover twin rehearses first drive",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-04T12:35:48Z",
+    "url": "https://www.esa.int/articles/what-we-do/explore-discover-space/mars/exomars-rover-twin-rehearses-first-drive"
+  },
+  {
     "id": 40716,
     "title": "European rover trains for Mars in the desert",
     "summary": "From the ESA Blogs.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-03T16:37:42Z",
     "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
-  },
-  {
-    "id": 40695,
-    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-    "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-03T15:35:14Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/"
   }
 ]
