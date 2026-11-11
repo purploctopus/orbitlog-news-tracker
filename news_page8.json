@@ -1,5 +1,41 @@
 [
   {
+    "id": 40740,
+    "title": "Farewell Swift",
+    "summary": "NASA’s Neil Gehrels Swift Observatory reentered this morning, bringing the 22-year-old mission to an end. NASA contracted with Katalyst Space in September 2025 to revamp an existing system to try […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-05T00:16:40Z",
+    "url": "https://spacepolicyonline.com/news/farewell-swift/"
+  },
+  {
+    "id": 40729,
+    "title": "Trump Issues “American Declaration of Freedom in Space”",
+    "summary": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/A3-crew-all-5-Shiflett-Sept-2-26-300x156.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-04T22:34:11Z",
+    "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
+  },
+  {
+    "id": 40713,
+    "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
+    "summary": "\"Data centers in space looking pretty appealing right now.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-04T20:36:05Z",
+    "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+  },
+  {
+    "id": 40711,
+    "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+    "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-04T20:17:07Z",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+  },
+  {
     "id": 40712,
     "title": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
     "summary": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
@@ -52,41 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-04T16:29:12Z",
     "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/"
-  },
-  {
-    "id": 40705,
-    "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-    "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T16:16:41Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
-  },
-  {
-    "id": 40704,
-    "title": "Hubble Reveals Cosmic Mystery",
-    "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T15:59:36Z",
-    "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
-  },
-  {
-    "id": 40703,
-    "title": "NASA, NOAA Track 2026 Antarctic Ozone Hole",
-    "summary": "Weather provided ideal conditions for enhanced ozone depletion",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T15:00:14Z",
-    "url": "https://science.nasa.gov/earth/2026-ozone-hole/"
-  },
-  {
-    "id": 40714,
-    "title": "One geology step closer to the Moon",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-04T12:36:26Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/astronaut-training/one-geology-step-closer-to-the-moon"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 40812,
+    "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]\nThe post Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-11T13:00:00Z",
+    "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
+  },
+  {
+    "id": 40811,
+    "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
+    "summary": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […]\nThe post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Fire-Damage-Delays-Installation-of-Simulated-Lunar-Greenhouse-in-Germany.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-11T07:00:36Z",
+    "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
+  },
+  {
+    "id": 40809,
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-11T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
+  },
+  {
+    "id": 40810,
+    "title": "Water Surges Into Navajo Reservoir",
+    "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-11T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+  },
+  {
     "id": 40808,
     "title": "Isaacman lays out SLS path to the 2030s",
     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…\nThe post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com.",
@@ -52,41 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-10T15:44:40Z",
     "url": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/"
-  },
-  {
-    "id": 40802,
-    "title": "CHAPEA Crew Leaves a Mark",
-    "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T14:57:55Z",
-    "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
-  },
-  {
-    "id": 40801,
-    "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-    "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […]\nThe post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-10T14:00:00Z",
-    "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
-  },
-  {
-    "id": 40800,
-    "title": "ESCAPADE on its way to Mars after Earth flybys",
-    "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\r\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-10T08:01:39Z",
-    "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
-  },
-  {
-    "id": 40799,
-    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-    "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-10T07:04:22Z",
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/"
   }
 ]
