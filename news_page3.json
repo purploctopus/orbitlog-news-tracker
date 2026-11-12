@@ -1,5 +1,32 @@
 [
   {
+    "id": 40799,
+    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
+    "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-10T07:04:22Z",
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/"
+  },
+  {
+    "id": 40798,
+    "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+    "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
+  },
+  {
+    "id": 40797,
+    "title": "Autumn Mornings Bring Valley Fog",
+    "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+  },
+  {
     "id": 40796,
     "title": "NASA Shares Moon Base Progress, Contract Awards",
     "summary": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T18:55:50Z",
     "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
-  },
-  {
-    "id": 40788,
-    "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-    "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T17:42:42Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
-  },
-  {
-    "id": 40786,
-    "title": "Astronauts Across Generations Share the Stage",
-    "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T16:56:29Z",
-    "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
-  },
-  {
-    "id": 40784,
-    "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-    "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T16:07:10Z",
-    "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
   }
 ]

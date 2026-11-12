@@ -1,5 +1,32 @@
 [
   {
+    "id": 40757,
+    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+    "summary": "\"This is going to be a game-changer.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T00:17:06Z",
+    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+  },
+  {
+    "id": 40755,
+    "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+    "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:34:58Z",
+    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
+  },
+  {
+    "id": 40756,
+    "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+    "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:30:36Z",
+    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
+  },
+  {
     "id": 40754,
     "title": "Spacewalkers complete five-year effort to upgrade space station power supply",
     "summary": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-05T14:15:38Z",
     "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
-  },
-  {
-    "id": 40747,
-    "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
-    "summary": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union’s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the European industrial consortium developing the first next-generation Sentinel-3 satellite, with the […]\r\nThe post OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/OHB-Wins-554-Million-Euros-ESA-Contract-for-Next-Gen-Sentinel-3-Satellite.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-05T13:52:57Z",
-    "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
-  },
-  {
-    "id": 40746,
-    "title": "Hubble Learns Galactic History From Stars",
-    "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T12:56:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
-  },
-  {
-    "id": 40745,
-    "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-    "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40777,
+    "title": "Ozone Hole Reaches Its 2026 Maximum",
+    "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
+  },
+  {
+    "id": 40776,
+    "title": "What’s Happening in Space Policy November 8-14, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/09/IFT14-liftoff-Sep-28-26-300x169.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-08T22:27:24Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"
+  },
+  {
+    "id": 40775,
+    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T15:26:38Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+  },
+  {
     "id": 40774,
     "title": "APOD: 2026 November 8 – Major Fireball Meteor",
     "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
@@ -61,32 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-07T02:18:04Z",
     "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
-  },
-  {
-    "id": 40767,
-    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-06T22:00:39Z",
-    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
-  },
-  {
-    "id": 40766,
-    "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-    "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-06T21:19:28Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
-  },
-  {
-    "id": 40765,
-    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T18:20:47Z",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
   }
 ]

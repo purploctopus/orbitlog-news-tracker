@@ -1,5 +1,32 @@
 [
   {
+    "id": 40767,
+    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-06T22:00:39Z",
+    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
+  },
+  {
+    "id": 40766,
+    "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+    "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-06T21:19:28Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
+  },
+  {
+    "id": 40765,
+    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
+    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T18:20:47Z",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+  },
+  {
     "id": 40763,
     "title": "M30’s Sparkling Stars",
     "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-06T01:15:08Z",
     "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
-  },
-  {
-    "id": 40757,
-    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
-    "summary": "\"This is going to be a game-changer.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T00:17:06Z",
-    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
-  },
-  {
-    "id": 40755,
-    "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
-    "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-05T22:34:58Z",
-    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
-  },
-  {
-    "id": 40756,
-    "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
-    "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-05T22:30:36Z",
-    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
   }
 ]

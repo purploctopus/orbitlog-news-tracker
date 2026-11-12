@@ -1,5 +1,32 @@
 [
   {
+    "id": 40819,
+    "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
+    "summary": "The European Space Agency (ESA) has revealed that MaiaSpace’s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transportation Géraldine Naja explained that MaiaSpace was the only one of the four companies […]\nThe post ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-12T10:36:32Z",
+    "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/"
+  },
+  {
+    "id": 40817,
+    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+    "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
+  },
+  {
+    "id": 40818,
+    "title": "Scotland’s Flow Country",
+    "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
+  },
+  {
     "id": 40816,
     "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
     "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-11T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/"
-  },
-  {
-    "id": 40810,
-    "title": "Water Surges Into Navajo Reservoir",
-    "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-11T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
-  },
-  {
-    "id": 40808,
-    "title": "Isaacman lays out SLS path to the 2030s",
-    "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…\nThe post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-11-03-33-24-435.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-11T04:02:42Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
-  },
-  {
-    "id": 40807,
-    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-    "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T19:22:45Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
   }
 ]
