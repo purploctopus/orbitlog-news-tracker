@@ -1,5 +1,23 @@
 [
   {
+    "id": 40796,
+    "title": "NASA Shares Moon Base Progress, Contract Awards",
+    "summary": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Isaacman-skydive-Nov-7-26-Jonathan-Shaban-300x168.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-10T04:54:58Z",
+    "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/"
+  },
+  {
+    "id": 40794,
+    "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+    "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T01:07:45Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
+  },
+  {
     "id": 40795,
     "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
     "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T16:07:10Z",
     "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
-  },
-  {
-    "id": 40785,
-    "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-    "summary": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T16:01:47Z",
-    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
-  },
-  {
-    "id": 40783,
-    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d.png",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-09T15:39:21Z",
-    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
   }
 ]
