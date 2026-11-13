@@ -1,5 +1,50 @@
 [
   {
+    "id": 40832,
+    "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+    "summary": "In January, NASA will begin assessing new strategies to return the samples now being collected by the Mars Perseverance rover to Earth. The agency ended an earlier Mars Sample Return […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2025/05/MSR-architecture-April-30-25-300x160.png",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-13T02:48:46Z",
+    "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/"
+  },
+  {
+    "id": 40831,
+    "title": "AST SpaceMobile presses case for developing own launch vehicle",
+    "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-13T01:15:21Z",
+    "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
+  },
+  {
+    "id": 40829,
+    "title": "I Am Artemis Katie Spicer",
+    "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T20:10:02Z",
+    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+  },
+  {
+    "id": 40830,
+    "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+    "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […]\nThe post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/Logos.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T20:00:00Z",
+    "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
+  },
+  {
+    "id": 40828,
+    "title": "What role does industry play in Europe’s space sovereignty push?",
+    "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […]\nThe post What role does industry play in Europe’s space sovereignty push? appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-KNA-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T19:40:35Z",
+    "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
+  },
+  {
     "id": 40827,
     "title": "Heart in the Sky at NASA Kennedy",
     "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
@@ -43,50 +88,5 @@
     "newsSite": "ESA",
     "publishedAt": "2026-11-12T13:51:57Z",
     "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
-  },
-  {
-    "id": 40822,
-    "title": "ESA astronaut reserve celebrates completion of training",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-12T13:47:11Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training"
-  },
-  {
-    "id": 40821,
-    "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-    "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T13:18:40Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
-  },
-  {
-    "id": 40820,
-    "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/03/690852main_ED12-0317-012_full.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
-  },
-  {
-    "id": 40819,
-    "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
-    "summary": "The European Space Agency (ESA) has revealed that MaiaSpace’s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transportation Géraldine Naja explained that MaiaSpace was the only one of the four companies […]\nThe post ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Explains-Delay-in-Signing-MaiaSpace-Launcher-Challenge-Contract.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-12T10:36:32Z",
-    "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/"
-  },
-  {
-    "id": 40817,
-    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-    "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": 40802,
+    "title": "CHAPEA Crew Leaves a Mark",
+    "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T14:57:55Z",
+    "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
+  },
+  {
+    "id": 40801,
+    "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+    "summary": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […]\nThe post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/seagate-space-kratos-logo-square.png?fit=976%2C978&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-10T14:00:00Z",
+    "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
+  },
+  {
+    "id": 40800,
+    "title": "ESCAPADE on its way to Mars after Earth flybys",
+    "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\r\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-10T08:01:39Z",
+    "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
+  },
+  {
+    "id": 40799,
+    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
+    "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-10T07:04:22Z",
+    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/"
+  },
+  {
+    "id": 40798,
+    "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+    "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
+  },
+  {
     "id": 40797,
     "title": "Autumn Mornings Bring Valley Fog",
     "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
@@ -43,50 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-09T22:37:05Z",
     "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/"
-  },
-  {
-    "id": 40791,
-    "title": "Rubies on Mars?",
-    "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T22:27:12Z",
-    "url": "https://science.nasa.gov/blog/rubies-on-mars/"
-  },
-  {
-    "id": 40792,
-    "title": "Newest Sample, Oldest Rock?",
-    "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T22:25:52Z",
-    "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
-  },
-  {
-    "id": 40790,
-    "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-    "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T18:55:50Z",
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
-  },
-  {
-    "id": 40788,
-    "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
-    "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T17:42:42Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
-  },
-  {
-    "id": 40786,
-    "title": "Astronauts Across Generations Share the Stage",
-    "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T16:56:29Z",
-    "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
   }
 ]

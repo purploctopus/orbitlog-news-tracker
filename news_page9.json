@@ -1,5 +1,50 @@
 [
   {
+    "id": 40760,
+    "title": "APOD: 2026 November 6 – A Farewell to Swift",
+    "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-06T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/"
+  },
+  {
+    "id": 40759,
+    "title": "Taking a Gander at Utah’s Goosenecks",
+    "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-06T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+  },
+  {
+    "id": 40758,
+    "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+    "summary": "The International Space Station program completed a critical power upgrade that had been ongoing for…\r\nThe post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-06T01:15:08Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
+  },
+  {
+    "id": 40757,
+    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+    "summary": "\"This is going to be a game-changer.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T00:17:06Z",
+    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+  },
+  {
+    "id": 40755,
+    "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+    "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/GS3.png",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-05T22:34:58Z",
+    "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
+  },
+  {
     "id": 40756,
     "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
     "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
@@ -43,50 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-05T17:05:59Z",
     "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
-  },
-  {
-    "id": 40749,
-    "title": "Midwestern City Lights",
-    "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T15:17:19Z",
-    "url": "https://www.nasa.gov/image-article/midwestern-city-lights/"
-  },
-  {
-    "id": 40750,
-    "title": "NASA Astronauts to Answer Questions from Florida Students",
-    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T15:11:25Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
-  },
-  {
-    "id": 40748,
-    "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
-    "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […]\nThe post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-auriga-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-05T14:15:38Z",
-    "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
-  },
-  {
-    "id": 40747,
-    "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
-    "summary": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union’s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the European industrial consortium developing the first next-generation Sentinel-3 satellite, with the […]\r\nThe post OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/OHB-Wins-554-Million-Euros-ESA-Contract-for-Next-Gen-Sentinel-3-Satellite.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-05T13:52:57Z",
-    "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
-  },
-  {
-    "id": 40746,
-    "title": "Hubble Learns Galactic History From Stars",
-    "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T12:56:21Z",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
   }
 ]
