@@ -1,5 +1,14 @@
 [
   {
+    "id": 40759,
+    "title": "Taking a Gander at Utah’s Goosenecks",
+    "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah%E2%80%99s-goosenecks/ISS075-E-188830.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-06T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/"
+  },
+  {
     "id": 40758,
     "title": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
     "summary": "The International Space Station program completed a critical power upgrade that had been ongoing for…\r\nThe post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-05T15:17:19Z",
     "url": "https://www.nasa.gov/image-article/midwestern-city-lights/"
-  },
-  {
-    "id": 40750,
-    "title": "NASA Astronauts to Answer Questions from Florida Students",
-    "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T15:11:25Z",
-    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
   }
 ]

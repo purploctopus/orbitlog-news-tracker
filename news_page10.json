@@ -1,5 +1,14 @@
 [
   {
+    "id": 40729,
+    "title": "Trump Issues “American Declaration of Freedom in Space”",
+    "summary": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/A3-crew-all-5-Shiflett-Sept-2-26-300x156.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-04T22:34:11Z",
+    "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
+  },
+  {
     "id": 40713,
     "title": "Elon Musk moved SpaceX to red Texas. Now it's blue. What happens next?",
     "summary": "\"Data centers in space looking pretty appealing right now.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-04T16:16:41Z",
     "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
-  },
-  {
-    "id": 40704,
-    "title": "Hubble Reveals Cosmic Mystery",
-    "summary": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-04T15:59:36Z",
-    "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
   }
 ]

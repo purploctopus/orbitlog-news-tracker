@@ -1,5 +1,14 @@
 [
   {
+    "id": 40779,
+    "title": "RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027",
+    "summary": "German launch company Rocket Factory Augsburg (RFA) has confirmed that it is now targeting 2027 for the inaugural flight of its RFA ONE rocket from a Scottish launch facility. The revised target for the rocket’s inaugural flight was announced in a post published on the company’s LinkedIn page on 3 November. The post detailed a […]\r\nThe post RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027 appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/RFA-Confirms-Inaugural-RFA-ONE-Launch-Has-Slipped-to-2027.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-09T07:00:49Z",
+    "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/"
+  },
+  {
     "id": 40778,
     "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
     "summary": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-07T18:00:32Z",
     "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
-  },
-  {
-    "id": 40769,
-    "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-    "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-07T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
   }
 ]

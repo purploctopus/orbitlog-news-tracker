@@ -1,5 +1,14 @@
 [
   {
+    "id": 40821,
+    "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+    "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T13:18:40Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+  },
+  {
     "id": 40820,
     "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
     "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-11T13:00:00Z",
     "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
-  },
-  {
-    "id": 40811,
-    "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
-    "summary": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […]\nThe post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Fire-Damage-Delays-Installation-of-Simulated-Lunar-Greenhouse-in-Germany.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-11T07:00:36Z",
-    "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
   }
 ]
