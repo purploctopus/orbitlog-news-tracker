@@ -1,5 +1,59 @@
 [
   {
+    "id": 40827,
+    "title": "Heart in the Sky at NASA Kennedy",
+    "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T19:12:49Z",
+    "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
+  },
+  {
+    "id": 40826,
+    "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+    "summary": "\"We're not doing this thing because we like rockets.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-12T18:28:22Z",
+    "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/"
+  },
+  {
+    "id": 40825,
+    "title": "NASA Ames Stars of the Month: November 2026",
+    "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T17:54:32Z",
+    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+  },
+  {
+    "id": 40824,
+    "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+    "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…\r\nThe post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-12T17:44:44Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"
+  },
+  {
+    "id": 40823,
+    "title": "How ESA astronauts return from space",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-12T13:51:57Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
+  },
+  {
+    "id": 40822,
+    "title": "ESA astronaut reserve celebrates completion of training",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-12T13:47:11Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training"
+  },
+  {
     "id": 40821,
     "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
     "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
@@ -34,59 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-12T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
-  },
-  {
-    "id": 40818,
-    "title": "Scotland’s Flow Country",
-    "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
-  },
-  {
-    "id": 40816,
-    "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T00:41:35Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
-  },
-  {
-    "id": 40815,
-    "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-    "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-12T00:00:18Z",
-    "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
-  },
-  {
-    "id": 40814,
-    "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
-    "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-11T19:00:26Z",
-    "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
-  },
-  {
-    "id": 40813,
-    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-    "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-11T15:53:57Z",
-    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
-  },
-  {
-    "id": 40812,
-    "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]\nThe post Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-11T13:00:00Z",
-    "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
   }
 ]

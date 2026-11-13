@@ -1,5 +1,59 @@
 [
   {
+    "id": 40818,
+    "title": "Scotland’s Flow Country",
+    "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
+  },
+  {
+    "id": 40816,
+    "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T00:41:35Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+  },
+  {
+    "id": 40815,
+    "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+    "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T00:00:18Z",
+    "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+  },
+  {
+    "id": 40814,
+    "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
+    "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-11T19:00:26Z",
+    "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
+  },
+  {
+    "id": 40813,
+    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+    "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-11T15:53:57Z",
+    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
+  },
+  {
+    "id": 40812,
+    "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]\nThe post Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-11T13:00:00Z",
+    "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
+  },
+  {
     "id": 40811,
     "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
     "summary": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […]\nThe post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appeared first on European Spaceflight.",
@@ -34,59 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-11T04:02:42Z",
     "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
-  },
-  {
-    "id": 40807,
-    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-    "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T19:22:45Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
-  },
-  {
-    "id": 40806,
-    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-    "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T18:06:33Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
-  },
-  {
-    "id": 40804,
-    "title": "One space station company sues another for copying its work",
-    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-10T16:17:51Z",
-    "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
-  },
-  {
-    "id": 40805,
-    "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-    "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T16:00:26Z",
-    "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
-  },
-  {
-    "id": 40803,
-    "title": "DLR to Purchase 80 Red Kite Sounding Rocket Motors",
-    "summary": "The German Aerospace Center (DLR) is preparing to purchase 80 Red Kite solid rocket motors from German defence company Bayern-Chemie to support future sounding rocket missions. According to a procurement notice published on 2 November, DLR plans to acquire 80 ITAR-free solid-fuel rocket motors for the agency’s Mobile Rocket Base (MORABA) team, which conducts sounding […]\nThe post DLR to Purchase 80 Red Kite Sounding Rocket Motors appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/DLR-to-Purchase-80-Red-Kite-Sounding-Rocket-Motors.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-10T15:44:40Z",
-    "url": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/"
-  },
-  {
-    "id": 40802,
-    "title": "CHAPEA Crew Leaves a Mark",
-    "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T14:57:55Z",
-    "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
   }
 ]
