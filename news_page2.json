@@ -1,5 +1,23 @@
 [
   {
+    "id": 40834,
+    "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+    "summary": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-13T04:55:42Z",
+    "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/"
+  },
+  {
+    "id": 40833,
+    "title": "Starship Flight 15 to attempt first catch of both stages",
+    "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…\r\nThe post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-13T04:24:28Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"
+  },
+  {
     "id": 40832,
     "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
     "summary": "In January, NASA will begin assessing new strategies to return the samples now being collected by the Mars Perseverance rover to Earth. The agency ended an earlier Mars Sample Return […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-12T17:54:32Z",
     "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
-  },
-  {
-    "id": 40824,
-    "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-    "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…\r\nThe post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-12T17:44:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"
-  },
-  {
-    "id": 40823,
-    "title": "How ESA astronauts return from space",
-    "summary": "From the ESA Blogs.",
-    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
-    "newsSite": "ESA",
-    "publishedAt": "2026-11-12T13:51:57Z",
-    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
   }
 ]

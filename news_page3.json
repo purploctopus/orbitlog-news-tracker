@@ -1,5 +1,23 @@
 [
   {
+    "id": 40824,
+    "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+    "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…\r\nThe post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-12T17:44:44Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"
+  },
+  {
+    "id": 40823,
+    "title": "How ESA astronauts return from space",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-12T13:51:57Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
+  },
+  {
     "id": 40822,
     "title": "ESA astronaut reserve celebrates completion of training",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-12T00:00:18Z",
     "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
-  },
-  {
-    "id": 40814,
-    "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
-    "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-11T19:00:26Z",
-    "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
-  },
-  {
-    "id": 40813,
-    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-    "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-11T15:53:57Z",
-    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40844,
+    "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+    "summary": "SpaceX launched the 15th Starship Integrated Flight Test (IFT-15) early this evening from Starbase, Texas. Plans to bring the first stage Booster back to the launch tower for a “catch” […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-13T23:54:54Z",
+    "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/"
+  },
+  {
+    "id": 40843,
+    "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
+    "summary": "Liftoff of the integrated Starship vehicle from Starbase in Texas is scheduled during a 75-minute launch window that opens at 4:45 p.m. CST (5:45 p.m. EST / 2245 UTC) on Friday, Nov. 13.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-13T19:15:11Z",
+    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
+  },
+  {
     "id": 40842,
     "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
     "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […]\nThe post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-13T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
-  },
-  {
-    "id": 40834,
-    "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
-    "summary": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-13T04:55:42Z",
-    "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/"
-  },
-  {
-    "id": 40833,
-    "title": "Starship Flight 15 to attempt first catch of both stages",
-    "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…\r\nThe post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-13-03-14-56-684.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-13T04:24:28Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"
   }
 ]

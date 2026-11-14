@@ -1,5 +1,23 @@
 [
   {
+    "id": 40752,
+    "title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+    "summary": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and…\r\nThe post Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-05-18-57-11-406.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-05T20:51:14Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
+  },
+  {
+    "id": 40751,
+    "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+    "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […]\nThe post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-05T17:05:59Z",
+    "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
+  },
+  {
     "id": 40749,
     "title": "Midwestern City Lights",
     "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-05T02:53:28Z",
     "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/"
-  },
-  {
-    "id": 40742,
-    "title": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
-    "summary": "A hidden jet in Markarian 501 hints at a black hole pair that could merge within a century, but the evidence is still debated.\nThe post Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years appeared first on Space Daily.",
-    "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
-    "newsSite": "SpaceDaily",
-    "publishedAt": "2026-11-05T02:06:07Z",
-    "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/"
-  },
-  {
-    "id": 40741,
-    "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-    "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-05T01:43:21Z",
-    "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
   }
 ]
