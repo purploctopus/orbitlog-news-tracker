@@ -1,5 +1,14 @@
 [
   {
+    "id": 40797,
+    "title": "Autumn Mornings Bring Valley Fog",
+    "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+  },
+  {
     "id": 40796,
     "title": "NASA Shares Moon Base Progress, Contract Awards",
     "summary": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T16:56:29Z",
     "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
-  },
-  {
-    "id": 40784,
-    "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-    "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T16:07:10Z",
-    "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
   }
 ]

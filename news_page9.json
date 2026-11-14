@@ -1,5 +1,14 @@
 [
   {
+    "id": 40765,
+    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
+    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T18:20:47Z",
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+  },
+  {
     "id": 40763,
     "title": "M30’s Sparkling Stars",
     "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-05T22:34:58Z",
     "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
-  },
-  {
-    "id": 40756,
-    "title": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
-    "summary": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/Kutryk-1024x726.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-05T22:30:36Z",
-    "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
   }
 ]

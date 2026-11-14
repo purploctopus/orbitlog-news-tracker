@@ -1,5 +1,14 @@
 [
   {
+    "id": 40775,
+    "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+    "summary": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-08T15:26:38Z",
+    "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+  },
+  {
     "id": 40774,
     "title": "APOD: 2026 November 8 – Major Fireball Meteor",
     "summary": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-06T21:19:28Z",
     "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
-  },
-  {
-    "id": 40765,
-    "title": "AST SpaceMobile is so desperate for launch they're building their own rocket",
-    "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T18:20:47Z",
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
   }
 ]

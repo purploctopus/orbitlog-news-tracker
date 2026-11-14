@@ -1,5 +1,14 @@
 [
   {
+    "id": 40807,
+    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+    "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T19:22:45Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+  },
+  {
     "id": 40806,
     "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
     "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-10T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/"
-  },
-  {
-    "id": 40797,
-    "title": "Autumn Mornings Bring Valley Fog",
-    "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T05:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
   }
 ]

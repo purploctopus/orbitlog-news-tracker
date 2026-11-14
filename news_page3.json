@@ -1,5 +1,14 @@
 [
   {
+    "id": 40827,
+    "title": "Heart in the Sky at NASA Kennedy",
+    "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T19:12:49Z",
+    "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
+  },
+  {
     "id": 40826,
     "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
     "summary": "\"We're not doing this thing because we like rockets.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-12T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
-  },
-  {
-    "id": 40818,
-    "title": "Scotland’s Flow Country",
-    "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
   }
 ]
