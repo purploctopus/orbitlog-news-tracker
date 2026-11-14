@@ -1,5 +1,23 @@
 [
   {
+    "id": 40816,
+    "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+    "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T00:41:35Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+  },
+  {
+    "id": 40815,
+    "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+    "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T00:00:18Z",
+    "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+  },
+  {
     "id": 40814,
     "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
     "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-10T19:22:45Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
-  },
-  {
-    "id": 40806,
-    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-    "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T18:06:33Z",
-    "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
-  },
-  {
-    "id": 40804,
-    "title": "One space station company sues another for copying its work",
-    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-10T16:17:51Z",
-    "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
   }
 ]

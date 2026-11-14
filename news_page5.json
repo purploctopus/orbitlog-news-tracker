@@ -1,5 +1,23 @@
 [
   {
+    "id": 40806,
+    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+    "summary": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-10T18:06:33Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+  },
+  {
+    "id": 40804,
+    "title": "One space station company sues another for copying its work",
+    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-10T16:17:51Z",
+    "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+  },
+  {
     "id": 40805,
     "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
     "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-10T05:00:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
-  },
-  {
-    "id": 40796,
-    "title": "NASA Shares Moon Base Progress, Contract Awards",
-    "summary": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Isaacman-skydive-Nov-7-26-Jonathan-Shaban-300x168.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-10T04:54:58Z",
-    "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/"
-  },
-  {
-    "id": 40794,
-    "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-    "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T01:07:45Z",
-    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
   }
 ]

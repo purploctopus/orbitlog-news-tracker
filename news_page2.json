@@ -1,5 +1,23 @@
 [
   {
+    "id": 40836,
+    "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+    "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-13T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/"
+  },
+  {
+    "id": 40835,
+    "title": "A Global Rebound for Mangroves",
+    "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-13T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+  },
+  {
     "id": 40834,
     "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
     "summary": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-12T19:12:49Z",
     "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
-  },
-  {
-    "id": 40826,
-    "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-    "summary": "\"We're not doing this thing because we like rockets.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-12T18:28:22Z",
-    "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/"
-  },
-  {
-    "id": 40825,
-    "title": "NASA Ames Stars of the Month: November 2026",
-    "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T17:54:32Z",
-    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
   }
 ]
