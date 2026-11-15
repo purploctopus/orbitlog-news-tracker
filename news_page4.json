@@ -1,5 +1,32 @@
 [
   {
+    "id": 40823,
+    "title": "How ESA astronauts return from space",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-12T13:51:57Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/how-esa-astronauts-return-from-space"
+  },
+  {
+    "id": 40822,
+    "title": "ESA astronaut reserve celebrates completion of training",
+    "summary": "From the ESA Blogs.",
+    "imageUrl": "https://esamultimedia.esa.int/docs/corporate/ESA_logo_2020_Deep.png",
+    "newsSite": "ESA",
+    "publishedAt": "2026-11-12T13:47:11Z",
+    "url": "https://www.esa.int/articles/about-us/directorates/human-and-robotic-exploration/astronauts/esa-astronaut-reserve-celebrates-completion-of-training"
+  },
+  {
+    "id": 40821,
+    "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+    "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T13:18:40Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+  },
+  {
     "id": 40820,
     "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
     "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home […]",
@@ -61,32 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-11T19:00:26Z",
     "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
-  },
-  {
-    "id": 40813,
-    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-    "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-11T15:53:57Z",
-    "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
-  },
-  {
-    "id": 40812,
-    "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-    "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]\nThe post Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/horizon-microtechnologies.png?fit=1021%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-11T13:00:00Z",
-    "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
-  },
-  {
-    "id": 40811,
-    "title": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
-    "summary": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […]\nThe post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Fire-Damage-Delays-Installation-of-Simulated-Lunar-Greenhouse-in-Germany.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-11T07:00:36Z",
-    "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
   }
 ]
