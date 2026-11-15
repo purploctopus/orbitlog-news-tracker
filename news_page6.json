@@ -1,5 +1,14 @@
 [
   {
+    "id": 40800,
+    "title": "ESCAPADE on its way to Mars after Earth flybys",
+    "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\r\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/escapade_twins_Mars.jpg?fit=1024%2C482&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-10T08:01:39Z",
+    "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
+  },
+  {
     "id": 40799,
     "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
     "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T22:25:52Z",
     "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
-  },
-  {
-    "id": 40790,
-    "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
-    "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T18:55:50Z",
-    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
   }
 ]

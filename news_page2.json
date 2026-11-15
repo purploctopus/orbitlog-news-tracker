@@ -1,5 +1,14 @@
 [
   {
+    "id": 40840,
+    "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+    "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-13T16:05:54Z",
+    "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+  },
+  {
     "id": 40839,
     "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
     "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-13T01:15:21Z",
     "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
-  },
-  {
-    "id": 40829,
-    "title": "I Am Artemis Katie Spicer",
-    "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T20:10:02Z",
-    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
   }
 ]

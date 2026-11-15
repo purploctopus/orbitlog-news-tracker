@@ -1,5 +1,14 @@
 [
   {
+    "id": 40850,
+    "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+    "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-15T19:16:59Z",
+    "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+  },
+  {
     "id": 40849,
     "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
     "summary": "APOD Science APOD APOD: 2026 November 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Leonid Meteors […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-13T16:39:33Z",
     "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
-  },
-  {
-    "id": 40840,
-    "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-    "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-13T16:05:54Z",
-    "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
   }
 ]
