@@ -1,5 +1,14 @@
 [
   {
+    "id": 40839,
+    "title": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+    "summary": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is scheduled for 12:54 p.m. EST (1754 UTC), at the opening of a 29-minute window.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-13T12:25:06Z",
+    "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
+  },
+  {
     "id": 40838,
     "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
     "summary": "\"You can simplify it as a big tank feeding engines.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-12T20:10:02Z",
     "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
-  },
-  {
-    "id": 40830,
-    "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
-    "summary": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […]\nThe post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/Logos.png?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-12T20:00:00Z",
-    "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
   }
 ]

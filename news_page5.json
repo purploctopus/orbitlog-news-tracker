@@ -1,5 +1,14 @@
 [
   {
+    "id": 40810,
+    "title": "Water Surges Into Navajo Reservoir",
+    "summary": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-11T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+  },
+  {
     "id": 40808,
     "title": "Isaacman lays out SLS path to the 2030s",
     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System…\r\nThe post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-10T08:01:39Z",
     "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
-  },
-  {
-    "id": 40799,
-    "title": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
-    "summary": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […]\r\nThe post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Isar-Could-Launch-Third-Spectrum-Rocket-as-Early-as-26-November.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-10T07:04:22Z",
-    "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40757,
+    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+    "summary": "\"This is going to be a game-changer.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-06T00:17:06Z",
+    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+  },
+  {
     "id": 40755,
     "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
     "summary": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-05T14:15:38Z",
     "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
-  },
-  {
-    "id": 40747,
-    "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
-    "summary": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union’s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the European industrial consortium developing the first next-generation Sentinel-3 satellite, with the […]\r\nThe post OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/OHB-Wins-554-Million-Euros-ESA-Contract-for-Next-Gen-Sentinel-3-Satellite.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-05T13:52:57Z",
-    "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
   }
 ]

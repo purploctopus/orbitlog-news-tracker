@@ -1,5 +1,14 @@
 [
   {
+    "id": 40767,
+    "title": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+    "summary": "Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-06T22:00:39Z",
+    "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
+  },
+  {
     "id": 40766,
     "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
     "summary": "Stoke Space has been granted Right of Entry by Space Launch Delta 45 to property…\nThe post Stoke Space evaluating expansion of Cape site for second Nova pad appeared first on NASASpaceFlight.com.",
@@ -79,14 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-06T01:15:08Z",
     "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
-  },
-  {
-    "id": 40757,
-    "title": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
-    "summary": "\"This is going to be a game-changer.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-06T00:17:06Z",
-    "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
   }
 ]

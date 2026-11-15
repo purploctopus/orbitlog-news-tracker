@@ -1,5 +1,14 @@
 [
   {
+    "id": 40788,
+    "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+    "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-09T17:42:42Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+  },
+  {
     "id": 40786,
     "title": "Astronauts Across Generations Share the Stage",
     "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA’s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA’s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency’s […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-09T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/"
-  },
-  {
-    "id": 40777,
-    "title": "Ozone Hole Reaches Its 2026 Maximum",
-    "summary": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-09T05:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
   }
 ]
