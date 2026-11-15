@@ -1,5 +1,14 @@
 [
   {
+    "id": 40848,
+    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+    "summary": "It felt like stepping into the future.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-15T00:40:59Z",
+    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+  },
+  {
     "id": 40847,
     "title": "SpaceX Catches a Starship",
     "summary": "SpaceX’s 15th Starship Integrated Flight Test (IFT-15) returned to Earth today and was “caught” back at the launch tower after orbiting Earth 14 times. It’s a milestone achievement for the […]",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-13T12:25:06Z",
     "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
-  },
-  {
-    "id": 40838,
-    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-    "summary": "\"You can simplify it as a big tank feeding engines.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-13T12:00:40Z",
-    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
   }
 ]

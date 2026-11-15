@@ -1,5 +1,14 @@
 [
   {
+    "id": 40838,
+    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+    "summary": "\"You can simplify it as a big tank feeding engines.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-13T12:00:40Z",
+    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+  },
+  {
     "id": 40837,
     "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
     "summary": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGroup announced that it had completed a series of hot-fire tests of the latest […]\r\nThe post ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-12T20:00:00Z",
     "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
-  },
-  {
-    "id": 40828,
-    "title": "What role does industry play in Europe’s space sovereignty push?",
-    "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […]\nThe post What role does industry play in Europe’s space sovereignty push? appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-KNA-2000-1500.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-12T19:40:35Z",
-    "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
   }
 ]
