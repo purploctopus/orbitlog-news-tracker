@@ -1,5 +1,23 @@
 [
   {
+    "id": 40815,
+    "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+    "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T00:00:18Z",
+    "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+  },
+  {
+    "id": 40814,
+    "title": "NASA takes an all-hands-on-deck approach in its return to the Moon",
+    "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept.webp",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-11T19:00:26Z",
+    "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/"
+  },
+  {
     "id": 40813,
     "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
     "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-10T18:06:33Z",
     "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
-  },
-  {
-    "id": 40804,
-    "title": "One space station company sues another for copying its work",
-    "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-10T16:17:51Z",
-    "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
-  },
-  {
-    "id": 40805,
-    "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-    "summary": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy.  […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-10T16:00:26Z",
-    "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
   }
 ]

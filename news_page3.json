@@ -1,5 +1,23 @@
 [
   {
+    "id": 40835,
+    "title": "A Global Rebound for Mangroves",
+    "summary": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-13T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+  },
+  {
+    "id": 40834,
+    "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+    "summary": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-13T04:55:42Z",
+    "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/"
+  },
+  {
     "id": 40833,
     "title": "Starship Flight 15 to attempt first catch of both stages",
     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history…\r\nThe post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-12T18:28:22Z",
     "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/"
-  },
-  {
-    "id": 40825,
-    "title": "NASA Ames Stars of the Month: November 2026",
-    "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T17:54:32Z",
-    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
-  },
-  {
-    "id": 40824,
-    "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-    "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after…\r\nThe post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_0204-scaled.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-12T17:44:44Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40783,
+    "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+    "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d.png",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-09T15:39:21Z",
+    "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+  },
+  {
+    "id": 40782,
+    "title": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
+    "summary": "The UK Government has secured a stake of more than 25% in SaxaVord Spaceport following the completion of a £60 million public-private investment agreement in late October. According to a filing submitted to Companies House on 6 November, the Department for Science, Innovation and Technology (DSIT) became a “person” with significant control of Shetland Space […]\nThe post UK Government Investment Secures More Than 25% Stake in SaxaVord appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-Government-Investment-Secures-More-Than-25-Percent-Stake-in-SaxaVord.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-09T14:29:42Z",
+    "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
+  },
+  {
     "id": 40781,
     "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
     "summary": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […]\nThe post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-08T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
-  },
-  {
-    "id": 40773,
-    "title": "NASA’s Moon Base plan gains a PROMISE",
-    "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar…\r\nThe post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/00-36-55_promise-lunar-surface-render.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-08T04:43:57Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
-  },
-  {
-    "id": 40772,
-    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-    "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-07T22:47:03Z",
-    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
   }
 ]
