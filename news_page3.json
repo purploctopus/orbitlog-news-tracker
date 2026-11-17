@@ -1,5 +1,23 @@
 [
   {
+    "id": 40848,
+    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+    "summary": "It felt like stepping into the future.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-15T00:40:59Z",
+    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+  },
+  {
+    "id": 40847,
+    "title": "SpaceX Catches a Starship",
+    "summary": "SpaceX’s 15th Starship Integrated Flight Test (IFT-15) returned to Earth today and was “caught” back at the launch tower after orbiting Earth 14 times. It’s a milestone achievement for the […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-14T21:53:18Z",
+    "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/"
+  },
+  {
     "id": 40846,
     "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
     "summary": "Italian rocket manufacturer Avio has revealed that delays in the delivery of customer satellites have pushed the third Vega C launch of 2026 back toward Christmas, several weeks later than previously planned. Speaking during the company’s third-quarter earnings call on 11 November, Avio CEO Giulio Ranzo explained that the mission, which will carry six satellites, […]\r\nThe post Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-13T12:25:06Z",
     "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
-  },
-  {
-    "id": 40838,
-    "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-    "summary": "\"You can simplify it as a big tank feeding engines.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-13T12:00:40Z",
-    "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
-  },
-  {
-    "id": 40837,
-    "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
-    "summary": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGroup announced that it had completed a series of hot-fire tests of the latest […]\r\nThe post ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-13T07:57:07Z",
-    "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/"
   }
 ]

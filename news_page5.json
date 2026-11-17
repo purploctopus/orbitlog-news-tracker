@@ -1,5 +1,23 @@
 [
   {
+    "id": 40828,
+    "title": "What role does industry play in Europe’s space sovereignty push?",
+    "summary": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […]\nThe post What role does industry play in Europe’s space sovereignty push? appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-KNA-2000-1500.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-12T19:40:35Z",
+    "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
+  },
+  {
+    "id": 40827,
+    "title": "Heart in the Sky at NASA Kennedy",
+    "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-12T19:12:49Z",
+    "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
+  },
+  {
     "id": 40826,
     "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
     "summary": "\"We're not doing this thing because we like rockets.\"",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-12T10:36:32Z",
     "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/"
-  },
-  {
-    "id": 40817,
-    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-    "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
-  },
-  {
-    "id": 40818,
-    "title": "Scotland’s Flow Country",
-    "summary": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland%E2%80%99s-flow-country-/scotland_flowcountry_oli2_20240304.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-12T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/"
   }
 ]
