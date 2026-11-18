@@ -1,5 +1,41 @@
 [
   {
+    "id": 40877,
+    "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+    "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a.m. EST, following a […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T19:16:22Z",
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/"
+  },
+  {
+    "id": 40876,
+    "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-17T18:00:51Z",
+    "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+  },
+  {
+    "id": 40875,
+    "title": "Sources: Vulcan launch anomaly investigation is complex",
+    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-17T18:00:51Z",
+    "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+  },
+  {
+    "id": 40874,
+    "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+    "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/msl-raw-images_msss_05073_mcam_5073ML1102670061307127E01_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T17:06:07Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
+  },
+  {
     "id": 40873,
     "title": "How AI is pushing satellites to evolve",
     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]\nThe post How AI is pushing satellites to evolve appeared first on SpaceNews.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/"
-  },
-  {
-    "id": 40868,
-    "title": "Tossing Fireworks from Cloud to Cloud",
-    "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T05:01:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/"
-  },
-  {
-    "id": 40866,
-    "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-    "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a cluster of eerily bright, light-toned rocks in […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T23:12:45Z",
-    "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
-  },
-  {
-    "id": 40865,
-    "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-    "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T22:05:23Z",
-    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
-  },
-  {
-    "id": 40864,
-    "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-    "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see…\r\nThe post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-16T21:57:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"
   }
 ]
