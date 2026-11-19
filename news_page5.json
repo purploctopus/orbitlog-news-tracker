@@ -1,5 +1,68 @@
 [
   {
+    "id": 40874,
+    "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+    "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/msl-raw-images_msss_05073_mcam_5073ML1102670061307127E01_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T17:06:07Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
+  },
+  {
+    "id": 40873,
+    "title": "How AI is pushing satellites to evolve",
+    "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]\nThe post How AI is pushing satellites to evolve appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-17T17:02:33Z",
+    "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/"
+  },
+  {
+    "id": 40872,
+    "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+    "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T17:00:29Z",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
+  },
+  {
+    "id": 40871,
+    "title": "Space Selfie",
+    "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T16:51:14Z",
+    "url": "https://www.nasa.gov/image-article/space-selfie-2/"
+  },
+  {
+    "id": 40870,
+    "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
+    "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s indirectly wholly owned Italian […]\nThe post ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-17T08:08:40Z",
+    "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"
+  },
+  {
+    "id": 40869,
+    "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+    "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […]\nThe post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-17T08:00:00Z",
+    "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/"
+  },
+  {
+    "id": 40867,
+    "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+    "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way […]",
+    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/"
+  },
+  {
     "id": 40868,
     "title": "Tossing Fireworks from Cloud to Cloud",
     "summary": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
@@ -25,68 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-16T22:05:23Z",
     "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
-  },
-  {
-    "id": 40864,
-    "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-    "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see…\r\nThe post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-16T21:57:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"
-  },
-  {
-    "id": 40863,
-    "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-    "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T20:30:40Z",
-    "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/"
-  },
-  {
-    "id": 40862,
-    "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-    "summary": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […]\nThe post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/spacenukes-logo-scaled.png?fit=1024%2C1021&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-16T20:00:00Z",
-    "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/"
-  },
-  {
-    "id": 40860,
-    "title": "When will humans actually fly on Starship?",
-    "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-16T19:46:08Z",
-    "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
-  },
-  {
-    "id": 40861,
-    "title": "Sentinel-6B in Orbit Around Earth",
-    "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T18:52:32Z",
-    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
-  },
-  {
-    "id": 40859,
-    "title": "Thunderbirds in Formation",
-    "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T18:34:47Z",
-    "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
-  },
-  {
-    "id": 40858,
-    "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
-    "summary": "The UK government has defended the resilience of its satellite-based military communications, saying that while it uses SpaceX’s Starshield service, it does not depend on any single commercial provider for critical communications. The assurance comes amid concerns about reliance on SpaceX after it emerged that restrictions had been placed on Ukraine’s access to the company’s […]\nThe post UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-MOD-Defends-Satcom-Resilience-Amid-SpaceX-Starshield-Concerns.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-16T17:50:24Z",
-    "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/"
   }
 ]
