@@ -1,5 +1,23 @@
 [
   {
+    "id": 40881,
+    "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+    "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest…\r\nThe post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-17T22:24:58Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/"
+  },
+  {
+    "id": 40882,
+    "title": "NASA Launches Nuclear Power Systems Student Contest",
+    "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T22:02:48Z",
+    "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+  },
+  {
     "id": 40883,
     "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
     "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T17:06:07Z",
     "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
-  },
-  {
-    "id": 40873,
-    "title": "How AI is pushing satellites to evolve",
-    "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]\nThe post How AI is pushing satellites to evolve appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-17T17:02:33Z",
-    "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/"
-  },
-  {
-    "id": 40872,
-    "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-    "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T17:00:29Z",
-    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
   }
 ]
