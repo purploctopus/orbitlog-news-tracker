@@ -1,5 +1,32 @@
 [
   {
+    "id": 40860,
+    "title": "When will humans actually fly on Starship?",
+    "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-16T19:46:08Z",
+    "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
+  },
+  {
+    "id": 40861,
+    "title": "Sentinel-6B in Orbit Around Earth",
+    "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26803/PIA26803.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-16T18:52:32Z",
+    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
+  },
+  {
+    "id": 40859,
+    "title": "Thunderbirds in Formation",
+    "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-16T18:34:47Z",
+    "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
+  },
+  {
     "id": 40858,
     "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
     "summary": "The UK government has defended the resilience of its satellite-based military communications, saying that while it uses SpaceX’s Starshield service, it does not depend on any single commercial provider for critical communications. The assurance comes amid concerns about reliance on SpaceX after it emerged that restrictions had been placed on Ukraine’s access to the company’s […]\nThe post UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns appeared first on European Spaceflight.",
@@ -61,32 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-15T22:35:19Z",
     "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/"
-  },
-  {
-    "id": 40851,
-    "title": "Starship Returns to its Launch Pad From Orbit",
-    "summary": "Starship has completed its most ambitious test flight yet, with Ship 42 achieving the system’s first ever catch from orbit",
-    "imageUrl": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/11/Remotes_Logo-7-scaled.jpg",
-    "newsSite": "Space Scout",
-    "publishedAt": "2026-11-15T21:27:36Z",
-    "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/"
-  },
-  {
-    "id": 40850,
-    "title": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-    "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-15T19:16:59Z",
-    "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
-  },
-  {
-    "id": 40849,
-    "title": "APOD: 2026 November 15 – Leonid Meteors Through Orion",
-    "summary": "APOD Science APOD APOD: 2026 November 15 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Leonid Meteors […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-15T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/"
   }
 ]

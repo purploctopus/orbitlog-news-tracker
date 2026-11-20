@@ -1,5 +1,32 @@
 [
   {
+    "id": 40892,
+    "title": "Thank You for Doing NASA Science!",
+    "summary": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/QuestScienceCenter_OWWL_CitSci.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T17:32:52Z",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
+  },
+  {
+    "id": 40889,
+    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+    "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-18T16:58:32Z",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+  },
+  {
+    "id": 40890,
+    "title": "Origami and solar arrays",
+    "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.png?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-18T16:56:05Z",
+    "url": "https://spacenews.com/origami-and-solar-arrays/"
+  },
+  {
     "id": 40888,
     "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
     "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T22:02:48Z",
     "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
-  },
-  {
-    "id": 40883,
-    "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-    "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T21:50:34Z",
-    "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
-  },
-  {
-    "id": 40878,
-    "title": "BPS Digital AVATAR Challenge",
-    "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T20:39:38Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
-  },
-  {
-    "id": 40879,
-    "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
-    "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/H-and-S-USSF-table-300x96.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-17T20:34:15Z",
-    "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/"
   }
 ]
