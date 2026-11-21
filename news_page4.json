@@ -1,5 +1,14 @@
 [
   {
+    "id": 40900,
+    "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+    "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26…\r\nThe post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2024/12/voyager-scaled.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-18T21:48:55Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/"
+  },
+  {
     "id": 40899,
     "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
     "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines themselves, as the reason Sunday's launch fell short of orbit with 40 Amazon Leo internet satellites aboard.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-18T17:32:52Z",
     "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
-  },
-  {
-    "id": 40889,
-    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-    "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-18T16:58:32Z",
-    "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
   }
 ]

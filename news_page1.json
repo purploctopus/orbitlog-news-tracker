@@ -1,5 +1,14 @@
 [
   {
+    "id": 40930,
+    "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+    "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 4:16 a.m. PST (7:16 a.m. EST / 1216 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-21T16:50:51Z",
+    "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/"
+  },
+  {
     "id": 40929,
     "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
     "summary": "Danish satellite manufacturer GomSpace has secured an €8 million contract to continue developing two spacecraft for Blue Origin’s lunar resource prospecting mission. In its 19 November announcement confirming the start of phase two of the project’s development, GomSpace did not identify Blue Origin as the customer, referring to it only as a “leading North American […]\nThe post Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-20T07:09:49Z",
     "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/"
-  },
-  {
-    "id": 40920,
-    "title": "APOD: 2026 November 20 – V-G-R",
-    "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-20T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
   }
 ]

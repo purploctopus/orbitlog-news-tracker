@@ -1,5 +1,14 @@
 [
   {
+    "id": 40878,
+    "title": "BPS Digital AVATAR Challenge",
+    "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
+    "imageUrl": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T20:39:38Z",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
+  },
+  {
     "id": 40879,
     "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
     "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T16:51:14Z",
     "url": "https://www.nasa.gov/image-article/space-selfie-2/"
-  },
-  {
-    "id": 40870,
-    "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-    "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s indirectly wholly owned Italian […]\nThe post ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-17T08:08:40Z",
-    "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"
   }
 ]

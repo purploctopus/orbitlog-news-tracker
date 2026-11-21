@@ -1,5 +1,14 @@
 [
   {
+    "id": 40889,
+    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+    "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-18T16:58:32Z",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+  },
+  {
     "id": 40890,
     "title": "Origami and solar arrays",
     "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T21:50:34Z",
     "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
-  },
-  {
-    "id": 40878,
-    "title": "BPS Digital AVATAR Challenge",
-    "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T20:39:38Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
   }
 ]
