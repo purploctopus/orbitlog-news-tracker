@@ -1,5 +1,41 @@
 [
   {
+    "id": 40927,
+    "title": "Curiosity Spots Drifting Twilight Clouds",
+    "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T22:27:05Z",
+    "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
+  },
+  {
+    "id": 40926,
+    "title": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
+    "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-20T22:16:51Z",
+    "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+  },
+  {
+    "id": 40925,
+    "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+    "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T20:46:14Z",
+    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+  },
+  {
+    "id": 40924,
+    "title": "Following Ship 42’s catch, SpaceX looks to the future",
+    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from…\nThe post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-20T19:49:06Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"
+  },
+  {
     "id": 40923,
     "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
     "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
@@ -52,41 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-19T23:51:47Z",
     "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/"
-  },
-  {
-    "id": 40917,
-    "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-    "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…\r\nThe post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-19T22:08:32Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/"
-  },
-  {
-    "id": 40916,
-    "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-    "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-19T19:52:54Z",
-    "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/"
-  },
-  {
-    "id": 40915,
-    "title": "Challenge: Public Input on Life and the World in 2075",
-    "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/07/kerho-concept-v2.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T19:34:20Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
-  },
-  {
-    "id": 40914,
-    "title": "The sweet spot for constellation size",
-    "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […]\nThe post The sweet spot for constellation size appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/jan-smolders-2-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-19T17:25:17Z",
-    "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/"
   }
 ]
