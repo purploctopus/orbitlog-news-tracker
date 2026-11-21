@@ -1,5 +1,23 @@
 [
   {
+    "id": 40899,
+    "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
+    "summary": "United Launch Alliance said Wednesday that a preliminary review of flight data points to an inadequate supply of fuel to the Blue Origin-manufactured engines of its Vulcan rocket, rather than a problem with the engines themselves, as the reason Sunday's launch fell short of orbit with 40 Amazon Leo internet satellites aboard.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261118-Vulcan-Wide.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-18T21:11:37Z",
+    "url": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/"
+  },
+  {
+    "id": 40898,
+    "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+    "summary": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […]\nThe post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/all-points-logistics.png?fit=300%2C300&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-18T20:31:51Z",
+    "url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/"
+  },
+  {
     "id": 40897,
     "title": "Insufficient Fuel Flow May Have Doomed Vulcan",
     "summary": "The United Launch Alliance said today that insufficient fuel flow from the launch vehicle to the BE-4 engines may have led to the failure of Vulcan Leo 1 on Sunday. […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-18T16:58:32Z",
     "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
-  },
-  {
-    "id": 40890,
-    "title": "Origami and solar arrays",
-    "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.png?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-18T16:56:05Z",
-    "url": "https://spacenews.com/origami-and-solar-arrays/"
-  },
-  {
-    "id": 40888,
-    "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-    "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T16:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": 40890,
+    "title": "Origami and solar arrays",
+    "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.png?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-18T16:56:05Z",
+    "url": "https://spacenews.com/origami-and-solar-arrays/"
+  },
+  {
+    "id": 40888,
+    "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+    "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T16:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+  },
+  {
     "id": 40887,
     "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
     "summary": "Japanese satellite manufacturer Mitsubishi Electric has signed a contract with Spanish rocket builder PLD Space to launch a small satellite aboard the company’s second MIURA 5 test flight. PLD Space announced that it had signed the launch contract on 18 November, describing the agreement as “a new stage in the relationship between the two companies.” […]\r\nThe post PLD Space Investor Selects MIURA 5 to Launch Demo Mission appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T20:39:38Z",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
-  },
-  {
-    "id": 40879,
-    "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
-    "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/H-and-S-USSF-table-300x96.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-17T20:34:15Z",
-    "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/"
-  },
-  {
-    "id": 40880,
-    "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-    "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T20:26:17Z",
-    "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
   }
 ]

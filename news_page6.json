@@ -1,5 +1,23 @@
 [
   {
+    "id": 40879,
+    "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
+    "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/H-and-S-USSF-table-300x96.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-17T20:34:15Z",
+    "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/"
+  },
+  {
+    "id": 40880,
+    "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+    "summary": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T20:26:17Z",
+    "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
+  },
+  {
     "id": 40877,
     "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
     "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a.m. EST, following a […]",
@@ -70,23 +88,5 @@
     "newsSite": "European Spaceflight",
     "publishedAt": "2026-11-17T08:08:40Z",
     "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"
-  },
-  {
-    "id": 40869,
-    "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-    "summary": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […]\nThe post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cosmo-bee-scaled.jpg?fit=1024%2C1024&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-17T08:00:00Z",
-    "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/"
-  },
-  {
-    "id": 40867,
-    "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
-    "summary": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way […]",
-    "imageUrl": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/"
   }
 ]
