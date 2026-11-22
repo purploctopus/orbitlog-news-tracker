@@ -1,5 +1,14 @@
 [
   {
+    "id": 40841,
+    "title": "Outbursts from a Massive Star",
+    "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-13T16:39:33Z",
+    "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+  },
+  {
     "id": 40840,
     "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
     "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-13T02:48:46Z",
     "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/"
-  },
-  {
-    "id": 40831,
-    "title": "AST SpaceMobile presses case for developing own launch vehicle",
-    "summary": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-13T01:15:21Z",
-    "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
   }
 ]

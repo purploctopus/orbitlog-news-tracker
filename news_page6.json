@@ -1,5 +1,14 @@
 [
   {
+    "id": 40883,
+    "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+    "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T21:50:34Z",
+    "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
+  },
+  {
     "id": 40878,
     "title": "BPS Digital AVATAR Challenge",
     "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T17:00:29Z",
     "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
-  },
-  {
-    "id": 40871,
-    "title": "Space Selfie",
-    "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T16:51:14Z",
-    "url": "https://www.nasa.gov/image-article/space-selfie-2/"
   }
 ]

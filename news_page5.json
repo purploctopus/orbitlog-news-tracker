@@ -1,5 +1,14 @@
 [
   {
+    "id": 40892,
+    "title": "Thank You for Doing NASA Science!",
+    "summary": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/QuestScienceCenter_OWWL_CitSci.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T17:32:52Z",
+    "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/"
+  },
+  {
     "id": 40889,
     "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
     "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T22:02:48Z",
     "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
-  },
-  {
-    "id": 40883,
-    "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-    "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T21:50:34Z",
-    "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
   }
 ]

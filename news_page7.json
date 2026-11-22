@@ -1,5 +1,14 @@
 [
   {
+    "id": 40871,
+    "title": "Space Selfie",
+    "summary": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T16:51:14Z",
+    "url": "https://www.nasa.gov/image-article/space-selfie-2/"
+  },
+  {
     "id": 40870,
     "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
     "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s indirectly wholly owned Italian […]\nThe post ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-16T20:00:00Z",
     "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/"
-  },
-  {
-    "id": 40860,
-    "title": "When will humans actually fly on Starship?",
-    "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-16T19:46:08Z",
-    "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/"
   }
 ]
