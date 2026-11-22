@@ -1,5 +1,14 @@
 [
   {
+    "id": 40911,
+    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-19T15:33:55Z",
+    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+  },
+  {
     "id": 40912,
     "title": "Lake Pelku",
     "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-18T23:40:38Z",
     "url": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/"
-  },
-  {
-    "id": 40902,
-    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-    "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T22:19:17Z",
-    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
   }
 ]

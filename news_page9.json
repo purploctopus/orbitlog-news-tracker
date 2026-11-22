@@ -1,5 +1,14 @@
 [
   {
+    "id": 40852,
+    "title": "Vulcan’s Return-to-Flight Fails",
+    "summary": "The United Launch Alliance’s eagerly awaited return-to-flight of the Vulcan rocket today did not go as planned. An anomaly 10 minutes after launch meant the 40 Amazon Leo satellites did […]",
+    "imageUrl": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-15T22:35:19Z",
+    "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/"
+  },
+  {
     "id": 40851,
     "title": "Starship Returns to its Launch Pad From Orbit",
     "summary": "Starship has completed its most ambitious test flight yet, with Ship 42 achieving the system’s first ever catch from orbit",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-13T19:15:11Z",
     "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
-  },
-  {
-    "id": 40842,
-    "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
-    "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […]\nThe post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-13T18:00:00Z",
-    "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/"
   }
 ]

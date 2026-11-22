@@ -1,5 +1,14 @@
 [
   {
+    "id": 40902,
+    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+    "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20260411-ph-nrg01-0009large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T22:19:17Z",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+  },
+  {
     "id": 40901,
     "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
     "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […]\nThe post Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers appeared first on SpaceNews.",
@@ -79,14 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-18T17:46:40Z",
     "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/"
-  },
-  {
-    "id": 40891,
-    "title": "What Is the Moon Base?",
-    "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T17:36:03Z",
-    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/"
   }
 ]
