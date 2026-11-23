@@ -1,5 +1,23 @@
 [
   {
+    "id": 40886,
+    "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+    "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/"
+  },
+  {
+    "id": 40885,
+    "title": "Sierra Snow Season Spins Up",
+    "summary": "A widespread, early-season snowstorm blanketed California’s mountains in white in mid-November 2026.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/"
+  },
+  {
     "id": 40884,
     "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
     "summary": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T19:16:22Z",
     "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/"
-  },
-  {
-    "id": 40876,
-    "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-17T18:00:51Z",
-    "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
-  },
-  {
-    "id": 40875,
-    "title": "Sources: Vulcan launch anomaly investigation is complex",
-    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-17T18:00:51Z",
-    "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
   }
 ]
