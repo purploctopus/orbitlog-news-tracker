@@ -1,5 +1,23 @@
 [
   {
+    "id": 40874,
+    "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
+    "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot from those drilled samples, but it’s time to hit the Martian […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/msl-raw-images_msss_05073_mcam_5073ML1102670061307127E01_DXXX.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-17T17:06:07Z",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/"
+  },
+  {
+    "id": 40873,
+    "title": "How AI is pushing satellites to evolve",
+    "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]\nThe post How AI is pushing satellites to evolve appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.jpg?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-17T17:02:33Z",
+    "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/"
+  },
+  {
     "id": 40872,
     "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
     "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-16T22:05:23Z",
     "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
-  },
-  {
-    "id": 40864,
-    "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-    "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see…\r\nThe post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-16T21:57:02Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"
-  },
-  {
-    "id": 40863,
-    "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-    "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T20:30:40Z",
-    "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/"
   }
 ]

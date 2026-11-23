@@ -1,5 +1,23 @@
 [
   {
+    "id": 40864,
+    "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+    "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see…\r\nThe post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_1966.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-16T21:57:02Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/"
+  },
+  {
+    "id": 40863,
+    "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+    "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-16T20:30:40Z",
+    "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/"
+  },
+  {
     "id": 40862,
     "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
     "summary": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […]\nThe post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor appeared first on SpaceNews.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-16T05:05:00Z",
     "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/"
-  },
-  {
-    "id": 40855,
-    "title": "The Last Ice on Puncak Jaya",
-    "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-16T05:00:00Z",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/"
-  },
-  {
-    "id": 40853,
-    "title": "What’s Happening in Space Policy November 15-21, 2026",
-    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 15-21, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT15-catch-2-300x221.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-15T23:13:57Z",
-    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/"
   }
 ]

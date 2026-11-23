@@ -1,5 +1,23 @@
 [
   {
+    "id": 40855,
+    "title": "The Last Ice on Puncak Jaya",
+    "summary": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-16T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/"
+  },
+  {
+    "id": 40853,
+    "title": "What’s Happening in Space Policy November 15-21, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 15-21, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT15-catch-2-300x221.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-15T23:13:57Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026/"
+  },
+  {
     "id": 40852,
     "title": "Vulcan’s Return-to-Flight Fails",
     "summary": "The United Launch Alliance’s eagerly awaited return-to-flight of the Vulcan rocket today did not go as planned. An anomaly 10 minutes after launch meant the 40 Amazon Leo satellites did […]",
@@ -70,23 +88,5 @@
     "newsSite": "Arstechnica",
     "publishedAt": "2026-11-14T00:49:13Z",
     "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
-  },
-  {
-    "id": 40844,
-    "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
-    "summary": "SpaceX launched the 15th Starship Integrated Flight Test (IFT-15) early this evening from Starbase, Texas. Plans to bring the first stage Booster back to the launch tower for a “catch” […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-13T23:54:54Z",
-    "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/"
-  },
-  {
-    "id": 40843,
-    "title": "Live Coverage: Starship Flight 15 attempts to recover full vehicle in double launch pad catch",
-    "summary": "Liftoff of the integrated Starship vehicle from Starbase in Texas is scheduled during a 75-minute launch window that opens at 4:45 p.m. CST (5:45 p.m. EST / 2245 UTC) on Friday, Nov. 13.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Starship-wide.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-13T19:15:11Z",
-    "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
   }
 ]
