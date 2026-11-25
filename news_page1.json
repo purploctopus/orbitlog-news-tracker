@@ -1,5 +1,41 @@
 [
   {
+    "id": 40971,
+    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+    "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-25T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
+  },
+  {
+    "id": 40970,
+    "title": "Georgia’s Pecan Belt",
+    "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/georgia%E2%80%99s-pecan-belt/georgiapecans_oli_20261023.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-25T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/"
+  },
+  {
+    "id": 40969,
+    "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+    "summary": "Ten rockets are set to launch over the next week, with three visiting two different…\nThe post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2025/09/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-25T01:06:02Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/"
+  },
+  {
+    "id": 40968,
+    "title": "First Pakistani Astronaut Enroute to Tiangong",
+    "summary": "China launched a new crew to the Tiangong space station this evening EST. Joining two Chinese taikonauts is Pakistan’s first astronaut, Muhammad Zeeshan Ali. This is the first time China […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/shenzhou-24-liftoff-300x135.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-25T00:58:29Z",
+    "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/"
+  },
+  {
     "id": 40967,
     "title": "White House Requests Billions for NASA, Golden Dome in Next CR",
     "summary": "Last night the White House sent Congress a list of funding it wants included in a new Continuing Resolution (CR) that would keep the government open after the current CR […]",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-24T19:19:52Z",
     "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/"
-  },
-  {
-    "id": 40960,
-    "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-    "summary": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T19:09:16Z",
-    "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
-  },
-  {
-    "id": 40962,
-    "title": "AGU Hyperwall Schedule",
-    "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T18:55:42Z",
-    "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
-  },
-  {
-    "id": 40959,
-    "title": "Webb Reveals New Details in Supernova Remnant",
-    "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T16:51:27Z",
-    "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
-  },
-  {
-    "id": 40957,
-    "title": "Tiangong Space Station to welcome first international visitor",
-    "summary": "China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space…\nThe post Tiangong Space Station to welcome first international visitor appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Chang-Zheng-2FG-Y24-carrying-Shenzhou-24-spacecraft-arrives-at-the-launch-site-on-November-17-CMSA.webp",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-24T16:26:52Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
   }
 ]

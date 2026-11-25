@@ -1,5 +1,41 @@
 [
   {
+    "id": 40951,
+    "title": "Eruption Extends Iwo Jima’s Beach",
+    "summary": "A volcanic eruption just off the southeast shore of the Pacific island has reshaped the coast, but it’s unclear how long the new land will survive.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima%E2%80%99s-beach/iwojima_oli2_20261026.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-24T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/"
+  },
+  {
+    "id": 40950,
+    "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+    "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…\r\nThe post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-23T23:28:00Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
+  },
+  {
+    "id": 40949,
+    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+    "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. PST (10:55 a.m. EST / 1555 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-23T22:21:32Z",
+    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/"
+  },
+  {
+    "id": 40948,
+    "title": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+    "summary": "The Leo Europe 4 mission will the fourth flight of Amazon Leo satellites on an Ariane 6 rocket and the 16th launch for the constellation. Liftoff from Europe’s Spaceport in French Guiana is scheduled during a window that opens at 8:09 a.m. Kourou Time (6:09 a.m. EST / 1109 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261122_LE-04_fairing.jpeg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-23T22:14:49Z",
+    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/"
+  },
+  {
     "id": 40947,
     "title": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
     "summary": "NASA announced the purchase of multiple modes of transportation to the Moon’s surface and cis-lunar space to help establish an understanding of what’s needed to execute on their Moon Base program agenda.",
@@ -52,41 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-23T17:28:37Z",
     "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
-  },
-  {
-    "id": 40942,
-    "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-    "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-23T17:23:50Z",
-    "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
-  },
-  {
-    "id": 40940,
-    "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-    "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-23T16:08:23Z",
-    "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/"
-  },
-  {
-    "id": 40937,
-    "title": "Eutelsat Wins $60 Million US Space Force Contract",
-    "summary": "The US arm of European satellite operator Eutelsat has secured a two-year contract worth more than $60 million to provide satellite communications services to the US armed forces. Announced on 17 November, the contract covers the provision of satellite connectivity through Eutelsat’s OneWeb low Earth orbit constellation, alternative positioning, navigation and timing (PNT) capabilities, and […]\nThe post Eutelsat Wins $60 Million US Space Force Contract appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Eutelsat-Wins-60-Million-Dollar-US-Space-Force-Contract.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-23T15:02:19Z",
-    "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/"
-  },
-  {
-    "id": 40939,
-    "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-    "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-23T15:00:00Z",
-    "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/"
   }
 ]
