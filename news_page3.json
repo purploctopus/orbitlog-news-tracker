@@ -1,5 +1,23 @@
 [
   {
+    "id": 40962,
+    "title": "AGU Hyperwall Schedule",
+    "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-24T18:55:42Z",
+    "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/"
+  },
+  {
+    "id": 40959,
+    "title": "Webb Reveals New Details in Supernova Remnant",
+    "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-24T16:51:27Z",
+    "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+  },
+  {
     "id": 40957,
     "title": "Tiangong Space Station to welcome first international visitor",
     "summary": "China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space…\r\nThe post Tiangong Space Station to welcome first international visitor appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-24T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/"
-  },
-  {
-    "id": 40950,
-    "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-    "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending…\r\nThe post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712.jpg",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-23T23:28:00Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
-  },
-  {
-    "id": 40949,
-    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
-    "summary": "The mission is the third in a series of flights for the U.S. Space Force with a ‘TH’ designation in public filings. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 7:55 a.m. PST (10:55 a.m. EST / 1555 UTC).",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/06/20260618_Falcon-9_NROL-179.jpeg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-23T22:21:32Z",
-    "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3/"
   }
 ]

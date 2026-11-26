@@ -1,5 +1,23 @@
 [
   {
+    "id": 40919,
+    "title": "The Stormy Southwest Pacific",
+    "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/"
+  },
+  {
+    "id": 40918,
+    "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+    "summary": "The mission is the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-19T23:51:47Z",
+    "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/"
+  },
+  {
     "id": 40917,
     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis…\r\nThe post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-19T14:44:39Z",
     "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
-  },
-  {
-    "id": 40909,
-    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
-    "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T14:31:15Z",
-    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
-  },
-  {
-    "id": 40908,
-    "title": "To make Moon landings easier, NASA is making life harder for Orion",
-    "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-19T13:40:02Z",
-    "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/"
   }
 ]

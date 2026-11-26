@@ -1,5 +1,23 @@
 [
   {
+    "id": 40940,
+    "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+    "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest documentary, “The Europa Concept.” The documentary will air on NASA+, the NASA app, and the agency’s website starting Monday, Nov. 23, and […]",
+    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-23T16:08:23Z",
+    "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/"
+  },
+  {
+    "id": 40937,
+    "title": "Eutelsat Wins $60 Million US Space Force Contract",
+    "summary": "The US arm of European satellite operator Eutelsat has secured a two-year contract worth more than $60 million to provide satellite communications services to the US armed forces. Announced on 17 November, the contract covers the provision of satellite connectivity through Eutelsat’s OneWeb low Earth orbit constellation, alternative positioning, navigation and timing (PNT) capabilities, and […]\nThe post Eutelsat Wins $60 Million US Space Force Contract appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Eutelsat-Wins-60-Million-Dollar-US-Space-Force-Contract.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-23T15:02:19Z",
+    "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/"
+  },
+  {
     "id": 40939,
     "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
     "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]",
@@ -70,23 +88,5 @@
     "newsSite": "Spaceflight Now",
     "publishedAt": "2026-11-21T16:50:51Z",
     "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/"
-  },
-  {
-    "id": 40929,
-    "title": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
-    "summary": "Danish satellite manufacturer GomSpace has secured an €8 million contract to continue developing two spacecraft for Blue Origin’s lunar resource prospecting mission. In its 19 November announcement confirming the start of phase two of the project’s development, GomSpace did not identify Blue Origin as the customer, referring to it only as a “leading North American […]\nThe post Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Denmarks-GomSpace-Secures-8-Million-Euro-Contract-for-Blue-Origin-Moon-Mission.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-21T06:00:35Z",
-    "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/"
-  },
-  {
-    "id": 40928,
-    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-    "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Voyager’s Neptune Explanation: […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-21T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
   }
 ]

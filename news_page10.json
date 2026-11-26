@@ -1,5 +1,23 @@
 [
   {
+    "id": 40890,
+    "title": "Origami and solar arrays",
+    "summary": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
+    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.png?fit=1024%2C768&ssl=1",
+    "newsSite": "SpaceNews",
+    "publishedAt": "2026-11-18T16:56:05Z",
+    "url": "https://spacenews.com/origami-and-solar-arrays/"
+  },
+  {
+    "id": 40888,
+    "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+    "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-18T16:00:00Z",
+    "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+  },
+  {
     "id": 40938,
     "title": "Europe goes to Mars in search of life’s big answers",
     "summary": "From the ESA Blogs.",
@@ -70,23 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-17T21:50:34Z",
     "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/"
-  },
-  {
-    "id": 40878,
-    "title": "BPS Digital AVATAR Challenge",
-    "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep […]",
-    "imageUrl": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-17T20:39:38Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/"
-  },
-  {
-    "id": 40879,
-    "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
-    "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/H-and-S-USSF-table-300x96.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-17T20:34:15Z",
-    "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/"
   }
 ]
