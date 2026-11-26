@@ -1,5 +1,14 @@
 [
   {
+    "id": 40923,
+    "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+    "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T16:27:46Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
+  },
+  {
     "id": 40922,
     "title": "NASA’s Curiosity Mars Rover Collects Samples",
     "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-19T17:25:17Z",
     "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/"
-  },
-  {
-    "id": 40913,
-    "title": "Making the case for optical",
-    "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […]\nThe post Making the case for optical appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-morizur-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-19T15:38:18Z",
-    "url": "https://spacenews.com/making-the-case-for-optical/"
   }
 ]

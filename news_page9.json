@@ -1,5 +1,14 @@
 [
   {
+    "id": 40903,
+    "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
+    "summary": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in attendance. Committee rules state that […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/thumann-300x163.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-18T23:40:38Z",
+    "url": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott/"
+  },
+  {
     "id": 40902,
     "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-18T17:50:26Z",
     "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
-  },
-  {
-    "id": 40893,
-    "title": "NASA’s Voyager 1 is one light-day from Earth",
-    "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
-    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261118-Voyager.jpg",
-    "newsSite": "Spaceflight Now",
-    "publishedAt": "2026-11-18T17:46:40Z",
-    "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/"
   }
 ]

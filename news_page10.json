@@ -1,5 +1,14 @@
 [
   {
+    "id": 40893,
+    "title": "NASA’s Voyager 1 is one light-day from Earth",
+    "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261118-Voyager.jpg",
+    "newsSite": "Spaceflight Now",
+    "publishedAt": "2026-11-18T17:46:40Z",
+    "url": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/"
+  },
+  {
     "id": 40891,
     "title": "What Is the Moon Base?",
     "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-18T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/"
-  },
-  {
-    "id": 40884,
-    "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
-    "summary": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-18T03:52:35Z",
-    "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/"
   }
 ]

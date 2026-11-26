@@ -1,5 +1,14 @@
 [
   {
+    "id": 40964,
+    "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+    "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…\r\nThe post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-24T20:38:54Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
+  },
+  {
     "id": 40963,
     "title": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
     "summary": "Arianespace has successfully completed the tenth flight of its Ariane 6 rocket, deploying another 36 Amazon Leo satellites into orbit. The rocket’s sixth and likely final flight of 2026 is currently expected to take place on 17 December. The Ariane 6 rocket lifted off from the Guiana Space Centre at 11:14 UTC on 24 November. […]\r\nThe post Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-24T15:17:50Z",
     "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/"
-  },
-  {
-    "id": 40954,
-    "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-    "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T13:58:28Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
   }
 ]

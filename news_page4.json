@@ -1,5 +1,14 @@
 [
   {
+    "id": 40954,
+    "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+    "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-24T13:58:28Z",
+    "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
+  },
+  {
     "id": 40953,
     "title": "BepiColombo Enters Orbit Around Mercury Despite “Software Glitch”",
     "summary": "The European Space Agency’s BepiColombo mission has successfully entered orbit around Mercury despite a software glitch that resulted in a shorter-than-planned thruster burn. According to the agency’s 23 November update, the BepiColombo spacecraft reoriented itself at 17:51 CET on 21 November, resulting in a planned loss of communications with Earth. At 19:24 CET, the spacecraft […]\r\nThe post BepiColombo Enters Orbit Around Mercury Despite “Software Glitch” appeared first on European Spaceflight.",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-23T21:10:03Z",
     "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
-  },
-  {
-    "id": 40944,
-    "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-    "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k.jpg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-23T20:34:51Z",
-    "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
   }
 ]
