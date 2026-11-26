@@ -1,5 +1,32 @@
 [
   {
+    "id": 40983,
+    "title": "Thales Alenia Space to Establish Dedicated Company for Cargo Return Services",
+    "summary": "Thales Alenia Space is planning to establish a dedicated company to support the development and commercialisation of its proposed space station cargo transportation service. In a joint statement published on 13 November, Italian trade unions FIM, FIOM and UILM detailed the outcome of a meeting with Thales Alenia Space’s executive management team. One of the […]\nThe post Thales Alenia Space to Establish Dedicated Company for Cargo Return Services appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-26T13:13:32Z",
+    "url": "https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/"
+  },
+  {
+    "id": 40981,
+    "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+    "summary": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-26T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/"
+  },
+  {
+    "id": 40982,
+    "title": "Seeking Refuge on Resolution Island",
+    "summary": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-26T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/"
+  },
+  {
     "id": 40980,
     "title": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
     "summary": "The authorization granted by the Federal Communications Commission requires SpaceX to deploy the first of these satellites by Nov. 25, 2033. The full constellation is required to be operational no later than Nov. 25, 2040.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-25T16:47:29Z",
     "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
-  },
-  {
-    "id": 40973,
-    "title": "Eye of the Sahara",
-    "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-25T16:21:04Z",
-    "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/"
-  },
-  {
-    "id": 40972,
-    "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-    "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-25T14:56:54Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/"
-  },
-  {
-    "id": 40971,
-    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-    "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "imageUrl": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-25T05:05:00Z",
-    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/"
   }
 ]

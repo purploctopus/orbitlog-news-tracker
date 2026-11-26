@@ -1,5 +1,32 @@
 [
   {
+    "id": 40922,
+    "title": "NASA’s Curiosity Mars Rover Collects Samples",
+    "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T15:53:24Z",
+    "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+  },
+  {
+    "id": 40921,
+    "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
+    "summary": "A parliamentary question from Greenlandic politician Pele Broberg has suggested that Danish soldiers are bringing privately owned Starlink terminals into Greenland despite restrictions. Broberg raised the allegations on 23 October, explaining that he had received information from multiple sources claiming that Danish soldiers were bringing their own Starlink terminals from Denmark and using them to […]\nThe post Danish Soldiers Are Sneaking Starlink Terminals into Greenland appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Danish-Soldiers-Are-Sneaking-Starlink-Terminals-into-Greenland.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-20T07:09:49Z",
+    "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/"
+  },
+  {
+    "id": 40920,
+    "title": "APOD: 2026 November 20 – V-G-R",
+    "summary": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
+  },
+  {
     "id": 40919,
     "title": "The Stormy Southwest Pacific",
     "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
@@ -61,32 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-19T15:38:18Z",
     "url": "https://spacenews.com/making-the-case-for-optical/"
-  },
-  {
-    "id": 40911,
-    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T15:33:55Z",
-    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
-  },
-  {
-    "id": 40912,
-    "title": "Lake Pelku",
-    "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T15:32:39Z",
-    "url": "https://www.nasa.gov/image-article/lake-pelku/"
-  },
-  {
-    "id": 40910,
-    "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
-    "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T14:44:39Z",
-    "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
   }
 ]
