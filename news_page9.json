@@ -1,5 +1,32 @@
 [
   {
+    "id": 40906,
+    "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+    "summary": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated The […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-19T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/"
+  },
+  {
+    "id": 40905,
+    "title": "El Niño Rains Paint the Atacama",
+    "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-19T05:00:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+  },
+  {
+    "id": 40904,
+    "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+    "summary": "NASA’s Voyager 1 spacecraft achieved another milestone this morning. Launched in 1977, it became the first human object to pass into interstellar space in August 2012 and is so far […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-19T03:05:00Z",
+    "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/"
+  },
+  {
     "id": 40903,
     "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
     "summary": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in attendance. Committee rules state that […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-18T19:27:13Z",
     "url": "https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan/"
-  },
-  {
-    "id": 40896,
-    "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-    "summary": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.  However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T18:58:27Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/"
-  },
-  {
-    "id": 40895,
-    "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-    "summary": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T18:12:32Z",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
-  },
-  {
-    "id": 40894,
-    "title": "Empire State Building Goes Gold for Voyager",
-    "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T17:50:26Z",
-    "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
   }
 ]

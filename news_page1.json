@@ -1,5 +1,32 @@
 [
   {
+    "id": 40986,
+    "title": "APOD: 2026 November 27 – The Moon Watchers",
+    "summary": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-27T05:05:00Z",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/"
+  },
+  {
+    "id": 40987,
+    "title": "Shivelyuch Socked In",
+    "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-27T05:01:00Z",
+    "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/"
+  },
+  {
+    "id": 40985,
+    "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+    "summary": "The Federal Communications Commission has authorized SpaceX to deploy a constellation of up to 1…\nThe post FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040 appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-26-22-31-56-812.jpg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-26T22:40:55Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"
+  },
+  {
     "id": 40984,
     "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
     "summary": "In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United […]\nThe post The ‘bare-knuckled’ future of life in space with Tim Marshall appeared first on SpaceNews.",
@@ -61,32 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-25T19:06:56Z",
     "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
-  },
-  {
-    "id": 40977,
-    "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
-    "summary": "ArianeGroup subsidiary MaiaSpace has shipped full-scale mechanical models of the first and second stages of its Maia rocket to French Guiana. The stages will be used for a series of combined tests at the Guiana Space Centre in the first half of 2027. MaiaSpace announced on 25 November that the two stages left the company’s […]\nThe post MaiaSpace Ships Maia Mechanical Models to Launch Site appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-25T18:51:13Z",
-    "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/"
-  },
-  {
-    "id": 40975,
-    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-    "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind.jpeg",
-    "newsSite": "Arstechnica",
-    "publishedAt": "2026-11-25T18:22:38Z",
-    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-  },
-  {
-    "id": 40976,
-    "title": "NASA Eyes Crop Candidates for Future Menus",
-    "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, […]",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-25T17:53:42Z",
-    "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": 40977,
+    "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
+    "summary": "ArianeGroup subsidiary MaiaSpace has shipped full-scale mechanical models of the first and second stages of its Maia rocket to French Guiana. The stages will be used for a series of combined tests at the Guiana Space Centre in the first half of 2027. MaiaSpace announced on 25 November that the two stages left the company’s […]\nThe post MaiaSpace Ships Maia Mechanical Models to Launch Site appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-25T18:51:13Z",
+    "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/"
+  },
+  {
+    "id": 40975,
+    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind.jpeg",
+    "newsSite": "Arstechnica",
+    "publishedAt": "2026-11-25T18:22:38Z",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+  },
+  {
+    "id": 40976,
+    "title": "NASA Eyes Crop Candidates for Future Menus",
+    "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.    Recent testing points to strawberries, […]",
+    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-25T17:53:42Z",
+    "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+  },
+  {
     "id": 40974,
     "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
     "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]",
@@ -61,32 +88,5 @@
     "newsSite": "SpacePolicyOnline.com",
     "publishedAt": "2026-11-25T00:58:29Z",
     "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/"
-  },
-  {
-    "id": 40967,
-    "title": "White House Requests Billions for NASA, Golden Dome in Next CR",
-    "summary": "Last night the White House sent Congress a list of funding it wants included in a new Continuing Resolution (CR) that would keep the government open after the current CR […]",
-    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Moon-Base-Phase-1-NASA-300x169.jpg",
-    "newsSite": "SpacePolicyOnline.com",
-    "publishedAt": "2026-11-24T21:16:54Z",
-    "url": "https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr/"
-  },
-  {
-    "id": 40966,
-    "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-    "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T21:14:36Z",
-    "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
-  },
-  {
-    "id": 40965,
-    "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-    "summary": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T21:04:32Z",
-    "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
   }
 ]
