@@ -1,5 +1,14 @@
 [
   {
+    "id": 40945,
+    "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+    "summary": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-23T21:10:03Z",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/"
+  },
+  {
     "id": 40944,
     "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
     "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-23T05:01:00Z",
     "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/"
-  },
-  {
-    "id": 40934,
-    "title": "China details its path to a crewed Moon landing before 2030",
-    "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon…\r\nThe post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com.",
-    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV.png",
-    "newsSite": "NASASpaceflight",
-    "publishedAt": "2026-11-22T22:31:24Z",
-    "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": 40904,
+    "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+    "summary": "NASA’s Voyager 1 spacecraft achieved another milestone this morning. Launched in 1977, it became the first human object to pass into interstellar space in August 2012 and is so far […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/pale-blue-dot-300x161.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-19T03:05:00Z",
+    "url": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth/"
+  },
+  {
     "id": 40903,
     "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
     "summary": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in attendance. Committee rules state that […]",
@@ -79,14 +88,5 @@
     "newsSite": "NASA",
     "publishedAt": "2026-11-18T18:12:32Z",
     "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
-  },
-  {
-    "id": 40894,
-    "title": "Empire State Building Goes Gold for Voyager",
-    "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-18T17:50:26Z",
-    "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/"
   }
 ]
