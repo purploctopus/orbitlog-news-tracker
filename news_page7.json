@@ -1,5 +1,23 @@
 [
   {
+    "id": 40933,
+    "title": "What’s Happening in Space Policy November 22-29, 2026",
+    "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 22-29, 2026 and any insight we can offer about them. The House and Senate […]",
+    "imageUrl": "https://spacepolicyonline.com/wp-content/uploads/2026/11/ESA-BepiColombo-300x169.jpg",
+    "newsSite": "SpacePolicyOnline.com",
+    "publishedAt": "2026-11-22T21:50:55Z",
+    "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/"
+  },
+  {
+    "id": 40932,
+    "title": "65 Years of Human Spaceflight at NASA Johnson",
+    "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-22T19:13:25Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+  },
+  {
     "id": 40931,
     "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
     "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]",
@@ -70,23 +88,5 @@
     "newsSite": "NASASpaceflight",
     "publishedAt": "2026-11-20T19:49:06Z",
     "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"
-  },
-  {
-    "id": 40923,
-    "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-    "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-20T16:27:46Z",
-    "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
-  },
-  {
-    "id": 40922,
-    "title": "NASA’s Curiosity Mars Rover Collects Samples",
-    "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
-    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-20T15:53:24Z",
-    "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
   }
 ]

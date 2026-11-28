@@ -1,5 +1,23 @@
 [
   {
+    "id": 40923,
+    "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+    "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T16:27:46Z",
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/"
+  },
+  {
+    "id": 40922,
+    "title": "NASA’s Curiosity Mars Rover Collects Samples",
+    "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+    "newsSite": "NASA",
+    "publishedAt": "2026-11-20T15:53:24Z",
+    "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+  },
+  {
     "id": 40921,
     "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
     "summary": "A parliamentary question from Greenlandic politician Pele Broberg has suggested that Danish soldiers are bringing privately owned Starlink terminals into Greenland despite restrictions. Broberg raised the allegations on 23 October, explaining that he had received information from multiple sources claiming that Danish soldiers were bringing their own Starlink terminals from Denmark and using them to […]\nThe post Danish Soldiers Are Sneaking Starlink Terminals into Greenland appeared first on European Spaceflight.",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-19T17:25:17Z",
     "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/"
-  },
-  {
-    "id": 40913,
-    "title": "Making the case for optical",
-    "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […]\nThe post Making the case for optical appeared first on SpaceNews.",
-    "imageUrl": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-morizur-scaled.jpg?fit=1024%2C768&ssl=1",
-    "newsSite": "SpaceNews",
-    "publishedAt": "2026-11-19T15:38:18Z",
-    "url": "https://spacenews.com/making-the-case-for-optical/"
-  },
-  {
-    "id": 40911,
-    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-19T15:33:55Z",
-    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
   }
 ]

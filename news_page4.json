@@ -1,5 +1,23 @@
 [
   {
+    "id": 40964,
+    "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+    "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese…\r\nThe post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com.",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-scaled.jpeg",
+    "newsSite": "NASASpaceflight",
+    "publishedAt": "2026-11-24T20:38:54Z",
+    "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
+  },
+  {
+    "id": 40963,
+    "title": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
+    "summary": "Arianespace has successfully completed the tenth flight of its Ariane 6 rocket, deploying another 36 Amazon Leo satellites into orbit. The rocket’s sixth and likely final flight of 2026 is currently expected to take place on 17 December. The Ariane 6 rocket lifted off from the Guiana Space Centre at 11:14 UTC on 24 November. […]\r\nThe post Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December appeared first on European Spaceflight.",
+    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Arianespace-Completes-10th-Ariane-6-Flight-With-Next-Expected-on-17-December.webp",
+    "newsSite": "European Spaceflight",
+    "publishedAt": "2026-11-24T19:55:08Z",
+    "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/"
+  },
+  {
     "id": 40961,
     "title": "Amateur Astronomer? Be a Kilonova Catcher!",
     "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory […]",
@@ -70,23 +88,5 @@
     "newsSite": "SpaceNews",
     "publishedAt": "2026-11-24T15:17:50Z",
     "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/"
-  },
-  {
-    "id": 40954,
-    "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
-    "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
-    "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg",
-    "newsSite": "NASA",
-    "publishedAt": "2026-11-24T13:58:28Z",
-    "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
-  },
-  {
-    "id": 40953,
-    "title": "BepiColombo Enters Orbit Around Mercury Despite “Software Glitch”",
-    "summary": "The European Space Agency’s BepiColombo mission has successfully entered orbit around Mercury despite a software glitch that resulted in a shorter-than-planned thruster burn. According to the agency’s 23 November update, the BepiColombo spacecraft reoriented itself at 17:51 CET on 21 November, resulting in a planned loss of communications with Earth. At 19:24 CET, the spacecraft […]\r\nThe post BepiColombo Enters Orbit Around Mercury Despite “Software Glitch” appeared first on European Spaceflight.",
-    "imageUrl": "https://europeanspaceflight.com/wp-content/uploads/2026/11/BepiColombo-Enters-Orbit-Around-Mercury-Despite-Software-Glitch.webp",
-    "newsSite": "European Spaceflight",
-    "publishedAt": "2026-11-24T08:50:01Z",
-    "url": "https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/"
   }
 ]
